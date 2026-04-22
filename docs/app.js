@@ -1,6 +1,6 @@
 const CHART_COLORS = [
-  '#58a6ff', '#f0883e', '#d2a8ff', '#3fb950',
-  '#ffa657', '#79c0ff', '#ffd700', '#f85149',
+  '#f59e0b', '#8b5cf6', '#10b981', '#fbbf24',
+  '#a78bfa', '#34d399', '#f97316', '#60a5fa',
 ];
 
 function escHtml(str) {
