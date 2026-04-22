@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Finance Hot Topics</title>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <div>
+        <h1>Finance Hot Topics</h1>
+        <p class="subtitle">Daily trending signals from news &amp; discussion</p>
+      </div>
+      <div class="meta" id="meta">Loading...</div>
+    </div>
+  </header>
+
+  <main>
+    <section id="topics-section">
+      <h2>Today's Hot Topics</h2>
+      <div id="topics-grid" class="topics-grid">
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+        <div class="skeleton-card"></div>
+      </div>
+    </section>
+
+    <section id="trend-section">
+      <h2>30-Day Topic Trends</h2>
+      <div class="chart-container">
+        <canvas id="trend-chart"></canvas>
+      </div>
+    </section>
+
+    <section id="crypto-section">
+      <h2>Trending Crypto <span class="source-tag">via CoinGecko</span></h2>
+      <div id="crypto-grid" class="crypto-grid"></div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Updated daily via GitHub Actions &middot; Sources: Reuters, CoinDesk, CoinTelegraph, MarketWatch, Yahoo Finance, Investing.com, Reddit</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
