@@ -54,12 +54,12 @@ function renderTopics(topics) {
 
   const maxCount = topics[0].count || 1;
 
-  grid.innerHTML = topics.slice(0, 18).map(topic => {
+  grid.innerHTML = topics.slice(0, 18).map((topic, i) => {
     const pct = Math.round((topic.count / maxCount) * 100);
     const articles = (topic.articles || []).slice(0, 3);
 
     return `
-      <div class="topic-card">
+      <div class="topic-card" style="animation-delay:${i * 60}ms">
         <div class="topic-header">
           <span class="topic-name">${escHtml(topic.name)}</span>
           ${topic.is_new ? '<span class="badge-new">New</span>' : ''}

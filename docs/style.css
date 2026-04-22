@@ -7,9 +7,16 @@
   --text-muted: #8b949e;
   --accent: #58a6ff;
   --new: #3fb950;
+  --shadow-border: 0 0 0 1px rgba(255, 255, 255, 0.08);
+  --shadow-border-hover: 0 0 0 1px rgba(255, 255, 255, 0.18), 0 2px 8px rgba(0, 0, 0, 0.3);
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
+
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 
 body {
   background: var(--bg);
@@ -42,12 +49,14 @@ h1 {
   font-size: 1.35rem;
   font-weight: 700;
   letter-spacing: -0.01em;
+  text-wrap: balance;
 }
 
 .subtitle {
   color: var(--text-muted);
   font-size: 0.8rem;
   margin-top: 2px;
+  text-wrap: pretty;
 }
 
 .meta {
@@ -79,6 +88,7 @@ h2 {
   display: flex;
   align-items: center;
   gap: 0.5rem;
+  text-wrap: balance;
 }
 
 /* Topic cards */
@@ -90,16 +100,20 @@ h2 {
 
 .topic-card {
   background: var(--surface);
-  border: 1px solid var(--border);
+  box-shadow: var(--shadow-border);
   border-radius: 10px;
   padding: 1.125rem 1.25rem;
   display: flex;
   flex-direction: column;
   gap: 0.7rem;
-  transition: border-color 0.15s;
+  opacity: 0;
+  animation: fadeInUp 400ms ease-out forwards;
+  transition-property: box-shadow;
+  transition-duration: 150ms;
+  transition-timing-function: ease-out;
 }
 
-.topic-card:hover { border-color: var(--accent); }
+.topic-card:hover { box-shadow: var(--shadow-border-hover); }
 
 .topic-header {
   display: flex;
@@ -130,6 +144,7 @@ h2 {
 .topic-count {
   font-size: 0.78rem;
   color: var(--text-muted);
+  font-variant-numeric: tabular-nums;
 }
 
 .mention-bar {
@@ -179,6 +194,7 @@ h2 {
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
+  text-wrap: pretty;
 }
 
 .article-link:hover { text-decoration: underline; }
@@ -191,7 +207,7 @@ h2 {
 /* Skeleton loading */
 .skeleton-card {
   background: var(--surface);
-  border: 1px solid var(--border);
+  box-shadow: var(--shadow-border);
   border-radius: 10px;
   height: 210px;
   animation: pulse 1.6s ease-in-out infinite;
@@ -202,10 +218,18 @@ h2 {
   50% { opacity: 0.45; }
 }
 
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+    filter: blur(0);
+  }
+}
+
 /* Trend chart */
 .chart-container {
   background: var(--surface);
-  border: 1px solid var(--border);
+  box-shadow: var(--shadow-border);
   border-radius: 10px;
   padding: 1.5rem;
   height: 300px;
@@ -220,22 +244,29 @@ h2 {
 
 .crypto-card {
   background: var(--surface);
-  border: 1px solid var(--border);
+  box-shadow: var(--shadow-border);
   border-radius: 10px;
   padding: 0.75rem 1rem;
   display: flex;
   align-items: center;
   gap: 0.6rem;
   min-width: 145px;
-  transition: border-color 0.15s;
+  transition-property: box-shadow, scale;
+  transition-duration: 150ms;
+  transition-timing-function: ease-out;
+  cursor: default;
 }
 
-.crypto-card:hover { border-color: var(--accent); }
+.crypto-card:hover { box-shadow: var(--shadow-border-hover); }
+
+.crypto-card:active { scale: 0.96; }
 
 .crypto-thumb {
   width: 26px;
   height: 26px;
   border-radius: 50%;
+  outline: 1px solid rgba(255, 255, 255, 0.1);
+  outline-offset: -1px;
 }
 
 .crypto-name {
