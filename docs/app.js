@@ -1,6 +1,6 @@
 const CHART_COLORS = [
-  '#22c55e', '#f59e0b', '#8b5cf6', '#4ade80',
-  '#fbbf24', '#a78bfa', '#34d399', '#fcd34d',
+  '#22c55e', '#4ade80', '#86efac', '#16a34a',
+  '#bbf7d0', '#15803d', '#dcfce7', '#166534',
 ];
 
 function escHtml(str) {
@@ -90,22 +90,24 @@ function renderTopics(topics) {
 }
 
 function renderCrypto(coins) {
-  const grid = document.getElementById('crypto-grid');
+  const track = document.getElementById('ticker-track');
+  const wrapper = document.getElementById('ticker-wrapper');
   if (!coins.length) {
-    grid.innerHTML = '<p class="empty-state">No trending crypto data available.</p>';
+    wrapper.style.display = 'none';
     return;
   }
-  grid.innerHTML = coins.map(coin => `
-    <div class="crypto-card">
-      ${coin.thumb
-        ? `<img class="crypto-thumb" src="${escHtml(coin.thumb)}" alt="${escHtml(coin.symbol)}" />`
-        : ''}
-      <div>
-        <div class="crypto-name">${escHtml(coin.name)}</div>
-        <div class="crypto-symbol">${escHtml(coin.symbol)}</div>
-      </div>
+
+  const coinHtml = (coin) => `
+    <div class="ticker-coin">
+      ${coin.thumb ? `<img class="ticker-coin-img" src="${escHtml(coin.thumb)}" alt="" />` : ''}
+      <span class="ticker-coin-symbol">${escHtml(coin.symbol)}</span>
+      <span class="ticker-coin-name">${escHtml(coin.name)}</span>
     </div>
-  `).join('');
+    <span class="ticker-divider">·</span>
+  `;
+
+  // Duplicate for seamless loop
+  track.innerHTML = coins.map(coinHtml).join('') + coins.map(coinHtml).join('');
 }
 
 function renderTrendChart(snapshots) {

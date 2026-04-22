@@ -6,7 +6,7 @@
   <title>Finance Hot Topics</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700;900&family=JetBrains+Mono:wght@400;500&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@600;700&family=JetBrains+Mono:wght@400;500&family=IBM+Plex+Sans:wght@300;400;500;600&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="style.css" />
   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
 </head>
@@ -20,6 +20,13 @@
       <div class="meta" id="meta">Loading...</div>
     </div>
   </header>
+
+  <div class="ticker-wrapper" id="ticker-wrapper">
+    <span class="ticker-label">TRENDING CRYPTO</span>
+    <div class="ticker-overflow">
+      <div class="ticker-track" id="ticker-track"></div>
+    </div>
+  </div>
 
   <main>
     <section id="topics-section">
@@ -39,11 +46,6 @@
       <div class="chart-container">
         <canvas id="trend-chart"></canvas>
       </div>
-    </section>
-
-    <section id="crypto-section">
-      <h2>Trending Crypto <span class="source-tag">via CoinGecko</span></h2>
-      <div id="crypto-grid" class="crypto-grid"></div>
     </section>
   </main>
 
