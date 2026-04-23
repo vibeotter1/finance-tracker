@@ -53,6 +53,7 @@ async function init() {
 
   renderTopics(latest.topics || [], latest.date, true);
   renderCrypto(latest.crypto_trending || []);
+  renderStocks(latest.stock_trending || []);
   renderTrendChart(activeDays);
   renderArchive(snapshots, latest.date);
   initChartTabs();
@@ -113,12 +114,9 @@ function renderTopics(topics, date, isLatest = false) {
 }
 
 function renderCrypto(coins) {
-  const track = document.getElementById('ticker-track');
-  const wrapper = document.getElementById('ticker-wrapper');
-  if (!coins.length) {
-    wrapper.style.display = 'none';
-    return;
-  }
+  const track = document.getElementById('crypto-track');
+  const row = document.getElementById('crypto-row');
+  if (!coins.length) { row.style.display = 'none'; return; }
 
   const coinHtml = (coin) => `
     <div class="ticker-coin">
@@ -130,6 +128,28 @@ function renderCrypto(coins) {
   `;
 
   track.innerHTML = coins.map(coinHtml).join('') + coins.map(coinHtml).join('');
+}
+
+function renderStocks(stocks) {
+  const track = document.getElementById('stocks-track');
+  const row = document.getElementById('stocks-row');
+  if (!stocks.length) { row.style.display = 'none'; return; }
+
+  const stockHtml = (s) => {
+    const pct = s.change_pct;
+    const cls = pct > 0.1 ? 'up' : pct < -0.1 ? 'down' : 'flat';
+    const sign = pct > 0 ? '+' : '';
+    return `
+      <div class="ticker-stock">
+        <span class="ticker-stock-symbol">${escHtml(s.symbol)}</span>
+        ${s.name ? `<span class="ticker-stock-name">${escHtml(s.name)}</span>` : ''}
+        <span class="ticker-stock-change ${cls}">${sign}${pct.toFixed(2)}%</span>
+      </div>
+      <span class="ticker-divider">·</span>
+    `;
+  };
+
+  track.innerHTML = stocks.map(stockHtml).join('') + stocks.map(stockHtml).join('');
 }
 
 function renderTrendChart(days) {

@@ -84,6 +84,40 @@ def fetch_crypto_trending():
         return []
 
 
+def fetch_stock_trending():
+    try:
+        trending_url = "https://query1.finance.yahoo.com/v1/finance/trending/US?count=10"
+        r = requests.get(trending_url, headers=HEADERS, timeout=10)
+        r.raise_for_status()
+        result = r.json().get("finance", {}).get("result", [])
+        if not result:
+            return []
+        symbols = [q["symbol"] for q in result[0].get("quotes", [])[:10]]
+        if not symbols:
+            return []
+
+        quote_url = (
+            "https://query1.finance.yahoo.com/v7/finance/quote"
+            f"?symbols={','.join(symbols)}"
+            "&fields=shortName,regularMarketPrice,regularMarketChangePercent"
+        )
+        r2 = requests.get(quote_url, headers=HEADERS, timeout=10)
+        r2.raise_for_status()
+        quotes = r2.json().get("quoteResponse", {}).get("result", [])
+        return [
+            {
+                "symbol": q.get("symbol", ""),
+                "name": q.get("shortName", ""),
+                "price": round(q.get("regularMarketPrice", 0), 2),
+                "change_pct": round(q.get("regularMarketChangePercent", 0), 2),
+            }
+            for q in quotes if q.get("symbol")
+        ]
+    except Exception as e:
+        print(f"  Yahoo Finance trending stocks: {e}")
+        return []
+
+
 def extract_topics(items, nlp):
     entity_items = defaultdict(list)
 
@@ -150,6 +184,7 @@ def main():
     rss_items = fetch_rss()
     reddit_items = fetch_reddit()
     crypto = fetch_crypto_trending()
+    stocks = fetch_stock_trending()
     all_items = rss_items + reddit_items
 
     print(f"  {len(rss_items)} RSS + {len(reddit_items)} Reddit = {len(all_items)} total")
@@ -163,6 +198,7 @@ def main():
         "date": today,
         "topics": topics,
         "crypto_trending": crypto,
+        "stock_trending": stocks,
         "total_articles": len(all_items),
     }
 
