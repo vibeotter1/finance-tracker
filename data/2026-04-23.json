@@ -27,31 +27,6 @@
       "is_new": false
     },
     {
-      "name": "Iran",
-      "count": 3,
-      "sources": [
-        "Investing.com"
-      ],
-      "articles": [
-        {
-          "title": "Wall St futures slip as investors pause for clarity on US-Iran war; earnings mixed",
-          "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-slip-as-investors-pause-for-clarity-on-usiran-war-4631491",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Iran war impact seeps ever deeper into global economy",
-          "url": "https://www.investing.com/news/economy-news/iran-war-impact-seeps-ever-deeper-into-global-economy-4632043",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Dollar gains as angst over Iran-US stand-off drives safe-haven demand",
-          "url": "https://www.investing.com/news/economy-news/dollar-holds-near-112week-high-as-iranus-standoff-persists-4631129",
-          "source": "Investing.com"
-        }
-      ],
-      "is_new": true
-    },
-    {
       "name": "Coinbase",
       "count": 2,
       "sources": [
@@ -70,48 +45,6 @@
         }
       ],
       "is_new": false
-    },
-    {
-      "name": "American Airlines",
-      "count": 2,
-      "sources": [
-        "Investing.com",
-        "MarketWatch"
-      ],
-      "articles": [
-        {
-          "title": "American Airlines reports record revenue as strong travel demand offsets higher fuel costs",
-          "url": "https://www.marketwatch.com/story/american-airlines-reports-record-revenue-as-strong-travel-demand-offsets-higher-fuel-costs-d0b89973?mod=mw_rss_topstories",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "American Airlines posts narrower-than-expected Q1 loss",
-          "url": "https://www.investing.com/news/earnings/american-airlines-posts-narrowerthanexpected-q1-loss-4632040",
-          "source": "Investing.com"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "IPO",
-      "count": 2,
-      "sources": [
-        "Investing.com",
-        "Yahoo Finance"
-      ],
-      "articles": [
-        {
-          "title": "Analysis-Biggest IPO wave in history promises $3 trillion in value \u2013 with no profits",
-          "url": "https://www.investing.com/news/stock-market-news/analysisbiggest-ipo-wave-in-history-promises-3-trillion-in-value--with-no-profits-4632046",
-          "source": "Investing.com"
-        },
-        {
-          "title": "This week at SpaceX: AI bets, losses and push for control as mega IPO looms",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/week-spacex-ai-bets-losses-015918190.html",
-          "source": "Yahoo Finance"
-        }
-      ],
-      "is_new": true
     }
   ],
   "crypto_trending": [
@@ -176,6 +109,67 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/70468/standard/Canton-Ticker_%281%29.png?1762826299"
     }
   ],
-  "stock_trending": [],
+  "stock_trending": [
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 387.51,
+      "change_pct": 0.28
+    },
+    {
+      "symbol": "LMT",
+      "name": "Lockheed Martin Corporation",
+      "price": 555.43,
+      "change_pct": -2.89
+    },
+    {
+      "symbol": "QS",
+      "name": "QuantumScape Corporation",
+      "price": 7.31,
+      "change_pct": 4.73
+    },
+    {
+      "symbol": "NOW",
+      "name": "ServiceNow, Inc.",
+      "price": 103.07,
+      "change_pct": 2.93
+    },
+    {
+      "symbol": "TSM",
+      "name": "Taiwan Semiconductor Manufacturing Company Limited",
+      "price": 387.44,
+      "change_pct": 5.26
+    },
+    {
+      "symbol": "NOK",
+      "name": "Nokia Oyj",
+      "price": 9.86,
+      "change_pct": -5.19
+    },
+    {
+      "symbol": "HON",
+      "name": "Honeywell International Inc.",
+      "price": 219.97,
+      "change_pct": -1.01
+    },
+    {
+      "symbol": "ASML",
+      "name": "ASML Holding N.V.",
+      "price": 1443.66,
+      "change_pct": -1.05
+    },
+    {
+      "symbol": "NFLX",
+      "name": "Netflix, Inc.",
+      "price": 93.24,
+      "change_pct": 0.71
+    },
+    {
+      "symbol": "IBM",
+      "name": "International Business Machines Corporation",
+      "price": 251.86,
+      "change_pct": -1.49
+    }
+  ],
   "total_articles": 60
 }
