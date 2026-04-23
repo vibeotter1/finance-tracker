@@ -1,7 +1,11 @@
 const CHART_COLORS = [
-  '#22c55e', '#4ade80', '#86efac', '#16a34a',
-  '#bbf7d0', '#15803d', '#dcfce7', '#166534',
+  '#3fb950', '#7ee787', '#56d364', '#2ea043',
+  '#26a641', '#1a7f37', '#0d6124', '#e6edf3',
 ];
+
+let allSnapshots = [];
+let trendChartInstance = null;
+let activeDays = 7;
 
 function escHtml(str) {
   if (!str) return '';
@@ -11,6 +15,13 @@ function escHtml(str) {
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#39;');
+}
+
+function formatDate(dateStr) {
+  const [y, m, d] = dateStr.split('-');
+  return new Date(y, m - 1, d).toLocaleDateString('en-US', {
+    month: 'short', day: 'numeric', year: 'numeric',
+  });
 }
 
 async function init() {
@@ -28,15 +39,22 @@ async function init() {
     return;
   }
 
+  allSnapshots = snapshots;
   const latest = snapshots[snapshots.length - 1];
 
+  // Date tag
+  document.getElementById('date-tag').textContent = formatDate(latest.date);
+
+  // Meta
   document.getElementById('meta').innerHTML =
     `Last updated: <strong>${escHtml(latest.date)}</strong><br>` +
-    `${latest.total_articles} items processed &middot; ${latest.topics.length} topics found`;
+    `${latest.total_articles} items &middot; ${latest.topics.length} topics`;
 
-  renderTopics(latest.topics || []);
+  renderTopics(latest.topics || [], latest.date, true);
   renderCrypto(latest.crypto_trending || []);
-  renderTrendChart(snapshots);
+  renderTrendChart(activeDays);
+  renderArchive(snapshots, latest.date);
+  initChartTabs();
 }
 
 function showEmpty(msg) {
@@ -45,10 +63,15 @@ function showEmpty(msg) {
     `<p class="empty-state">${escHtml(msg)}</p>`;
 }
 
-function renderTopics(topics) {
+function renderTopics(topics, date, isLatest = false) {
+  const heading = document.getElementById('topics-heading');
+  heading.textContent = isLatest
+    ? "Today's Hot Topics"
+    : `Topics — ${formatDate(date)}`;
+
   const grid = document.getElementById('topics-grid');
   if (!topics.length) {
-    grid.innerHTML = '<p class="empty-state">No topics found for today.</p>';
+    grid.innerHTML = '<p class="empty-state">No topics for this date.</p>';
     return;
   }
 
@@ -106,19 +129,20 @@ function renderCrypto(coins) {
     <span class="ticker-divider">·</span>
   `;
 
-  // Duplicate for seamless loop
   track.innerHTML = coins.map(coinHtml).join('') + coins.map(coinHtml).join('');
 }
 
-function renderTrendChart(snapshots) {
-  const last30 = snapshots.slice(-30);
-  if (last30.length < 2) return;
+function renderTrendChart(days) {
+  const window = allSnapshots.slice(-days);
+  if (window.length < 2) return;
 
-  const labels = last30.map(s => s.date);
+  const labels = window.map(s => {
+    const [, m, d] = s.date.split('-');
+    return `${m}/${d}`;
+  });
 
-  // Aggregate total mentions per topic across the window
   const totals = {};
-  for (const snap of last30) {
+  for (const snap of window) {
     for (const t of (snap.topics || [])) {
       totals[t.name] = (totals[t.name] || 0) + t.count;
     }
@@ -131,7 +155,7 @@ function renderTrendChart(snapshots) {
 
   const datasets = topTopics.map((name, i) => ({
     label: name,
-    data: last30.map(snap => {
+    data: window.map(snap => {
       const found = (snap.topics || []).find(t => t.name === name);
       return found ? found.count : 0;
     }),
@@ -142,8 +166,13 @@ function renderTrendChart(snapshots) {
     borderWidth: 2,
   }));
 
+  if (trendChartInstance) {
+    trendChartInstance.destroy();
+    trendChartInstance = null;
+  }
+
   const ctx = document.getElementById('trend-chart').getContext('2d');
-  new Chart(ctx, {
+  trendChartInstance = new Chart(ctx, {
     type: 'line',
     data: { labels, datasets },
     options: {
@@ -154,31 +183,98 @@ function renderTrendChart(snapshots) {
         legend: {
           labels: {
             color: '#8b949e',
-            boxWidth: 12,
-            font: { size: 11 },
-            padding: 16,
+            boxWidth: 10,
+            font: { family: 'IBM Plex Mono', size: 10 },
+            padding: 14,
           },
         },
         tooltip: {
           backgroundColor: '#161b22',
-          borderColor: '#30363d',
+          borderColor: 'rgba(139,148,158,0.15)',
           borderWidth: 1,
           titleColor: '#e6edf3',
           bodyColor: '#8b949e',
+          titleFont: { family: 'IBM Plex Mono', size: 11 },
+          bodyFont: { family: 'IBM Plex Mono', size: 10 },
         },
       },
       scales: {
         x: {
-          ticks: { color: '#8b949e', font: { size: 10 }, maxTicksLimit: 10 },
-          grid: { color: '#21262d' },
+          ticks: { color: '#8b949e', font: { family: 'IBM Plex Mono', size: 9 }, maxTicksLimit: days === 7 ? 7 : 10 },
+          grid: { color: 'rgba(139,148,158,0.08)' },
         },
         y: {
-          ticks: { color: '#8b949e', font: { size: 10 } },
-          grid: { color: '#21262d' },
+          ticks: { color: '#8b949e', font: { family: 'IBM Plex Mono', size: 9 } },
+          grid: { color: 'rgba(139,148,158,0.08)' },
           beginAtZero: true,
         },
       },
     },
+  });
+}
+
+function initChartTabs() {
+  document.querySelectorAll('.chart-tab').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.chart-tab').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeDays = parseInt(btn.dataset.days);
+      renderTrendChart(activeDays);
+    });
+  });
+}
+
+function renderArchive(snapshots, latestDate) {
+  const nav = document.getElementById('archive-nav');
+
+  // Group by year → month
+  const byYear = {};
+  for (const snap of [...snapshots].reverse()) {
+    const [year, month] = snap.date.split('-');
+    if (!byYear[year]) byYear[year] = {};
+    if (!byYear[year][month]) byYear[year][month] = [];
+    byYear[year][month].push(snap.date);
+  }
+
+  nav.innerHTML = Object.entries(byYear).map(([year, months]) => `
+    <div class="archive-year">
+      <span class="archive-year-label">${year}</span>
+      ${Object.entries(months).map(([month, dates]) => {
+        const monthName = new Date(year, month - 1).toLocaleDateString('en-US', { month: 'short' });
+        return `
+          <div class="archive-month">
+            <span class="archive-month-label">${monthName}</span>
+            <div class="archive-dates">
+              ${dates.map(date => {
+                const day = parseInt(date.split('-')[2]);
+                const isToday = date === latestDate;
+                return `<button class="archive-date-btn ${isToday ? 'today' : ''}"
+                  data-date="${date}">${day}</button>`;
+              }).join('')}
+            </div>
+          </div>
+        `;
+      }).join('')}
+    </div>
+  `).join('');
+
+  nav.addEventListener('click', e => {
+    const btn = e.target.closest('.archive-date-btn');
+    if (!btn) return;
+    const date = btn.dataset.date;
+    const snap = allSnapshots.find(s => s.date === date);
+    if (!snap) return;
+
+    document.querySelectorAll('.archive-date-btn').forEach(b => {
+      b.classList.remove('active');
+      if (b.dataset.date === latestDate) b.classList.add('today');
+    });
+    btn.classList.remove('today');
+    btn.classList.add('active');
+
+    const isLatest = date === latestDate;
+    renderTopics(snap.topics || [], date, isLatest);
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 }
 
