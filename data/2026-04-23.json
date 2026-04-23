@@ -2,37 +2,17 @@
   "date": "2026-04-23",
   "topics": [
     {
-      "name": "Coinbase",
+      "name": "Bitcoin",
       "count": 3,
       "sources": [
         "CoinDesk"
       ],
       "articles": [
         {
-          "title": "Coinbase backer Blockchain Capital hunts $700 million for new funds",
-          "url": "https://www.coindesk.com/business/2026/04/23/blockchain-capital-is-seeking-usd700-million-for-new-funds",
+          "title": "Bitcoin's bullish momentum runs into Pentagon-backed inflation warning",
+          "url": "https://www.coindesk.com/daybook-us/2026/04/23/bitcoin-s-bullish-momentum-runs-into-pentagon-backed-inflation-warning",
           "source": "CoinDesk"
         },
-        {
-          "title": "OpenAI appears to be poaching Coinbase\u2019s marketing team",
-          "url": "https://www.coindesk.com/business/2026/04/23/openai-appears-to-be-poaching-coinbase-s-marketing-team",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Bitcoin tops $79,000 as crypto rally gathers steam; Circle, Coinbase, Strategy lead",
-          "url": "https://www.coindesk.com/markets/2026/04/22/bitcoin-tops-usd79-000-as-crypto-rally-gathers-steam-circle-coinbase-strategy-lead",
-          "source": "CoinDesk"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "Bitcoin",
-      "count": 2,
-      "sources": [
-        "CoinDesk"
-      ],
-      "articles": [
         {
           "title": "Bitcoin slips from near $80,000 as oil price increase weighs on risk assets",
           "url": "https://www.coindesk.com/markets/2026/04/23/bitcoin-slips-from-near-usd80-000-as-oil-price-increase-weighs-on-risk-assets",
@@ -47,20 +27,87 @@
       "is_new": false
     },
     {
-      "name": "Warren Buffett",
+      "name": "Iran",
+      "count": 3,
+      "sources": [
+        "Investing.com"
+      ],
+      "articles": [
+        {
+          "title": "Wall St futures slip as investors pause for clarity on US-Iran war; earnings mixed",
+          "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-slip-as-investors-pause-for-clarity-on-usiran-war-4631491",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Iran war impact seeps ever deeper into global economy",
+          "url": "https://www.investing.com/news/economy-news/iran-war-impact-seeps-ever-deeper-into-global-economy-4632043",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Dollar gains as angst over Iran-US stand-off drives safe-haven demand",
+          "url": "https://www.investing.com/news/economy-news/dollar-holds-near-112week-high-as-iranus-standoff-persists-4631129",
+          "source": "Investing.com"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Coinbase",
       "count": 2,
       "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Coinbase backer Blockchain Capital hunts $700 million for new funds",
+          "url": "https://www.coindesk.com/business/2026/04/23/blockchain-capital-is-seeking-usd700-million-for-new-funds",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "OpenAI appears to be poaching Coinbase\u2019s marketing team",
+          "url": "https://www.coindesk.com/business/2026/04/23/openai-appears-to-be-poaching-coinbase-s-marketing-team",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "American Airlines",
+      "count": 2,
+      "sources": [
+        "Investing.com",
+        "MarketWatch"
+      ],
+      "articles": [
+        {
+          "title": "American Airlines reports record revenue as strong travel demand offsets higher fuel costs",
+          "url": "https://www.marketwatch.com/story/american-airlines-reports-record-revenue-as-strong-travel-demand-offsets-higher-fuel-costs-d0b89973?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "American Airlines posts narrower-than-expected Q1 loss",
+          "url": "https://www.investing.com/news/earnings/american-airlines-posts-narrowerthanexpected-q1-loss-4632040",
+          "source": "Investing.com"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "IPO",
+      "count": 2,
+      "sources": [
+        "Investing.com",
         "Yahoo Finance"
       ],
       "articles": [
         {
-          "title": "Warren Buffett dumped 77% of Amazon to buy surging media stock",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-dumped-77-amazon-003700673.html",
-          "source": "Yahoo Finance"
+          "title": "Analysis-Biggest IPO wave in history promises $3 trillion in value \u2013 with no profits",
+          "url": "https://www.investing.com/news/stock-market-news/analysisbiggest-ipo-wave-in-history-promises-3-trillion-in-value--with-no-profits-4632046",
+          "source": "Investing.com"
         },
         {
-          "title": "2 Warren Buffett Dividend Stocks to Scoop Up in April",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/2-warren-buffett-dividend-stocks-233002650.html",
+          "title": "This week at SpaceX: AI bets, losses and push for control as mega IPO looms",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/week-spacex-ai-bets-losses-015918190.html",
           "source": "Yahoo Finance"
         }
       ],
@@ -71,20 +118,14 @@
     {
       "name": "Spark",
       "symbol": "SPK",
-      "market_cap_rank": 201,
+      "market_cap_rank": 208,
       "thumb": "https://coin-images.coingecko.com/coins/images/38637/standard/Spark-Logomark-RGB.png?1744878896"
     },
     {
       "name": "CHIP",
       "symbol": "CHIP",
-      "market_cap_rank": 173,
+      "market_cap_rank": 174,
       "thumb": "https://coin-images.coingecko.com/coins/images/102171777/standard/CHIP_Token_Logo_Large.png?1776777444"
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "market_cap_rank": 1,
-      "thumb": "https://coin-images.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400"
     },
     {
       "name": "Pudgy Penguins",
@@ -93,22 +134,22 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
     },
     {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "market_cap_rank": 1,
+      "thumb": "https://coin-images.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400"
+    },
+    {
       "name": "RaveDAO",
       "symbol": "RAVE",
-      "market_cap_rank": 141,
+      "market_cap_rank": 150,
       "thumb": "https://coin-images.coingecko.com/coins/images/70544/standard/coin.jpeg?1762452940"
     },
     {
       "name": "Asteroid Shiba",
       "symbol": "ASTEROID",
-      "market_cap_rank": 225,
+      "market_cap_rank": 222,
       "thumb": "https://coin-images.coingecko.com/coins/images/50333/standard/IMG_0728.jpeg?1727384521"
-    },
-    {
-      "name": "Core",
-      "symbol": "CORE",
-      "market_cap_rank": 464,
-      "thumb": "https://coin-images.coingecko.com/coins/images/28938/standard/file_589.jpg?1701868471"
     },
     {
       "name": "Aave",
@@ -117,16 +158,22 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/12645/standard/aave-token-round.png?1720472354"
     },
     {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "market_cap_rank": 13,
-      "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
+      "name": "OpenGradient",
+      "symbol": "OPG",
+      "market_cap_rank": 381,
+      "thumb": "https://coin-images.coingecko.com/coins/images/102172863/standard/coingecko_logo.png?1776349115"
     },
     {
-      "name": "Sui",
-      "symbol": "SUI",
-      "market_cap_rank": 29,
-      "thumb": "https://coin-images.coingecko.com/coins/images/26375/standard/sui-ocean-square.png?1727791290"
+      "name": "Core",
+      "symbol": "CORE",
+      "market_cap_rank": 459,
+      "thumb": "https://coin-images.coingecko.com/coins/images/28938/standard/file_589.jpg?1701868471"
+    },
+    {
+      "name": "Canton",
+      "symbol": "CC",
+      "market_cap_rank": 21,
+      "thumb": "https://coin-images.coingecko.com/coins/images/70468/standard/Canton-Ticker_%281%29.png?1762826299"
     }
   ],
   "stock_trending": [],
