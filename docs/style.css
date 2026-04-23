@@ -104,10 +104,90 @@ h2 {
   text-wrap: balance;
 }
 
-/* Topic cards */
+/* Topic layout wrapper */
 .topics-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+/* Top 2 featured cards */
+.topics-featured {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+  grid-template-columns: repeat(2, 1fr);
+  gap: 8px;
+}
+
+/* Compact list for topics 3–10 */
+.topics-list {
+  background: var(--surface);
+  box-shadow: var(--shadow-border);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.topic-row {
+  opacity: 0;
+  animation: fadeInUp 400ms ease-out forwards;
+  border-bottom: 1px solid var(--border);
+}
+
+.topic-row:last-child { border-bottom: none; }
+
+.topic-row-btn {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 20px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  text-align: left;
+  transition: background 120ms ease-out;
+}
+
+.topic-row-btn:hover { background: var(--surface-alt); }
+
+.topic-row-toggle {
+  font-size: 0.6rem;
+  color: var(--accent);
+  flex-shrink: 0;
+  width: 10px;
+  transition: color 120ms;
+}
+
+.topic-row-name {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--accent);
+  flex: 1;
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.topic-row-count {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.68rem;
+  color: var(--text-muted);
+  white-space: nowrap;
+  flex-shrink: 0;
+  font-variant-numeric: tabular-nums;
+}
+
+.topic-row-sources {
+  display: flex;
+  gap: 4px;
+  flex-shrink: 0;
+}
+
+.topic-row-body {
+  padding: 0 20px 14px 40px;
+  display: flex;
+  flex-direction: column;
   gap: 8px;
 }
 
@@ -589,4 +669,6 @@ footer {
   .header-inner { flex-direction: column; align-items: flex-start; gap: 0.5rem; }
   .meta { text-align: left; }
   main { padding: 1rem 1rem 3rem; }
+  .topics-featured { grid-template-columns: 1fr; }
+  .topic-row-sources { display: none; }
 }

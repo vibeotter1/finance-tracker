@@ -78,10 +78,9 @@ function renderTopics(topics, date, isLatest = false) {
 
   const maxCount = topics[0].count || 1;
 
-  grid.innerHTML = topics.slice(0, 18).map((topic, i) => {
+  const cardHtml = (topic, i) => {
     const pct = Math.round((topic.count / maxCount) * 100);
     const articles = (topic.articles || []).slice(0, 3);
-
     return `
       <div class="topic-card" style="animation-delay:${i * 60}ms">
         <div class="topic-header">
@@ -99,10 +98,7 @@ function renderTopics(topics, date, isLatest = false) {
           <div class="articles">
             ${articles.map(a => `
               <div class="article-item">
-                <a class="article-link"
-                   href="${escHtml(a.url)}"
-                   target="_blank"
-                   rel="noopener noreferrer">${escHtml(a.title)}</a>
+                <a class="article-link" href="${escHtml(a.url)}" target="_blank" rel="noopener noreferrer">${escHtml(a.title)}</a>
                 <span class="article-source">${escHtml(a.source)}</span>
               </div>
             `).join('')}
@@ -110,7 +106,55 @@ function renderTopics(topics, date, isLatest = false) {
         ` : ''}
       </div>
     `;
-  }).join('');
+  };
+
+  const rowHtml = (topic, i) => {
+    const articles = (topic.articles || []).slice(0, 3);
+    return `
+      <div class="topic-row" style="animation-delay:${(i + 2) * 60}ms">
+        <button class="topic-row-btn" aria-expanded="false">
+          <span class="topic-row-toggle">▸</span>
+          <span class="topic-row-name">${escHtml(topic.name)}</span>
+          ${topic.is_new ? '<span class="badge-new">New</span>' : ''}
+          <span class="topic-row-count">${topic.count} mention${topic.count !== 1 ? 's' : ''}</span>
+          <div class="topic-row-sources">
+            ${(topic.sources || []).map(s => `<span class="source-tag">${escHtml(s)}</span>`).join('')}
+          </div>
+        </button>
+        ${articles.length ? `
+          <div class="topic-row-body" hidden>
+            ${articles.map(a => `
+              <div class="article-item">
+                <a class="article-link" href="${escHtml(a.url)}" target="_blank" rel="noopener noreferrer">${escHtml(a.title)}</a>
+                <span class="article-source">${escHtml(a.source)}</span>
+              </div>
+            `).join('')}
+          </div>
+        ` : ''}
+      </div>
+    `;
+  };
+
+  const featured = topics.slice(0, 2);
+  const rest = topics.slice(2, 10);
+
+  grid.innerHTML = `
+    <div class="topics-featured">
+      ${featured.map((t, i) => cardHtml(t, i)).join('')}
+    </div>
+    ${rest.length ? `<div class="topics-list">${rest.map((t, i) => rowHtml(t, i)).join('')}</div>` : ''}
+  `;
+
+  grid.querySelectorAll('.topic-row-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      const row = btn.closest('.topic-row');
+      const body = row.querySelector('.topic-row-body');
+      const expanded = btn.getAttribute('aria-expanded') === 'true';
+      btn.setAttribute('aria-expanded', String(!expanded));
+      btn.querySelector('.topic-row-toggle').textContent = expanded ? '▸' : '▾';
+      if (body) body.hidden = expanded;
+    });
+  });
 }
 
 function syncTickerSpeed(trackEl, pxPerSec) {
