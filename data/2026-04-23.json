@@ -1,0 +1,134 @@
+{
+  "date": "2026-04-23",
+  "topics": [
+    {
+      "name": "Coinbase",
+      "count": 3,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Coinbase backer Blockchain Capital hunts $700 million for new funds",
+          "url": "https://www.coindesk.com/business/2026/04/23/blockchain-capital-is-seeking-usd700-million-for-new-funds",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "OpenAI appears to be poaching Coinbase\u2019s marketing team",
+          "url": "https://www.coindesk.com/business/2026/04/23/openai-appears-to-be-poaching-coinbase-s-marketing-team",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin tops $79,000 as crypto rally gathers steam; Circle, Coinbase, Strategy lead",
+          "url": "https://www.coindesk.com/markets/2026/04/22/bitcoin-tops-usd79-000-as-crypto-rally-gathers-steam-circle-coinbase-strategy-lead",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Bitcoin",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin slips from near $80,000 as oil price increase weighs on risk assets",
+          "url": "https://www.coindesk.com/markets/2026/04/23/bitcoin-slips-from-near-usd80-000-as-oil-price-increase-weighs-on-risk-assets",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin's bull score index just left bear territory. There's a warning attached.",
+          "url": "https://www.coindesk.com/markets/2026/04/23/bitcoin-s-bull-score-index-just-left-bear-territory-there-s-a-warning-attached",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Warren Buffett",
+      "count": 2,
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Warren Buffett dumped 77% of Amazon to buy surging media stock",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/warren-buffett-dumped-77-amazon-003700673.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "2 Warren Buffett Dividend Stocks to Scoop Up in April",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/2-warren-buffett-dividend-stocks-233002650.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "is_new": true
+    }
+  ],
+  "crypto_trending": [
+    {
+      "name": "Spark",
+      "symbol": "SPK",
+      "market_cap_rank": 201,
+      "thumb": "https://coin-images.coingecko.com/coins/images/38637/standard/Spark-Logomark-RGB.png?1744878896"
+    },
+    {
+      "name": "CHIP",
+      "symbol": "CHIP",
+      "market_cap_rank": 173,
+      "thumb": "https://coin-images.coingecko.com/coins/images/102171777/standard/CHIP_Token_Logo_Large.png?1776777444"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "market_cap_rank": 1,
+      "thumb": "https://coin-images.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400"
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "market_cap_rank": 100,
+      "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+    },
+    {
+      "name": "RaveDAO",
+      "symbol": "RAVE",
+      "market_cap_rank": 141,
+      "thumb": "https://coin-images.coingecko.com/coins/images/70544/standard/coin.jpeg?1762452940"
+    },
+    {
+      "name": "Asteroid Shiba",
+      "symbol": "ASTEROID",
+      "market_cap_rank": 225,
+      "thumb": "https://coin-images.coingecko.com/coins/images/50333/standard/IMG_0728.jpeg?1727384521"
+    },
+    {
+      "name": "Core",
+      "symbol": "CORE",
+      "market_cap_rank": 464,
+      "thumb": "https://coin-images.coingecko.com/coins/images/28938/standard/file_589.jpg?1701868471"
+    },
+    {
+      "name": "Aave",
+      "symbol": "AAVE",
+      "market_cap_rank": 55,
+      "thumb": "https://coin-images.coingecko.com/coins/images/12645/standard/aave-token-round.png?1720472354"
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "market_cap_rank": 13,
+      "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "market_cap_rank": 29,
+      "thumb": "https://coin-images.coingecko.com/coins/images/26375/standard/sui-ocean-square.png?1727791290"
+    }
+  ],
+  "stock_trending": [],
+  "total_articles": 60
+}
