@@ -84,38 +84,54 @@ def fetch_crypto_trending():
         return []
 
 
-def fetch_stock_trending():
+def fetch_stock_quote(symbol, browser_headers):
     try:
-        trending_url = "https://query1.finance.yahoo.com/v1/finance/trending/US?count=10"
-        r = requests.get(trending_url, headers=HEADERS, timeout=10)
+        url = f"https://query2.finance.yahoo.com/v8/finance/chart/{symbol}?interval=1d&range=1d"
+        r = requests.get(url, headers=browser_headers, timeout=8)
+        r.raise_for_status()
+        result = r.json().get("chart", {}).get("result", [])
+        if not result:
+            return None
+        meta = result[0]["meta"]
+        price = meta.get("regularMarketPrice", 0)
+        prev = meta.get("previousClose") or meta.get("chartPreviousClose") or price
+        change_pct = ((price - prev) / prev * 100) if prev else 0
+        name = meta.get("longName") or meta.get("shortName") or symbol
+        return {
+            "symbol": symbol,
+            "name": name,
+            "price": round(price, 2),
+            "change_pct": round(change_pct, 2),
+        }
+    except Exception:
+        return None
+
+
+def fetch_stock_trending():
+    browser_headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+    }
+    try:
+        r = requests.get(
+            "https://query1.finance.yahoo.com/v1/finance/trending/US?count=10",
+            headers=HEADERS, timeout=10,
+        )
         r.raise_for_status()
         result = r.json().get("finance", {}).get("result", [])
         if not result:
             return []
         symbols = [q["symbol"] for q in result[0].get("quotes", [])[:10]]
-        if not symbols:
-            return []
-
-        quote_url = (
-            "https://query1.finance.yahoo.com/v7/finance/quote"
-            f"?symbols={','.join(symbols)}"
-            "&fields=shortName,regularMarketPrice,regularMarketChangePercent"
-        )
-        r2 = requests.get(quote_url, headers=HEADERS, timeout=10)
-        r2.raise_for_status()
-        quotes = r2.json().get("quoteResponse", {}).get("result", [])
-        return [
-            {
-                "symbol": q.get("symbol", ""),
-                "name": q.get("shortName", ""),
-                "price": round(q.get("regularMarketPrice", 0), 2),
-                "change_pct": round(q.get("regularMarketChangePercent", 0), 2),
-            }
-            for q in quotes if q.get("symbol")
-        ]
     except Exception as e:
-        print(f"  Yahoo Finance trending stocks: {e}")
+        print(f"  Yahoo Finance trending symbols: {e}")
         return []
+
+    stocks = []
+    for symbol in symbols:
+        quote = fetch_stock_quote(symbol, browser_headers)
+        if quote:
+            stocks.append(quote)
+    print(f"  Fetched {len(stocks)}/{len(symbols)} stock quotes")
+    return stocks
 
 
 def extract_topics(items, nlp):

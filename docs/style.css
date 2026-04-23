@@ -425,6 +425,22 @@ h2 {
 .ticker-stock-change.down { color: #f85149; }
 .ticker-stock-change.flat { color: var(--text-muted); }
 
+/* History aside (sits between ticker and main) */
+#archive-section {
+  border-bottom: 1px solid var(--border);
+  background: var(--surface);
+}
+
+.archive-inner {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px 2rem;
+}
+
+.archive-inner h2 {
+  margin-bottom: 12px;
+}
+
 /* Archive / History */
 .archive-nav {
   display: flex;
