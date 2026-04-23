@@ -425,13 +425,11 @@ h2 {
 .ticker-stock-change.down { color: #f85149; }
 .ticker-stock-change.flat { color: var(--text-muted); }
 
-/* History bar (sits between ticker and main) */
+/* History button (sits between ticker and main) */
 .history-bar {
-  border-bottom: 1px solid var(--border);
-  background: var(--surface);
   display: flex;
   justify-content: flex-end;
-  padding: 7px 2rem;
+  padding: 8px 2rem;
 }
 
 .history-dropdown {

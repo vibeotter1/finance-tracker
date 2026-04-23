@@ -135,7 +135,7 @@ function renderCrypto(coins) {
   `;
 
   track.innerHTML = coins.map(coinHtml).join('') + coins.map(coinHtml).join('');
-  syncTickerSpeed(track, 80);
+  syncTickerSpeed(track, 67);
 }
 
 function renderStocks(stocks) {
@@ -158,7 +158,7 @@ function renderStocks(stocks) {
   };
 
   track.innerHTML = stocks.map(stockHtml).join('') + stocks.map(stockHtml).join('');
-  syncTickerSpeed(track, 80);
+  syncTickerSpeed(track, 67);
 }
 
 function renderTrendChart(days) {
@@ -260,7 +260,7 @@ function renderArchive(snapshots, latestDate) {
   const panel = document.getElementById('history-panel');
 
   const byYear = {};
-  for (const snap of [...snapshots].reverse()) {
+  for (const snap of snapshots) {
     const [year, month] = snap.date.split('-');
     if (!byYear[year]) byYear[year] = {};
     if (!byYear[year][month]) byYear[year][month] = [];
