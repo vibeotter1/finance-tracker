@@ -45,10 +45,11 @@ async function init() {
   // Date tag
   document.getElementById('date-tag').textContent = formatDate(latest.date);
 
-  // Meta
-  document.getElementById('meta').innerHTML =
-    `Last updated: <strong>${escHtml(latest.date)}</strong><br>` +
-    `${latest.total_articles} items &middot; ${latest.topics.length} topics`;
+  // Last updated in footer
+  const footerEl = document.querySelector('footer p');
+  if (footerEl) {
+    footerEl.innerHTML += ` &middot; Last updated: ${escHtml(latest.date)}`;
+  }
 
   renderTopics(latest.topics || [], latest.date, true);
   renderCrypto(latest.crypto_trending || []);
@@ -58,7 +59,6 @@ async function init() {
 }
 
 function showEmpty(msg) {
-  document.getElementById('meta').textContent = msg;
   document.getElementById('topics-grid').innerHTML =
     `<p class="empty-state">${escHtml(msg)}</p>`;
 }
