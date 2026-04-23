@@ -113,6 +113,13 @@ function renderTopics(topics, date, isLatest = false) {
   }).join('');
 }
 
+function syncTickerSpeed(trackEl, pxPerSec) {
+  requestAnimationFrame(() => {
+    const w = trackEl.scrollWidth / 2;
+    if (w > 0) trackEl.style.setProperty('--ticker-dur', `${(w / pxPerSec).toFixed(1)}s`);
+  });
+}
+
 function renderCrypto(coins) {
   const track = document.getElementById('crypto-track');
   const row = document.getElementById('crypto-row');
@@ -128,6 +135,7 @@ function renderCrypto(coins) {
   `;
 
   track.innerHTML = coins.map(coinHtml).join('') + coins.map(coinHtml).join('');
+  syncTickerSpeed(track, 80);
 }
 
 function renderStocks(stocks) {
@@ -150,6 +158,7 @@ function renderStocks(stocks) {
   };
 
   track.innerHTML = stocks.map(stockHtml).join('') + stocks.map(stockHtml).join('');
+  syncTickerSpeed(track, 80);
 }
 
 function renderTrendChart(days) {
@@ -246,8 +255,10 @@ function initChartTabs() {
 
 function renderArchive(snapshots, latestDate) {
   const nav = document.getElementById('archive-nav');
+  const dropdown = document.getElementById('history-dropdown');
+  const btn = document.getElementById('history-btn');
+  const panel = document.getElementById('history-panel');
 
-  // Group by year → month
   const byYear = {};
   for (const snap of [...snapshots].reverse()) {
     const [year, month] = snap.date.split('-');
@@ -278,10 +289,19 @@ function renderArchive(snapshots, latestDate) {
     </div>
   `).join('');
 
+  btn.addEventListener('click', e => {
+    e.stopPropagation();
+    dropdown.classList.toggle('open');
+  });
+
+  document.addEventListener('click', e => {
+    if (!dropdown.contains(e.target)) dropdown.classList.remove('open');
+  });
+
   nav.addEventListener('click', e => {
-    const btn = e.target.closest('.archive-date-btn');
-    if (!btn) return;
-    const date = btn.dataset.date;
+    const dateBtn = e.target.closest('.archive-date-btn');
+    if (!dateBtn) return;
+    const date = dateBtn.dataset.date;
     const snap = allSnapshots.find(s => s.date === date);
     if (!snap) return;
 
@@ -289,9 +309,10 @@ function renderArchive(snapshots, latestDate) {
       b.classList.remove('active');
       if (b.dataset.date === latestDate) b.classList.add('today');
     });
-    btn.classList.remove('today');
-    btn.classList.add('active');
+    dateBtn.classList.remove('today');
+    dateBtn.classList.add('active');
 
+    dropdown.classList.remove('open');
     const isLatest = date === latestDate;
     renderTopics(snap.topics || [], date, isLatest);
     window.scrollTo({ top: 0, behavior: 'smooth' });
