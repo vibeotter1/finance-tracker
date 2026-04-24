@@ -106,44 +106,42 @@ function renderTopics(topics, date, isLatest = false) {
     `;
   };
 
-  const sidebarItemHtml = (topic, i) => {
-    const articles = (topic.articles || []).slice(0, 3);
+  const moreItemHtml = (topic, i) => {
+    const headlines = (topic.articles || []).slice(0, 2);
     return `
-      <div class="sidebar-topic" style="animation-delay:${(i + 3) * 50}ms">
-        <div class="sidebar-topic-header">
-          <span class="sidebar-rank">#${i + 4}</span>
-          <span class="sidebar-topic-name">${escHtml(topic.name)}</span>
-          ${topic.is_new ? '<span class="badge-new">New</span>' : ''}
-          <span class="sidebar-topic-count">${topic.count} mention${topic.count !== 1 ? 's' : ''}</span>
-        </div>
-        ${articles.length ? `
-          <div class="sidebar-headlines">
-            ${articles.map(a => `
-              <a class="sidebar-headline" href="${escHtml(a.url)}" target="_blank" rel="noopener noreferrer">
-                <span class="sidebar-headline-title">${escHtml(a.title)}</span>
-                <span class="sidebar-headline-source">${escHtml(a.source)}</span>
-              </a>
-            `).join('')}
+      <div class="more-topic" style="animation-delay:${(i + 3) * 45}ms">
+        <span class="more-rank">#${i + 4}</span>
+        <div class="more-body">
+          <div class="more-header">
+            <span class="more-name">${escHtml(topic.name)}</span>
+            ${topic.is_new ? '<span class="badge-new">New</span>' : ''}
+            <span class="more-count">${topic.count} mention${topic.count !== 1 ? 's' : ''}</span>
           </div>
-        ` : ''}
+          ${headlines.length ? `
+            <div class="more-headlines">
+              ${headlines.map(a => `
+                <a class="more-headline" href="${escHtml(a.url)}" target="_blank" rel="noopener noreferrer">${escHtml(a.title)}</a>
+              `).join('')}
+            </div>
+          ` : ''}
+        </div>
       </div>
     `;
   };
 
   const featured = topics.slice(0, 3);
-  const rest = topics.slice(3, 13);
+  const rest = topics.slice(3, 10);
 
   grid.innerHTML = `
-    <div class="topics-layout">
-      <div class="topics-featured">
-        ${featured.map((t, i) => cardHtml(t, i)).join('')}
-      </div>
-      ${rest.length ? `
-        <div class="topics-sidebar">
-          ${rest.map((t, i) => sidebarItemHtml(t, i)).join('')}
-        </div>
-      ` : ''}
+    <div class="topics-top">
+      ${featured.map((t, i) => cardHtml(t, i)).join('')}
     </div>
+    ${rest.length ? `
+      <div class="topics-more">
+        <div class="more-label">Also trending</div>
+        ${rest.map((t, i) => moreItemHtml(t, i)).join('')}
+      </div>
+    ` : ''}
   `;
 }
 
