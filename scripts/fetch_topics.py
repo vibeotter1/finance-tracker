@@ -148,8 +148,6 @@ def extract_topics(items, nlp):
 
     topics = []
     for entity, linked in sorted(entity_items.items(), key=lambda x: -len(x[1])):
-        if len(linked) < 2:
-            continue
         topics.append({
             "name": entity,
             "count": len(linked),
