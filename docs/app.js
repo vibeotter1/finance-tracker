@@ -88,9 +88,7 @@ function renderTopics(topics, date, isLatest = false) {
           ${topic.is_new ? '<span class="badge-new">New</span>' : ''}
         </div>
         <div class="topic-count">${topic.count} mention${topic.count !== 1 ? 's' : ''}</div>
-        <div class="mention-bar">
-          <div class="mention-fill" style="width:${pct}%"></div>
-        </div>
+        <div class="mention-bar"><div class="mention-fill" style="width:${pct}%"></div></div>
         <div class="sources">
           ${(topic.sources || []).map(s => `<span class="source-tag">${escHtml(s)}</span>`).join('')}
         </div>
@@ -108,26 +106,23 @@ function renderTopics(topics, date, isLatest = false) {
     `;
   };
 
-  const rowHtml = (topic, i) => {
+  const sidebarItemHtml = (topic, i) => {
     const articles = (topic.articles || []).slice(0, 3);
     return `
-      <div class="topic-row" style="animation-delay:${(i + 2) * 60}ms">
-        <button class="topic-row-btn" aria-expanded="false">
-          <span class="topic-row-toggle">▸</span>
-          <span class="topic-row-name">${escHtml(topic.name)}</span>
+      <div class="sidebar-topic" style="animation-delay:${(i + 3) * 50}ms">
+        <div class="sidebar-topic-header">
+          <span class="sidebar-rank">#${i + 4}</span>
+          <span class="sidebar-topic-name">${escHtml(topic.name)}</span>
           ${topic.is_new ? '<span class="badge-new">New</span>' : ''}
-          <span class="topic-row-count">${topic.count} mention${topic.count !== 1 ? 's' : ''}</span>
-          <div class="topic-row-sources">
-            ${(topic.sources || []).map(s => `<span class="source-tag">${escHtml(s)}</span>`).join('')}
-          </div>
-        </button>
+          <span class="sidebar-topic-count">${topic.count} mention${topic.count !== 1 ? 's' : ''}</span>
+        </div>
         ${articles.length ? `
-          <div class="topic-row-body" hidden>
+          <div class="sidebar-headlines">
             ${articles.map(a => `
-              <div class="article-item">
-                <a class="article-link" href="${escHtml(a.url)}" target="_blank" rel="noopener noreferrer">${escHtml(a.title)}</a>
-                <span class="article-source">${escHtml(a.source)}</span>
-              </div>
+              <a class="sidebar-headline" href="${escHtml(a.url)}" target="_blank" rel="noopener noreferrer">
+                <span class="sidebar-headline-title">${escHtml(a.title)}</span>
+                <span class="sidebar-headline-source">${escHtml(a.source)}</span>
+              </a>
             `).join('')}
           </div>
         ` : ''}
@@ -135,26 +130,21 @@ function renderTopics(topics, date, isLatest = false) {
     `;
   };
 
-  const featured = topics.slice(0, 2);
-  const rest = topics.slice(2, 10);
+  const featured = topics.slice(0, 3);
+  const rest = topics.slice(3, 13);
 
   grid.innerHTML = `
-    <div class="topics-featured">
-      ${featured.map((t, i) => cardHtml(t, i)).join('')}
+    <div class="topics-layout">
+      <div class="topics-featured">
+        ${featured.map((t, i) => cardHtml(t, i)).join('')}
+      </div>
+      ${rest.length ? `
+        <div class="topics-sidebar">
+          ${rest.map((t, i) => sidebarItemHtml(t, i)).join('')}
+        </div>
+      ` : ''}
     </div>
-    ${rest.length ? `<div class="topics-list">${rest.map((t, i) => rowHtml(t, i)).join('')}</div>` : ''}
   `;
-
-  grid.querySelectorAll('.topic-row-btn').forEach(btn => {
-    btn.addEventListener('click', () => {
-      const row = btn.closest('.topic-row');
-      const body = row.querySelector('.topic-row-body');
-      const expanded = btn.getAttribute('aria-expanded') === 'true';
-      btn.setAttribute('aria-expanded', String(!expanded));
-      btn.querySelector('.topic-row-toggle').textContent = expanded ? '▸' : '▾';
-      if (body) body.hidden = expanded;
-    });
-  });
 }
 
 function syncTickerSpeed(trackEl, pxPerSec) {
