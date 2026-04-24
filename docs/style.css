@@ -28,8 +28,8 @@ body {
 
 /* Header */
 header {
-  background: var(--surface);
-  border-bottom: 1px solid var(--border);
+  background: var(--bg);
+  border-bottom: 1px solid var(--accent);
   padding: 1.25rem 2rem;
   position: sticky;
   top: 0;
