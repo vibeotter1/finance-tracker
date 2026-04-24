@@ -2,76 +2,11 @@
   "date": "2026-04-24",
   "topics": [
     {
-      "name": "Wolfe Research",
-      "count": 5,
-      "sources": [
-        "Investing.com"
-      ],
-      "articles": [
-        {
-          "title": "Wolfe Research raises NextEra Energy stock price target on infrastructure growth",
-          "url": "https://www.investing.com/news/analyst-ratings/wolfe-research-raises-nextera-energy-stock-price-target-on-infrastructure-growth-93CH-4634932",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Wolfe Research raises Union Pacific stock price target on improving rail fundamentals",
-          "url": "https://www.investing.com/news/analyst-ratings/wolfe-research-raises-union-pacific-stock-price-target-on-improving-rail-fundamentals-93CH-4634929",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Wolfe Research raises Dover stock price target on earnings outlook",
-          "url": "https://www.investing.com/news/analyst-ratings/wolfe-research-raises-dover-stock-price-target-on-earnings-outlook-93CH-4634928",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Wolfe Research raises Hexcel stock price target on strong earnings",
-          "url": "https://www.investing.com/news/analyst-ratings/wolfe-research-raises-hexcel-stock-price-target-on-strong-earnings-93CH-4634927",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Wolfe Research raises CenterPoint Energy price target on data center optimism",
-          "url": "https://www.investing.com/news/analyst-ratings/wolfe-research-raises-centerpoint-energy-price-target-on-data-center-optimism-93CH-4634926",
-          "source": "Investing.com"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "U.S.",
-      "count": 4,
-      "sources": [
-        "CoinDesk",
-        "MarketWatch"
-      ],
-      "articles": [
-        {
-          "title": "U.S. government sits on $26.5 billion gain from Intel stake, as shares surge 22%",
-          "url": "https://www.coindesk.com/markets/2026/04/24/u-s-government-sits-on-usd26-5-billion-gain-from-intel-stake-as-shares-surge-22",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "U.S. arrests Army green beret for $400,000 Polymarket bets on Venezuela raid he was in",
-          "url": "https://www.coindesk.com/policy/2026/04/23/u-s-arrests-soldier-for-polymarket-bets-on-nicolas-maduro-raid-he-participated-in",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "U.S. military runs Bitcoin node, sees crypto as power projection versus China",
-          "url": "https://www.coindesk.com/markets/2026/04/23/us-military-runs-bitcoin-node-sees-crypto-as-power-projection-vs-china",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "How a U.S. soldier made $400,000 from inside knowledge of Maduro capture plan \u2014 and his clumsy attempt to cover it up",
-          "url": "https://www.marketwatch.com/story/how-a-u-s-soldier-made-400-000-from-inside-knowledge-of-maduro-capture-plan-and-his-clumsy-attempt-to-cover-it-up-779b2846?mod=mw_rss_topstories",
-          "source": "MarketWatch"
-        }
-      ],
-      "is_new": true
-    },
-    {
       "name": "Bitcoin",
       "count": 3,
       "sources": [
-        "CoinDesk"
+        "CoinDesk",
+        "CoinTelegraph"
       ],
       "articles": [
         {
@@ -85,19 +20,45 @@
           "source": "CoinDesk"
         },
         {
-          "title": "U.S. military runs Bitcoin node, sees crypto as power projection versus China",
-          "url": "https://www.coindesk.com/markets/2026/04/23/us-military-runs-bitcoin-node-sees-crypto-as-power-projection-vs-china",
-          "source": "CoinDesk"
+          "title": "Metaplanet raises $50M in zero-interest bonds to buy more Bitcoin",
+          "url": "https://cointelegraph.com/news/metaplanet-issues-50-million-in-zero-coupon-bonds-to-buy-more-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
         }
       ],
       "is_new": false
     },
     {
-      "name": "Intel",
-      "count": 2,
+      "name": "JPMorgan",
+      "count": 3,
       "sources": [
         "CoinDesk",
-        "MarketWatch"
+        "MarketWatch",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "JPMorgan says persistent security flaws curb DeFi\u2019s institutional appeal",
+          "url": "https://www.coindesk.com/tech/2026/04/23/jpmorgan-says-persistent-security-flaws-curb-defi-s-institutional-appeal",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "The \u2018simple math\u2019 reason oil prices need to rise a lot more, according to JPMorgan",
+          "url": "https://www.marketwatch.com/story/the-simple-math-why-oil-prices-need-to-rise-a-lot-more-according-to-jpmorgan-bd041c17?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "JPMorgan issues blunt warning as investors move to safety",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-issues-blunt-warning-investors-193000280.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "U.S.",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
       ],
       "articles": [
         {
@@ -106,9 +67,9 @@
           "source": "CoinDesk"
         },
         {
-          "title": "Why Intel\u2019s stock is on track for a historic surge after earnings",
-          "url": "https://www.marketwatch.com/story/why-intels-stock-is-on-track-for-a-historic-surge-after-earnings-5128afa7?mod=mw_rss_topstories",
-          "source": "MarketWatch"
+          "title": "U.S. arrests Army green beret for $400,000 Polymarket bets on Venezuela raid he was in",
+          "url": "https://www.coindesk.com/policy/2026/04/23/u-s-arrests-soldier-for-polymarket-bets-on-nicolas-maduro-raid-he-participated-in",
+          "source": "CoinDesk"
         }
       ],
       "is_new": true
@@ -139,7 +100,7 @@
       "count": 2,
       "sources": [
         "CoinDesk",
-        "Investing.com"
+        "MarketWatch"
       ],
       "articles": [
         {
@@ -148,57 +109,15 @@
           "source": "CoinDesk"
         },
         {
-          "title": "No US-Iran peace talks in sight, but Islamabad maintains security lockdown",
-          "url": "https://www.investing.com/news/world-news/no-usiran-peace-talks-in-sight-but-islamabad-maintains-security-lockdown-4634934",
-          "source": "Investing.com"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Polymarket",
-      "count": 2,
-      "sources": [
-        "CoinDesk",
-        "MarketWatch"
-      ],
-      "articles": [
-        {
-          "title": "Wisconsin joins prediction market fight, suing Kalshi, Coinbase, Polymarket, Robinhood and Crypto.com",
-          "url": "https://www.coindesk.com/policy/2026/04/24/wisconsin-joins-prediction-market-fight-suing-kalshi-coinbase-polymarket-robinhood-and-crypto-com",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "French weather forecast office files police complaint following suspicious Polymarket bets",
-          "url": "https://www.marketwatch.com/story/french-weather-forecasting-office-files-police-complaint-following-suspicious-surge-in-polymarket-bets-fb72729d?mod=mw_rss_topstories",
+          "title": "Gas prices matter for households. But here\u2019s why they still look too low for Trump to give in to Iran right now.",
+          "url": "https://www.marketwatch.com/story/gas-prices-matter-for-households-but-heres-why-they-still-look-too-low-for-trump-to-give-in-to-iran-right-now-e1f3c777?mod=mw_rss_topstories",
           "source": "MarketWatch"
         }
       ],
       "is_new": true
     },
     {
-      "name": "JPMorgan",
-      "count": 2,
-      "sources": [
-        "CoinDesk",
-        "Yahoo Finance"
-      ],
-      "articles": [
-        {
-          "title": "JPMorgan says persistent security flaws curb DeFi\u2019s institutional appeal",
-          "url": "https://www.coindesk.com/tech/2026/04/23/jpmorgan-says-persistent-security-flaws-curb-defi-s-institutional-appeal",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "JPMorgan issues blunt warning as investors move to safety",
-          "url": "https://finance.yahoo.com/markets/crypto/articles/jpmorgan-issues-blunt-warning-investors-193000280.html",
-          "source": "Yahoo Finance"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Maduro",
+      "name": "Trump",
       "count": 2,
       "sources": [
         "CoinTelegraph",
@@ -206,54 +125,29 @@
       ],
       "articles": [
         {
-          "title": "US soldier charged over $400K Polymarket bet on Maduro\u2019s capture",
-          "url": "https://cointelegraph.com/news/us-soldier-charged-for-400k-bet-over-maduro-s-presidency-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "White House confirms Trump to address memecoin gala on Saturday",
+          "url": "https://cointelegraph.com/news/trump-to-address-memecoin-event-after-speculation-of-no-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "CoinTelegraph"
         },
         {
-          "title": "How a U.S. soldier made $400,000 from inside knowledge of Maduro capture plan \u2014 and his clumsy attempt to cover it up",
-          "url": "https://www.marketwatch.com/story/how-a-u-s-soldier-made-400-000-from-inside-knowledge-of-maduro-capture-plan-and-his-clumsy-attempt-to-cover-it-up-779b2846?mod=mw_rss_topstories",
+          "title": "Gas prices matter for households. But here\u2019s why they still look too low for Trump to give in to Iran right now.",
+          "url": "https://www.marketwatch.com/story/gas-prices-matter-for-households-but-heres-why-they-still-look-too-low-for-trump-to-give-in-to-iran-right-now-e1f3c777?mod=mw_rss_topstories",
           "source": "MarketWatch"
         }
       ],
       "is_new": true
     },
     {
-      "name": "ETH",
-      "count": 2,
+      "name": "Michael Saylor",
+      "count": 1,
       "sources": [
-        "CoinTelegraph"
+        "CoinDesk"
       ],
       "articles": [
         {
-          "title": "Spot ETH ETF inflows hit 10-day streak: Will Ether rally to $3K next?",
-          "url": "https://cointelegraph.com/markets/spot-eth-etf-inflows-hit-10-day-streak-will-ether-rally-to-3k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "These 3 Ethereum metrics favor an ETH price rally to $6K",
-          "url": "https://cointelegraph.com/markets/these-3-ethereum-metrics-favor-eth-price-rally-to-6k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Edwards Lifesciences",
-      "count": 2,
-      "sources": [
-        "Investing.com"
-      ],
-      "articles": [
-        {
-          "title": "Truist raises Edwards Lifesciences stock price target on TAVR growth",
-          "url": "https://www.investing.com/news/analyst-ratings/truist-raises-edwards-lifesciences-stock-price-target-on-tavr-growth-93CH-4634931",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Barclays raises Edwards Lifesciences stock price target on EBITDA outlook",
-          "url": "https://www.investing.com/news/analyst-ratings/barclays-raises-edwards-lifesciences-stock-price-target-on-ebitda-outlook-93CH-4634930",
-          "source": "Investing.com"
+          "title": "Michael Saylor says the bitcoin winter is over. Some experts agree, with caveats.",
+          "url": "https://www.coindesk.com/markets/2026/04/23/michael-saylor-says-the-bitcoin-winter-is-over-some-experts-agree-with-caveats",
+          "source": "CoinDesk"
         }
       ],
       "is_new": true
@@ -266,8 +160,23 @@
       ],
       "articles": [
         {
-          "title": "India pushes digital rupee through welfare pilots as BRICS CBDC plan takes shape",
+          "title": "India pushes e-rupee through welfare pilots as BRICS digital currency plan takes shape",
           "url": "https://www.coindesk.com/policy/2026/04/24/india-pushes-digital-rupee-through-welfare-pilots-as-brics-cbdc-plan-takes-shape",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Intel",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "U.S. government sits on $26.5 billion gain from Intel stake, as shares surge 22%",
+          "url": "https://www.coindesk.com/markets/2026/04/24/u-s-government-sits-on-usd26-5-billion-gain-from-intel-stake-as-shares-surge-22",
           "source": "CoinDesk"
         }
       ],
@@ -317,6 +226,21 @@
         }
       ],
       "is_new": false
+    },
+    {
+      "name": "Polymarket",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Wisconsin joins prediction market fight, suing Kalshi, Coinbase, Polymarket, Robinhood and Crypto.com",
+          "url": "https://www.coindesk.com/policy/2026/04/24/wisconsin-joins-prediction-market-fight-suing-kalshi-coinbase-polymarket-robinhood-and-crypto-com",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
     },
     {
       "name": "Robinhood",
@@ -454,52 +378,7 @@
       "is_new": true
     },
     {
-      "name": "CoinDesk 20",
-      "count": 1,
-      "sources": [
-        "CoinDesk"
-      ],
-      "articles": [
-        {
-          "title": "CoinDesk 20 performance update: Uniswap (UNI) drops 3.9%, leading index lower",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/04/23/coindesk-20-performance-update-uniswap-uni-drops-3-9-leading-index-lower",
-          "source": "CoinDesk"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "China",
-      "count": 1,
-      "sources": [
-        "CoinDesk"
-      ],
-      "articles": [
-        {
-          "title": "U.S. military runs Bitcoin node, sees crypto as power projection versus China",
-          "url": "https://www.coindesk.com/markets/2026/04/23/us-military-runs-bitcoin-node-sees-crypto-as-power-projection-vs-china",
-          "source": "CoinDesk"
-        }
-      ],
-      "is_new": true
-    },
-    {
       "name": "White House",
-      "count": 1,
-      "sources": [
-        "CoinTelegraph"
-      ],
-      "articles": [
-        {
-          "title": "White House confirms Trump to address memecoin gala on Saturday",
-          "url": "https://cointelegraph.com/news/trump-to-address-memecoin-event-after-speculation-of-no-show?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Trump",
       "count": 1,
       "sources": [
         "CoinTelegraph"
@@ -529,6 +408,21 @@
       "is_new": true
     },
     {
+      "name": "Maduro",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "US soldier charged over $400K Polymarket bet on Maduro\u2019s capture",
+          "url": "https://cointelegraph.com/news/us-soldier-charged-for-400k-bet-over-maduro-s-presidency-polymarket?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
       "name": "Altcoins",
       "count": 1,
       "sources": [
@@ -542,9 +436,87 @@
         }
       ],
       "is_new": true
+    },
+    {
+      "name": "Crypto-aligned",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Crypto-aligned Fellowship PAC bets big on Texas Senate race",
+          "url": "https://cointelegraph.com/news/fellowship-pac-crypto-texas-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Fellowship",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Crypto-aligned Fellowship PAC bets big on Texas Senate race",
+          "url": "https://cointelegraph.com/news/fellowship-pac-crypto-texas-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Texas Senate",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Crypto-aligned Fellowship PAC bets big on Texas Senate race",
+          "url": "https://cointelegraph.com/news/fellowship-pac-crypto-texas-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "ETH",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Spot ETH ETF inflows hit 10-day streak: Will Ether rally to $3K next?",
+          "url": "https://cointelegraph.com/markets/spot-eth-etf-inflows-hit-10-day-streak-will-ether-rally-to-3k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": true
     }
   ],
   "crypto_trending": [
+    {
+      "name": "Katana",
+      "symbol": "KAT",
+      "market_cap_rank": 526,
+      "thumb": "https://coin-images.coingecko.com/coins/images/70225/standard/katana-social-icon.png?1761121098"
+    },
+    {
+      "name": "Block Street",
+      "symbol": "BSB",
+      "market_cap_rank": 272,
+      "thumb": "https://coin-images.coingecko.com/coins/images/102172257/standard/bsb_400x400.jpg?1772553610"
+    },
+    {
+      "name": "CHIP",
+      "symbol": "CHIP",
+      "market_cap_rank": 187,
+      "thumb": "https://coin-images.coingecko.com/coins/images/102171777/standard/CHIP_Token_Logo_Large.png?1776777444"
+    },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
@@ -552,28 +524,28 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
     },
     {
-      "name": "Aave",
-      "symbol": "AAVE",
-      "market_cap_rank": 55,
-      "thumb": "https://coin-images.coingecko.com/coins/images/12645/standard/aave-token-round.png?1720472354"
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "market_cap_rank": 2,
+      "thumb": "https://coin-images.coingecko.com/coins/images/279/standard/ethereum.png?1696501628"
     },
     {
-      "name": "CHIP",
-      "symbol": "CHIP",
-      "market_cap_rank": 181,
-      "thumb": "https://coin-images.coingecko.com/coins/images/102171777/standard/CHIP_Token_Logo_Large.png?1776777444"
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "market_cap_rank": 38,
+      "thumb": "https://coin-images.coingecko.com/coins/images/28452/standard/ARUsPeNQ_400x400.jpeg?1696527447"
     },
     {
       "name": "RaveDAO",
       "symbol": "RAVE",
-      "market_cap_rank": 157,
+      "market_cap_rank": 160,
       "thumb": "https://coin-images.coingecko.com/coins/images/70544/standard/coin.jpeg?1762452940"
     },
     {
-      "name": "Block Street",
-      "symbol": "BSB",
-      "market_cap_rank": 237,
-      "thumb": "https://coin-images.coingecko.com/coins/images/102172257/standard/bsb_400x400.jpg?1772553610"
+      "name": "MemeCore",
+      "symbol": "M",
+      "market_cap_rank": 19,
+      "thumb": "https://coin-images.coingecko.com/coins/images/53247/standard/square-bg-transparent.png?1752637478"
     },
     {
       "name": "Bitcoin",
@@ -582,28 +554,10 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400"
     },
     {
-      "name": "Spark",
-      "symbol": "SPK",
-      "market_cap_rank": 252,
-      "thumb": "https://coin-images.coingecko.com/coins/images/38637/standard/Spark-Logomark-RGB.png?1744878896"
-    },
-    {
-      "name": "Pi Network",
-      "symbol": "PI",
-      "market_cap_rank": 49,
-      "thumb": "https://coin-images.coingecko.com/coins/images/54342/standard/pi_network.jpg?1739347576"
-    },
-    {
-      "name": "Enjin Coin",
-      "symbol": "ENJ",
-      "market_cap_rank": 226,
-      "thumb": "https://coin-images.coingecko.com/coins/images/1102/standard/Symbol_Only_-_Purple.png?1709725966"
-    },
-    {
-      "name": "Asteroid Shiba",
-      "symbol": "ASTEROID",
-      "market_cap_rank": 233,
-      "thumb": "https://coin-images.coingecko.com/coins/images/50333/standard/IMG_0728.jpeg?1727384521"
+      "name": "Monad",
+      "symbol": "MON",
+      "market_cap_rank": 122,
+      "thumb": "https://coin-images.coingecko.com/coins/images/38927/standard/mon.png?1766029057"
     }
   ],
   "stock_trending": [
@@ -620,16 +574,16 @@
       "change_pct": 0.62
     },
     {
-      "symbol": "BTC-USD",
-      "name": "Bitcoin USD",
-      "price": 77522.81,
-      "change_pct": -0.97
+      "symbol": "PLTR",
+      "name": "Palantir Technologies Inc.",
+      "price": 141.57,
+      "change_pct": -7.24
     },
     {
-      "symbol": "SKLZ",
-      "name": "Skillz Inc.",
-      "price": 12.45,
-      "change_pct": 238.32
+      "symbol": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 78293.6,
+      "change_pct": 0.02
     },
     {
       "symbol": "LCID",
@@ -638,34 +592,34 @@
       "change_pct": -9.26
     },
     {
-      "symbol": "PLTR",
-      "name": "Palantir Technologies Inc.",
-      "price": 141.57,
-      "change_pct": -7.24
+      "symbol": "SKLZ",
+      "name": "Skillz Inc.",
+      "price": 12.45,
+      "change_pct": 238.32
     },
     {
-      "symbol": "AXP",
-      "name": "American Express Company",
-      "price": 318.55,
-      "change_pct": -4.31
+      "symbol": "SLB",
+      "name": "SLB N.V.",
+      "price": 54.74,
+      "change_pct": 0.72
     },
     {
-      "symbol": "ETH-USD",
-      "name": "Ethereum USD",
-      "price": 2309.76,
-      "change_pct": -0.93
+      "symbol": "LLY",
+      "name": "Eli Lilly and Company",
+      "price": 917.65,
+      "change_pct": -0.42
     },
     {
-      "symbol": "EXPE",
-      "name": "Expedia Group, Inc.",
-      "price": 250.37,
-      "change_pct": -5.38
+      "symbol": "IREN",
+      "name": "IREN Limited",
+      "price": 52.02,
+      "change_pct": 7.5
     },
     {
-      "symbol": "SAP",
-      "name": "SAP SE",
-      "price": 163.25,
-      "change_pct": -6.19
+      "symbol": "SOXL",
+      "name": "Direxion Daily Semiconductor Bull 3X Shares",
+      "price": 112.77,
+      "change_pct": 6.75
     }
   ],
   "total_articles": 80
