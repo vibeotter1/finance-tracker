@@ -1,0 +1,714 @@
+{
+  "date": "2026-04-25",
+  "topics": [
+    {
+      "name": "Bitcoin",
+      "count": 7,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin is on track for its best month in a year. $5 billion USDT growth fuels the rebound",
+          "url": "https://www.coindesk.com/markets/2026/04/24/bitcoin-is-on-track-for-its-best-month-in-a-year-usd5-billion-usdt-growth-fuels-the-rebound",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin ETFs just pulled in $2 billion in 8 days while short-term holders quietly started selling",
+          "url": "https://www.coindesk.com/markets/2026/04/24/bitcoin-etfs-just-pulled-usd2-billion-in-8-days-while-short-term-holders-quietly-started-selling",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin rally is stalling as Japanese inflation adds to Iran war\u2013driven market jitters",
+          "url": "https://www.coindesk.com/markets/2026/04/24/bitcoin-rally-is-stalling-as-japan-macro-adds-to-iran-war-driven-market-jitters",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Hyperliquid whale holds $38M short against Bitcoin, but does it matter?",
+          "url": "https://cointelegraph.com/markets/hyperliquid-whale-holds-38m-short-against-bitcoin-but-does-it-matter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Bitcoin developer Paul Sztorc announces BTC hard fork called eCash",
+          "url": "https://cointelegraph.com/news/bitcoin-dev-paul-sztorc-hard-fork-ecash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "U.S.",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "Investing.com"
+      ],
+      "articles": [
+        {
+          "title": "U.S. CFTC adds New York to string of states its suing to stop prediction market pushback",
+          "url": "https://www.coindesk.com/policy/2026/04/24/u-s-cftc-adds-new-york-to-string-of-states-its-suing-to-stop-prediction-market-pushback",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Tether's $344 million USDT freeze linked to U.S. 'Economic Fury' against Iran regime",
+          "url": "https://www.coindesk.com/policy/2026/04/24/tether-s-usd344-million-usdt-freeze-linked-to-u-s-economic-fury-against-iran-regime",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "U.S. government sits on $26.5 billion gain from Intel stake, as shares surge 22%",
+          "url": "https://www.coindesk.com/markets/2026/04/24/u-s-government-sits-on-usd26-5-billion-gain-from-intel-stake-as-shares-surge-22",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "U.S. military strikes vessel in Eastern Pacific as controversy over tactics grows",
+          "url": "https://www.investing.com/news/economy-news/us-military-strikes-vessel-in-eastern-pacific-as-controversy-over-tactics-grows-4637281",
+          "source": "Investing.com"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Iran",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Investing.com"
+      ],
+      "articles": [
+        {
+          "title": "Tether's $344 million USDT freeze linked to U.S. 'Economic Fury' against Iran regime",
+          "url": "https://www.coindesk.com/policy/2026/04/24/tether-s-usd344-million-usdt-freeze-linked-to-u-s-economic-fury-against-iran-regime",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin rally is stalling as Japanese inflation adds to Iran war\u2013driven market jitters",
+          "url": "https://www.coindesk.com/markets/2026/04/24/bitcoin-rally-is-stalling-as-japan-macro-adds-to-iran-war-driven-market-jitters",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "US authorities freeze $344M in crypto linked to Iran",
+          "url": "https://cointelegraph.com/news/united-states-freeze-crypto-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Bitcoin faces geopolitical stress test amid weekend Iran-US talks",
+          "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-faces-geopolitical-stress-test-amid-weekend-iranus-talks-4637344",
+          "source": "Investing.com"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Trump",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Investing.com"
+      ],
+      "articles": [
+        {
+          "title": "Trump's DOJ drops probe that stood in way of president's pick to run Federal Reserve",
+          "url": "https://www.coindesk.com/news-analysis/2026/04/24/trump-s-doj-drops-probe-that-stood-in-way-of-president-s-pick-to-run-federal-reserve",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Top memecoin holders expected to attend Trump luncheon",
+          "url": "https://cointelegraph.com/news/tron-justin-sun-donald-trump-memecoin-lunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Trump, critic of the press, attends its annual celebration after years of boycotts",
+          "url": "https://www.investing.com/news/politics-news/trump-critic-of-the-press-attends-its-annual-celebration-after-years-of-boycotts-4637346",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Republicans retool midterm strategy: Trump\u2019s policies, but less Trump",
+          "url": "https://www.investing.com/news/politics-news/republicans-retool-midterm-strategy-trumps-policies-but-less-trump-4637345",
+          "source": "Investing.com"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "IPO",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "MarketWatch",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "SpaceX's $75 billion IPO could drain the liquidity that's helping lift bitcoin and crypto",
+          "url": "https://www.coindesk.com/markets/2026/04/24/spacex-s-usd75-billion-ipo-could-drain-the-liquidity-that-s-been-lifting-bitcoin-and-crypto",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "There\u2019s a new stock for the nuclear-power IPO trade, and Wall Street is piling in. Should you?",
+          "url": "https://www.marketwatch.com/story/theres-a-new-stock-for-the-nuclear-power-ipo-trade-and-wall-street-is-piling-in-should-you-b07269fa?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Musk called space data centers a 'no brainer' \u2014 now SpaceX's own IPO filing says they may never make money",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/musk-called-space-data-centers-080500665.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "3 Big Numbers: Breaking down Yesway\u2019s IPO",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/3-big-numbers-breaking-down-084813669.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Intel",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "MarketWatch",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "U.S. government sits on $26.5 billion gain from Intel stake, as shares surge 22%",
+          "url": "https://www.coindesk.com/markets/2026/04/24/u-s-government-sits-on-usd26-5-billion-gain-from-intel-stake-as-shares-surge-22",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Nvidia\u2019s stock sees its first record close in 6 months \u2014 thanks to Intel",
+          "url": "https://www.marketwatch.com/story/nvidias-stock-heads-for-first-record-close-in-6-months-thanks-to-intel-21af7d28?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Intel\u2019s stock extends its spectacular run by posting its best day in nearly four decades",
+          "url": "https://www.marketwatch.com/story/intels-stock-extends-its-spectacular-run-and-could-see-its-best-daily-gain-on-record-6e6ef0de?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Intel soars on signs AI boom for CPUs is here",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/intel-set-record-high-ai-092759367.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "China",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Investing.com",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "China\u2019s new online marketing rules tighten ban on crypto promotions",
+          "url": "https://cointelegraph.com/news/china-s-new-online-marketing-rules-tighten-ban-on-crypto-promotions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "The GDP-employment disconnect is deepening in China",
+          "url": "https://www.investing.com/news/economy-news/the-gdpemployment-disconnect-is-deepening-in-china-4637341",
+          "source": "Investing.com"
+        },
+        {
+          "title": "After call from Beijing, China's auto industry races to embed AI in just about everything",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/chinas-auto-industry-races-embed-061114731.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "XRP",
+      "count": 2,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Ripple-linked XRP stalls near $1.44 as 'triangle squeeze' nears breakout",
+          "url": "https://www.coindesk.com/markets/2026/04/25/ripple-linked-xrp-stalls-near-usd1-44-as-triangle-squeeze-nears-breakout",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "XRP may rise 30% as traders withdraw 35M tokens from exchanges in a day",
+          "url": "https://cointelegraph.com/markets/xrp-price-may-rise-30-as-exchange-outflows-hit-nearly-35m-tokens-in-a-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "USDT",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin is on track for its best month in a year. $5 billion USDT growth fuels the rebound",
+          "url": "https://www.coindesk.com/markets/2026/04/24/bitcoin-is-on-track-for-its-best-month-in-a-year-usd5-billion-usdt-growth-fuels-the-rebound",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Tether's $344 million USDT freeze linked to U.S. 'Economic Fury' against Iran regime",
+          "url": "https://www.coindesk.com/policy/2026/04/24/tether-s-usd344-million-usdt-freeze-linked-to-u-s-economic-fury-against-iran-regime",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "SpaceX",
+      "count": 2,
+      "sources": [
+        "CoinDesk",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "SpaceX's $75 billion IPO could drain the liquidity that's helping lift bitcoin and crypto",
+          "url": "https://www.coindesk.com/markets/2026/04/24/spacex-s-usd75-billion-ipo-could-drain-the-liquidity-that-s-been-lifting-bitcoin-and-crypto",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Musk called space data centers a 'no brainer' \u2014 now SpaceX's own IPO filing says they may never make money",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/musk-called-space-data-centers-080500665.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Clock",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Clock is ticking for bitcoin to prevent quantum threat as it could drain 6.9 million BTC including Satoshi\u2019s",
+          "url": "https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Satoshi",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Clock is ticking for bitcoin to prevent quantum threat as it could drain 6.9 million BTC including Satoshi\u2019s",
+          "url": "https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "CFTC",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "U.S. CFTC adds New York to string of states its suing to stop prediction market pushback",
+          "url": "https://www.coindesk.com/policy/2026/04/24/u-s-cftc-adds-new-york-to-string-of-states-its-suing-to-stop-prediction-market-pushback",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "New York",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "U.S. CFTC adds New York to string of states its suing to stop prediction market pushback",
+          "url": "https://www.coindesk.com/policy/2026/04/24/u-s-cftc-adds-new-york-to-string-of-states-its-suing-to-stop-prediction-market-pushback",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Tether",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Tether's $344 million USDT freeze linked to U.S. 'Economic Fury' against Iran regime",
+          "url": "https://www.coindesk.com/policy/2026/04/24/tether-s-usd344-million-usdt-freeze-linked-to-u-s-economic-fury-against-iran-regime",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Federal Reserve",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Trump's DOJ drops probe that stood in way of president's pick to run Federal Reserve",
+          "url": "https://www.coindesk.com/news-analysis/2026/04/24/trump-s-doj-drops-probe-that-stood-in-way-of-president-s-pick-to-run-federal-reserve",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Terraform",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Jane Street asks court to reject Terraform claims tied to UST-LUNA crash",
+          "url": "https://www.coindesk.com/policy/2026/04/24/jane-street-asks-court-to-reject-terraform-claims-tied-to-ust-luna-crash",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "UST",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Jane Street asks court to reject Terraform claims tied to UST-LUNA crash",
+          "url": "https://www.coindesk.com/policy/2026/04/24/jane-street-asks-court-to-reject-terraform-claims-tied-to-ust-luna-crash",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "the Ethereum Foundation",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Bitmine to buy 10,000 ether for $23.9 million from the Ethereum Foundation",
+          "url": "https://www.coindesk.com/business/2026/04/24/bitmine-to-buy-10-000-ether-for-usd23-8-million-from-the-ethereum-foundation",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "CoinDesk 20",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "CoinDesk 20 performance update: Aptos (APT) gains 3.5%, leading index higher",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/04/24/coindesk-20-performance-update-aptos-apt-gains-3-5-leading-index-higher",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "APT",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "CoinDesk 20 performance update: Aptos (APT) gains 3.5%, leading index higher",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/04/24/coindesk-20-performance-update-aptos-apt-gains-3-5-leading-index-higher",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Michael Saylor",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Michael Saylor says the bitcoin winter is over. Some experts agree, with caveats.",
+          "url": "https://www.coindesk.com/markets/2026/04/23/michael-saylor-says-the-bitcoin-winter-is-over-some-experts-agree-with-caveats",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "India",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "India pushes e-rupee through welfare pilots as BRICS digital currency plan takes shape",
+          "url": "https://www.coindesk.com/policy/2026/04/24/india-pushes-digital-rupee-through-welfare-pilots-as-brics-cbdc-plan-takes-shape",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Morgan Stanley",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Morgan Stanley is positioning itself as the reserve manager for the stablecoin industry",
+          "url": "https://www.coindesk.com/markets/2026/04/24/morgan-stanley-is-positioning-itself-as-the-reserve-manager-for-the-stablecoin-industry",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Paul Sztorc",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin developer Paul Sztorc announces BTC hard fork called eCash",
+          "url": "https://cointelegraph.com/news/bitcoin-dev-paul-sztorc-hard-fork-ecash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "eCash",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin developer Paul Sztorc announces BTC hard fork called eCash",
+          "url": "https://cointelegraph.com/news/bitcoin-dev-paul-sztorc-hard-fork-ecash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Quantum",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Quantum computer breaks 15-bit elliptic curve cryptographic key",
+          "url": "https://cointelegraph.com/news/quantum-computer-bit-elliptic-curve-key?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Crypto PAC Fellowship",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Crypto PAC Fellowship halts support of Texas AG for Senate: Report",
+          "url": "https://cointelegraph.com/news/crypto-pac-fellowship-ads-texas-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Texas AG",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Crypto PAC Fellowship halts support of Texas AG for Senate: Report",
+          "url": "https://cointelegraph.com/news/crypto-pac-fellowship-ads-texas-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Senate",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Crypto PAC Fellowship halts support of Texas AG for Senate: Report",
+          "url": "https://cointelegraph.com/news/crypto-pac-fellowship-ads-texas-senate-race?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": true
+    }
+  ],
+  "crypto_trending": [
+    {
+      "name": "Axie Infinity",
+      "symbol": "AXS",
+      "market_cap_rank": 143,
+      "thumb": "https://coin-images.coingecko.com/coins/images/13029/standard/axie_infinity_logo.png?1696512817"
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "market_cap_rank": 99,
+      "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+    },
+    {
+      "name": "Tradoor",
+      "symbol": "TRADOOR",
+      "market_cap_rank": 990,
+      "thumb": "https://coin-images.coingecko.com/coins/images/68862/standard/tradoor.png?1756809006"
+    },
+    {
+      "name": "Katana",
+      "symbol": "KAT",
+      "market_cap_rank": 480,
+      "thumb": "https://coin-images.coingecko.com/coins/images/70225/standard/katana-social-icon.png?1761121098"
+    },
+    {
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "market_cap_rank": 197,
+      "thumb": "https://coin-images.coingecko.com/coins/images/24383/standard/APECOIN.png?1756551529"
+    },
+    {
+      "name": "Ronin",
+      "symbol": "RON",
+      "market_cap_rank": 310,
+      "thumb": "https://coin-images.coingecko.com/coins/images/20009/standard/photo_2024-04-06_22-52-24.jpg?1712415367"
+    },
+    {
+      "name": "USD.AI",
+      "symbol": "CHIP",
+      "market_cap_rank": 212,
+      "thumb": "https://coin-images.coingecko.com/coins/images/102171777/standard/CHIP_Token_Logo_Large.png?1776777444"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "market_cap_rank": 1,
+      "thumb": "https://coin-images.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400"
+    },
+    {
+      "name": "Asteroid Shiba",
+      "symbol": "ASTEROID",
+      "market_cap_rank": 246,
+      "thumb": "https://coin-images.coingecko.com/coins/images/50333/standard/IMG_0728.jpeg?1727384521"
+    },
+    {
+      "name": "Grass",
+      "symbol": "GRASS",
+      "market_cap_rank": 174,
+      "thumb": "https://coin-images.coingecko.com/coins/images/40094/standard/Grass.jpg?1725697048"
+    }
+  ],
+  "stock_trending": [
+    {
+      "symbol": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 77856.21,
+      "change_pct": 0.52
+    },
+    {
+      "symbol": "XE",
+      "name": "X-Energy, Inc. Class A Common Stock",
+      "price": 29.2,
+      "change_pct": 26.96
+    },
+    {
+      "symbol": "^GSPC",
+      "name": "S&P 500",
+      "price": 7165.08,
+      "change_pct": 0.8
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 208.27,
+      "change_pct": 4.32
+    },
+    {
+      "symbol": "^IXIC",
+      "name": "NASDAQ Composite",
+      "price": 24836.6,
+      "change_pct": 1.63
+    },
+    {
+      "symbol": "TTD",
+      "name": "The Trade Desk, Inc.",
+      "price": 23.97,
+      "change_pct": 5.97
+    },
+    {
+      "symbol": "ETH-USD",
+      "name": "Ethereum USD",
+      "price": 2321.91,
+      "change_pct": 0.27
+    },
+    {
+      "symbol": "DE",
+      "name": "Deere & Company",
+      "price": 562.64,
+      "change_pct": -4.95
+    },
+    {
+      "symbol": "QCOM",
+      "name": "QUALCOMM Incorporated",
+      "price": 148.85,
+      "change_pct": 11.12
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com, Inc.",
+      "price": 263.99,
+      "change_pct": 3.49
+    }
+  ],
+  "total_articles": 80
+}
