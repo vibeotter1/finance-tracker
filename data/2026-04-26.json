@@ -1,0 +1,714 @@
+{
+  "date": "2026-04-26",
+  "topics": [
+    {
+      "name": "Trump",
+      "count": 8,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Investing.com"
+      ],
+      "articles": [
+        {
+          "title": "Trump defends crypto legislation at private event featuring boxer Mike Tyson, Tether CEO",
+          "url": "https://www.coindesk.com/policy/2026/04/25/trump-defends-crypto-legislation-at-private-event-featuring-boxer-mike-tyson-tether-ceo",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin falls after Trump reportedly canceled Steve Witkoff and Jared Kushner's Iran-talks trip",
+          "url": "https://www.coindesk.com/markets/2026/04/25/bitcoin-falls-after-trump-reportedly-canceled-steve-witkoff-and-jared-kushner-s-iran-talks-trip",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Mike Tyson, Tether CEO, Cathie Wood among speakers at Trump's 'most exclusive' crypto conference",
+          "url": "https://www.coindesk.com/policy/2026/04/25/mike-tyson-tether-ceo-cathie-wood-among-speakers-at-trump-s-most-exclusive-crypto-conference",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Trump's DOJ drops probe that stood in way of president's pick to run Federal Reserve",
+          "url": "https://www.coindesk.com/news-analysis/2026/04/24/trump-s-doj-drops-probe-that-stood-in-way-of-president-s-pick-to-run-federal-reserve",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Trump\u2019s official memecoin extends slide as he hosts exclusive investor gala",
+          "url": "https://cointelegraph.com/news/trump-s-official-memecoin-extends-slide-even-as-he-hosts-exclusive-investor-gala?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Bitcoin",
+      "count": 5,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin falls after Trump reportedly canceled Steve Witkoff and Jared Kushner's Iran-talks trip",
+          "url": "https://www.coindesk.com/markets/2026/04/25/bitcoin-falls-after-trump-reportedly-canceled-steve-witkoff-and-jared-kushner-s-iran-talks-trip",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin is on track for its best month in a year. $5 billion USDT growth fuels the rebound",
+          "url": "https://www.coindesk.com/markets/2026/04/24/bitcoin-is-on-track-for-its-best-month-in-a-year-usd5-billion-usdt-growth-fuels-the-rebound",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Hyperliquid whale holds $38M short against Bitcoin, but does it matter?",
+          "url": "https://cointelegraph.com/markets/hyperliquid-whale-holds-38m-short-against-bitcoin-but-does-it-matter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Bitcoin developer Paul Sztorc announces BTC hard fork called eCash",
+          "url": "https://cointelegraph.com/news/bitcoin-dev-paul-sztorc-hard-fork-ecash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Bitcoin stays 'stalled' at $78K as oil threatens new risk-asset squeeze",
+          "url": "https://cointelegraph.com/markets/bitcoin-stays-stalled-at-78k-as-oil-threatens-new-risk-asset-squeeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Tether",
+      "count": 3,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Trump defends crypto legislation at private event featuring boxer Mike Tyson, Tether CEO",
+          "url": "https://www.coindesk.com/policy/2026/04/25/trump-defends-crypto-legislation-at-private-event-featuring-boxer-mike-tyson-tether-ceo",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Mike Tyson, Tether CEO, Cathie Wood among speakers at Trump's 'most exclusive' crypto conference",
+          "url": "https://www.coindesk.com/policy/2026/04/25/mike-tyson-tether-ceo-cathie-wood-among-speakers-at-trump-s-most-exclusive-crypto-conference",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Tether's $344 million USDT freeze linked to U.S. 'Economic Fury' against Iran regime",
+          "url": "https://www.coindesk.com/policy/2026/04/24/tether-s-usd344-million-usdt-freeze-linked-to-u-s-economic-fury-against-iran-regime",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Iran",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin falls after Trump reportedly canceled Steve Witkoff and Jared Kushner's Iran-talks trip",
+          "url": "https://www.coindesk.com/markets/2026/04/25/bitcoin-falls-after-trump-reportedly-canceled-steve-witkoff-and-jared-kushner-s-iran-talks-trip",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Tether's $344 million USDT freeze linked to U.S. 'Economic Fury' against Iran regime",
+          "url": "https://www.coindesk.com/policy/2026/04/24/tether-s-usd344-million-usdt-freeze-linked-to-u-s-economic-fury-against-iran-regime",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "US authorities freeze $344M in crypto linked to Iran",
+          "url": "https://cointelegraph.com/news/united-states-freeze-crypto-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Buy",
+      "count": 3,
+      "sources": [
+        "Investing.com",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "5 big analyst AI moves: Palo Alto and Reddit get fresh Buy calls, AMD upgraded",
+          "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-palo-alto-and-reddit-get-fresh-buy-calls-amd-upgraded-4637389",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Is Micron Technology, Inc. (MU) Among the Best AI Stocks to Buy According to Billionaire Ken Griffin?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-inc-mu-among-055932997.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Is Broadcom Inc. (AVGO) Among the Best AI Stocks to Buy According to Billionaire Ken Griffin?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-among-best-055729487.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "APY",
+      "count": 3,
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Best CD rates today, Saturday, April 25, 2026 (best account provides 4.05% APY)",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-april-25-2026-100000637.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Best high-yield savings interest rates today, April 25, 2026 (Earn up to 4.1% APY)",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-saturday-april-25-2026-100000090.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Best money market account rates today, April 25, 2026 (best account provides 4.01% APY)",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-april-25-2026-100000572.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Mike Tyson",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Trump defends crypto legislation at private event featuring boxer Mike Tyson, Tether CEO",
+          "url": "https://www.coindesk.com/policy/2026/04/25/trump-defends-crypto-legislation-at-private-event-featuring-boxer-mike-tyson-tether-ceo",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Mike Tyson, Tether CEO, Cathie Wood among speakers at Trump's 'most exclusive' crypto conference",
+          "url": "https://www.coindesk.com/policy/2026/04/25/mike-tyson-tether-ceo-cathie-wood-among-speakers-at-trump-s-most-exclusive-crypto-conference",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "XRP",
+      "count": 2,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Ripple-linked XRP stalls near $1.44 as 'triangle squeeze' nears breakout",
+          "url": "https://www.coindesk.com/markets/2026/04/25/ripple-linked-xrp-stalls-near-usd1-44-as-triangle-squeeze-nears-breakout",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "XRP may rise 30% as traders withdraw 35M tokens from exchanges in a day",
+          "url": "https://cointelegraph.com/markets/xrp-price-may-rise-30-as-exchange-outflows-hit-nearly-35m-tokens-in-a-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "U.S.",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "U.S. CFTC adds New York to string of states its suing to stop prediction market pushback",
+          "url": "https://www.coindesk.com/policy/2026/04/24/u-s-cftc-adds-new-york-to-string-of-states-its-suing-to-stop-prediction-market-pushback",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Tether's $344 million USDT freeze linked to U.S. 'Economic Fury' against Iran regime",
+          "url": "https://www.coindesk.com/policy/2026/04/24/tether-s-usd344-million-usdt-freeze-linked-to-u-s-economic-fury-against-iran-regime",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "CFTC",
+      "count": 2,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "U.S. CFTC adds New York to string of states its suing to stop prediction market pushback",
+          "url": "https://www.coindesk.com/policy/2026/04/24/u-s-cftc-adds-new-york-to-string-of-states-its-suing-to-stop-prediction-market-pushback",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "CFTC sues New York over bid to apply gambling laws to prediction markets",
+          "url": "https://cointelegraph.com/news/cftc-sues-new-york-over-bid-to-apply-gambling-laws-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "New York",
+      "count": 2,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "U.S. CFTC adds New York to string of states its suing to stop prediction market pushback",
+          "url": "https://www.coindesk.com/policy/2026/04/24/u-s-cftc-adds-new-york-to-string-of-states-its-suing-to-stop-prediction-market-pushback",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "CFTC sues New York over bid to apply gambling laws to prediction markets",
+          "url": "https://cointelegraph.com/news/cftc-sues-new-york-over-bid-to-apply-gambling-laws-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "USDT",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin is on track for its best month in a year. $5 billion USDT growth fuels the rebound",
+          "url": "https://www.coindesk.com/markets/2026/04/24/bitcoin-is-on-track-for-its-best-month-in-a-year-usd5-billion-usdt-growth-fuels-the-rebound",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Tether's $344 million USDT freeze linked to U.S. 'Economic Fury' against Iran regime",
+          "url": "https://www.coindesk.com/policy/2026/04/24/tether-s-usd344-million-usdt-freeze-linked-to-u-s-economic-fury-against-iran-regime",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "White House",
+      "count": 2,
+      "sources": [
+        "Investing.com",
+        "MarketWatch"
+      ],
+      "articles": [
+        {
+          "title": "White House Correspondents\u2019 dinner has morphed into a \u2018Hollywoodified\u2019 weekend of nonstop parties. Even Grindr is hosting.",
+          "url": "https://www.marketwatch.com/story/white-house-correspondents-dinner-weekend-gets-hollywoodified-as-companies-from-cnn-to-grindr-host-events-78a4fa10?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Trump safe after shooting at White House Correspondents\u2019 dinner, suspect in custody",
+          "url": "https://www.investing.com/news/general-news/trump-removed-from-white-house-correspondents-dinner-as-attendees-take-cover-4637413",
+          "source": "Investing.com"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Nvidia",
+      "count": 2,
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Meet the Biggest Threat to Nvidia in AI Chips. It's Not AMD, Intel, or Broadcom.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/meet-biggest-threat-nvidia-ai-080800683.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Nvidia\u2019s (NVDA) Solid Bond with Gamers is Fracturing over AI",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-nvda-solid-bond-gamers-055657429.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Billionaire Ken Griffin",
+      "count": 2,
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Is Micron Technology, Inc. (MU) Among the Best AI Stocks to Buy According to Billionaire Ken Griffin?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-inc-mu-among-055932997.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Is Broadcom Inc. (AVGO) Among the Best AI Stocks to Buy According to Billionaire Ken Griffin?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-inc-avgo-among-best-055729487.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Litecoin",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Litecoin says 13-block reorg was not a 'zero-day' attack, GitHub commit history shows otherwise",
+          "url": "https://www.coindesk.com/markets/2026/04/26/litecoin-says-its-13-block-reorg-was-not-a-zero-day-but-github-commit-history-shows-otherwise",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "GitHub",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Litecoin says 13-block reorg was not a 'zero-day' attack, GitHub commit history shows otherwise",
+          "url": "https://www.coindesk.com/markets/2026/04/26/litecoin-says-its-13-block-reorg-was-not-a-zero-day-but-github-commit-history-shows-otherwise",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Alchemy",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Crypto is built for AI agents, not humans, says Alchemy's CEO",
+          "url": "https://www.coindesk.com/tech/2026/04/25/crypto-is-built-for-ai-agents-not-humans-says-alchemy-s-ceo",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "BlackRock",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "BlackRock\u2019s bitcoin ETF just hit a massive milestone that proves crypto is now a mainstream bet",
+          "url": "https://www.coindesk.com/markets/2026/04/25/blackrock-s-bitcoin-etf-just-hit-a-massive-milestone-that-proves-crypto-is-now-a-mainstream-bet",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Steve Witkoff",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin falls after Trump reportedly canceled Steve Witkoff and Jared Kushner's Iran-talks trip",
+          "url": "https://www.coindesk.com/markets/2026/04/25/bitcoin-falls-after-trump-reportedly-canceled-steve-witkoff-and-jared-kushner-s-iran-talks-trip",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Jared Kushner's",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin falls after Trump reportedly canceled Steve Witkoff and Jared Kushner's Iran-talks trip",
+          "url": "https://www.coindesk.com/markets/2026/04/25/bitcoin-falls-after-trump-reportedly-canceled-steve-witkoff-and-jared-kushner-s-iran-talks-trip",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Cathie Wood",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Mike Tyson, Tether CEO, Cathie Wood among speakers at Trump's 'most exclusive' crypto conference",
+          "url": "https://www.coindesk.com/policy/2026/04/25/mike-tyson-tether-ceo-cathie-wood-among-speakers-at-trump-s-most-exclusive-crypto-conference",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Coinbase",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Coinbase\u2019s Jesse Pollak says AI agents are the next big wave for crypto payments",
+          "url": "https://www.coindesk.com/tech/2026/04/25/coinbase-s-jesse-pollak-says-ai-agents-are-the-next-big-wave-for-crypto-payments",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Jesse Pollak",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Coinbase\u2019s Jesse Pollak says AI agents are the next big wave for crypto payments",
+          "url": "https://www.coindesk.com/tech/2026/04/25/coinbase-s-jesse-pollak-says-ai-agents-are-the-next-big-wave-for-crypto-payments",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Clock",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Clock is ticking for bitcoin to prevent quantum threat as it could drain 6.9 million BTC including Satoshi\u2019s",
+          "url": "https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Satoshi",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Clock is ticking for bitcoin to prevent quantum threat as it could drain 6.9 million BTC including Satoshi\u2019s",
+          "url": "https://www.coindesk.com/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Federal Reserve",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Trump's DOJ drops probe that stood in way of president's pick to run Federal Reserve",
+          "url": "https://www.coindesk.com/news-analysis/2026/04/24/trump-s-doj-drops-probe-that-stood-in-way-of-president-s-pick-to-run-federal-reserve",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Terraform",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Jane Street asks court to reject Terraform claims tied to UST-LUNA crash",
+          "url": "https://www.coindesk.com/policy/2026/04/24/jane-street-asks-court-to-reject-terraform-claims-tied-to-ust-luna-crash",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "UST",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Jane Street asks court to reject Terraform claims tied to UST-LUNA crash",
+          "url": "https://www.coindesk.com/policy/2026/04/24/jane-street-asks-court-to-reject-terraform-claims-tied-to-ust-luna-crash",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "the Ethereum Foundation",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Bitmine to buy 10,000 ether for $23.9 million from the Ethereum Foundation",
+          "url": "https://www.coindesk.com/business/2026/04/24/bitmine-to-buy-10-000-ether-for-usd23-8-million-from-the-ethereum-foundation",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    }
+  ],
+  "crypto_trending": [
+    {
+      "name": "Ultima",
+      "symbol": "ULTIMA",
+      "market_cap_rank": 262,
+      "thumb": "https://coin-images.coingecko.com/coins/images/31844/standard/ULTIMA-200x200.png?1763090865"
+    },
+    {
+      "name": "Orca",
+      "symbol": "ORCA",
+      "market_cap_rank": 268,
+      "thumb": "https://coin-images.coingecko.com/coins/images/17547/standard/Orca_Logo.png?1696517083"
+    },
+    {
+      "name": "USD.AI",
+      "symbol": "CHIP",
+      "market_cap_rank": 229,
+      "thumb": "https://coin-images.coingecko.com/coins/images/102171777/standard/CHIP_Token_Logo_Large.png?1776777444"
+    },
+    {
+      "name": "Asteroid Shiba",
+      "symbol": "ASTEROID",
+      "market_cap_rank": 217,
+      "thumb": "https://coin-images.coingecko.com/coins/images/50333/standard/IMG_0728.jpeg?1727384521"
+    },
+    {
+      "name": "RaveDAO",
+      "symbol": "RAVE",
+      "market_cap_rank": 167,
+      "thumb": "https://coin-images.coingecko.com/coins/images/70544/standard/coin.jpeg?1762452940"
+    },
+    {
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "market_cap_rank": 90,
+      "thumb": "https://coin-images.coingecko.com/coins/images/53746/standard/trump.png?1737171561"
+    },
+    {
+      "name": "Injective",
+      "symbol": "INJ",
+      "market_cap_rank": 122,
+      "thumb": "https://coin-images.coingecko.com/coins/images/12882/standard/Other_200x200.png?1738782212"
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "market_cap_rank": 97,
+      "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+    },
+    {
+      "name": "Pi Network",
+      "symbol": "PI",
+      "market_cap_rank": 46,
+      "thumb": "https://coin-images.coingecko.com/coins/images/54342/standard/pi_network.jpg?1739347576"
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "market_cap_rank": 2,
+      "thumb": "https://coin-images.coingecko.com/coins/images/279/standard/ethereum.png?1696501628"
+    }
+  ],
+  "stock_trending": [
+    {
+      "symbol": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 78018.09,
+      "change_pct": 0.5
+    },
+    {
+      "symbol": "ETH-USD",
+      "name": "Ethereum USD",
+      "price": 2333.77,
+      "change_pct": 0.62
+    },
+    {
+      "symbol": "XRP-USD",
+      "name": "XRP USD",
+      "price": 1.43,
+      "change_pct": 0.25
+    },
+    {
+      "symbol": "SOL-USD",
+      "name": "Solana USD",
+      "price": 86.57,
+      "change_pct": 0.48
+    },
+    {
+      "symbol": "BTC-EUR",
+      "name": "Bitcoin EUR",
+      "price": 66595.32,
+      "change_pct": 0.56
+    },
+    {
+      "symbol": "LMT",
+      "name": "Lockheed Martin Corporation",
+      "price": 513.45,
+      "change_pct": -3.08
+    },
+    {
+      "symbol": "BRK-B",
+      "name": "Berkshire Hathaway Inc.",
+      "price": 469.32,
+      "change_pct": -0.26
+    },
+    {
+      "symbol": "PYPL",
+      "name": "PayPal Holdings, Inc.",
+      "price": 50.48,
+      "change_pct": 1.47
+    },
+    {
+      "symbol": "ANET",
+      "name": "Arista Networks, Inc.",
+      "price": 176.91,
+      "change_pct": 2.53
+    },
+    {
+      "symbol": "KO",
+      "name": "The Coca-Cola Company",
+      "price": 76.63,
+      "change_pct": 0.46
+    }
+  ],
+  "total_articles": 80
+}
