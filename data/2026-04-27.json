@@ -1,0 +1,623 @@
+{
+  "date": "2026-04-27",
+  "topics": [
+    {
+      "name": "Bitcoin",
+      "count": 6,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin hits wall at $80,000, one analyst says the pullback is temporary",
+          "url": "https://www.coindesk.com/daybook-us/2026/04/27/bitcoin-hits-wall-at-usd80-000-one-analyst-says-the-pullback-is-temporary",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "A long-time developer wants to split Bitcoin blockchain and reassign Satoshi coins. The community is calling it a theft",
+          "url": "https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin pulls back from 12-week high as Iran rally hits seller wall at $79,400",
+          "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-from-12-week-high-as-iran-rally-hits-seller-wall-at-usd79-400",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin whales build long positions as funding stays deeply negative",
+          "url": "https://www.coindesk.com/markets/2026/04/26/bitcoin-whales-build-long-positions-as-funding-stays-deeply-negative",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "First 21-week trend line reclaim since October 2025: Five things to know in Bitcoin this week",
+          "url": "https://cointelegraph.com/markets/first-21-week-trend-line-reclaim-since-october-2025-five-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Iran",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "Investing.com",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin pulls back from 12-week high as Iran rally hits seller wall at $79,400",
+          "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-from-12-week-high-as-iran-rally-hits-seller-wall-at-usd79-400",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Stock futures muted with investors eyeing stalled Iran talks, earnings deluge",
+          "url": "https://www.investing.com/news/stock-market-news/wall-st-futures-steady-as-oil-climbs-iran-peace-talks-remain-stalled-4637529",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Stock market today: S&P 500, Nasdaq, Dow futures mixed to start pivotal week as markets weigh Iran peace odds",
+          "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-monday-april-27-232226050.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Pudgy Penguins",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Pudgy Penguins rally coincides with token unlock as analyst flags exit liquidity risk",
+          "url": "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-rally-coincides-with-token-unlock-as-analyst-flags-exit-liquidity-risk",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Pudgy Penguins, BAYC rally masks a shrinking NFT market as volumes and users fall",
+          "url": "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-bayc-rally-masks-a-shrinking-nft-market-as-volumes-and-users-fall",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Ethereum Foundation",
+      "count": 2,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "ETH price up 10% in April, so why is Ethereum Foundation selling?",
+          "url": "https://cointelegraph.com/markets/eth-price-up-10-in-april-so-why-is-ethereum-foundation-selling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Ethereum Foundation unstakes 17K ETH after nearing 70K staked ETH milestone",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-unstakes-17k-eth-after-nearing-70k-staked-eth-milestone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "crypto ETFs",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin funds take in $933 million as crypto ETFs hit highest AUM since February",
+          "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-funds-take-in-usd933-million-as-crypto-etfs-hit-highest-aum-since-february",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "South Korea's",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "South Korea's KBank and Ripple are teaming up to fix international money transfers",
+          "url": "https://www.coindesk.com/markets/2026/04/27/south-korea-s-kbank-tests-international-blockchain-transfers-with-ripple",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "KBank",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "South Korea's KBank and Ripple are teaming up to fix international money transfers",
+          "url": "https://www.coindesk.com/markets/2026/04/27/south-korea-s-kbank-tests-international-blockchain-transfers-with-ripple",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Russia",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "EU\u2019s largest measures against Russia yet include escalation of crypto sanctions evasion",
+          "url": "https://www.coindesk.com/policy/2026/04/27/eu-s-largest-measures-against-russia-yet-include-escalation-of-crypto-sanctions-evasion",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Robinhood",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Global interest rates, Robinhood, Galaxy earnings: Crypto Week Ahead",
+          "url": "https://www.coindesk.com/markets/2026/04/27/global-interest-rates-robinhood-galaxy-earnings-crypto-week-ahead",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Satoshi",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "A long-time developer wants to split Bitcoin blockchain and reassign Satoshi coins. The community is calling it a theft",
+          "url": "https://www.coindesk.com/tech/2026/04/27/a-long-time-developer-wants-to-fork-bitcoin-and-reassign-satoshi-coins-the-community-is-calling-it-a-theft",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "BAYC",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Pudgy Penguins, BAYC rally masks a shrinking NFT market as volumes and users fall",
+          "url": "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-bayc-rally-masks-a-shrinking-nft-market-as-volumes-and-users-fall",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "NFT",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Pudgy Penguins, BAYC rally masks a shrinking NFT market as volumes and users fall",
+          "url": "https://www.coindesk.com/markets/2026/04/27/pudgy-penguins-bayc-rally-masks-a-shrinking-nft-market-as-volumes-and-users-fall",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Kelp DAO",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Aave raises nearly 80% of the $200 million it needs to cover bad debt left by Kelp DAO exploit",
+          "url": "https://www.coindesk.com/business/2026/04/26/aave-raises-nearly-80-of-the-usd200-million-it-needs-to-cover-bad-debt-left-by-kelp-dao-exploit",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "MiCA",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "MiCA's not enough: Bybit CEO says firms need other licenses to turn a profit in Europe",
+          "url": "https://www.coindesk.com/policy/2026/04/26/mica-s-not-enough-bybit-ceo-says-firms-need-other-licenses-to-turn-a-profit-in-europe",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Bybit",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "MiCA's not enough: Bybit CEO says firms need other licenses to turn a profit in Europe",
+          "url": "https://www.coindesk.com/policy/2026/04/26/mica-s-not-enough-bybit-ceo-says-firms-need-other-licenses-to-turn-a-profit-in-europe",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Coinbase",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Coinbase's John D\u2019Agostino says crypto platform stands alone as industry's full-service prime broker",
+          "url": "https://www.coindesk.com/business/2026/04/21/coinbase-s-john-d-agostino-says-exchange-stands-alone-as-crypto-s-full-service-prime-broker",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "John D\u2019Agostino",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Coinbase's John D\u2019Agostino says crypto platform stands alone as industry's full-service prime broker",
+          "url": "https://www.coindesk.com/business/2026/04/21/coinbase-s-john-d-agostino-says-exchange-stands-alone-as-crypto-s-full-service-prime-broker",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Alchemy",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Crypto is built for AI agents, not humans, says Alchemy's CEO",
+          "url": "https://www.coindesk.com/tech/2026/04/25/crypto-is-built-for-ai-agents-not-humans-says-alchemy-s-ceo",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Circle",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "MiCA-licensed Banking Circle joins bank stablecoin settlement race in Europe",
+          "url": "https://cointelegraph.com/news/mica-licensed-banking-circle-joins-bank-stablecoin-settlement-race-in-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "France",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "88 people charged over 12 crypto wrench attacks in France",
+          "url": "https://cointelegraph.com/news/88-people-charged-over-12-crypto-wrench-attacks-in-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Western Union",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Western Union eyes May for its stablecoin USDPT rollout",
+          "url": "https://cointelegraph.com/news/western-union-usdpt-stablecoin-may-launch-dan-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "USDPT",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Western Union eyes May for its stablecoin USDPT rollout",
+          "url": "https://cointelegraph.com/news/western-union-usdpt-stablecoin-may-launch-dan-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Arbitrum",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Aave asks Arbitrum to send 30K ETH from Kelp exploiter to \u2018DeFi United\u2019",
+          "url": "https://cointelegraph.com/news/arbitrum-dao-asked-to-unfreeze-30k-eth-tied-to-kelp-hacker-direct-them-to-defi-united?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Kelp",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Aave asks Arbitrum to send 30K ETH from Kelp exploiter to \u2018DeFi United\u2019",
+          "url": "https://cointelegraph.com/news/arbitrum-dao-asked-to-unfreeze-30k-eth-tied-to-kelp-hacker-direct-them-to-defi-united?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Michael Saylor",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Strategy's Michael Saylor again hints at impending BTC purchase",
+          "url": "https://cointelegraph.com/news/strategy-michael-saylor-bitcoin-purchase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Litecoin",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Litecoin gives post-attack update, but other devs doubt zero-day theory",
+          "url": "https://cointelegraph.com/news/litecoin-post-mortem-chain-reorganization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "ETH",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Ethereum Foundation unstakes 17K ETH after nearing 70K staked ETH milestone",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-unstakes-17k-eth-after-nearing-70k-staked-eth-milestone?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Trump",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Trump\u2019s official memecoin extends slide as he hosts exclusive investor gala",
+          "url": "https://cointelegraph.com/news/trump-s-official-memecoin-extends-slide-even-as-he-hosts-exclusive-investor-gala?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "CFTC",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "CFTC sues New York over bid to apply gambling laws to prediction markets",
+          "url": "https://cointelegraph.com/news/cftc-sues-new-york-over-bid-to-apply-gambling-laws-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "New York",
+      "count": 1,
+      "sources": [
+        "CoinTelegraph"
+      ],
+      "articles": [
+        {
+          "title": "CFTC sues New York over bid to apply gambling laws to prediction markets",
+          "url": "https://cointelegraph.com/news/cftc-sues-new-york-over-bid-to-apply-gambling-laws-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": false
+    }
+  ],
+  "crypto_trending": [
+    {
+      "name": "Perle",
+      "symbol": "PRL",
+      "market_cap_rank": 453,
+      "thumb": "https://coin-images.coingecko.com/coins/images/102172470/standard/Symbol_-_Mango_%281%29.png?1773500485"
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "market_cap_rank": 90,
+      "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "market_cap_rank": 1,
+      "thumb": "https://coin-images.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400"
+    },
+    {
+      "name": "USD.AI",
+      "symbol": "CHIP",
+      "market_cap_rank": 214,
+      "thumb": "https://coin-images.coingecko.com/coins/images/102171777/standard/CHIP_Token_Logo_Large.png?1776777444"
+    },
+    {
+      "name": "Terra Luna Classic",
+      "symbol": "LUNC",
+      "market_cap_rank": 131,
+      "thumb": "https://coin-images.coingecko.com/coins/images/8284/standard/01_LunaClassic_color.png?1696508486"
+    },
+    {
+      "name": "Onyxcoin",
+      "symbol": "XCN",
+      "market_cap_rank": 160,
+      "thumb": "https://coin-images.coingecko.com/coins/images/24210/standard/onyxlogo.jpg?1696523397"
+    },
+    {
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "market_cap_rank": 37,
+      "thumb": "https://coin-images.coingecko.com/coins/images/28452/standard/ARUsPeNQ_400x400.jpeg?1696527447"
+    },
+    {
+      "name": "Canton",
+      "symbol": "CC",
+      "market_cap_rank": 20,
+      "thumb": "https://coin-images.coingecko.com/coins/images/70468/standard/Canton-Ticker_%281%29.png?1762826299"
+    },
+    {
+      "name": "RaveDAO",
+      "symbol": "RAVE",
+      "market_cap_rank": 174,
+      "thumb": "https://coin-images.coingecko.com/coins/images/70544/standard/coin.jpeg?1762452940"
+    },
+    {
+      "name": "Pi Network",
+      "symbol": "PI",
+      "market_cap_rank": 46,
+      "thumb": "https://coin-images.coingecko.com/coins/images/54342/standard/pi_network.jpg?1739347576"
+    }
+  ],
+  "stock_trending": [
+    {
+      "symbol": "VZ",
+      "name": "Verizon Communications Inc.",
+      "price": 46.38,
+      "change_pct": -1.78
+    },
+    {
+      "symbol": "QCOM",
+      "name": "QUALCOMM Incorporated",
+      "price": 148.85,
+      "change_pct": 11.12
+    },
+    {
+      "symbol": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 77713.92,
+      "change_pct": -1.22
+    },
+    {
+      "symbol": "NTLA",
+      "name": "Intellia Therapeutics, Inc.",
+      "price": 13.63,
+      "change_pct": -14.11
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 208.26,
+      "change_pct": 4.31
+    },
+    {
+      "symbol": "XE",
+      "name": "X-Energy, Inc. Class A Common Stock",
+      "price": 29.2,
+      "change_pct": 26.96
+    },
+    {
+      "symbol": "POET",
+      "name": "POET Technologies Inc.",
+      "price": 15.1,
+      "change_pct": 28.84
+    },
+    {
+      "symbol": "DPZ",
+      "name": "Domino's Pizza, Inc.",
+      "price": 368.18,
+      "change_pct": -1.04
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "price": 271.06,
+      "change_pct": -0.87
+    },
+    {
+      "symbol": "OGN",
+      "name": "Organon & Co.",
+      "price": 11.26,
+      "change_pct": 30.93
+    }
+  ],
+  "total_articles": 80
+}
