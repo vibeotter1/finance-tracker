@@ -402,7 +402,7 @@ h2 {
 /* Ticker */
 .ticker-wrapper {
   background: var(--surface);
-  border-bottom: 1px solid var(--border);
+  border-bottom: 1px solid var(--accent);
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
@@ -413,7 +413,7 @@ h2 {
   align-items: center;
   height: 36px;
   overflow: hidden;
-  border-bottom: 1px solid var(--border);
+  border-bottom: 1px solid var(--accent);
 }
 
 .ticker-row:last-child { border-bottom: none; }
@@ -499,7 +499,11 @@ h2 {
   align-items: center;
   gap: 0.4rem;
   white-space: nowrap;
+  text-decoration: none;
+  transition: opacity 120ms ease-out;
 }
+
+.ticker-stock:hover { opacity: 0.75; }
 
 .ticker-stock-symbol {
   font-family: 'IBM Plex Mono', monospace;

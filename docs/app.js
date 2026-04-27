@@ -180,11 +180,14 @@ function renderStocks(stocks) {
     const cls = pct > 0.1 ? 'up' : pct < -0.1 ? 'down' : 'flat';
     const sign = pct > 0 ? '+' : '';
     return `
-      <div class="ticker-stock">
+      <a class="ticker-stock"
+         href="https://finance.yahoo.com/quote/${encodeURIComponent(s.symbol)}"
+         target="_blank"
+         rel="noopener noreferrer">
         <span class="ticker-stock-symbol">${escHtml(s.symbol)}</span>
         ${s.name ? `<span class="ticker-stock-name">${escHtml(s.name)}</span>` : ''}
         <span class="ticker-stock-change ${cls}">${sign}${pct.toFixed(2)}%</span>
-      </div>
+      </a>
       <span class="ticker-divider">·</span>
     `;
   };
