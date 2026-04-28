@@ -1,0 +1,819 @@
+{
+  "date": "2026-04-28",
+  "topics": [
+    {
+      "name": "Bitcoin",
+      "count": 6,
+      "sources": [
+        "CoinDesk",
+        "Hacker News",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin rally shows signs of fatigue as key indicators turn bearish",
+          "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-rally-shows-signs-of-fatigue-as-key-indicators-turn-bearish",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin pulls back to $76,600 as rising oil price and Iran risks stall the rally",
+          "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-to-usd76-600-as-rising-oil-price-and-iran-risks-stall-the-rally",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin is climbing on thin volume, leaving rally vulnerable to macro shock",
+          "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-is-climbing-on-thin-volume-leaving-this-rally-vulnerable-to-macro-shock",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "MARA Foundation to foster long-term adoption of Bitcoin, including resilience against quantum and security budget risks",
+          "url": "https://www.theblock.co/post/399069/mara-foundation-adoption-bitcoin-resilience-quantum-security-budget-risks?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "As Russia invaded Ukraine, Bitcoin plunged \u2013 here's what crypto experts said",
+          "url": "https://markets.businessinsider.com/news/currencies/bitcoin-ethereum-blockchain-ukraine-russia-war-conflict-europe-america-china-2022-2",
+          "source": "Hacker News"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "China",
+      "count": 5,
+      "sources": [
+        "CNBC",
+        "Hacker News",
+        "MarketWatch"
+      ],
+      "articles": [
+        {
+          "title": "A second China shock is hitting Europe. These stocks are most vulnerable, strategist says.",
+          "url": "https://www.marketwatch.com/story/a-second-china-shock-is-hitting-europe-these-stocks-are-most-vulnerable-strategist-says-41ff6200?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "'Draconian development' in Meta-Manus deal draws the line in China's AI race with the U.S.",
+          "url": "https://www.cnbc.com/2026/04/28/china-blocks-meta-manus-deal-ai-tech-rivalry.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Foreign car companies bet on technology to hang onto once-lucrative China auto market",
+          "url": "https://www.cnbc.com/2026/04/24/foreign-car-companies-use-technology-to-hang-onto-china-auto-market.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Ethereum is top public blockchain, Bitcoin No. 13 in China's new index",
+          "url": "https://www.reuters.com/article/us-crypto-currency-index/ethereum-is-top-public-blockchain-bitcoin-no-13-in-chinas-new-index-idUSKCN1II2R9?il=0",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Ethereum is top public blockchain, Bitcoin No. 13 in China's new index",
+          "url": "https://www.reuters.com/article/us-crypto-currency-index/ethereum-is-top-public-blockchain-bitcoin-no-13-in-chinas-new-index-idUSKCN1II2R9",
+          "source": "Hacker News"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "OpenAI",
+      "count": 5,
+      "sources": [
+        "CNBC",
+        "Decrypt",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Stock market today: S&P 500, Nasdaq, Dow futures mixed as OpenAI-linked stocks falter",
+          "url": "https://finance.yahoo.com/markets/stocks/live/stock-market-today-tuesday-april-28-225503310.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "OpenAI reportedly missed revenue targets. Shares of Oracle and these chip stocks are falling",
+          "url": "https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "This bank CEO let his AI clone handle an earnings call \u2014 now he's signing an OpenAI deal",
+          "url": "https://www.cnbc.com/2026/04/27/openai-partners-with-customers-bank-in-push-to-automate-finance.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "OpenAI Is Building Its Own Smartphone Chip With Qualcomm and MediaTek: Report",
+          "url": "https://decrypt.co/365726/openai-smartphone-chip-qualcomm-mediatek",
+          "source": "Decrypt"
+        },
+        {
+          "title": "OpenAI's Sam Altman Apologizes for Not Alerting Police Before Tumbler Ridge Mass Shooting",
+          "url": "https://decrypt.co/365645/openai-sam-altman-apologizes-not-alerting-police-tumbler-ridge-mass-shooting",
+          "source": "Decrypt"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Iran",
+      "count": 4,
+      "sources": [
+        "CNBC",
+        "CoinDesk",
+        "MarketWatch",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin pulls back to $76,600 as rising oil price and Iran risks stall the rally",
+          "url": "https://www.coindesk.com/markets/2026/04/27/bitcoin-pulls-back-to-usd76-600-as-rising-oil-price-and-iran-risks-stall-the-rally",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Global oil contract tops $110 after reports that Trump unhappy with proposal from Iran to end war",
+          "url": "https://www.marketwatch.com/story/global-oil-contract-tops-110-after-reports-that-trump-unhappy-with-proposal-from-iran-to-end-war-0708b8ec?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Toyota suppliers feeling profit pressure from Iran war",
+          "url": "https://finance.yahoo.com/news/toyota-suppliers-feeling-profit-pressure-103210424.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Bessent defends U.S. dollar swap lines as Iran war harms global finances",
+          "url": "https://www.cnbc.com/2026/04/24/bessent-iran-war-uae-swap-lines-gulf-asia.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Trump",
+      "count": 4,
+      "sources": [
+        "CoinTelegraph",
+        "MarketWatch",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Trump changes tune on prediction markets days after saying he disliked them",
+          "url": "https://cointelegraph.com/news/trump-changes-stance-after-saying-he-disliked-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Global oil contract tops $110 after reports that Trump unhappy with proposal from Iran to end war",
+          "url": "https://www.marketwatch.com/story/global-oil-contract-tops-110-after-reports-that-trump-unhappy-with-proposal-from-iran-to-end-war-0708b8ec?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "White House crypto advisor hints at  \u2018big announcement\u2019 on Trump\u2019s strategic bitcoin reserve in coming weeks",
+          "url": "https://www.theblock.co/post/399087/white-house-crypto-advisor-trump-strategic-bitcoin-reserve-coming-weeks?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Rep. Begich plans revival of bitcoin strategic reserve bill under new name to codify Trump\u2019s executive order",
+          "url": "https://www.theblock.co/post/399056/rep-begich-plans-revival-of-bitcoin-strategic-reserve-bill-under-new-name-to-codify-trumps-executive-order?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "quantum",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "MARA Holdings targets bitcoin quantum threat and network resilience with new foundation",
+          "url": "https://www.coindesk.com/markets/2026/04/27/mara-holdings-targets-bitcoin-quantum-threat-and-network-resilience-with-new-foundation",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Solana developers outline plan to protect network from quantum threats",
+          "url": "https://www.coindesk.com/tech/2026/04/27/solana-developers-outline-plan-to-protect-network-from-quantum-threats",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "MARA Foundation to foster long-term adoption of Bitcoin, including resilience against quantum and security budget risks",
+          "url": "https://www.theblock.co/post/399069/mara-foundation-adoption-bitcoin-resilience-quantum-security-budget-risks?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Solana",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Hacker News"
+      ],
+      "articles": [
+        {
+          "title": "Solana developers outline plan to protect network from quantum threats",
+          "url": "https://www.coindesk.com/tech/2026/04/27/solana-developers-outline-plan-to-protect-network-from-quantum-threats",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Solana clients Anza and Firedancer introduce post-quantum solution Falcon",
+          "url": "https://cointelegraph.com/news/solana-introduces-post-quantum-solution-falcon-on-two-validator-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Solana Developers Release Software Update to Alleviate Network Congestion",
+          "url": "https://news.ycombinator.com/item?id=40068258",
+          "source": "Hacker News"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "U.S.",
+      "count": 3,
+      "sources": [
+        "CNBC",
+        "MarketWatch"
+      ],
+      "articles": [
+        {
+          "title": "SoftBank shares dive, U.S. tech stocks under pressure on report of missed goals at OpenAI",
+          "url": "https://www.marketwatch.com/story/after-report-of-openai-missing-targets-one-company-sees-its-worst-share-price-decline-in-six-months-f552fe04?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "'Draconian development' in Meta-Manus deal draws the line in China's AI race with the U.S.",
+          "url": "https://www.cnbc.com/2026/04/28/china-blocks-meta-manus-deal-ai-tech-rivalry.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Bessent defends U.S. dollar swap lines as Iran war harms global finances",
+          "url": "https://www.cnbc.com/2026/04/24/bessent-iran-war-uae-swap-lines-gulf-asia.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Stephens",
+      "count": 3,
+      "sources": [
+        "Investing.com"
+      ],
+      "articles": [
+        {
+          "title": "Stephens raises United Community Banks stock price target on earnings outlook",
+          "url": "https://www.investing.com/news/analyst-ratings/stephens-raises-united-community-banks-stock-price-target-on-earnings-outlook-93CH-4641207",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Stephens raises Lending Club stock price target on strong earnings",
+          "url": "https://www.investing.com/news/analyst-ratings/stephens-raises-lending-club-stock-price-target-on-strong-earnings-93CH-4641192",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Stephens raises Simpson Manufacturing stock price target on strong results",
+          "url": "https://www.investing.com/news/analyst-ratings/stephens-raises-simpson-manufacturing-stock-price-target-on-strong-results-93CH-4641190",
+          "source": "Investing.com"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Intel",
+      "count": 3,
+      "sources": [
+        "CNBC"
+      ],
+      "articles": [
+        {
+          "title": "Stocks making the biggest moves midday: Intel, AMD, Charter, Hims & Hers, Eli Lilly and more",
+          "url": "https://www.cnbc.com/2026/04/24/stocks-making-the-biggest-moves-midday-chtr-hims-intc-amd-lly.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Intel, Advanced Micro Devices, Procter & Gamble & more",
+          "url": "https://www.cnbc.com/2026/04/24/stocks-making-the-biggest-moves-premarket-intc-amd-pg.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Stocks making the biggest moves after hours: Intel, SAP, Boyd Gaming, MaxLinear and more",
+          "url": "https://www.cnbc.com/2026/04/23/stocks-making-the-biggest-moves-after-hours-intc-sap-byd-mxl.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Jack Dorsey's",
+      "count": 2,
+      "sources": [
+        "CoinDesk",
+        "Decrypt"
+      ],
+      "articles": [
+        {
+          "title": "Jack Dorsey's Block nears 9,000 bitcoin in treasury after Q1 addition",
+          "url": "https://www.coindesk.com/business/2026/04/28/jack-dorsey-s-block-nears-9-000-bitcoin-in-treasury-after-q1-addition",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Jack Dorsey's Block Discloses $2.2B Bitcoin Holdings in Q1 Proof-of-Reserves Report",
+          "url": "https://decrypt.co/365771/jack-dorseys-block-discloses-2-2b-bitcoin-holdings-in-q1-proof-of-reserves-report",
+          "source": "Decrypt"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Fed",
+      "count": 2,
+      "sources": [
+        "CoinDesk",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin pressured by Fed uncertainty, oil, and AI slowdown",
+          "url": "https://www.coindesk.com/markets/2026/04/28/the-uncertainty-of-the-fed-oil-and-a-possible-ai-slowdown-are-all-weighing-heavy-on-btc",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin and ethereum prices today, Tuesday, April 28, 2026: Values falling ahead of Fed meeting",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-tuesday-april-28-2026-values-falling-ahead-of-fed-meeting-114535390.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "ETH",
+      "count": 2,
+      "sources": [
+        "CoinTelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Ether triple top strikes at $2.4K as ETH analysts doubt bullish trend change",
+          "url": "https://cointelegraph.com/markets/ether-triple-top-pattern-rejects-24k-as-eth-analyst-questions-uptrend?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "DeFi United push hits $300M as Consensys and Joseph Lubin contribute 30,000 ETH",
+          "url": "https://www.theblock.co/post/399010/defi-united-push-hits-300m-as-consensys-and-joseph-lubin-contribute-30000-eth?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Oracle",
+      "count": 2,
+      "sources": [
+        "CNBC",
+        "Investing.com"
+      ],
+      "articles": [
+        {
+          "title": "Oracle, CoreWeave shares drop after report flags OpenAI growth worries",
+          "url": "https://www.investing.com/news/stock-market-news/oracle-coreweave-shares-drop-after-report-flags-openai-growth-worries-4641199",
+          "source": "Investing.com"
+        },
+        {
+          "title": "OpenAI reportedly missed revenue targets. Shares of Oracle and these chip stocks are falling",
+          "url": "https://www.cnbc.com/2026/04/28/openai-reportedly-missed-revenue-targets-shares-of-oracle-and-these-chip-stocks-are-falling.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Coca-Cola",
+      "count": 2,
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Earnings live updates: Spotify stock tanks on guidance miss, Coca-Cola stock rises",
+          "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-spotify-stock-tanks-on-guidance-miss-coca-cola-stock-rises-111414223.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Oracle, General Motors, Coca-Cola, Spotify & more",
+          "url": "https://www.cnbc.com/2026/04/28/stocks-making-the-biggest-moves-premarket-orcl-gm-ko-spot.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "AMD",
+      "count": 2,
+      "sources": [
+        "CNBC"
+      ],
+      "articles": [
+        {
+          "title": "Stocks making the biggest moves midday: Sandisk, Micron, Verizon, AMD, GE Vernova and more",
+          "url": "https://www.cnbc.com/2026/04/27/stocks-making-the-biggest-moves-midday-sndk-mu-vz-amd-gev.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Stocks making the biggest moves midday: Intel, AMD, Charter, Hims & Hers, Eli Lilly and more",
+          "url": "https://www.cnbc.com/2026/04/24/stocks-making-the-biggest-moves-midday-chtr-hims-intc-amd-lly.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "DeFi United",
+      "count": 2,
+      "sources": [
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "DeFi United unveils plan to restore rsETH after $292 million Kelp DAO exploit",
+          "url": "https://www.theblock.co/post/399118/defi-united-detailed-plan?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "DeFi United push hits $300M as Consensys and Joseph Lubin contribute 30,000 ETH",
+          "url": "https://www.theblock.co/post/399010/defi-united-push-hits-300m-as-consensys-and-joseph-lubin-contribute-30000-eth?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Crypto",
+      "count": 2,
+      "sources": [
+        "Hacker News"
+      ],
+      "articles": [
+        {
+          "title": "Ask HN: ELI5 \u2013 Crypto, Blockchain and Web3.0",
+          "url": "https://news.ycombinator.com/item?id=29629868",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Crypto Doesn't Need Blockchain",
+          "url": "https://news.ycombinator.com/item?id=44660422",
+          "source": "Hacker News"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Blockchain",
+      "count": 2,
+      "sources": [
+        "Hacker News"
+      ],
+      "articles": [
+        {
+          "title": "Ask HN: ELI5 \u2013 Crypto, Blockchain and Web3.0",
+          "url": "https://news.ycombinator.com/item?id=29629868",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Alternative Services for Blockchain?",
+          "url": "https://news.ycombinator.com/item?id=30467453",
+          "source": "Hacker News"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Macro",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Bulls want bitcoin back above $80,000. Macro says not so fast.",
+          "url": "https://www.coindesk.com/daybook-us/2026/04/28/bulls-want-bitcoin-back-above-usd80-000-macro-says-not-so-fast",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Israel",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "A digital shekel is here: Israel approves its first regulated stablecoin",
+          "url": "https://www.coindesk.com/policy/2026/04/28/a-digital-shekel-is-here-israel-approves-its-first-regulated-stablecoin",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "treasury",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Jack Dorsey's Block nears 9,000 bitcoin in treasury after Q1 addition",
+          "url": "https://www.coindesk.com/business/2026/04/28/jack-dorsey-s-block-nears-9-000-bitcoin-in-treasury-after-q1-addition",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Bitmine",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Bitmine's ether buys are catching up to Strategy's bitcoin accumulation pace",
+          "url": "https://www.coindesk.com/business/2026/04/28/bitmine-s-ether-buys-are-catching-up-to-strategy-s-bitcoin-accumulation-pace",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Strategy",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Bitmine's ether buys are catching up to Strategy's bitcoin accumulation pace",
+          "url": "https://www.coindesk.com/business/2026/04/28/bitmine-s-ether-buys-are-catching-up-to-strategy-s-bitcoin-accumulation-pace",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Ondo Finance",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Ondo Finance adds proxy voting for holders of its $700 million tokenized equities",
+          "url": "https://www.coindesk.com/tech/2026/04/28/ondo-finance-adds-proxy-voting-for-holders-of-its-usd700-million-tokenized-equities",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Three Bank of Japan",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Three Bank of Japan members call for a rate hike; yen rises while bitcoin falls",
+          "url": "https://www.coindesk.com/markets/2026/04/28/three-bank-of-japan-members-call-for-a-rate-hike-yen-rises-while-bitcoin-falls",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "XRP",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "What next as XRP drops 3% under $1.40 on strong selling",
+          "url": "https://www.coindesk.com/markets/2026/04/28/what-next-as-xrp-drops-3-under-usd1-40-on-strong-selling",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "solana slide",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin loses $77,000, ether, solana slide as Hormuz standoff lifts oil to 3-week high",
+          "url": "https://www.coindesk.com/markets/2026/04/28/bitcoin-loses-usd77-000-ether-solana-slide-as-hormuz-standoff-lifts-oil-to-3-week-high",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Hormuz",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin loses $77,000, ether, solana slide as Hormuz standoff lifts oil to 3-week high",
+          "url": "https://www.coindesk.com/markets/2026/04/28/bitcoin-loses-usd77-000-ether-solana-slide-as-hormuz-standoff-lifts-oil-to-3-week-high",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Aave",
+      "count": 1,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Industry leaders are pouring hundreds of millions into a rescue plan for Aave users after massive crypto hack",
+          "url": "https://www.coindesk.com/tech/2026/04/27/industry-leaders-are-pouring-hundreds-of-millions-into-a-rescue-plan-for-aave-users-after-massive-crypto-hack",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    }
+  ],
+  "crypto_trending": [
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "market_cap_rank": 89,
+      "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+    },
+    {
+      "name": "Polyhedra Network",
+      "symbol": "ZKJ",
+      "market_cap_rank": 986,
+      "thumb": "https://coin-images.coingecko.com/coins/images/36198/standard/Polyhedra_Symbol_Black_on_White.png?1747150504"
+    },
+    {
+      "name": "Pi Network",
+      "symbol": "PI",
+      "market_cap_rank": 46,
+      "thumb": "https://coin-images.coingecko.com/coins/images/54342/standard/pi_network.jpg?1739347576"
+    },
+    {
+      "name": "USD.AI",
+      "symbol": "CHIP",
+      "market_cap_rank": 228,
+      "thumb": "https://coin-images.coingecko.com/coins/images/102171777/standard/CHIP_Token_Logo_Large.png?1776777444"
+    },
+    {
+      "name": "Terra Luna Classic",
+      "symbol": "LUNC",
+      "market_cap_rank": 127,
+      "thumb": "https://coin-images.coingecko.com/coins/images/8284/standard/01_LunaClassic_color.png?1696508486"
+    },
+    {
+      "name": "Perle",
+      "symbol": "PRL",
+      "market_cap_rank": 396,
+      "thumb": "https://coin-images.coingecko.com/coins/images/102172470/standard/Symbol_-_Mango_%281%29.png?1773500485"
+    },
+    {
+      "name": "Monad",
+      "symbol": "MON",
+      "market_cap_rank": 129,
+      "thumb": "https://coin-images.coingecko.com/coins/images/38927/standard/mon.png?1766029057"
+    },
+    {
+      "name": "Aave",
+      "symbol": "AAVE",
+      "market_cap_rank": 54,
+      "thumb": "https://coin-images.coingecko.com/coins/images/12645/standard/aave-token-round.png?1720472354"
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "market_cap_rank": 7,
+      "thumb": "https://coin-images.coingecko.com/coins/images/4128/standard/solana.png?1718769756"
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "market_cap_rank": 111,
+      "thumb": "https://coin-images.coingecko.com/coins/images/31745/standard/token.png?1696530564"
+    }
+  ],
+  "stock_trending": [
+    {
+      "symbol": "SPOT",
+      "name": "Spotify Technology S.A.",
+      "price": 495.82,
+      "change_pct": -4.28
+    },
+    {
+      "symbol": "GM",
+      "name": "General Motors Company",
+      "price": 77.96,
+      "change_pct": -0.12
+    },
+    {
+      "symbol": "UPS",
+      "name": "United Parcel Service, Inc.",
+      "price": 108.24,
+      "change_pct": 1.14
+    },
+    {
+      "symbol": "LAC",
+      "name": "Lithium Americas Corp.",
+      "price": 5.25,
+      "change_pct": 13.15
+    },
+    {
+      "symbol": "JOBY",
+      "name": "Joby Aviation, Inc.",
+      "price": 9.04,
+      "change_pct": 6.35
+    },
+    {
+      "symbol": "SNAP",
+      "name": "Snap Inc.",
+      "price": 6.06,
+      "change_pct": 7.26
+    },
+    {
+      "symbol": "RMBS",
+      "name": "Rambus Inc.",
+      "price": 141.31,
+      "change_pct": -10.79
+    },
+    {
+      "symbol": "ORCL",
+      "name": "Oracle Corporation",
+      "price": 172.96,
+      "change_pct": -0.18
+    },
+    {
+      "symbol": "KMB",
+      "name": "Kimberly-Clark Corporation",
+      "price": 98.25,
+      "change_pct": 0.41
+    },
+    {
+      "symbol": "ARM",
+      "name": "Arm Holdings plc",
+      "price": 215.88,
+      "change_pct": -8.06
+    }
+  ],
+  "fear_greed": {
+    "value": 33,
+    "classification": "Fear",
+    "history": [
+      {
+        "value": 33,
+        "classification": "Fear"
+      },
+      {
+        "value": 47,
+        "classification": "Neutral"
+      },
+      {
+        "value": 33,
+        "classification": "Fear"
+      },
+      {
+        "value": 31,
+        "classification": "Fear"
+      },
+      {
+        "value": 39,
+        "classification": "Fear"
+      },
+      {
+        "value": 46,
+        "classification": "Fear"
+      },
+      {
+        "value": 32,
+        "classification": "Fear"
+      }
+    ]
+  },
+  "total_articles": 162
+}
