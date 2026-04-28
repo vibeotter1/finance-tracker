@@ -54,9 +54,21 @@ async function init() {
   renderTopics(latest.topics || [], latest.date, true);
   renderCrypto(latest.crypto_trending || []);
   renderStocks(latest.stock_trending || []);
+  renderFearGreed(latest.fear_greed || null);
   renderTrendChart(activeDays);
   renderArchive(snapshots, latest.date);
   initChartTabs();
+}
+
+function renderFearGreed(data) {
+  const el = document.getElementById('fear-greed');
+  if (!data) return;
+  const cls = data.classification.toLowerCase().replace(' ', '-');
+  document.getElementById('fear-greed-value').textContent = data.value;
+  const clsEl = document.getElementById('fear-greed-class');
+  clsEl.textContent = data.classification;
+  clsEl.className = `fear-greed-class ${cls}`;
+  el.hidden = false;
 }
 
 function showEmpty(msg) {

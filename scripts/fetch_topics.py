@@ -16,9 +16,15 @@ RSS_FEEDS = [
     ("MarketWatch", "https://feeds.marketwatch.com/marketwatch/topstories"),
     ("Investing.com", "https://www.investing.com/rss/news.rss"),
     ("Yahoo Finance", "https://finance.yahoo.com/news/rssindex"),
+    ("CNBC", "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"),
+    ("The Block", "https://www.theblock.co/rss.xml"),
+    ("Decrypt", "https://decrypt.co/feed"),
 ]
 
-REDDIT_SUBS = ["finance", "investing", "CryptoCurrency", "economics"]
+REDDIT_SUBS = [
+    "finance", "investing", "CryptoCurrency", "economics",
+    "wallstreetbets", "stocks", "Bitcoin", "ethereum",
+]
 HEADERS = {"User-Agent": "FinanceTracker/1.0 (github.com/vibeotter1/finance-tracker)"}
 NER_LABELS = {"ORG", "PERSON", "GPE", "PRODUCT", "EVENT", "LAW"}
 DATA_DIR = "data"
@@ -134,6 +140,54 @@ def fetch_stock_trending():
     return stocks
 
 
+def fetch_hackernews():
+    items = []
+    seen = set()
+    for query in ["finance investing market economy", "crypto bitcoin ethereum blockchain"]:
+        try:
+            url = f"https://hn.algolia.com/api/v1/search?tags=story&query={requests.utils.quote(query)}&hitsPerPage=20"
+            r = requests.get(url, headers=HEADERS, timeout=10)
+            r.raise_for_status()
+            for hit in r.json().get("hits", []):
+                title = hit.get("title", "").strip()
+                obj_id = hit.get("objectID")
+                if title and obj_id and obj_id not in seen:
+                    seen.add(obj_id)
+                    items.append({
+                        "title": title,
+                        "url": hit.get("url") or f"https://news.ycombinator.com/item?id={obj_id}",
+                        "source": "Hacker News",
+                    })
+        except Exception as e:
+            print(f"  HN: {e}")
+    return items
+
+
+def fetch_fear_greed():
+    try:
+        r = requests.get(
+            "https://api.alternative.me/fng/?limit=7",
+            headers=HEADERS,
+            timeout=10,
+        )
+        r.raise_for_status()
+        data = r.json().get("data", [])
+        if not data:
+            return None
+        today = data[0]
+        return {
+            "value": int(today["value"]),
+            "classification": today["value_classification"],
+            "history": [
+                {"value": int(d["value"]), "classification": d["value_classification"]}
+                for d in data
+            ],
+        }
+    except Exception as e:
+        print(f"  Fear & Greed: {e}")
+        return None
+
+
 def extract_topics(items, nlp):
     entity_items = defaultdict(list)
 
@@ -197,11 +251,13 @@ def main():
 
     rss_items = fetch_rss()
     reddit_items = fetch_reddit()
+    hn_items = fetch_hackernews()
     crypto = fetch_crypto_trending()
     stocks = fetch_stock_trending()
-    all_items = rss_items + reddit_items
+    fear_greed = fetch_fear_greed()
+    all_items = rss_items + reddit_items + hn_items
 
-    print(f"  {len(rss_items)} RSS + {len(reddit_items)} Reddit = {len(all_items)} total")
+    print(f"  {len(rss_items)} RSS + {len(reddit_items)} Reddit + {len(hn_items)} HN = {len(all_items)} total")
 
     topics = extract_topics(all_items, nlp)
     prev = load_previous_topics()
@@ -213,6 +269,7 @@ def main():
         "topics": topics,
         "crypto_trending": crypto,
         "stock_trending": stocks,
+        "fear_greed": fear_greed,
         "total_articles": len(all_items),
     }
 

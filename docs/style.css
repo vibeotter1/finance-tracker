@@ -63,6 +63,45 @@ h1 {
 
 .header-title { display: flex; flex-direction: column; gap: 4px; }
 
+.fear-greed {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 2px;
+  flex-shrink: 0;
+}
+
+.fear-greed-label {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.58rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  opacity: 0.6;
+}
+
+.fear-greed-value {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 1.6rem;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+  color: var(--text);
+}
+
+.fear-greed-class {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+}
+
+.fear-greed-class.extreme-fear  { color: #f85149; }
+.fear-greed-class.fear          { color: #e3943a; }
+.fear-greed-class.neutral       { color: var(--text-muted); }
+.fear-greed-class.greed         { color: #7ee787; }
+.fear-greed-class.extreme-greed { color: var(--accent); }
+
 .h1-row {
   display: flex;
   align-items: baseline;
