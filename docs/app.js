@@ -1,6 +1,12 @@
 const CHART_COLORS = [
-  '#3fb950', '#7ee787', '#56d364', '#2ea043',
-  '#26a641', '#1a7f37', '#0d6124', '#e6edf3',
+  '#3fb950', // green  (accent)
+  '#58a6ff', // blue
+  '#f85149', // red
+  '#e3b341', // amber
+  '#bc8cff', // lavender
+  '#ffa657', // orange
+  '#39c5cf', // cyan
+  '#f778ba', // pink
 ];
 
 let allSnapshots = [];
@@ -236,9 +242,11 @@ function renderTrendChart(days) {
       return found ? found.count : 0;
     }),
     borderColor: CHART_COLORS[i % CHART_COLORS.length],
+    pointBackgroundColor: CHART_COLORS[i % CHART_COLORS.length],
     backgroundColor: 'transparent',
     tension: 0.35,
-    pointRadius: 2.5,
+    pointRadius: 3,
+    pointHoverRadius: 6,
     borderWidth: 2,
   }));
 
