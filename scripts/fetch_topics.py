@@ -19,11 +19,15 @@ RSS_FEEDS = [
     ("CNBC", "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000664"),
     ("The Block", "https://www.theblock.co/rss.xml"),
     ("Decrypt", "https://decrypt.co/feed"),
+    ("Benzinga", "https://www.benzinga.com/feed"),
+    ("Seeking Alpha", "https://seekingalpha.com/feed.xml"),
+    ("Morningstar", "https://feeds.morningstar.com/rss/"),
 ]
 
 REDDIT_SUBS = [
     "finance", "investing", "CryptoCurrency", "economics",
     "wallstreetbets", "stocks", "Bitcoin", "ethereum",
+    "SecurityAnalysis", "GlobalMarkets",
 ]
 HEADERS = {"User-Agent": "FinanceTracker/1.0 (github.com/vibeotter1/finance-tracker)"}
 NER_LABELS = {"ORG", "PERSON", "GPE", "PRODUCT", "EVENT", "LAW"}
