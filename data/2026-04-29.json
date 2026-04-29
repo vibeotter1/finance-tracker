@@ -2,11 +2,130 @@
   "date": "2026-04-29",
   "topics": [
     {
-      "name": "Bitcoin",
-      "count": 6,
+      "name": "Iran",
+      "count": 30,
       "sources": [
+        "Bitcoin World",
+        "CBS News",
+        "CNBC",
+        "Crypto Briefing",
+        "MarketWatch",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Here\u2019s where Robinhood\u2019s retail traders have flocked as the Iran conflict rages on",
+          "url": "https://www.marketwatch.com/story/heres-where-robinhoods-retail-traders-have-flocked-as-the-iran-conflict-rages-on-198adc30?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "The stock market\u2019s comeback from the Iran-inspired selloff hasn\u2019t been as powerful as you might think",
+          "url": "https://www.marketwatch.com/story/the-stock-markets-comeback-from-the-iran-inspired-selloff-hasnt-been-as-powerful-as-you-might-think-6138bbec?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Bessent defends U.S. dollar swap lines as Iran war harms global finances",
+          "url": "https://www.cnbc.com/2026/04/24/bessent-iran-war-uae-swap-lines-gulf-asia.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "European markets open lower as Trump considers Iran peace proposal - CNBC",
+          "url": "https://www.cnbc.com/2026/04/28/european-markets-stoxx-600-ftse-dax-cac-iran-latest-news.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Live Updates: Oil prices rise as U.S. and Iran appear locked in a costly stalemate - CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-oil-price-strait-hormuz-stalemate-lebanon-hezbollah/",
+          "source": "CBS News"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Trump",
+      "count": 16,
+      "sources": [
+        "CNBC",
+        "CoinDesk",
+        "Crypto Briefing",
+        "Decrypt",
+        "GovExec.com",
+        "Politico",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin rises to $77,000 ahead of Fed decision as Trump preps for lengthy Hormuz block",
+          "url": "https://www.coindesk.com/markets/2026/04/29/bitcoin-rises-to-usd77-000-ahead-of-fed-decision-as-trump-preps-for-lengthy-hormuz-block",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Inside Trump\u2019s Meme Coin Bash: Foreign Guests, Iran War Riffs, and Mar-a-Lago Charm",
+          "url": "https://decrypt.co/365830/inside-trump-meme-coin-bash-foreign-guests-iran-war-mar-a-lago",
+          "source": "Decrypt"
+        },
+        {
+          "title": "European markets open lower as Trump considers Iran peace proposal - CNBC",
+          "url": "https://www.cnbc.com/2026/04/28/european-markets-stoxx-600-ftse-dax-cac-iran-latest-news.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "From bowling repairs to zoology, Trump admin consolidates job titles affecting 5,000 feds - Government Executive",
+          "url": "https://www.govexec.com/workforce/2026/04/bowling-zoology-trump-admin-job-titles-5000-feds/413131/",
+          "source": "GovExec.com"
+        },
+        {
+          "title": "Clash over Trump family businesses entangles Senate crypto bill - Politico",
+          "url": "https://www.politico.com/news/2026/04/27/trump-family-senate-crypto-bill-ethics-00889320",
+          "source": "Politico"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Reuters",
+      "count": 16,
+      "sources": [
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Brent hits one-month high over concerns about prolonged Hormuz disruption - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXlrVUs5UEQxV1pTNkRzOTBVdWtaSW1ONTlkQmRmUHdld1BpVnlzWnRhYXZzeHRCXzhPTHpWTmpvbGN6dDlYaTd0WTBfMUZ0U1ZQX3g2M3ptbFNFUGhtQ3Q0NHg4SnFOeVozeTNQSXJ6dTFiZlkyd3ZhTmpzZDU2X2xjYWFrMDdkenJNbTNaQl9fVHliclZjazYxLVFLY2VEc3A0UC1mLTlzcl9LdW1IT3h6bko1b19aNzNkWVBwUzhQdw?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran war, jet fuel concerns cloud airlines' summer holiday plans - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbnB3QkVYUThKTkY3a0YyNVRyWlRsUnY4bFUtMmZCSHpvLUdMQ1RZVFVCc2gtY20yX1U1WG8tZ2dvRldQRFRRMUdXdDBYQTVXZ000REw1cDRsYTJzeDZILXpCMGx4c2U1bVNkUVJ1WnRKYU11aU5pc0thRjhyU3NiREM4eVFmUllPQUxyU3MwY2tEOHZCQ2xOUVpTQzhiY0x5R1VMUWZRNVZRSm8?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Stocks rally on earnings optimism as Fed meeting looms - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9od0NpclZ4VU9xb3Q5Qm9fNFk3ejI5a3ZrWmlTMmpqb0lWT0g3ZExrdmh6MnlfZTRabkVXS1hENXlEakN6QVJFaE1COWk1N0xfdTV1d2EyUS1uTjlsUnV3SVdoTU00RWtidE1NRDFBOVhaY2JQVEJyQkRfZw?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says King Charles does not want Iran to have nuclear weapon - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdlZGS1E0bE5KX3l4dEl6YW5aOXRadS13ckhISUJPem00aFV0RUo2NDJ4WVVicUtxTExiQmI5RkFvNUV4YURIWUVaUU5oYk1qT1c4MlcweVd0Y0VKRjhxM0tEZVZYZXdtZWdnY2VCbXFxbG5PQTFlOHVIT1VheFlHZWNIUE1XTkl6UlZheEN3UnY3Z1NZNWd6d09mQ2Z2TmdFTElLSDhtVGRpTEZ3WkRYTQ?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold eases on higher oil prices, markets await Powell's remarks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa28tUzNNX3Jya0JvSlVmOXFUMXc1dk01a210RUFFSFE5OGNmQm1hdnJYUF9ldkxyTFJxbFFzQl80X051RkVZWFotX3NMWlk4WmdrYUtxUWRFRU52OUlUbEZZYXl2VHNzVFBhaFdfbXh1MUdpeVRzQ1plZ1lwbklyRkVzVTBKNkM4Z3RQQV9WLUY0eUwwNUpYeFBCU1hwVGdrVnYxOFpzYV9mdw?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Bitcoin",
+      "count": 10,
+      "sources": [
+        "C-sharpcorner.com",
         "CoinDesk",
         "CoinTelegraph",
+        "Cointelegraph",
+        "CryptoSlate",
         "Hacker News"
       ],
       "articles": [
@@ -40,10 +159,12 @@
     },
     {
       "name": "CFTC",
-      "count": 5,
+      "count": 9,
       "sources": [
         "CoinDesk",
         "CoinTelegraph",
+        "Coinpaprika",
+        "Cointelegraph",
         "The Block"
       ],
       "articles": [
@@ -77,8 +198,9 @@
     },
     {
       "name": "U.S.",
-      "count": 4,
+      "count": 7,
       "sources": [
+        "CBS News",
         "CNBC",
         "CoinDesk",
         "MarketWatch"
@@ -103,16 +225,100 @@
           "title": "Bessent defends U.S. dollar swap lines as Iran war harms global finances",
           "url": "https://www.cnbc.com/2026/04/24/bessent-iran-war-uae-swap-lines-gulf-asia.html",
           "source": "CNBC"
+        },
+        {
+          "title": "Live Updates: Oil prices rise as U.S. and Iran appear locked in a costly stalemate - CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-oil-price-strait-hormuz-stalemate-lebanon-hezbollah/",
+          "source": "CBS News"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Canada",
+      "count": 6,
+      "sources": [
+        "BBC News",
+        "CoinDesk",
+        "CoinOtag",
+        "Cryptopolitan",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Canada proposes ban on crypto ATMs as fraud cases mount",
+          "url": "https://www.coindesk.com/markets/2026/04/29/canada-proposes-ban-on-bitcoin-atms-as-fraud-cases-mount",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Canada moves to ban crypto ATMs, labeling them as \u2018primary method\u2019 for fraud",
+          "url": "https://www.theblock.co/post/399294/canada-crypto-atm-ban?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Canada's Carney launches a sovereign wealth fund. What is it? - BBC",
+          "url": "https://www.bbc.com/news/articles/c98m800r28qo",
+          "source": "BBC News"
+        },
+        {
+          "title": "Canada proposes ban on crypto ATMs as fraud cases mount",
+          "url": "https://www.coindesk.com/markets/2026/04/29/canada-proposes-ban-on-bitcoin-atms-as-fraud-cases-mount",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Canada targets crypto kiosks with ban push over fraud surge",
+          "url": "https://www.cryptopolitan.com/canada-moves-to-ban-crypto-atms/",
+          "source": "Cryptopolitan"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Fed",
+      "count": 6,
+      "sources": [
+        "CNBC",
+        "CoinDesk",
+        "CryptoSlate",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin rises to $77,000 ahead of Fed decision as Trump preps for lengthy Hormuz block",
+          "url": "https://www.coindesk.com/markets/2026/04/29/bitcoin-rises-to-usd77-000-ahead-of-fed-decision-as-trump-preps-for-lengthy-hormuz-block",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Here's everything to expect when the Fed issues its latest interest rate decision Wednesday",
+          "url": "https://www.cnbc.com/2026/04/28/fed-meeting-preview-april-2026.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Bitcoin\u2019s comeback is now in the Fed\u2019s hands after big investors piled back in",
+          "url": "https://cryptoslate.com/bitcoins-comeback-is-now-in-the-feds-hands-after-big-investors-piled-back-in/",
+          "source": "CryptoSlate"
+        },
+        {
+          "title": "Stocks rally on earnings optimism as Fed meeting looms - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9od0NpclZ4VU9xb3Q5Qm9fNFk3ejI5a3ZrWmlTMmpqb0lWT0g3ZExrdmh6MnlfZTRabkVXS1hENXlEakN6QVJFaE1COWk1N0xfdTV1d2EyUS1uTjlsUnV3SVdoTU00RWtidE1NRDFBOVhaY2JQVEJyQkRfZw?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold falls as Middle East tensions keep oil soaring, Fed meeting in focus - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGNpbTBCYzQ2NWNmX3k1azB3TGczbV9nb3hsM1lQR2l5dTlxUkxQdjZjZks2T0xZM1Q4MEtSX3psV3lRT3ZIbU41VS1fSUF5MTBtV1liTUl3QW5HUGhHZ2ZKWi1GVHlTOC1zMW1obTFOamZ0OGdRRFlTNDA0SFZtQkZ6VUg3U1Z6R1Zvemw4RGhYRmhVLXBQWUM1c1AwMl9qaHFISEJ2RTI2NTA?oc=5",
+          "source": "Reuters"
         }
       ],
       "is_new": false
     },
     {
       "name": "Wisconsin",
-      "count": 3,
+      "count": 6,
       "sources": [
         "CoinDesk",
         "CoinTelegraph",
+        "Coinpaprika",
+        "Cointelegraph",
         "The Block"
       ],
       "articles": [
@@ -130,71 +336,35 @@
           "title": "CFTC sues Wisconsin escalating federal-state clash over prediction market oversight",
           "url": "https://www.theblock.co/post/399253/cftc-sues-wisconsin-federal-state-clash-prediction-market-oversight?utm_source=rss&utm_medium=rss",
           "source": "The Block"
+        },
+        {
+          "title": "CFTC pulls Wisconsin into fight over prediction market jurisdiction",
+          "url": "https://cointelegraph.com/news/cftc-sues-wisconsin-over-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "CFTC sues Wisconsin in agency's legal campaign defending prediction markets authority",
+          "url": "https://www.coindesk.com/policy/2026/04/28/cftc-sues-wisconsin-in-agency-s-legal-campaign-defending-prediction-markets-authority",
+          "source": "CoinDesk"
         }
       ],
       "is_new": true
-    },
-    {
-      "name": "Starbucks",
-      "count": 3,
-      "sources": [
-        "CNBC",
-        "Investing.com",
-        "MarketWatch"
-      ],
-      "articles": [
-        {
-          "title": "Starbucks is seeing a resurgence, thanks to younger and lower-income customers",
-          "url": "https://www.marketwatch.com/story/starbucks-is-getting-customers-back-into-its-stores-faster-than-expected-f4ee80ab?mod=mw_rss_topstories",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "Starbucks shares rise as turnaround efforts start showing results",
-          "url": "https://www.investing.com/news/stock-market-news/starbucks-shares-rise-as-turnaround-efforts-start-showing-results-4644026",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Stocks making the biggest moves after hours: Robinhood, Booking Holdings, Starbucks, Visa & more",
-          "url": "https://www.cnbc.com/2026/04/28/stocks-making-the-biggest-moves-after-hours-hood-bkng-sbux-v.html",
-          "source": "CNBC"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Iran",
-      "count": 3,
-      "sources": [
-        "CNBC",
-        "MarketWatch"
-      ],
-      "articles": [
-        {
-          "title": "Here\u2019s where Robinhood\u2019s retail traders have flocked as the Iran conflict rages on",
-          "url": "https://www.marketwatch.com/story/heres-where-robinhoods-retail-traders-have-flocked-as-the-iran-conflict-rages-on-198adc30?mod=mw_rss_topstories",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "The stock market\u2019s comeback from the Iran-inspired selloff hasn\u2019t been as powerful as you might think",
-          "url": "https://www.marketwatch.com/story/the-stock-markets-comeback-from-the-iran-inspired-selloff-hasnt-been-as-powerful-as-you-might-think-6138bbec?mod=mw_rss_topstories",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "Bessent defends U.S. dollar swap lines as Iran war harms global finances",
-          "url": "https://www.cnbc.com/2026/04/24/bessent-iran-war-uae-swap-lines-gulf-asia.html",
-          "source": "CNBC"
-        }
-      ],
-      "is_new": false
     },
     {
       "name": "China",
-      "count": 3,
+      "count": 6,
       "sources": [
         "CNBC",
-        "Hacker News"
+        "Crypto Briefing",
+        "Hacker News",
+        "Investing.com"
       ],
       "articles": [
+        {
+          "title": "Yum China stock rises 2% on beating estimates as store openings surge",
+          "url": "https://www.investing.com/news/earnings/yum-china-stock-rises-2-on-beating-estimates-as-store-openings-surge-93CH-4644003",
+          "source": "Investing.com"
+        },
         {
           "title": "'Draconian development' in Meta-Manus deal draws the line in China's AI race with the U.S.",
           "url": "https://www.cnbc.com/2026/04/28/china-blocks-meta-manus-deal-ai-tech-rivalry.html",
@@ -209,99 +379,22 @@
           "title": "Ethereum is top public blockchain, Bitcoin No. 13 in China's new index",
           "url": "https://www.reuters.com/article/us-crypto-currency-index/ethereum-is-top-public-blockchain-bitcoin-no-13-in-chinas-new-index-idUSKCN1II2R9",
           "source": "Hacker News"
+        },
+        {
+          "title": "Iran conflict impacts China\u2019s economy, car sales and factories suffer",
+          "url": "https://cryptobriefing.com/iran-conflict-impacts-chinas-economy-car-sales-and-factories-suffer/",
+          "source": "Crypto Briefing"
         }
       ],
       "is_new": false
-    },
-    {
-      "name": "Canada",
-      "count": 2,
-      "sources": [
-        "CoinDesk",
-        "The Block"
-      ],
-      "articles": [
-        {
-          "title": "Canada proposes ban on crypto ATMs as fraud cases mount",
-          "url": "https://www.coindesk.com/markets/2026/04/29/canada-proposes-ban-on-bitcoin-atms-as-fraud-cases-mount",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Canada moves to ban crypto ATMs, labeling them as \u2018primary method\u2019 for fraud",
-          "url": "https://www.theblock.co/post/399294/canada-crypto-atm-ban?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Fed",
-      "count": 2,
-      "sources": [
-        "CNBC",
-        "CoinDesk"
-      ],
-      "articles": [
-        {
-          "title": "Bitcoin rises to $77,000 ahead of Fed decision as Trump preps for lengthy Hormuz block",
-          "url": "https://www.coindesk.com/markets/2026/04/29/bitcoin-rises-to-usd77-000-ahead-of-fed-decision-as-trump-preps-for-lengthy-hormuz-block",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Here's everything to expect when the Fed issues its latest interest rate decision Wednesday",
-          "url": "https://www.cnbc.com/2026/04/28/fed-meeting-preview-april-2026.html",
-          "source": "CNBC"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "Trump",
-      "count": 2,
-      "sources": [
-        "CoinDesk",
-        "Decrypt"
-      ],
-      "articles": [
-        {
-          "title": "Bitcoin rises to $77,000 ahead of Fed decision as Trump preps for lengthy Hormuz block",
-          "url": "https://www.coindesk.com/markets/2026/04/29/bitcoin-rises-to-usd77-000-ahead-of-fed-decision-as-trump-preps-for-lengthy-hormuz-block",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Inside Trump\u2019s Meme Coin Bash: Foreign Guests, Iran War Riffs, and Mar-a-Lago Charm",
-          "url": "https://decrypt.co/365830/inside-trump-meme-coin-bash-foreign-guests-iran-war-mar-a-lago",
-          "source": "Decrypt"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "Hormuz",
-      "count": 2,
-      "sources": [
-        "CoinDesk",
-        "Investing.com"
-      ],
-      "articles": [
-        {
-          "title": "Bitcoin rises to $77,000 ahead of Fed decision as Trump preps for lengthy Hormuz block",
-          "url": "https://www.coindesk.com/markets/2026/04/29/bitcoin-rises-to-usd77-000-ahead-of-fed-decision-as-trump-preps-for-lengthy-hormuz-block",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Spot crude premiums ease from record highs despite Hormuz closure",
-          "url": "https://www.investing.com/news/commodities-news/spot-crude-premiums-ease-from-record-highs-despite-hormuz-closure-4644029",
-          "source": "Investing.com"
-        }
-      ],
-      "is_new": true
     },
     {
       "name": "Solana",
-      "count": 2,
+      "count": 5,
       "sources": [
+        "Bitcoin.com",
         "CoinDesk",
+        "CoinTurk News",
         "Hacker News"
       ],
       "articles": [
@@ -314,98 +407,33 @@
           "title": "Solana Developers Release Software Update to Alleviate Network Congestion",
           "url": "https://news.ycombinator.com/item?id=40068258",
           "source": "Hacker News"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Digital",
-      "count": 2,
-      "sources": [
-        "CoinDesk",
-        "CoinTelegraph"
-      ],
-      "articles": [
+        },
         {
-          "title": "Galaxy Digital delivers first data center tranche to CoreWeave after narrowing Q1 loss",
-          "url": "https://www.coindesk.com/business/2026/04/28/galaxy-digital-delivers-first-data-center-tranche-to-coreweave-after-narrowing-q1-loss",
+          "title": "World Cup fever: Chiliz expands to Solana and Base to supercharge fan token trading",
+          "url": "https://www.coindesk.com/business/2026/04/28/world-cup-fever-chiliz-expands-to-solana-and-base-to-supercharge-fan-token-trading",
           "source": "CoinDesk"
         },
         {
-          "title": "Galaxy Digital posts $216M Q1 loss as crypto market slides 20%",
-          "url": "https://cointelegraph.com/news/galaxy-216-million-q1-2026-loss-crypto-market-slide?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "Kevin Warsh",
-      "count": 2,
-      "sources": [
-        "CNBC",
-        "CoinTelegraph"
-      ],
-      "articles": [
-        {
-          "title": "Bitcoin, stocks risk 'months' of losses as Kevin Warsh Becomes Fed chair",
-          "url": "https://cointelegraph.com/markets/bitcoin-stocks-face-months-of-losses-as-kevin-warsh-becomes-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
+          "title": "Circle Mints $500 Million in USDC on Solana as Weekly Issuance Tops $3.25 Billion",
+          "url": "https://news.bitcoin.com/circle-mints-500-million-usdc-solana-weekly-issuance/",
+          "source": "Bitcoin.com"
         },
         {
-          "title": "Ray Dalio says Kevin Warsh shouldn't cut interest rates in a \u2018stagflation\u2019 era",
-          "url": "https://www.cnbc.com/2026/04/27/ray-dalio-says-kevin-warsh-shouldnt-cut-interest-rates-in-a-stagflation-era.html",
-          "source": "CNBC"
+          "title": "Solana faces sharp move as SOL hovers near $84",
+          "url": "https://en.coin-turk.com/solana-faces-sharp-move-as-sol-hovers-near-84/",
+          "source": "CoinTurk News"
         }
       ],
       "is_new": true
-    },
-    {
-      "name": "Canaan",
-      "count": 2,
-      "sources": [
-        "CoinTelegraph",
-        "The Block"
-      ],
-      "articles": [
-        {
-          "title": "Canaan, Tether deepen partnership on immersion-cooled mining systems",
-          "url": "https://cointelegraph.com/news/canaan-tether-mining-hardware-modular-bitcoin-infrastructure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Tether develops modular bitcoin mining systems with Canaan in latest infrastructure push",
-          "url": "https://www.theblock.co/post/399196/tether-develops-modular-bitcoin-mining-systems-with-canaan-in-latest-infrastructure-push?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "AML",
-      "count": 2,
-      "sources": [
-        "CoinTelegraph"
-      ],
-      "articles": [
-        {
-          "title": "AML crackdown eclipses securities enforcement as crypto\u2019s top regulatory risk: Report",
-          "url": "https://cointelegraph.com/news/aml-crackdown-eclipses-securities-enforcement-crypto-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Japan tells real estate and crypto sectors to tighten AML checks on property deals",
-          "url": "https://cointelegraph.com/news/japan-tells-real-estate-and-crypto-sectors-to-tighten-aml-checks-on-property-deals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        }
-      ],
-      "is_new": false
     },
     {
       "name": "OpenAI",
-      "count": 2,
+      "count": 5,
       "sources": [
-        "CNBC"
+        "CNBC",
+        "Crypto Briefing",
+        "Cryptopolitan",
+        "VentureBeat"
       ],
       "articles": [
         {
@@ -417,54 +445,289 @@
           "title": "This bank CEO let his AI clone handle an earnings call \u2014 now he's signing an OpenAI deal",
           "url": "https://www.cnbc.com/2026/04/27/openai-partners-with-customers-bank-in-push-to-automate-finance.html",
           "source": "CNBC"
+        },
+        {
+          "title": "Microsoft and OpenAI gut their exclusive deal, freeing OpenAI to sell on AWS and Google Cloud - VentureBeat",
+          "url": "https://venturebeat.com/technology/microsoft-and-openai-gut-their-exclusive-deal-freeing-openai-to-sell-on-aws-and-google-cloud",
+          "source": "VentureBeat"
+        },
+        {
+          "title": "OpenAI misses targets, SoftBank and Oracle shares decline",
+          "url": "https://cryptobriefing.com/openai-misses-targets-softbank-and-oracle-shares-decline/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Elon Musk testifies AI could end humanity during OpenAI courtroom clash",
+          "url": "https://www.cryptopolitan.com/elon-musk-says-ai-will-kill-us-all/",
+          "source": "Cryptopolitan"
         }
       ],
       "is_new": false
     },
     {
-      "name": "AMD",
-      "count": 2,
+      "name": "Hormuz",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "Crypto Briefing",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin rises to $77,000 ahead of Fed decision as Trump preps for lengthy Hormuz block",
+          "url": "https://www.coindesk.com/markets/2026/04/29/bitcoin-rises-to-usd77-000-ahead-of-fed-decision-as-trump-preps-for-lengthy-hormuz-block",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "UK warship deployment to Strait of Hormuz remains unlikely amid tense standoff",
+          "url": "https://cryptobriefing.com/uk-warship-deployment-to-strait-of-hormuz-remains-unlikely-amid-tense-standoff/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Brent hits one-month high over concerns about prolonged Hormuz disruption - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXlrVUs5UEQxV1pTNkRzOTBVdWtaSW1ONTlkQmRmUHdld1BpVnlzWnRhYXZzeHRCXzhPTHpWTmpvbGN6dDlYaTd0WTBfMUZ0U1ZQX3g2M3ptbFNFUGhtQ3Q0NHg4SnFOeVozeTNQSXJ6dTFiZlkyd3ZhTmpzZDU2X2xjYWFrMDdkenJNbTNaQl9fVHliclZjazYxLVFLY2VEc3A0UC1mLTlzcl9LdW1IT3h6bko1b19aNzNkWVBwUzhQdw?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Bitcoin rises to $77,000 ahead of Fed decision as Trump preps for lengthy Hormuz block",
+          "url": "https://www.coindesk.com/markets/2026/04/29/bitcoin-rises-to-usd77-000-ahead-of-fed-decision-as-trump-preps-for-lengthy-hormuz-block",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Kevin Warsh",
+      "count": 4,
+      "sources": [
+        "CNBC",
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin, stocks risk 'months' of losses as Kevin Warsh Becomes Fed chair",
+          "url": "https://cointelegraph.com/markets/bitcoin-stocks-face-months-of-losses-as-kevin-warsh-becomes-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Ray Dalio says Kevin Warsh shouldn't cut interest rates in a \u2018stagflation\u2019 era",
+          "url": "https://www.cnbc.com/2026/04/27/ray-dalio-says-kevin-warsh-shouldnt-cut-interest-rates-in-a-stagflation-era.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Bitcoin, stocks risk 'months' of losses as Kevin Warsh Becomes Fed chair",
+          "url": "https://cointelegraph.com/markets/bitcoin-stocks-face-months-of-losses-as-kevin-warsh-becomes-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin, stocks risk 'months' of losses as Kevin Warsh Becomes Fed chair",
+          "url": "https://cointelegraph.com/markets/bitcoin-stocks-face-months-of-losses-as-kevin-warsh-becomes-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Amazon",
+      "count": 4,
+      "sources": [
+        "Business Insider",
+        "Crypto Briefing",
+        "Hacker News",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Amazon vs. Costco: Which Stock Is the Better Buy Right Now?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-vs-costco-stock-better-235000826.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Amazon joining the Blockchain revolution",
+          "url": "https://www.cnbc.com/2017/11/01/amazon-buys-crypto-domains-bitcoin-ethereum.html",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Amazon pushes AI use and closely tracks adoption, as some employees push back - Business Insider",
+          "url": "https://www.businessinsider.com/amazon-tracks-ai-use-engineers-internal-friction-2026-4",
+          "source": "Business Insider"
+        },
+        {
+          "title": "Amazon stock hits all-time high, narrows market cap gap with Nvidia",
+          "url": "https://cryptobriefing.com/amazon-stock-hits-all-time-high-narrows-market-cap-gap-with-nvidia/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "CNBC",
+      "count": 4,
       "sources": [
         "CNBC"
       ],
       "articles": [
+        {
+          "title": "CNBC Daily Open: Hawkish hold from BOJ sets central bank stage - CNBC",
+          "url": "https://www.cnbc.com/2026/04/28/daily-open-hawkish-hold-from-boj-sets-central-bank-stage.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "European markets open lower as Trump considers Iran peace proposal - CNBC",
+          "url": "https://www.cnbc.com/2026/04/28/european-markets-stoxx-600-ftse-dax-cac-iran-latest-news.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "General Motors is set to report earnings before the bell. Here's what Wall Street expects - CNBC",
+          "url": "https://www.cnbc.com/2026/04/28/general-motors-gm-earnings-q1-2026.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Domino's Pizza stock falls on disappointing sales \u2014 and CEO thinks more chains will follow - CNBC",
+          "url": "https://www.cnbc.com/2026/04/27/dominos-pizza-dpz-earnings-stock-falls-on-weak-sales.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Adam Back",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "CoinOtag"
+      ],
+      "articles": [
+        {
+          "title": "Institutional money is coming for bitcoin, but Adam Back says it moves slower than you think",
+          "url": "https://www.coindesk.com/business/2026/04/29/institutional-money-is-coming-for-bitcoin-but-adam-back-says-it-moves-slower-than-you-think",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Institutional money is coming for bitcoin, but Adam Back says it moves slower than you think",
+          "url": "https://www.coindesk.com/business/2026/04/29/institutional-money-is-coming-for-bitcoin-but-adam-back-says-it-moves-slower-than-you-think",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Morgan Stanley BTC ETF Entry: Adam Back Puts on the Brakes",
+          "url": "https://en.coinotag.com/morgan-stanley-btc-etf-entry-adam-back-puts-on-the-brakes",
+          "source": "CoinOtag"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Microsoft",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "VentureBeat"
+      ],
+      "articles": [
+        {
+          "title": "Microsoft says legacy banks are hitting a breaking point as AI takes over the heavy lifting",
+          "url": "https://www.coindesk.com/business/2026/04/28/microsoft-says-legacy-banks-are-hitting-a-breaking-point-as-ai-takes-over-the-heavy-lifting",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Microsoft and OpenAI gut their exclusive deal, freeing OpenAI to sell on AWS and Google Cloud - VentureBeat",
+          "url": "https://venturebeat.com/technology/microsoft-and-openai-gut-their-exclusive-deal-freeing-openai-to-sell-on-aws-and-google-cloud",
+          "source": "VentureBeat"
+        },
+        {
+          "title": "Microsoft says legacy banks are hitting a breaking point as AI takes over the heavy lifting",
+          "url": "https://www.coindesk.com/business/2026/04/28/microsoft-says-legacy-banks-are-hitting-a-breaking-point-as-ai-takes-over-the-heavy-lifting",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Becomes Fed",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin, stocks risk 'months' of losses as Kevin Warsh Becomes Fed chair",
+          "url": "https://cointelegraph.com/markets/bitcoin-stocks-face-months-of-losses-as-kevin-warsh-becomes-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Bitcoin, stocks risk 'months' of losses as Kevin Warsh Becomes Fed chair",
+          "url": "https://cointelegraph.com/markets/bitcoin-stocks-face-months-of-losses-as-kevin-warsh-becomes-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin, stocks risk 'months' of losses as Kevin Warsh Becomes Fed chair",
+          "url": "https://cointelegraph.com/markets/bitcoin-stocks-face-months-of-losses-as-kevin-warsh-becomes-fed-chair?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "OPEC",
+      "count": 3,
+      "sources": [
+        "CNBC",
+        "Coinpaper",
+        "MarketWatch"
+      ],
+      "articles": [
+        {
+          "title": "U.A.E. is leaving OPEC but will still need to exercise caution as it increases oil production",
+          "url": "https://www.marketwatch.com/story/u-a-e-is-leaving-opec-but-will-still-need-to-exercise-caution-as-it-increases-oil-production-0979cd87?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "CNBC Daily Open: UAE leaves OPEC adrift",
+          "url": "https://www.cnbc.com/2026/04/29/cnbc-daily-open-uae-leaves-opec-adrift.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Why Are Oil Prices Jumping Despite UAE Plans to Leave OPEC After 60 Years?",
+          "url": "https://coinpaper.com/16687/why-are-oil-prices-jumping-despite-uae-plans-to-leave-opec-after-60-years",
+          "source": "Coinpaper"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Micron",
+      "count": 3,
+      "sources": [
+        "CNBC",
+        "Investing.com",
+        "Investor's Business Daily"
+      ],
+      "articles": [
+        {
+          "title": "Micron stock gains on AI-driven memory demand optimism",
+          "url": "https://www.investing.com/news/stock-market-news/micron-stock-gains-on-aidriven-memory-demand-optimism-93CH-4643997",
+          "source": "Investing.com"
+        },
         {
           "title": "Stocks making the biggest moves midday: Sandisk, Micron, Verizon, AMD, GE Vernova and more",
           "url": "https://www.cnbc.com/2026/04/27/stocks-making-the-biggest-moves-midday-sndk-mu-vz-amd-gev.html",
           "source": "CNBC"
         },
         {
-          "title": "Stocks making the biggest moves midday: Intel, AMD, Charter, Hims & Hers, Eli Lilly and more",
-          "url": "https://www.cnbc.com/2026/04/24/stocks-making-the-biggest-moves-midday-chtr-hims-intc-amd-lly.html",
-          "source": "CNBC"
+          "title": "Dow Jones Futures: Nasdaq, S&P 500 Set More Record Highs; Micron, Nvidia, Sandisk, Alphabet Are Big Winners - Investor's Business Daily",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-iran-news-nvidia-alphabet/",
+          "source": "Investor's Business Daily"
         }
       ],
-      "is_new": false
-    },
-    {
-      "name": "Intel",
-      "count": 2,
-      "sources": [
-        "CNBC"
-      ],
-      "articles": [
-        {
-          "title": "Stocks making the biggest moves midday: Intel, AMD, Charter, Hims & Hers, Eli Lilly and more",
-          "url": "https://www.cnbc.com/2026/04/24/stocks-making-the-biggest-moves-midday-chtr-hims-intc-amd-lly.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Intel, Advanced Micro Devices, Procter & Gamble & more",
-          "url": "https://www.cnbc.com/2026/04/24/stocks-making-the-biggest-moves-premarket-intc-amd-pg.html",
-          "source": "CNBC"
-        }
-      ],
-      "is_new": false
+      "is_new": true
     },
     {
       "name": "ETH",
-      "count": 2,
+      "count": 3,
       "sources": [
+        "Bitcoin.com",
         "The Block"
       ],
       "articles": [
@@ -477,98 +740,54 @@
           "title": "LayerZero commits 10,000 ETH to DeFi United effort",
           "url": "https://www.theblock.co/post/399275/layerzero-commits-10000-eth-to-defi-united-effort?utm_source=rss&utm_medium=rss",
           "source": "The Block"
+        },
+        {
+          "title": "Ethereum ICO Participant Moves $22.88 Million in ETH After 11 Years of Dormancy",
+          "url": "https://news.bitcoin.com/ethereum-ico-participant-moves-22-million-eth-dormant-10-years/",
+          "source": "Bitcoin.com"
         }
       ],
       "is_new": true
     },
     {
-      "name": "Novogratz",
-      "count": 2,
+      "name": "Ukraine",
+      "count": 3,
       "sources": [
-        "Decrypt",
-        "The Block"
+        "Crypto Briefing",
+        "Hacker News",
+        "Radio Free Europe/ Radio Liberty"
       ],
       "articles": [
         {
-          "title": "Galaxy posts $216 million Q1 loss amid crypto \u2018transition year,\u2019 Novogratz bullish on data center growth",
-          "url": "https://www.theblock.co/post/399181/galaxy-216-million-q1-loss-crypto-transition-year-novogratz-bullish-data-centers?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
+          "title": "As Russia invaded Ukraine, Bitcoin plunged \u2013 here's what crypto experts said",
+          "url": "https://markets.businessinsider.com/news/currencies/bitcoin-ethereum-blockchain-ukraine-russia-war-conflict-europe-america-china-2022-2",
+          "source": "Hacker News"
         },
         {
-          "title": "Hyperliquid Gains Counter $216 Million Q1 Loss at Novogratz's Galaxy Digital",
-          "url": "https://decrypt.co/365814/hyperliquid-gains-counter-216m-q1-loss-galaxy-digital",
-          "source": "Decrypt"
+          "title": "Wider Europe Briefing: Who Escaped The EU's Latest Sanctions, And Brussels' Security Guarantees For Ukraine",
+          "url": "https://www.rferl.org/a/wider-europe-briefing-jozwiak-ukraine-eu-sanctions/33744221.html",
+          "source": "Radio Free Europe/ Radio Liberty"
+        },
+        {
+          "title": "Ukraine strikes Russian Black Sea oil infrastructure, impacting crude markets",
+          "url": "https://cryptobriefing.com/ukraine-strikes-russian-black-sea-oil-infrastructure-impacting-crude-markets/",
+          "source": "Crypto Briefing"
         }
       ],
       "is_new": true
-    },
-    {
-      "name": "Call - Slideshow",
-      "count": 2,
-      "sources": [
-        "Seeking Alpha"
-      ],
-      "articles": [
-        {
-          "title": "Wallenius Wilhelmsen ASA (WILWY) Shareholder/Analyst Call - Slideshow",
-          "url": "https://seekingalpha.com/article/4895614-wallenius-wilhelmsen-asa-wilwy-shareholder-analyst-call-slideshow?source=feed_all_articles",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "First Financial Bankshares, Inc. (FFIN) Shareholder/Analyst Call - Slideshow",
-          "url": "https://seekingalpha.com/article/4895613-first-financial-bankshares-inc-ffin-shareholder-analyst-call-slideshow?source=feed_all_articles",
-          "source": "Seeking Alpha"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Crypto",
-      "count": 2,
-      "sources": [
-        "Hacker News"
-      ],
-      "articles": [
-        {
-          "title": "Ask HN: ELI5 \u2013 Crypto, Blockchain and Web3.0",
-          "url": "https://news.ycombinator.com/item?id=29629868",
-          "source": "Hacker News"
-        },
-        {
-          "title": "Crypto Doesn't Need Blockchain",
-          "url": "https://news.ycombinator.com/item?id=44660422",
-          "source": "Hacker News"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "Blockchain",
-      "count": 2,
-      "sources": [
-        "Hacker News"
-      ],
-      "articles": [
-        {
-          "title": "Ask HN: ELI5 \u2013 Crypto, Blockchain and Web3.0",
-          "url": "https://news.ycombinator.com/item?id=29629868",
-          "source": "Hacker News"
-        },
-        {
-          "title": "Alternative Services for Blockchain?",
-          "url": "https://news.ycombinator.com/item?id=30467453",
-          "source": "Hacker News"
-        }
-      ],
-      "is_new": false
     },
     {
       "name": "KuCoin EU",
-      "count": 1,
+      "count": 2,
       "sources": [
         "CoinDesk"
       ],
       "articles": [
+        {
+          "title": "KuCoin EU hires anti-money laundering talent to appease Austrian regulator",
+          "url": "https://www.coindesk.com/policy/2026/04/29/kucoin-eu-hires-anti-money-laundering-talent-to-appease-austrian-regulator",
+          "source": "CoinDesk"
+        },
         {
           "title": "KuCoin EU hires anti-money laundering talent to appease Austrian regulator",
           "url": "https://www.coindesk.com/policy/2026/04/29/kucoin-eu-hires-anti-money-laundering-talent-to-appease-austrian-regulator",
@@ -579,11 +798,16 @@
     },
     {
       "name": "XRP",
-      "count": 1,
+      "count": 2,
       "sources": [
         "CoinDesk"
       ],
       "articles": [
+        {
+          "title": "XRP falls to $1.38 after breaking below $1.40 on rising selling pressure",
+          "url": "https://www.coindesk.com/markets/2026/04/29/xrp-falls-to-usd1-38-after-breaking-below-usd1-40-on-rising-selling-pressure",
+          "source": "CoinDesk"
+        },
         {
           "title": "XRP falls to $1.38 after breaking below $1.40 on rising selling pressure",
           "url": "https://www.coindesk.com/markets/2026/04/29/xrp-falls-to-usd1-38-after-breaking-below-usd1-40-on-rising-selling-pressure",
@@ -593,27 +817,17 @@
       "is_new": true
     },
     {
-      "name": "Adam Back",
-      "count": 1,
+      "name": "Paul Tudor Jones",
+      "count": 2,
       "sources": [
         "CoinDesk"
       ],
       "articles": [
         {
-          "title": "Institutional money is coming for bitcoin, but Adam Back says it moves slower than you think",
-          "url": "https://www.coindesk.com/business/2026/04/29/institutional-money-is-coming-for-bitcoin-but-adam-back-says-it-moves-slower-than-you-think",
+          "title": "Paul Tudor Jones calls bitcoin the 'best inflation hedge,' warns of overvalued stocks",
+          "url": "https://www.coindesk.com/markets/2026/04/28/paul-tudor-jones-calls-bitcoin-the-best-inflation-hedge-warns-of-overvalued-stocks",
           "source": "CoinDesk"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Paul Tudor Jones",
-      "count": 1,
-      "sources": [
-        "CoinDesk"
-      ],
-      "articles": [
+        },
         {
           "title": "Paul Tudor Jones calls bitcoin the 'best inflation hedge,' warns of overvalued stocks",
           "url": "https://www.coindesk.com/markets/2026/04/28/paul-tudor-jones-calls-bitcoin-the-best-inflation-hedge-warns-of-overvalued-stocks",
@@ -624,11 +838,16 @@
     },
     {
       "name": "World Cup",
-      "count": 1,
+      "count": 2,
       "sources": [
         "CoinDesk"
       ],
       "articles": [
+        {
+          "title": "World Cup fever: Chiliz expands to Solana and Base to supercharge fan token trading",
+          "url": "https://www.coindesk.com/business/2026/04/28/world-cup-fever-chiliz-expands-to-solana-and-base-to-supercharge-fan-token-trading",
+          "source": "CoinDesk"
+        },
         {
           "title": "World Cup fever: Chiliz expands to Solana and Base to supercharge fan token trading",
           "url": "https://www.coindesk.com/business/2026/04/28/world-cup-fever-chiliz-expands-to-solana-and-base-to-supercharge-fan-token-trading",
@@ -639,7 +858,7 @@
     },
     {
       "name": "Chiliz",
-      "count": 1,
+      "count": 2,
       "sources": [
         "CoinDesk"
       ],
@@ -647,6 +866,51 @@
         {
           "title": "World Cup fever: Chiliz expands to Solana and Base to supercharge fan token trading",
           "url": "https://www.coindesk.com/business/2026/04/28/world-cup-fever-chiliz-expands-to-solana-and-base-to-supercharge-fan-token-trading",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "World Cup fever: Chiliz expands to Solana and Base to supercharge fan token trading",
+          "url": "https://www.coindesk.com/business/2026/04/28/world-cup-fever-chiliz-expands-to-solana-and-base-to-supercharge-fan-token-trading",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Base",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "World Cup fever: Chiliz expands to Solana and Base to supercharge fan token trading",
+          "url": "https://www.coindesk.com/business/2026/04/28/world-cup-fever-chiliz-expands-to-solana-and-base-to-supercharge-fan-token-trading",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "World Cup fever: Chiliz expands to Solana and Base to supercharge fan token trading",
+          "url": "https://www.coindesk.com/business/2026/04/28/world-cup-fever-chiliz-expands-to-solana-and-base-to-supercharge-fan-token-trading",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Agentic Commerce",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "The age of Agentic Commerce has arrived. Consensus 2026 is where you can experience it IRL",
+          "url": "https://www.coindesk.com/opinion/2026/04/28/the-age-of-agentic-commerce-has-arrived-consensus-2026-is-where-you-can-experience-it-irl",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "The age of Agentic Commerce has arrived. Consensus 2026 is where you can experience it IRL",
+          "url": "https://www.coindesk.com/opinion/2026/04/28/the-age-of-agentic-commerce-has-arrived-consensus-2026-is-where-you-can-experience-it-irl",
           "source": "CoinDesk"
         }
       ],
@@ -657,25 +921,31 @@
     {
       "name": "Gensyn",
       "symbol": "AI",
-      "market_cap_rank": 313,
+      "market_cap_rank": 266,
       "thumb": "https://coin-images.coingecko.com/coins/images/71027/standard/gensyn.png?1765331043"
+    },
+    {
+      "name": "Ultima",
+      "symbol": "ULTIMA",
+      "market_cap_rank": 269,
+      "thumb": "https://coin-images.coingecko.com/coins/images/31844/standard/ULTIMA-200x200.png?1763090865"
     },
     {
       "name": "Fluent",
       "symbol": "BLEND",
-      "market_cap_rank": 578,
+      "market_cap_rank": 589,
       "thumb": "https://coin-images.coingecko.com/coins/images/102172981/standard/fluent_token_kraken_1x.webp?1776957074"
     },
     {
       "name": "Pi Network",
       "symbol": "PI",
-      "market_cap_rank": 46,
+      "market_cap_rank": 45,
       "thumb": "https://coin-images.coingecko.com/coins/images/54342/standard/pi_network.jpg?1739347576"
     },
     {
       "name": "Pharos",
       "symbol": "PROS",
-      "market_cap_rank": 251,
+      "market_cap_rank": 260,
       "thumb": "https://coin-images.coingecko.com/coins/images/102172947/standard/pharos_400x400.jpg?1776780623"
     },
     {
@@ -685,10 +955,10 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/67164/standard/pump.jpg?1751949376"
     },
     {
-      "name": "Ultima",
-      "symbol": "ULTIMA",
-      "market_cap_rank": 268,
-      "thumb": "https://coin-images.coingecko.com/coins/images/31844/standard/ULTIMA-200x200.png?1763090865"
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "market_cap_rank": 87,
+      "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
     },
     {
       "name": "Aave",
@@ -697,16 +967,10 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/12645/standard/aave-token-round.png?1720472354"
     },
     {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "market_cap_rank": 1,
-      "thumb": "https://coin-images.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400"
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "market_cap_rank": 87,
-      "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+      "name": "Terra Luna Classic",
+      "symbol": "LUNC",
+      "market_cap_rank": 119,
+      "thumb": "https://coin-images.coingecko.com/coins/images/8284/standard/01_LunaClassic_color.png?1696508486"
     },
     {
       "name": "Dogecoin",
@@ -731,8 +995,8 @@
     {
       "symbol": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 77731.96,
-      "change_pct": 1.82
+      "price": 77675.36,
+      "change_pct": 1.75
     },
     {
       "symbol": "BBAI",
@@ -811,5 +1075,5 @@
       }
     ]
   },
-  "total_articles": 192
+  "total_articles": 391
 }
