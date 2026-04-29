@@ -104,8 +104,21 @@ h1 {
 
 .h1-row {
   display: flex;
-  align-items: baseline;
+  align-items: center;
   gap: 12px;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.brand-icon {
+  width: 26px;
+  height: 26px;
+  flex-shrink: 0;
+  image-rendering: pixelated;
 }
 
 .date-tag {
