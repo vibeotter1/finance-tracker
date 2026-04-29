@@ -144,6 +144,81 @@ def fetch_stock_trending():
     return stocks
 
 
+def fetch_newsapi():
+    key = os.environ.get("NEWSAPI_KEY")
+    if not key:
+        return []
+    items = []
+    for category, q in [("business", None), ("general", "crypto OR bitcoin OR ethereum")]:
+        try:
+            if q:
+                url = f"https://newsapi.org/v2/everything?q={requests.utils.quote(q)}&language=en&sortBy=publishedAt&pageSize=50&apiKey={key}"
+            else:
+                url = f"https://newsapi.org/v2/top-headlines?category={category}&language=en&pageSize=50&apiKey={key}"
+            r = requests.get(url, headers=HEADERS, timeout=10)
+            r.raise_for_status()
+            for a in r.json().get("articles", []):
+                title = (a.get("title") or "").strip()
+                if title and "[Removed]" not in title:
+                    items.append({
+                        "title": title,
+                        "url": a.get("url", ""),
+                        "source": a.get("source", {}).get("name", "NewsAPI"),
+                    })
+        except Exception as e:
+            print(f"  NewsAPI {category}: {e}")
+    print(f"  NewsAPI: {len(items)} articles")
+    return items
+
+
+def fetch_finnhub():
+    key = os.environ.get("FINNHUB_KEY")
+    if not key:
+        return []
+    items = []
+    for category in ["general", "crypto"]:
+        try:
+            url = f"https://finnhub.io/api/v1/news?category={category}&token={key}"
+            r = requests.get(url, headers=HEADERS, timeout=10)
+            r.raise_for_status()
+            for a in r.json()[:30]:
+                title = (a.get("headline") or "").strip()
+                if title:
+                    items.append({
+                        "title": title,
+                        "url": a.get("url", ""),
+                        "source": a.get("source") or f"Finnhub/{category}",
+                    })
+        except Exception as e:
+            print(f"  Finnhub {category}: {e}")
+    print(f"  Finnhub: {len(items)} articles")
+    return items
+
+
+def fetch_cryptocompare():
+    key = os.environ.get("CRYPTOCOMPARE_KEY")
+    if not key:
+        return []
+    try:
+        url = f"https://min-api.cryptocompare.com/data/v2/news/?lang=EN&sortOrder=latest&api_key={key}"
+        r = requests.get(url, headers=HEADERS, timeout=10)
+        r.raise_for_status()
+        items = []
+        for a in r.json().get("Data", [])[:50]:
+            title = (a.get("title") or "").strip()
+            if title:
+                items.append({
+                    "title": title,
+                    "url": a.get("url", ""),
+                    "source": a.get("source_info", {}).get("name") or "CryptoCompare",
+                })
+        print(f"  CryptoCompare: {len(items)} articles")
+        return items
+    except Exception as e:
+        print(f"  CryptoCompare: {e}")
+        return []
+
+
 def fetch_hackernews():
     items = []
     seen = set()
@@ -256,12 +331,17 @@ def main():
     rss_items = fetch_rss()
     reddit_items = fetch_reddit()
     hn_items = fetch_hackernews()
+    newsapi_items = fetch_newsapi()
+    finnhub_items = fetch_finnhub()
+    cryptocompare_items = fetch_cryptocompare()
     crypto = fetch_crypto_trending()
     stocks = fetch_stock_trending()
     fear_greed = fetch_fear_greed()
-    all_items = rss_items + reddit_items + hn_items
+    all_items = rss_items + reddit_items + hn_items + newsapi_items + finnhub_items + cryptocompare_items
 
-    print(f"  {len(rss_items)} RSS + {len(reddit_items)} Reddit + {len(hn_items)} HN = {len(all_items)} total")
+    print(f"  {len(rss_items)} RSS + {len(reddit_items)} Reddit + {len(hn_items)} HN "
+          f"+ {len(newsapi_items)} NewsAPI + {len(finnhub_items)} Finnhub "
+          f"+ {len(cryptocompare_items)} CryptoCompare = {len(all_items)} total")
 
     topics = extract_topics(all_items, nlp)
     prev = load_previous_topics()

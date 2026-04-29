@@ -24,6 +24,10 @@ jobs:
           python -m spacy download en_core_web_sm
 
       - name: Fetch topics and rebuild dashboard
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+          FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
+          CRYPTOCOMPARE_KEY: ${{ secrets.CRYPTOCOMPARE_KEY }}
         run: python scripts/fetch_topics.py
 
       - name: Commit and push
