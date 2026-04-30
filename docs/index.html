@@ -86,5 +86,74 @@
   </footer>
 
   <script src="app.js"></script>
+
+  <!-- UI TWEAKER — visit URL with ?tweaker to activate -->
+  <button id="tweaker-toggle" aria-label="Open UI tweaker" title="UI Tweaker (add ?tweaker to URL)">⚙</button>
+
+  <div id="tweaker-panel" aria-hidden="true">
+    <div class="tw-header">
+      <span class="tw-title">UI Tweaker</span>
+      <button class="tw-close" id="tweaker-close" aria-label="Close">✕</button>
+    </div>
+    <div class="tw-body">
+
+      <fieldset class="tw-group">
+        <legend class="tw-legend">Colors</legend>
+        <label class="tw-row"><span class="tw-label">Accent</span><input type="color" class="tw-color" data-var="--accent" value="#3fb950" /></label>
+        <label class="tw-row"><span class="tw-label">Background</span><input type="color" class="tw-color" data-var="--bg" value="#0d1117" /></label>
+        <label class="tw-row"><span class="tw-label">Surface</span><input type="color" class="tw-color" data-var="--surface" value="#161b22" /></label>
+        <label class="tw-row"><span class="tw-label">Surface Alt</span><input type="color" class="tw-color" data-var="--surface-alt" value="#21262d" /></label>
+        <label class="tw-row"><span class="tw-label">Text</span><input type="color" class="tw-color" data-var="--text" value="#e6edf3" /></label>
+        <label class="tw-row"><span class="tw-label">Text Muted</span><input type="color" class="tw-color" data-var="--text-muted" value="#8b949e" /></label>
+      </fieldset>
+
+      <fieldset class="tw-group">
+        <legend class="tw-legend">Layout</legend>
+        <label class="tw-row">
+          <span class="tw-label">Card Radius <span class="tw-val" id="val---card-radius">8px</span></span>
+          <input type="range" class="tw-range" data-var="--card-radius" data-unit="px" min="0" max="24" step="1" value="8" />
+        </label>
+        <label class="tw-row">
+          <span class="tw-label">Card Padding <span class="tw-val" id="val---card-padding">24px</span></span>
+          <input type="range" class="tw-range" data-var="--card-padding" data-unit="px" min="8" max="48" step="2" value="24" />
+        </label>
+        <label class="tw-row">
+          <span class="tw-label">Font Scale <span class="tw-val" id="val---font-scale">1</span></span>
+          <input type="range" class="tw-range" data-var="--font-scale" data-unit="" min="0.75" max="1.35" step="0.05" value="1" />
+        </label>
+      </fieldset>
+
+      <fieldset class="tw-group">
+        <legend class="tw-legend">Borders &amp; Shadows</legend>
+        <label class="tw-row">
+          <span class="tw-label">Border Alpha <span class="tw-val" id="val---border-alpha">0.15</span></span>
+          <input type="range" class="tw-range" data-var="--border-alpha" data-unit="" min="0" max="0.6" step="0.01" value="0.15" />
+        </label>
+        <label class="tw-row">
+          <span class="tw-label">Shadow Alpha <span class="tw-val" id="val---shadow-alpha">0.12</span></span>
+          <input type="range" class="tw-range" data-var="--shadow-alpha" data-unit="" min="0" max="0.5" step="0.01" value="0.12" />
+        </label>
+        <label class="tw-row">
+          <span class="tw-label">Hover Ring <span class="tw-val" id="val---accent-hover-alpha">0.35</span></span>
+          <input type="range" class="tw-range" data-var="--accent-hover-alpha" data-unit="" min="0" max="1" step="0.05" value="0.35" />
+        </label>
+      </fieldset>
+
+      <fieldset class="tw-group">
+        <legend class="tw-legend">Ticker</legend>
+        <label class="tw-row">
+          <span class="tw-label">Speed px/s <span class="tw-val" id="val---ticker-speed">67</span></span>
+          <input type="range" class="tw-range" id="tw-ticker-speed" min="10" max="200" step="5" value="67" />
+        </label>
+      </fieldset>
+
+    </div>
+    <div class="tw-footer">
+      <button class="tw-btn tw-copy" id="tw-copy-btn">Copy CSS vars</button>
+      <button class="tw-btn tw-reset" id="tw-reset-btn">Reset</button>
+    </div>
+  </div>
+
+  <script src="tweaker.js"></script>
 </body>
 </html>

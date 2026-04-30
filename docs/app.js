@@ -12,6 +12,7 @@ const CHART_COLORS = [
 let allSnapshots = [];
 let trendChartInstance = null;
 let activeDays = 7;
+let tickerSpeedPxPerSec = 67;
 
 function escHtml(str) {
   if (!str) return '';
@@ -185,7 +186,7 @@ function renderCrypto(coins) {
   `;
 
   track.innerHTML = coins.map(coinHtml).join('') + coins.map(coinHtml).join('');
-  syncTickerSpeed(track, 67);
+  syncTickerSpeed(track, tickerSpeedPxPerSec);
 }
 
 function renderStocks(stocks) {
@@ -211,7 +212,7 @@ function renderStocks(stocks) {
   };
 
   track.innerHTML = stocks.map(stockHtml).join('') + stocks.map(stockHtml).join('');
-  syncTickerSpeed(track, 67);
+  syncTickerSpeed(track, tickerSpeedPxPerSec);
 }
 
 function renderTrendChart(days) {
