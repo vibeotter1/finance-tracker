@@ -61,10 +61,10 @@ async function init() {
   renderTopics(latest.topics || [], latest.date, true);
   renderCrypto(latest.crypto_trending || []);
   renderStocks(latest.stock_trending || []);
-  renderFearGreed(latest.fear_greed || null);
   renderTrendChart(activeDays);
   renderArchive(snapshots, latest.date);
   initChartTabs();
+  fetchLiveFearGreed();
 }
 
 function renderFearGreed(data) {
@@ -76,6 +76,17 @@ function renderFearGreed(data) {
   clsEl.textContent = data.classification;
   clsEl.className = `fear-greed-class ${cls}`;
   el.hidden = false;
+}
+
+async function fetchLiveFearGreed() {
+  try {
+    const res = await fetch('https://api.alternative.me/fng/?limit=1');
+    const json = await res.json();
+    const d = json.data?.[0];
+    if (d) renderFearGreed({ value: parseInt(d.value), classification: d.value_classification });
+  } catch {
+    // silently fall back — widget stays hidden if it was already hidden
+  }
 }
 
 function showEmpty(msg) {

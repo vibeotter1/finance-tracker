@@ -28,7 +28,7 @@ function applyTickerSpeed(pxPerSec) {
 }
 
 function getSpanId(prop) {
-  return 'val-' + prop.replace('--', '');
+  return 'val-' + prop; // matches id="val---card-radius" etc in HTML
 }
 
 function updateSpan(prop, displayVal) {
