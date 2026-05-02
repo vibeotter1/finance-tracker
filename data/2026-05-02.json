@@ -1,0 +1,1160 @@
+{
+  "date": "2026-05-02",
+  "topics": [
+    {
+      "name": "Iran",
+      "count": 24,
+      "sources": [
+        "CNBC",
+        "CoinDesk",
+        "Crypto Briefing",
+        "Investing.com",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin takes another aim at $80,000 as stocks rise, oil drops on Iran optimism",
+          "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-takes-another-aim-at-usd80-000-as-stocks-rise-oil-drops-on-iran-optimism",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Iranian proposal rejected by Trump would open strait before nuclear talks, Iran official says",
+          "url": "https://www.investing.com/news/world-news/iranian-proposal-rejected-by-trump-would-open-strait-before-nuclear-talks-iran-official-says-4654758",
+          "source": "Investing.com"
+        },
+        {
+          "title": "U.S. oil prices will exceed Iran wartime high to above $125 as conflict drags on, Kalshi traders say",
+          "url": "https://www.cnbc.com/2026/05/01/kalshi-traders-think-us-oil-prices-are-set-to-hit-new-2026-highs.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "US-Iran conflict fuels WTI crude oil price hike expectations for May 2026",
+          "url": "https://cryptobriefing.com/us-iran-conflict-fuels-wti-crude-oil-price-hike-expectations-for-may-2026/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Iran-US standoff disrupts Strait of Hormuz shipping, energy prices may hit $150",
+          "url": "https://cryptobriefing.com/iran-us-standoff-disrupts-strait-of-hormuz-shipping-energy-prices-may-hit-150/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Trump",
+      "count": 18,
+      "sources": [
+        "AMB Crypto",
+        "Bitcoinist",
+        "Business Insider",
+        "CNBC",
+        "CNN",
+        "Crypto Briefing",
+        "Investing.com",
+        "MarketWatch",
+        "NPR",
+        "Reuters",
+        "The Block",
+        "Thenation.com"
+      ],
+      "articles": [
+        {
+          "title": "Trump talks up his push to lower costs, as analysts see bruising midterms for GOP due to economic worries",
+          "url": "https://www.marketwatch.com/story/trump-to-talk-up-his-push-to-lower-costs-as-analysts-see-bruising-midterms-for-gop-due-to-economic-worries-66086c74?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Iranian proposal rejected by Trump would open strait before nuclear talks, Iran official says",
+          "url": "https://www.investing.com/news/world-news/iranian-proposal-rejected-by-trump-would-open-strait-before-nuclear-talks-iran-official-says-4654758",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Trump says he will raise tariff on autos from European Union to 25%",
+          "url": "https://www.investing.com/news/stock-market-news/trump-says-he-will-raise-tariffs-on-eu-autos-to-25-4653880",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Jerome Powell says he will continue to serve as a Fed governor, calls Trump criticism 'unprecedented'",
+          "url": "https://www.cnbc.com/2026/04/29/jerome-powell-says-he-will-continue-to-serve-as-a-fed-governor-even-after-chairmanship-ends-.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Crypto market structure bill nears May push as ethics disputes and Trump ties cloud path forward",
+          "url": "https://www.theblock.co/post/399680/crypto-market-structure-bill-nears-may-push-as-ethics-disputes-and-trump-ties-cloud-path-forward?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Reuters",
+      "count": 13,
+      "sources": [
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Nobel laureate Mohammadi in Iran hospital after 'cardiac crisis', foundation says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS1F2ZWN6cV82RGNKcVFVSlE1YWVST2xLQmZGMU9HU0NwRlg3cFU0RVZPYWs3Qkl3WHJPaTFNSU5CMi1URjgzajBTbGhOYVhKLWxZTFdZWGdwU0phS25fNThqaUZQZzB1MGVRdXZHcGNiTFFtUGxHMlM3RTktdVV1UloyZUJzdHJtMWJFUUpyNFNTSEh0MDF5TGUwakpWa0F3OUowVkJVNlowLTJOTXE2dlBXdE5WOXRuMFNTdWRyVk5fV2ZDeEdxUQ?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says US Navy acting 'like pirates' to carry out naval blockade of Iranian ports - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVc1ZkgxV3lpblVzQXlQU0oxM2xSbG15WmdYd0NscGg2Yy1xZVA2VFJ3RTJnTXpWQnhjRWdLQnBlSDlYTnBnS0NieGg4bXhYUEVFZGFkaHhfVlhEZ3ptNVk3dEZneTV5MmR0Y1A5dlpIczlxMGJtY3l3a1JRY1RPZGxPSWdfZFlBUVRnc0pPOE12WnN5X2I5MXpBYW5TWUkzWkNnRWJfelMzVGdYcmJkWWRuTnFlMk1UblNpSXFYcw?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "US warns European allies including UK and Poland of arms shipment delays, FT reports - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOVVuMDhCdXVSNFNJUmtLZDA3c0czTDJSRHJLMDI2c0tvY3VfNWZnZTRhaHRMV3gtb0R6OXJBX0NaZVBaM1ZZbmlhUjhFQlZTaXNYSEx6anlaUFBrTWpUR1ZqWXdwS3hYMy1lUTVqcHVPU09YYTktNFRzVTVpWnRtR1N2emQ3aERQc2RkMjVHUVl2djNxZVRzdWxBU2ZOSXZKUXA1NGlqMkh0ek16SEtIbnJQVk83SU9ILTc0blhsa1lLMFk?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "US withdrawing 5,000 troops from Germany, US officials say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLUxnTi1fcnFiX0tMTlpIQmdIOGFIQk80clBPWENGTS1FcllKZHRqVlhDZGlud0FGam1WVGctME5QdHgtZHVaUDdaRnhPeUYtTmJrVm5qVldOSDN3N0haYVpzOUU4SVFhSnRXU3FBWkdmckloU1FsQ01DSlA2eS1vaXlvb1E4Mmc2alJ4bVplZXYyNVYtb2FwOA?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold turns positive as oil eases on hopes for Iran talks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSDJnTWp2YXd4TU9LRzRLLWpscHVMbTZTcDdfZDhqV2FBMG04ZzA5UTNHZUhiUGhKRHhHdXRXcS01dEh3aTJXSlJ1ckRiaE9iXzgzZFF0bUlxZFppeFY5U2pLMFNvR3J0VWhManhsdVpNNmpHOGVWTVEwMFFpY3FZRUs5ZWc4OGV5YjZfSVdtTll3dXM0REtpYVBqNW5ETmQtdGc?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Bitcoin",
+      "count": 9,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Crypto Potato",
+        "Hacker News"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin takes another aim at $80,000 as stocks rise, oil drops on Iran optimism",
+          "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-takes-another-aim-at-usd80-000-as-stocks-rise-oil-drops-on-iran-optimism",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin doesn\u2019t need a fresh narrative to reclaim $100K: Analyst",
+          "url": "https://cointelegraph.com/news/bitcoin-doesnt-need-a-fresh-narrative-to-reclaim-100k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Bitcoin rally extends, yet BTC options price only 25% chance of $84K in May",
+          "url": "https://cointelegraph.com/markets/bitcoin-rally-extends-yet-btc-options-price-only-25-chance-of-84k-in-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "As Russia invaded Ukraine, Bitcoin plunged \u2013 here's what crypto experts said",
+          "url": "https://markets.businessinsider.com/news/currencies/bitcoin-ethereum-blockchain-ukraine-russia-war-conflict-europe-america-china-2022-2",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Bitcoin is dead, but it was a good try",
+          "url": "https://news.ycombinator.com/item?id=39155402",
+          "source": "Hacker News"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "ETH",
+      "count": 9,
+      "sources": [
+        "CoinTelegraph",
+        "CoinTurk News",
+        "Cointelegraph",
+        "Decrypt",
+        "The Block",
+        "U.Today"
+      ],
+      "articles": [
+        {
+          "title": "Ethereum Foundation sells another 10,000 ETH to BitMine in third OTC deal",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-sells-another-10000-eth-to-bitmine-in-third-otc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Price predictions 5/1: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, XMR",
+          "url": "https://cointelegraph.com/markets/price-predictions-51-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Ethereum Foundation\u2019s recent ETH sales to Tom Lee\u2019s Bitmine hit $47 million after latest deal",
+          "url": "https://www.theblock.co/post/399751/ethereum-foundation-eth-sales-tom-lees-bitmine-47-million-after-latest-deal?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine",
+          "url": "https://decrypt.co/366385/ethereum-foundation-sells-23-million-more-eth-tom-lee-bitmine",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Ethereum Foundation sells another 10,000 ETH to BitMine in third OTC deal",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-sells-another-10000-eth-to-bitmine-in-third-otc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Ethereum Foundation",
+      "count": 8,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "CoinTurk News",
+        "Cointelegraph",
+        "Decrypt",
+        "U.Today"
+      ],
+      "articles": [
+        {
+          "title": "Ethereum Foundation finalizes sale of 10,000 ether to BitMine as part of its treasury strategy",
+          "url": "https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ethereum Foundation sells another 10,000 ETH to BitMine in third OTC deal",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-sells-another-10000-eth-to-bitmine-in-third-otc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine",
+          "url": "https://decrypt.co/366385/ethereum-foundation-sells-23-million-more-eth-tom-lee-bitmine",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Ethereum Foundation sells another 10,000 ETH to BitMine in third OTC deal",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-sells-another-10000-eth-to-bitmine-in-third-otc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ethereum Foundation finalizes sale of 10,000 ether to BitMine as part of its treasury strategy",
+          "url": "https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Apple",
+      "count": 8,
+      "sources": [
+        "Business Insider",
+        "CNBC",
+        "Crypto Briefing",
+        "Fortune",
+        "MarketWatch",
+        "Yahoo Entertainment"
+      ],
+      "articles": [
+        {
+          "title": "Apple just gave a clue that a big AI acquisition may be in the cards",
+          "url": "https://www.marketwatch.com/story/apple-just-gave-a-subtle-clue-that-a-splashy-ai-acquisition-may-be-in-the-cards-110f5ce2?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Apple, Estee Lauder, Roku, Reddit, Roblox and more",
+          "url": "https://www.cnbc.com/2026/05/01/stocks-making-the-biggest-moves-premarket-aapl-el-roku-rddt-rblx-and-more.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Apple execs to talk China and tariffs, but will avoid discussing foldable iPhone, per traders on Kalshi",
+          "url": "https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Apple's diplomatic tariff refund strategy shows why Tim Cook is called the Trump whisperer - Business Insider",
+          "url": "https://www.businessinsider.com/tim-cook-apple-tariff-refund-strategy-donald-trump-whisperer-2026-4",
+          "source": "Business Insider"
+        },
+        {
+          "title": "Apple earnings beat forecasts on iPhone 17 demand - Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/apple-earnings-beat-forecasts-iphone-225552621.html",
+          "source": "Yahoo Entertainment"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "U.S.",
+      "count": 7,
+      "sources": [
+        "CBS News",
+        "CNBC",
+        "CoinDesk",
+        "MarketWatch",
+        "NPR",
+        "PBS"
+      ],
+      "articles": [
+        {
+          "title": "U.S. senators won't be weighing in on prediction markets bets after banning themselves",
+          "url": "https://www.coindesk.com/policy/2026/04/30/u-s-senators-won-t-be-weighing-in-on-prediction-markets-bets-after-banning-themselves",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "U.S. oil prices will exceed Iran wartime high to above $125 as conflict drags on, Kalshi traders say",
+          "url": "https://www.cnbc.com/2026/05/01/kalshi-traders-think-us-oil-prices-are-set-to-hit-new-2026-highs.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump gives the go-ahead for a major new Canada-U.S. oil pipeline - NPR",
+          "url": "https://www.npr.org/2026/04/30/g-s1-119648/trump-canada-us-oil-bridger-pipeline-expansion",
+          "source": "NPR"
+        },
+        {
+          "title": "Stock Market News, April 30, 2026: Dow rises 790 points, S&P 500 and Nasdaq close at records as GDP data shows the U.S. economy continues to grow; Big Tech slips; oil falls back from four-year high; Alphabet shares jump as Meta falls - MarketWatch",
+          "url": "https://www.marketwatch.com/livecoverage/s-p-500-dow-jones-nasdaq-oil-prices-donald-trump-military-action-iran",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Weekly U.S. jobless claims fall to 189,000, lowest in more than five decades - PBS",
+          "url": "https://www.pbs.org/newshour/economy/weekly-u-s-jobless-claims-fall-to-189000-lowest-in-more-than-five-decades",
+          "source": "PBS"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Microsoft",
+      "count": 7,
+      "sources": [
+        "CNBC",
+        "CNET",
+        "Crypto Briefing",
+        "Decrypt",
+        "Motley Fool",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Bank of America resets Microsoft stock forecast after earnings",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/bank-america-resets-microsoft-stock-010300179.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Why Rezolve AI (RZLV) Is Expanding Its Commerce AI Platform Through Microsoft Foundry",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-rezolve-ai-rzlv-expanding-090559748.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Stocks making the biggest moves after hours: Alphabet, Microsoft, Amazon, Meta & more",
+          "url": "https://www.cnbc.com/2026/04/29/stocks-making-the-biggest-moves-after-hours-googl-msft-amzn-meta.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Pentagon Signs AI Deals With Google, OpenAI, Nvidia, Microsoft, Amazon and SpaceX",
+          "url": "https://decrypt.co/366351/pentagon-ai-deals-google-openai-nvidia-microsoft-amazon-spacex",
+          "source": "Decrypt"
+        },
+        {
+          "title": "\"Magnificent Seven\" Companies Microsoft, Amazon, Alphabet, and Meta Just Reported Earnings. Here Are the Winners and Losers - The Motley Fool",
+          "url": "https://www.fool.com/investing/2026/04/30/magnificent-seven-companies-microsoft-amazon-alpha/",
+          "source": "Motley Fool"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Fed",
+      "count": 6,
+      "sources": [
+        "Axios",
+        "CNBC",
+        "Seeking Alpha",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "48% of retirees can't sustain their lifestyle \u2014 and Kevin Warsh's expected Fed rate cut could make it worse",
+          "url": "https://finance.yahoo.com/economy/policy/articles/48-retirees-cant-sustain-lifestyle-084500449.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Jerome Powell says he will continue to serve as a Fed governor, calls Trump criticism 'unprecedented'",
+          "url": "https://www.cnbc.com/2026/04/29/jerome-powell-says-he-will-continue-to-serve-as-a-fed-governor-even-after-chairmanship-ends-.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Here's what changed in the new Fed statement",
+          "url": "https://www.cnbc.com/2026/04/29/april-fed-meeting-statement-redline.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Fed holds rates steady but with highest level of dissent since 1992",
+          "url": "https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Fed Holds Rates Steady As Equity Markets Remain Strong And Growth Stays Uneven",
+          "url": "https://seekingalpha.com/article/4897717-fed-holds-rates-steady-equity-markets-strong-growth-stays-uneven?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "China",
+      "count": 6,
+      "sources": [
+        "CNBC",
+        "Hacker News",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "China\u2019s EV price war turns into AI arms race beyond cheaper cars",
+          "url": "https://www.cnbc.com/2026/05/01/china-ev-ai-features-price-war-bytedance-alibaba-doubao-volcano-engine.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "China\u2019s self-driving truck leaders say AI breakthroughs won\u2019t accelerate rollout \u2014 here\u2019s why",
+          "url": "https://www.cnbc.com/2026/05/01/chinas-self-driving-truck-leaders-say-ai-breakthroughs-wont-accelerate-rollout-heres-why.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Apple execs to talk China and tariffs, but will avoid discussing foldable iPhone, per traders on Kalshi",
+          "url": "https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Ethereum is top public blockchain, Bitcoin No. 13 in China's new index",
+          "url": "https://www.reuters.com/article/us-crypto-currency-index/ethereum-is-top-public-blockchain-bitcoin-no-13-in-chinas-new-index-idUSKCN1II2R9?il=0",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Ethereum is top public blockchain, Bitcoin No. 13 in China's new index",
+          "url": "https://www.reuters.com/article/us-crypto-currency-index/ethereum-is-top-public-blockchain-bitcoin-no-13-in-chinas-new-index-idUSKCN1II2R9",
+          "source": "Hacker News"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "BitMine",
+      "count": 5,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Ethereum Foundation finalizes sale of 10,000 ether to BitMine as part of its treasury strategy",
+          "url": "https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ethereum Foundation sells another 10,000 ETH to BitMine in third OTC deal",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-sells-another-10000-eth-to-bitmine-in-third-otc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Ethereum Foundation sells another 10,000 ETH to BitMine in third OTC deal",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-sells-another-10000-eth-to-bitmine-in-third-otc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ethereum Foundation finalizes sale of 10,000 ether to BitMine as part of its treasury strategy",
+          "url": "https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ethereum Foundation sells another 10,000 ETH to BitMine in third OTC deal",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-sells-another-10000-eth-to-bitmine-in-third-otc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Bitbank",
+      "count": 5,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "SBI Holdings eyes stake in crypto exchange Bitbank to build digital asset powerhouse",
+          "url": "https://www.coindesk.com/business/2026/05/01/sbi-holdings-continues-its-crypto-expansion-with-plans-for-a-stake-in-bitbank",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "SBI eyes Bitbank deal as Japan\u2019s crypto exchange market consolidates",
+          "url": "https://cointelegraph.com/news/sbi-seeks-to-make-bitbank-a-subsidiary-in-japan-crypto-consolidation-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "SBI Holdings in talks to acquire stake in crypto exchange Bitbank, eyes subsidiary status",
+          "url": "https://www.theblock.co/post/399709/sbi-holdings-in-talks-to-acquire-stake-in-crypto-exchange-bitbank-eyes-subsidiary-status?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "SBI eyes Bitbank deal as Japan\u2019s crypto exchange market consolidates",
+          "url": "https://cointelegraph.com/news/sbi-seeks-to-make-bitbank-a-subsidiary-in-japan-crypto-consolidation-push",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "SBI Holdings eyes stake in crypto exchange Bitbank to build digital asset powerhouse",
+          "url": "https://www.coindesk.com/business/2026/05/01/sbi-holdings-continues-its-crypto-expansion-with-plans-for-a-stake-in-bitbank",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Spirit Airlines",
+      "count": 5,
+      "sources": [
+        "CNBC",
+        "Investing.com",
+        "Reuters",
+        "The Air Current"
+      ],
+      "articles": [
+        {
+          "title": "Spirit Airlines shuts down, industry\u2019s first Iran war casualty",
+          "url": "https://www.investing.com/news/stock-market-news/spirit-airlines-prepares-to-cease-operations-after-rescue-deal-stalls-wsj-reports-4653846",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Spirit Airlines rescue effort frustrates an industry waiting for it to fail - The Air Current",
+          "url": "https://theaircurrent.com/airlines/spirit-airlines-trump-administration-bankruptcy-bailout-jetblue/",
+          "source": "The Air Current"
+        },
+        {
+          "title": "Spirit Airlines could shut down overnight. Here's what travelers need to know",
+          "url": "https://www.cnbc.com/2026/05/01/spirit-airlines-flights-shut-down.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump says government gave 'final' bailout proposal for Spirit Airlines as liquidation looms",
+          "url": "https://www.cnbc.com/2026/05/01/spirit-airlines-trump-bailout.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Spirit Airlines shuts down, industry's first Iran war casualty - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZklaaVV4bnpCX2pSaUNpLW93WVQzR0ljQl9xbFdRaUNFNTBLVFZSb0Eza1NCWk9BQ0EyYzR6TFN1ckV1alBaTUd3Y2E4Q3ZQWHJJbnlCcU5uNWV2XzRkQldYSDB4TlBGTzBJcmk2R3BmcGhhWFFkYVJNZEpLbEh2akZlNGZUcHlzOGoyZ1U1bXB1NXF4S3Z0Y2lqMmxvTFYwWkFmWVU0SlZrWmpCWVhad2dCWXdSU0FZMjl6RDlEQWo?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Amazon",
+      "count": 5,
+      "sources": [
+        "Aboutamazon.com",
+        "CNBC",
+        "Decrypt",
+        "Hacker News",
+        "Motley Fool"
+      ],
+      "articles": [
+        {
+          "title": "Stocks making the biggest moves after hours: Alphabet, Microsoft, Amazon, Meta & more",
+          "url": "https://www.cnbc.com/2026/04/29/stocks-making-the-biggest-moves-after-hours-googl-msft-amzn-meta.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Pentagon Signs AI Deals With Google, OpenAI, Nvidia, Microsoft, Amazon and SpaceX",
+          "url": "https://decrypt.co/366351/pentagon-ai-deals-google-openai-nvidia-microsoft-amazon-spacex",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Amazon joining the Blockchain revolution",
+          "url": "https://www.cnbc.com/2017/11/01/amazon-buys-crypto-domains-bitcoin-ethereum.html",
+          "source": "Hacker News"
+        },
+        {
+          "title": "\"Magnificent Seven\" Companies Microsoft, Amazon, Alphabet, and Meta Just Reported Earnings. Here Are the Winners and Losers - The Motley Fool",
+          "url": "https://www.fool.com/investing/2026/04/30/magnificent-seven-companies-microsoft-amazon-alpha/",
+          "source": "Motley Fool"
+        },
+        {
+          "title": "Amazon\u2019s Prime Day event is back this June - About Amazon",
+          "url": "https://www.aboutamazon.com/news/retail/amazon-prime-day-june-2026",
+          "source": "Aboutamazon.com"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Senate",
+      "count": 4,
+      "sources": [
+        "CNBC",
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin above $78,000 as Senate clears Clarity Act yield hurdle, S&P 500 sets new record",
+          "url": "https://www.coindesk.com/markets/2026/05/02/bitcoin-above-usd78-000-as-senate-clears-clarity-act-yield-hurdle-s-and-p-500-sets-new-record",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Six months out, control of the Senate is a dead heat, traders on Kalshi say",
+          "url": "https://www.cnbc.com/2026/05/01/6-months-out-control-of-the-senate-is-50-50-traders-on-kalshi-say.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Senate moves to ban themselves from prediction market trading amid insider concerns",
+          "url": "https://www.theblock.co/post/399667/senate-moves-to-ban-themselves-from-prediction-market-trading-amid-insider-concerns?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin above $78,000 as Senate clears Clarity Act yield hurdle, S&P 500 sets new record",
+          "url": "https://www.coindesk.com/markets/2026/05/02/bitcoin-above-usd78-000-as-senate-clears-clarity-act-yield-hurdle-s-and-p-500-sets-new-record",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "AMD",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "Decrypt",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin miner Riot's shares jump 8% after expanding AMD data center deal, signaling AI pivot",
+          "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-miner-riot-s-shares-jump-8-after-expanding-amd-data-center-deal-signaling-ai-pivot",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Riot reports $33 million in first data center revenue as AMD doubles contracted capacity",
+          "url": "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Riot Platforms Stock Pops as Bitcoin Miner Reports Data Center Revenue, Doubled AMD Deal",
+          "url": "https://decrypt.co/366347/riot-stock-pops-bitcoin-miner-data-center-revenue-doubled-amd-deal",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin miner Riot's shares jump 8% after expanding AMD data center deal, signaling AI pivot",
+          "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-miner-riot-s-shares-jump-8-after-expanding-amd-data-center-deal-signaling-ai-pivot",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "XRP",
+      "count": 4,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "XRP sentiment hits 2-year high, but why is price stuck?",
+          "url": "https://cointelegraph.com/markets/xrp-sentiment-hits-2-year-high-but-why-is-price-stuck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Price predictions 5/1: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, XMR",
+          "url": "https://cointelegraph.com/markets/price-predictions-51-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "XRP sentiment hits 2-year high, but why is price stuck?",
+          "url": "https://cointelegraph.com/markets/xrp-sentiment-hits-2-year-high-but-why-is-price-stuck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Price predictions 5/1: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, XMR",
+          "url": "https://cointelegraph.com/markets/price-predictions-51-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Brazil",
+      "count": 4,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Brazil bars crypto settlement in regulated cross-border payment rails",
+          "url": "https://cointelegraph.com/news/brazil-central-bank-bars-virtual-assets-from-cross-border-payment-service-efx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Brazil central bank prohibits crypto use in regulated cross-border payments under new FX rules",
+          "url": "https://www.theblock.co/post/399713/brazil-central-bank-prohibits-crypto-use-in-regulated-cross-border-payments-under-new-fx-rules?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Brazil bars crypto settlement in regulated cross-border payment rails",
+          "url": "https://cointelegraph.com/news/brazil-central-bank-bars-virtual-assets-from-cross-border-payment-service-efx",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Brazil bars crypto settlement in regulated cross-border payment rails",
+          "url": "https://cointelegraph.com/news/brazil-central-bank-bars-virtual-assets-from-cross-border-payment-service-efx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Kalshi",
+      "count": 4,
+      "sources": [
+        "CNBC",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "U.S. oil prices will exceed Iran wartime high to above $125 as conflict drags on, Kalshi traders say",
+          "url": "https://www.cnbc.com/2026/05/01/kalshi-traders-think-us-oil-prices-are-set-to-hit-new-2026-highs.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Six months out, control of the Senate is a dead heat, traders on Kalshi say",
+          "url": "https://www.cnbc.com/2026/05/01/6-months-out-control-of-the-senate-is-50-50-traders-on-kalshi-say.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Apple execs to talk China and tariffs, but will avoid discussing foldable iPhone, per traders on Kalshi",
+          "url": "https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Polymarket and Kalshi\u2019s combined lifetime volumes hit $150 billion in April",
+          "url": "https://www.theblock.co/post/399759/polymarket-and-kalshis-combined-lifetime-volumes-hit-150-billion-in-april?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "SBI Holdings",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "SBI Holdings eyes stake in crypto exchange Bitbank to build digital asset powerhouse",
+          "url": "https://www.coindesk.com/business/2026/05/01/sbi-holdings-continues-its-crypto-expansion-with-plans-for-a-stake-in-bitbank",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "SBI Holdings in talks to acquire stake in crypto exchange Bitbank, eyes subsidiary status",
+          "url": "https://www.theblock.co/post/399709/sbi-holdings-in-talks-to-acquire-stake-in-crypto-exchange-bitbank-eyes-subsidiary-status?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "SBI Holdings eyes stake in crypto exchange Bitbank to build digital asset powerhouse",
+          "url": "https://www.coindesk.com/business/2026/05/01/sbi-holdings-continues-its-crypto-expansion-with-plans-for-a-stake-in-bitbank",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Dogecoin",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Decrypt"
+      ],
+      "articles": [
+        {
+          "title": "Did Dogecoin bottom first? DOGE price poised for 20% gains as whales return",
+          "url": "https://cointelegraph.com/markets/dogecoin-targets-20-gains-as-doge-whale-holdings-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Dogecoin Hits 2-Month High as DOGE Mining Firm Plans to Go Public via Merger",
+          "url": "https://decrypt.co/366320/dogecoin-2-month-high-doge-mining-firm-go-public",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Did Dogecoin bottom first? DOGE price poised for 20% gains as whales return",
+          "url": "https://cointelegraph.com/markets/dogecoin-targets-20-gains-as-doge-whale-holdings-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Japan",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "SBI eyes Bitbank deal as Japan\u2019s crypto exchange market consolidates",
+          "url": "https://cointelegraph.com/news/sbi-seeks-to-make-bitbank-a-subsidiary-in-japan-crypto-consolidation-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Yen jumps sharply as Japan warns it is ready to intervene again",
+          "url": "https://finance.yahoo.com/news/yen-jumps-sharply-japan-warns-084532174.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "SBI eyes Bitbank deal as Japan\u2019s crypto exchange market consolidates",
+          "url": "https://cointelegraph.com/news/sbi-seeks-to-make-bitbank-a-subsidiary-in-japan-crypto-consolidation-push",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Buffett",
+      "count": 3,
+      "sources": [
+        "CNBC",
+        "Investing.com",
+        "TheStreet"
+      ],
+      "articles": [
+        {
+          "title": "Berkshire shareholders head to Greg Abel\u2019s first annual meeting, with Buffett in audience",
+          "url": "https://www.investing.com/news/stock-market-news/berkshire-shareholders-head-to-greg-abels-first-annual-meeting-with-buffett-in-audience-4654761",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Berkshire shares struggle into annual meeting. Can Abel rekindle enthusiasm without Buffett center stage?",
+          "url": "https://www.cnbc.com/2026/05/01/berkshire-hathaway-annual-meeting-new-era-warren-buffett-off-center-stage.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Buffett\u2019s unsettling final message before going silent - thestreet.com",
+          "url": "https://www.thestreet.com/personal-finance/buffetts-unsettling-final-message-before-going-silent",
+          "source": "TheStreet"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "OPEC",
+      "count": 3,
+      "sources": [
+        "Crypto Briefing",
+        "DW (English)",
+        "Investing.com"
+      ],
+      "articles": [
+        {
+          "title": "UAE to exit OPEC: What is the potential impact on oil markets?",
+          "url": "https://www.investing.com/news/commodities-news/uae-to-exit-opec-what-is-the-potential-impact-on-oil-markets-4654759",
+          "source": "Investing.com"
+        },
+        {
+          "title": "UAE oil exit from OPEC signals focus on domestic priorities - dw.com",
+          "url": "https://www.dw.com/en/uae-oil-exit-from-opec-signals-focus-on-domestic-priorities/a-76998152",
+          "source": "DW (English)"
+        },
+        {
+          "title": "Bitcoin upside capped by $82K sell wall after UAE exits OPEC",
+          "url": "https://cryptobriefing.com/bitcoin-upside-capped-by-82k-sell-wall-after-uae-exits-opec/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Germany",
+      "count": 3,
+      "sources": [
+        "Investing.com",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Trump auto tariff hike could cost Germany nearly $18 billion in output, institute says",
+          "url": "https://www.investing.com/news/economy-news/trump-auto-tariff-hike-could-cost-germany-nearly-18-billion-in-output-institute-says-4654750",
+          "source": "Investing.com"
+        },
+        {
+          "title": "NATO: working with US to understand details of troop reduction in Germany",
+          "url": "https://www.investing.com/news/world-news/nato-working-with-us-to-understand-details-of-troop-reduction-in-germany-4654757",
+          "source": "Investing.com"
+        },
+        {
+          "title": "US withdrawing 5,000 troops from Germany, US officials say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLUxnTi1fcnFiX0tMTlpIQmdIOGFIQk80clBPWENGTS1FcllKZHRqVlhDZGlud0FGam1WVGctME5QdHgtZHVaUDdaRnhPeUYtTmJrVm5qVldOSDN3N0haYVpzOUU4SVFhSnRXU3FBWkdmckloU1FsQ01DSlA2eS1vaXlvb1E4Mmc2alJ4bVplZXYyNVYtb2FwOA?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Greg Abel",
+      "count": 3,
+      "sources": [
+        "CNBC"
+      ],
+      "articles": [
+        {
+          "title": "Cautious optimism: Berkshire investors weigh future under new CEO Greg Abel",
+          "url": "https://www.cnbc.com/2026/05/01/berkshire-investors-weigh-future-under-new-ceo-greg-abel.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Berkshire Hathaway\u2019s shopping extravaganza draws lighter crowds as spotlight shifts to Greg Abel",
+          "url": "https://www.cnbc.com/2026/05/01/berkshire-hathaways-shopping-extravaganza-draws-lighter-crowds-as-spotlight-shifts-to-greg-abel.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Berkshire Hathaway\u2019s shopping extravaganza draws lighter crowds as spotlight shifts to Greg Abel",
+          "url": "https://www.cnbc.com/2026/05/01/berkshire-hathaways-shopping-extravaganza-draws-lighter-crowds-as-spotlight-shifts-to-greg-abel.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Alphabet",
+      "count": 3,
+      "sources": [
+        "CNBC",
+        "MarketWatch",
+        "Motley Fool"
+      ],
+      "articles": [
+        {
+          "title": "Stocks making the biggest moves after hours: Alphabet, Microsoft, Amazon, Meta & more",
+          "url": "https://www.cnbc.com/2026/04/29/stocks-making-the-biggest-moves-after-hours-googl-msft-amzn-meta.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Stock Market News, April 30, 2026: Dow rises 790 points, S&P 500 and Nasdaq close at records as GDP data shows the U.S. economy continues to grow; Big Tech slips; oil falls back from four-year high; Alphabet shares jump as Meta falls - MarketWatch",
+          "url": "https://www.marketwatch.com/livecoverage/s-p-500-dow-jones-nasdaq-oil-prices-donald-trump-military-action-iran",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "\"Magnificent Seven\" Companies Microsoft, Amazon, Alphabet, and Meta Just Reported Earnings. Here Are the Winners and Losers - The Motley Fool",
+          "url": "https://www.fool.com/investing/2026/04/30/magnificent-seven-companies-microsoft-amazon-alpha/",
+          "source": "Motley Fool"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Satoshi Nakamoto",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "New Bitcoin quantum proposal offers Satoshi Nakamoto a way to prove control without moving BTC",
+          "url": "https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "New Bitcoin quantum proposal offers Satoshi Nakamoto a way to prove control without moving BTC",
+          "url": "https://www.coindesk.com/tech/2026/05/02/new-bitcoin-quantum-proposal-offers-satoshi-nakamoto-a-way-to-prove-control-without-moving-btc",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Riot",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin miner Riot's shares jump 8% after expanding AMD data center deal, signaling AI pivot",
+          "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-miner-riot-s-shares-jump-8-after-expanding-amd-data-center-deal-signaling-ai-pivot",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin miner Riot's shares jump 8% after expanding AMD data center deal, signaling AI pivot",
+          "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-miner-riot-s-shares-jump-8-after-expanding-amd-data-center-deal-signaling-ai-pivot",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    }
+  ],
+  "crypto_trending": [
+    {
+      "name": "LAB",
+      "symbol": "LAB",
+      "market_cap_rank": 210,
+      "thumb": "https://coin-images.coingecko.com/coins/images/70014/standard/lab.png?1760352822"
+    },
+    {
+      "name": "MegaETH",
+      "symbol": "MEGA",
+      "market_cap_rank": 202,
+      "thumb": "https://coin-images.coingecko.com/coins/images/69995/standard/ICON.png?1760337992"
+    },
+    {
+      "name": "AITECH Cloud Network",
+      "symbol": "ACN",
+      "market_cap_rank": 745,
+      "thumb": "https://coin-images.coingecko.com/coins/images/22114/standard/acn_ticker.png?1777507994"
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "market_cap_rank": 86,
+      "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+    },
+    {
+      "name": "Bio Protocol",
+      "symbol": "BIO",
+      "market_cap_rank": 270,
+      "thumb": "https://coin-images.coingecko.com/coins/images/53022/standard/bio.jpg?1735011002"
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "market_cap_rank": 13,
+      "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
+    },
+    {
+      "name": "Gensyn",
+      "symbol": "AI",
+      "market_cap_rank": 545,
+      "thumb": "https://coin-images.coingecko.com/coins/images/71027/standard/gensyn.png?1765331043"
+    },
+    {
+      "name": "Unipeg",
+      "symbol": "UPEG",
+      "market_cap_rank": 752,
+      "thumb": "https://coin-images.coingecko.com/coins/images/102173012/standard/unipeg.jpg?1777188215"
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "market_cap_rank": 31,
+      "thumb": "https://coin-images.coingecko.com/coins/images/26375/standard/sui-ocean-square.png?1727791290"
+    },
+    {
+      "name": "Baby Doge Coin",
+      "symbol": "BABYDOGE",
+      "market_cap_rank": 370,
+      "thumb": "https://coin-images.coingecko.com/coins/images/16125/standard/babydoge.jpg?1696515731"
+    }
+  ],
+  "stock_trending": [
+    {
+      "symbol": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 78257.99,
+      "change_pct": 0.06
+    },
+    {
+      "symbol": "GME",
+      "name": "GameStop Corp.",
+      "price": 26.53,
+      "change_pct": 6.33
+    },
+    {
+      "symbol": "EBAY",
+      "name": "eBay Inc.",
+      "price": 104.07,
+      "change_pct": 0.57
+    },
+    {
+      "symbol": "NBIS",
+      "name": "Nebius Group N.V.",
+      "price": 154.49,
+      "change_pct": 11.76
+    },
+    {
+      "symbol": "SOUN",
+      "name": "SoundHound AI, Inc.",
+      "price": 9.56,
+      "change_pct": 20.1
+    },
+    {
+      "symbol": "^GSPC",
+      "name": "S&P 500",
+      "price": 7230.12,
+      "change_pct": 0.29
+    },
+    {
+      "symbol": "FLYYQ",
+      "name": "Spirit Aviation Holdings, Inc.",
+      "price": 1.04,
+      "change_pct": -25.36
+    },
+    {
+      "symbol": "ETH-USD",
+      "name": "Ethereum USD",
+      "price": 2303.71,
+      "change_pct": 0.37
+    },
+    {
+      "symbol": "^IXIC",
+      "name": "NASDAQ Composite",
+      "price": 25114.44,
+      "change_pct": 0.89
+    },
+    {
+      "symbol": "XRP-USD",
+      "name": "XRP USD",
+      "price": 1.39,
+      "change_pct": 0.13
+    }
+  ],
+  "fear_greed": {
+    "value": 39,
+    "classification": "Fear",
+    "history": [
+      {
+        "value": 39,
+        "classification": "Fear"
+      },
+      {
+        "value": 26,
+        "classification": "Fear"
+      },
+      {
+        "value": 29,
+        "classification": "Fear"
+      },
+      {
+        "value": 26,
+        "classification": "Fear"
+      },
+      {
+        "value": 33,
+        "classification": "Fear"
+      },
+      {
+        "value": 47,
+        "classification": "Neutral"
+      },
+      {
+        "value": 33,
+        "classification": "Fear"
+      }
+    ]
+  },
+  "total_articles": 400
+}
