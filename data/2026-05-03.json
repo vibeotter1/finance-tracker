@@ -1,0 +1,1173 @@
+{
+  "date": "2026-05-03",
+  "topics": [
+    {
+      "name": "Iran",
+      "count": 35,
+      "sources": [
+        "Bitcoin.com",
+        "Bitcoinist",
+        "CNBC",
+        "CoinDesk",
+        "Crypto Briefing",
+        "Crypto Potato",
+        "Cryptopolitan",
+        "Financial Times",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin takes another aim at $80,000 as stocks rise, oil drops on Iran optimism",
+          "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-takes-another-aim-at-usd80-000-as-stocks-rise-oil-drops-on-iran-optimism",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "U.S. oil prices will exceed Iran wartime high to above $125 as conflict drags on, Kalshi traders say",
+          "url": "https://www.cnbc.com/2026/05/01/kalshi-traders-think-us-oil-prices-are-set-to-hit-new-2026-highs.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Donald Trump\u2019s Iran war leaves US with sharpest fuel shock in G7 - Financial Times",
+          "url": "https://www.ft.com/content/aa553985-ef1a-4001-9f8d-f9501810dbb5?syn-25a6b1a6\\\\u003d1",
+          "source": "Financial Times"
+        },
+        {
+          "title": "U.S. oil prices will exceed Iran wartime high to above $125 as conflict drags on, Kalshi traders say - CNBC",
+          "url": "https://www.cnbc.com/2026/05/01/kalshi-traders-think-us-oil-prices-are-set-to-hit-new-2026-highs.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Hezbollah resurgence complicates Israeli withdrawal, US-Iran ceasefire talks",
+          "url": "https://cryptobriefing.com/hezbollah-resurgence-complicates-israeli-withdrawal-us-iran-ceasefire-talks/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Trump",
+      "count": 17,
+      "sources": [
+        "Bitcoinist",
+        "CNBC",
+        "Crypto Briefing",
+        "NPR",
+        "Reuters",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Jerome Powell says he will continue to serve as a Fed governor, calls Trump criticism 'unprecedented'",
+          "url": "https://www.cnbc.com/2026/04/29/jerome-powell-says-he-will-continue-to-serve-as-a-fed-governor-even-after-chairmanship-ends-.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Crypto market structure bill nears May push as ethics disputes and Trump ties cloud path forward",
+          "url": "https://www.theblock.co/post/399680/crypto-market-structure-bill-nears-may-push-as-ethics-disputes-and-trump-ties-cloud-path-forward?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Trump gives the go-ahead for a major new Canada-U.S. oil pipeline - NPR",
+          "url": "https://www.npr.org/2026/04/30/g-s1-119648/trump-canada-us-oil-bridger-pipeline-expansion",
+          "source": "NPR"
+        },
+        {
+          "title": "US C-17 lands in Beijing, signaling preparations for Trump\u2019s China visit in May",
+          "url": "https://cryptobriefing.com/us-c-17-lands-in-beijing-signaling-preparations-for-trumps-china-visit-in-may/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Trump calls for war with Iran to stop nuclear threat",
+          "url": "https://cryptobriefing.com/trump-calls-for-war-with-iran-to-stop-nuclear-threat/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Reuters",
+      "count": 17,
+      "sources": [
+        "Cryptopolitan",
+        "Reuters",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Leading Iranian crypto exchange Nobitex was founded by sons of elite political family tied to supreme leaders: Reuters",
+          "url": "https://www.theblock.co/post/399784/leading-iranian-crypto-exchange-nobitex-was-founded-by-sons-of-elite-political-family-tied-to-supreme-leaders-reuters?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Iran executes man convicted over killing of security officer in 2022 unrest - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTjR5MVc5U1lSbUF5U1NwWXYxY0JPYld2SGdhZVN5a2RoOUZ1aFI0aWh6N1BwRHVjSm5oNW9WVW8zNnlEeXBmM3cwT0F0RFFlQWxjRjVjV2JJY2FGbENrWnY0WjlHTXprMnFzb3liR0R6bWhMTnN6ZFFlRkEyR1RuUVdJZEJGUnRsRTF2MFN5SVBqbnVqQ3Bxc1Q0ek9Oak5NZ1dIRHBaanhlWHlNWnJ4emV1QWpaUlVpcWZmbkZtbGE?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Germany says US troop drawdown should spur Europe, but top Republicans worried - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeng2WUI0R1hXdmJicTZHd21sUXBER3lWbExOeHNPQnQ2U2t2UDNYNlBIZ1RzWTlYeEJqM0tha1pJanl1SU5CcHhUUzcyTEVvdjcwTDNycTFUWHFMaXEySkhhazBNOUkzZHdmZE5FRHBGWXZyZm44b3ppRFd5UG1yLW1OdDhNNnR0YTJOYUU3ZFh5SGhMU0hXV1ZWTlJhQmQzWlB4Tkd3Ty1NSmU0aERIcEtwaXlJQmFkdktWbG5YZXBFbnlPS1AyRTItWVo0RkNkVDJ6amlB?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says US could restart Iran strikes 'if they misbehave' - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUozQmZGUTZjZElkcVg4NGRnUVJCSlluVnZiSTk5bXBaUlp6ekJtb2dOMWduY2xRUlIxNC1BdnhzY1JzMTl5emVTOGhjN1YyOThpNG9XYVFYeTFmX25CZmk4cThSZDY0NFlRNnNJNHZ1Mk5STnM0YTZZSVZHV0NiWjF5eGQybHVobVJyMDJfNlVUZThYeEtMajRHNWJlandILXJDelBsTlBNWXZQT3JJeHpmUHlhNE55a193NlZaOC0?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Air India CEO search narrows to Singapore Air exec Kannan and insider Aggarwal, sources say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX1p6NVBtc2ZPUThhZ2RkbXZQSS01MWNwWHE5MEJFRUZFWUotMno5SHJrc0UtdEtMMC15VlJVVGdPd3ZKOGFvRDBaNE1ZTEpVcDlJV1F2cTVDemlNQzVPdkoySUVlTUt2MHlJdnJtTnBTWkN1dFVpcm11cHRmSVZvbVZwQ0VkYzBMWHgwVEZYdy03SDM1NDVmSWMyUWlOaWRuczhFRzNySmgwazZkLThDc0FReUpuUmstUmVNeVlFdlR4Znc4ZWZrblY5ZzhNUWM?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Bitcoin",
+      "count": 14,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Crypto Briefing",
+        "Crypto Potato",
+        "Hacker News"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin's 'hazardous' airdrop: Why developers are warning against Paul Sztorc\u2019s eCash fork",
+          "url": "https://www.coindesk.com/tech/2026/05/02/bitcoin-s-hazardous-airdrop-why-developers-are-warning-against-paul-sztorc-s-ecash-fork",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin takes another aim at $80,000 as stocks rise, oil drops on Iran optimism",
+          "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-takes-another-aim-at-usd80-000-as-stocks-rise-oil-drops-on-iran-optimism",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin logs best monthly performance in 12 months during April",
+          "url": "https://cointelegraph.com/news/bitcoin-posts-its-strongest-monthly-gain-in-12-months-in-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Bitcoin doesn\u2019t need a fresh narrative to reclaim $100K: Analyst",
+          "url": "https://cointelegraph.com/news/bitcoin-doesnt-need-a-fresh-narrative-to-reclaim-100k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Bitcoin rally extends, yet BTC options price only 25% chance of $84K in May",
+          "url": "https://cointelegraph.com/markets/bitcoin-rally-extends-yet-btc-options-price-only-25-chance-of-84k-in-may?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "XRP",
+      "count": 10,
+      "sources": [
+        "CoinTelegraph",
+        "CoinTurk News",
+        "Coinpaper",
+        "Cointelegraph",
+        "Crypto Potato",
+        "TimesTabloid"
+      ],
+      "articles": [
+        {
+          "title": "XRP sentiment hits 2-year high, but why is price stuck?",
+          "url": "https://cointelegraph.com/markets/xrp-sentiment-hits-2-year-high-but-why-is-price-stuck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Price predictions 5/1: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, XMR",
+          "url": "https://cointelegraph.com/markets/price-predictions-51-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "XRP sentiment hits 2-year high, but why is price stuck?",
+          "url": "https://cointelegraph.com/markets/xrp-sentiment-hits-2-year-high-but-why-is-price-stuck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Price predictions 5/1: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, XMR",
+          "url": "https://cointelegraph.com/markets/price-predictions-51-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ripple CEO Sounds Stern Alarm On XRP and Crypto Adoption",
+          "url": "https://timestabloid.com/ripple-ceo-sounds-stern-alarm-on-xrp-and-crypto-adoption/",
+          "source": "TimesTabloid"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Jim Cramer",
+      "count": 8,
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Jim Cramer Doesn\u2019t Know What to Say About Procter & Gamble (PG)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-doesn-t-know-061234566.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Jim Cramer Shares Key Timeline For GE Vernova (GEV)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-key-timeline-061214944.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Jim Cramer Shares Big Data Center Catalyst For Caterpillar (CAT)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-big-data-061205334.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Jim Cramer Shares Key Insight About General Mills (GIS)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-key-insight-061155697.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Jim Cramer Shares Key Insight About Conagra (CAG)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-key-insight-061151949.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "China",
+      "count": 8,
+      "sources": [
+        "Bitcoin.com",
+        "CNBC",
+        "Crypto Briefing",
+        "Hacker News",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "China\u2019s EV price war turns into AI arms race beyond cheaper cars",
+          "url": "https://www.cnbc.com/2026/05/01/china-ev-ai-features-price-war-bytedance-alibaba-doubao-volcano-engine.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "China\u2019s self-driving truck leaders say AI breakthroughs won\u2019t accelerate rollout \u2014 here\u2019s why",
+          "url": "https://www.cnbc.com/2026/05/01/chinas-self-driving-truck-leaders-say-ai-breakthroughs-wont-accelerate-rollout-heres-why.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Apple execs to talk China and tariffs, but will avoid discussing foldable iPhone, per traders on Kalshi",
+          "url": "https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Ethereum is top public blockchain, Bitcoin No. 13 in China's new index",
+          "url": "https://www.reuters.com/article/us-crypto-currency-index/ethereum-is-top-public-blockchain-bitcoin-no-13-in-chinas-new-index-idUSKCN1II2R9?il=0",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Ethereum is top public blockchain, Bitcoin No. 13 in China's new index",
+          "url": "https://www.reuters.com/article/us-crypto-currency-index/ethereum-is-top-public-blockchain-bitcoin-no-13-in-chinas-new-index-idUSKCN1II2R9",
+          "source": "Hacker News"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "ETH",
+      "count": 7,
+      "sources": [
+        "AMB Crypto",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Decrypt",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Ethereum Foundation sells another 10,000 ETH to BitMine in third OTC deal",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-sells-another-10000-eth-to-bitmine-in-third-otc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Price predictions 5/1: BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA, BCH, XMR",
+          "url": "https://cointelegraph.com/markets/price-predictions-51-btc-eth-xrp-bnb-sol-doge-hype-ada-bch-xmr?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Ethereum Foundation\u2019s recent ETH sales to Tom Lee\u2019s Bitmine hit $47 million after latest deal",
+          "url": "https://www.theblock.co/post/399751/ethereum-foundation-eth-sales-tom-lees-bitmine-47-million-after-latest-deal?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine",
+          "url": "https://decrypt.co/366385/ethereum-foundation-sells-23-million-more-eth-tom-lee-bitmine",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Ethereum Foundation sells another 10,000 ETH to BitMine in third OTC deal",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-sells-another-10000-eth-to-bitmine-in-third-otc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Fed",
+      "count": 7,
+      "sources": [
+        "CNBC",
+        "Fortune",
+        "MarketWatch",
+        "Motley Fool",
+        "TimesTabloid"
+      ],
+      "articles": [
+        {
+          "title": "Higher inflation is on the way. The Fed needs to make this clear before it raises rates.",
+          "url": "https://www.marketwatch.com/story/higher-inflation-is-on-the-way-the-fed-needs-to-make-this-clearer-before-it-raises-rates-142c6884?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Jerome Powell says he will continue to serve as a Fed governor, calls Trump criticism 'unprecedented'",
+          "url": "https://www.cnbc.com/2026/04/29/jerome-powell-says-he-will-continue-to-serve-as-a-fed-governor-even-after-chairmanship-ends-.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Here's what changed in the new Fed statement",
+          "url": "https://www.cnbc.com/2026/04/29/april-fed-meeting-statement-redline.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Fed holds rates steady but with highest level of dissent since 1992",
+          "url": "https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Fed Chair Jerome Powell and the FOMC Just Updated Their Interest Rate Outlook -- and It's Terrible News for Wall Street - The Motley Fool",
+          "url": "https://www.fool.com/investing/2026/05/01/fed-chair-jerome-powell-fomc-interest-rate-wall-st/",
+          "source": "Motley Fool"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Spirit Airlines",
+      "count": 6,
+      "sources": [
+        "CNBC",
+        "Crypto Briefing",
+        "MarketWatch",
+        "NBC News",
+        "NPR"
+      ],
+      "articles": [
+        {
+          "title": "Spirit Airlines made this critical mistake that drove its demise",
+          "url": "https://www.marketwatch.com/story/spirit-airlines-made-this-critical-mistake-that-drove-its-demise-df3ea39d?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Spirit Airlines ceases operations after escalating financial struggles - NPR",
+          "url": "https://www.npr.org/2026/05/02/nx-s1-5807933/spirit-airlines-ceases-operations-folds",
+          "source": "NPR"
+        },
+        {
+          "title": "Spirit Airlines is closing down. Thousands of employees and travelers are impacted. - NBC News",
+          "url": "https://www.nbcnews.com/business/consumer/spirit-airlines-shuts-down-rcna343155",
+          "source": "NBC News"
+        },
+        {
+          "title": "Spirit Airlines shuts down amid US-Iran-Israel conflict and rising fuel costs",
+          "url": "https://cryptobriefing.com/spirit-airlines-shuts-down-amid-us-iran-israel-conflict-and-rising-fuel-costs/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Spirit Airlines could shut down overnight. Here's what travelers need to know",
+          "url": "https://www.cnbc.com/2026/05/01/spirit-airlines-flights-shut-down.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Ethereum Foundation",
+      "count": 5,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Decrypt"
+      ],
+      "articles": [
+        {
+          "title": "Ethereum Foundation finalizes sale of 10,000 ether to BitMine as part of its treasury strategy",
+          "url": "https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ethereum Foundation sells another 10,000 ETH to BitMine in third OTC deal",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-sells-another-10000-eth-to-bitmine-in-third-otc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Ethereum Foundation Sells $23 Million More in ETH to Tom Lee's BitMine",
+          "url": "https://decrypt.co/366385/ethereum-foundation-sells-23-million-more-eth-tom-lee-bitmine",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Ethereum Foundation sells another 10,000 ETH to BitMine in third OTC deal",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-sells-another-10000-eth-to-bitmine-in-third-otc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ethereum Foundation finalizes sale of 10,000 ether to BitMine as part of its treasury strategy",
+          "url": "https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "U.S.",
+      "count": 5,
+      "sources": [
+        "CNBC",
+        "MarketWatch",
+        "NPR"
+      ],
+      "articles": [
+        {
+          "title": "\u2018We\u2019re all worried the honey pot will run dry\u2019: Does the U.S. government borrow from my Social Security to fund federal programs?",
+          "url": "https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "U.S. oil prices will exceed Iran wartime high to above $125 as conflict drags on, Kalshi traders say",
+          "url": "https://www.cnbc.com/2026/05/01/kalshi-traders-think-us-oil-prices-are-set-to-hit-new-2026-highs.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "U.S. oil prices will exceed Iran wartime high to above $125 as conflict drags on, Kalshi traders say - CNBC",
+          "url": "https://www.cnbc.com/2026/05/01/kalshi-traders-think-us-oil-prices-are-set-to-hit-new-2026-highs.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump gives the go-ahead for a major new Canada-U.S. oil pipeline - NPR",
+          "url": "https://www.npr.org/2026/04/30/g-s1-119648/trump-canada-us-oil-bridger-pipeline-expansion",
+          "source": "NPR"
+        },
+        {
+          "title": "Trump's new executive order, with help from Congress, could increase U.S. retirement wealth up to 77%, researchers find",
+          "url": "https://www.cnbc.com/2026/05/01/legislative-action-could-increase-us-retirement-wealth.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Greg Abel",
+      "count": 5,
+      "sources": [
+        "Barron's",
+        "CNBC",
+        "Investing.com"
+      ],
+      "articles": [
+        {
+          "title": "Berkshire shareholders like Greg Abel, but following Warren Buffett is tough",
+          "url": "https://www.investing.com/news/stock-market-news/berkshire-shareholders-like-greg-abel-but-following-warren-buffett-is-tough-4654827",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Cautious optimism: Berkshire investors weigh future under new CEO Greg Abel",
+          "url": "https://www.cnbc.com/2026/05/01/berkshire-investors-weigh-future-under-new-ceo-greg-abel.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Berkshire Hathaway\u2019s shopping extravaganza draws lighter crowds as spotlight shifts to Greg Abel",
+          "url": "https://www.cnbc.com/2026/05/01/berkshire-hathaways-shopping-extravaganza-draws-lighter-crowds-as-spotlight-shifts-to-greg-abel.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Berkshire CEO Greg Abel to Host First Annual Meeting; Here Are 10 Tough Questions - Barron's",
+          "url": "https://www.barrons.com/articles/berkshire-abel-buffett-ceo-stock-26a8b66d",
+          "source": "Barron's"
+        },
+        {
+          "title": "Berkshire Hathaway\u2019s shopping extravaganza draws lighter crowds as spotlight shifts to Greg Abel",
+          "url": "https://www.cnbc.com/2026/05/01/berkshire-hathaways-shopping-extravaganza-draws-lighter-crowds-as-spotlight-shifts-to-greg-abel.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Kalshi",
+      "count": 5,
+      "sources": [
+        "CNBC",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "U.S. oil prices will exceed Iran wartime high to above $125 as conflict drags on, Kalshi traders say",
+          "url": "https://www.cnbc.com/2026/05/01/kalshi-traders-think-us-oil-prices-are-set-to-hit-new-2026-highs.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Six months out, control of the Senate is a dead heat, traders on Kalshi say",
+          "url": "https://www.cnbc.com/2026/05/01/6-months-out-control-of-the-senate-is-50-50-traders-on-kalshi-say.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Apple execs to talk China and tariffs, but will avoid discussing foldable iPhone, per traders on Kalshi",
+          "url": "https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Polymarket and Kalshi\u2019s combined lifetime volumes hit $150 billion in April",
+          "url": "https://www.theblock.co/post/399759/polymarket-and-kalshis-combined-lifetime-volumes-hit-150-billion-in-april?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "U.S. oil prices will exceed Iran wartime high to above $125 as conflict drags on, Kalshi traders say - CNBC",
+          "url": "https://www.cnbc.com/2026/05/01/kalshi-traders-think-us-oil-prices-are-set-to-hit-new-2026-highs.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Brazil",
+      "count": 4,
+      "sources": [
+        "Bitcoin.com",
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Brazil's central bank bans stablecoin and crypto settlement in cross-border payments",
+          "url": "https://www.coindesk.com/policy/2026/05/02/brazil-s-central-bank-bans-stablecoin-and-crypto-settlement-in-cross-border-payments",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Brazil central bank prohibits crypto use in regulated cross-border payments under new FX rules",
+          "url": "https://www.theblock.co/post/399713/brazil-central-bank-prohibits-crypto-use-in-regulated-cross-border-payments-under-new-fx-rules?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Brazil's central bank bans stablecoin and crypto settlement in cross-border payments",
+          "url": "https://www.coindesk.com/policy/2026/05/02/brazil-s-central-bank-bans-stablecoin-and-crypto-settlement-in-cross-border-payments",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Latam Insights: Brazil Bans Crypto Transfers as Meta Launches USDC Payouts",
+          "url": "https://news.bitcoin.com/latam-insights-brazil-bans-crypto-transfers-as-meta-launches-usdc-payouts/",
+          "source": "Bitcoin.com"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Senate",
+      "count": 4,
+      "sources": [
+        "CNBC",
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin above $78,000 as Senate clears Clarity Act yield hurdle, S&P 500 sets new record",
+          "url": "https://www.coindesk.com/markets/2026/05/02/bitcoin-above-usd78-000-as-senate-clears-clarity-act-yield-hurdle-s-and-p-500-sets-new-record",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Six months out, control of the Senate is a dead heat, traders on Kalshi say",
+          "url": "https://www.cnbc.com/2026/05/01/6-months-out-control-of-the-senate-is-50-50-traders-on-kalshi-say.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Coinbase says deal reached on Clarity Act stablecoin yield, clearing path to long-stalled Senate markup",
+          "url": "https://www.theblock.co/post/399780/coinbase-says-deal-reached-on-clarity-act-stablecoin-yield-clearing-path-to-long-stalled-senate-markup?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin above $78,000 as Senate clears Clarity Act yield hurdle, S&P 500 sets new record",
+          "url": "https://www.coindesk.com/markets/2026/05/02/bitcoin-above-usd78-000-as-senate-clears-clarity-act-yield-hurdle-s-and-p-500-sets-new-record",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "AMD",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "Decrypt",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin miner Riot's shares jump 8% after expanding AMD data center deal, signaling AI pivot",
+          "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-miner-riot-s-shares-jump-8-after-expanding-amd-data-center-deal-signaling-ai-pivot",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Riot reports $33 million in first data center revenue as AMD doubles contracted capacity",
+          "url": "https://www.theblock.co/post/399685/riot-33-million-data-center-revenue-debut-amd-doubles-contracted-capacity?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Riot Platforms Stock Pops as Bitcoin Miner Reports Data Center Revenue, Doubled AMD Deal",
+          "url": "https://decrypt.co/366347/riot-stock-pops-bitcoin-miner-data-center-revenue-doubled-amd-deal",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin miner Riot's shares jump 8% after expanding AMD data center deal, signaling AI pivot",
+          "url": "https://www.coindesk.com/markets/2026/05/01/bitcoin-miner-riot-s-shares-jump-8-after-expanding-amd-data-center-deal-signaling-ai-pivot",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "BitMine",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Ethereum Foundation finalizes sale of 10,000 ether to BitMine as part of its treasury strategy",
+          "url": "https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ethereum Foundation sells another 10,000 ETH to BitMine in third OTC deal",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-sells-another-10000-eth-to-bitmine-in-third-otc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Ethereum Foundation sells another 10,000 ETH to BitMine in third OTC deal",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-sells-another-10000-eth-to-bitmine-in-third-otc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ethereum Foundation finalizes sale of 10,000 ether to BitMine as part of its treasury strategy",
+          "url": "https://www.coindesk.com/business/2026/05/01/ethereum-foundation-finalizes-sale-of-10-000-ether-to-bitmine-as-part-of-its-treasury-strategy",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "New York",
+      "count": 4,
+      "sources": [
+        "Albany Times Union",
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "New York forces Uphold to pay $5M over fraudulent crypto investment scheme",
+          "url": "https://cointelegraph.com/news/new-york-forces-uphold-to-pay-5m-over-fraudulent-crypto-investment-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "New York bill would tax luxury second homes outside of NYC - Times Union",
+          "url": "https://www.timesunion.com/capitol/article/pied-a-terre-tax-upstate-new-york-22234403.php",
+          "source": "Albany Times Union"
+        },
+        {
+          "title": "New York forces Uphold to pay $5M over fraudulent crypto investment scheme",
+          "url": "https://cointelegraph.com/news/new-york-forces-uphold-to-pay-5m-over-fraudulent-crypto-investment-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "New York forces Uphold to pay $5M over fraudulent crypto investment scheme",
+          "url": "https://cointelegraph.com/news/new-york-forces-uphold-to-pay-5m-over-fraudulent-crypto-investment-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Hormuz",
+      "count": 4,
+      "sources": [
+        "Crypto Briefing",
+        "Investing.com"
+      ],
+      "articles": [
+        {
+          "title": "OPEC+ set to agree third oil output quota hike since Hormuz closure, sources say",
+          "url": "https://www.investing.com/news/commodities-news/opec-set-to-agree-third-oil-output-quota-hike-since-hormuz-closure-sources-say-4654816",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Trump calls US Navy actions \u201cpiracy\u201d amid Hormuz blockade tensions",
+          "url": "https://cryptobriefing.com/trump-calls-us-navy-actions-piracy-amid-hormuz-blockade-tensions/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "US seeks coalition to restore Hormuz navigation by May 1 amid tensions",
+          "url": "https://cryptobriefing.com/us-seeks-coalition-to-restore-hormuz-navigation-by-may-1-amid-tensions/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Iran demands US withdrawal from Gulf amid Strait of Hormuz tensions",
+          "url": "https://cryptobriefing.com/iran-demands-us-withdrawal-from-gulf-amid-strait-of-hormuz-tensions/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Meta",
+      "count": 4,
+      "sources": [
+        "Investing.com",
+        "TheStreet",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "5 big analyst AI moves: JPM downgrades Meta; Micron gets a fresh Street-high PT",
+          "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-jpm-downgrades-meta-micron-gets-a-fresh-streethigh-pt-4654778",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Mark Zuckerberg sends startling message to Meta employees",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/mark-zuckerberg-sends-startling-message-133300156.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Meta faces New Mexico trial that could force changes to Facebook, other platforms",
+          "url": "https://finance.yahoo.com/news/meta-faces-mexico-trial-could-100351544.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "JPMorgan has stark message for investors on Meta stock - thestreet.com",
+          "url": "https://www.thestreet.com/investing/stocks/jpmorgan-has-stark-message-for-investors-on-meta-stock",
+          "source": "TheStreet"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "JPMorgan",
+      "count": 4,
+      "sources": [
+        "CNBC",
+        "Hindustan Times",
+        "The Block",
+        "TheStreet"
+      ],
+      "articles": [
+        {
+          "title": "JPMorgan's Jamie Dimon issued vague credit recession warning, but the bond market has more pressing issues",
+          "url": "https://www.cnbc.com/2026/05/02/kevin-warsh-federal-reserve-interest-rates-bonds-fixed-income.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "JPMorgan says rising stablecoin use may not lead to similar market cap growth",
+          "url": "https://www.theblock.co/post/399767/jpmorgan-rising-stablecoin-use-may-not-lead-similar-market-cap-growth?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Lorna Hajdini case update: Alleged victim made career move days ago; JPMorgan exec finally responds | Hindustan Times - Hindustan Times",
+          "url": "https://www.hindustantimes.com/world-news/us-news/lorna-hajdini-case-update-alleged-victim-made-career-move-days-ago-jpmorgan-exec-finally-responds-101777654832443.html",
+          "source": "Hindustan Times"
+        },
+        {
+          "title": "JPMorgan has stark message for investors on Meta stock - thestreet.com",
+          "url": "https://www.thestreet.com/investing/stocks/jpmorgan-has-stark-message-for-investors-on-meta-stock",
+          "source": "TheStreet"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Ukraine",
+      "count": 4,
+      "sources": [
+        "Crypto Briefing",
+        "Hacker News"
+      ],
+      "articles": [
+        {
+          "title": "As Russia invaded Ukraine, Bitcoin plunged \u2013 here's what crypto experts said",
+          "url": "https://markets.businessinsider.com/news/currencies/bitcoin-ethereum-blockchain-ukraine-russia-war-conflict-europe-america-china-2022-2",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Fighting escalates in Ukraine\u2019s Kostiantynivka, challenging ceasefire hopes",
+          "url": "https://cryptobriefing.com/fighting-escalates-in-ukraines-kostiantynivka-challenging-ceasefire-hopes/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Ukraine shifts defense strategy, reduces reliance on US aid amid EU, Turkey ties",
+          "url": "https://cryptobriefing.com/ukraine-shifts-defense-strategy-reduces-reliance-on-us-aid-amid-eu-turkey-ties/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Russian forces capture Myropillia in eastern Ukraine amid ongoing conflict",
+          "url": "https://cryptobriefing.com/russian-forces-capture-myropillia-in-eastern-ukraine-amid-ongoing-conflict/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Uphold",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "New York forces Uphold to pay $5M over fraudulent crypto investment scheme",
+          "url": "https://cointelegraph.com/news/new-york-forces-uphold-to-pay-5m-over-fraudulent-crypto-investment-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "New York forces Uphold to pay $5M over fraudulent crypto investment scheme",
+          "url": "https://cointelegraph.com/news/new-york-forces-uphold-to-pay-5m-over-fraudulent-crypto-investment-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "New York forces Uphold to pay $5M over fraudulent crypto investment scheme",
+          "url": "https://cointelegraph.com/news/new-york-forces-uphold-to-pay-5m-over-fraudulent-crypto-investment-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "CLARITY Act",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Crypto industry will be \u2018just fine\u2019 if CLARITY Act doesn\u2019t pass: Chris Perkins",
+          "url": "https://cointelegraph.com/news/crypto-industry-will-be-just-fine-if-clarity-act-doesnt-pass-chris-perkins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Crypto industry will be \u2018just fine\u2019 if CLARITY Act doesn\u2019t pass: Chris Perkins",
+          "url": "https://cointelegraph.com/news/crypto-industry-will-be-just-fine-if-clarity-act-doesnt-pass-chris-perkins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Crypto industry will be \u2018just fine\u2019 if CLARITY Act doesn\u2019t pass: Chris Perkins",
+          "url": "https://cointelegraph.com/news/crypto-industry-will-be-just-fine-if-clarity-act-doesnt-pass-chris-perkins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Chris Perkins",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Crypto industry will be \u2018just fine\u2019 if CLARITY Act doesn\u2019t pass: Chris Perkins",
+          "url": "https://cointelegraph.com/news/crypto-industry-will-be-just-fine-if-clarity-act-doesnt-pass-chris-perkins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Crypto industry will be \u2018just fine\u2019 if CLARITY Act doesn\u2019t pass: Chris Perkins",
+          "url": "https://cointelegraph.com/news/crypto-industry-will-be-just-fine-if-clarity-act-doesnt-pass-chris-perkins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Crypto industry will be \u2018just fine\u2019 if CLARITY Act doesn\u2019t pass: Chris Perkins",
+          "url": "https://cointelegraph.com/news/crypto-industry-will-be-just-fine-if-clarity-act-doesnt-pass-chris-perkins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "CFTC",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "A16z sides with CFTC against states seeking to ban prediction markets",
+          "url": "https://cointelegraph.com/news/a16z-sides-with-cftc-against-states-seeking-to-ban-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "A16z backs CFTC, says state-by-state rules on prediction markets create \u2018barrier to impartial access\u2019",
+          "url": "https://www.theblock.co/post/399752/a16z-cftc-state-by-state-rules-prediction-markets-barrier-impartial-access?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "A16z sides with CFTC against states seeking to ban prediction markets",
+          "url": "https://cointelegraph.com/news/a16z-sides-with-cftc-against-states-seeking-to-ban-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "APY",
+      "count": 3,
+      "sources": [
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Best CD rates today, Saturday, May 2, 2026 (best account provides 4.05% APY)",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-today-saturday-may-2-2026-100000257.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Best money market account rates today, May 2, 2026 (best account provides 4.01% APY)",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-money-market-account-rates-today-saturday-may-2-2026-100000416.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Best high-yield savings interest rates today, May 2, 2026 (Earn up to 4.1% APY)",
+          "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-saturday-may-2-2026-100000052.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Apple",
+      "count": 3,
+      "sources": [
+        "CNBC",
+        "MacRumors"
+      ],
+      "articles": [
+        {
+          "title": "Stocks making the biggest moves premarket: Apple, Estee Lauder, Roku, Reddit, Roblox and more",
+          "url": "https://www.cnbc.com/2026/05/01/stocks-making-the-biggest-moves-premarket-aapl-el-roku-rddt-rblx-and-more.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Apple execs to talk China and tariffs, but will avoid discussing foldable iPhone, per traders on Kalshi",
+          "url": "https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "iPhone 17 Is Apple's Most Popular Lineup Ever - MacRumors",
+          "url": "https://www.macrumors.com/2026/04/30/iphone-17-is-apples-most-popular-lineup-ever/",
+          "source": "MacRumors"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Microsoft",
+      "count": 3,
+      "sources": [
+        "CNBC",
+        "Decrypt",
+        "Seeking Alpha"
+      ],
+      "articles": [
+        {
+          "title": "Stocks making the biggest moves after hours: Alphabet, Microsoft, Amazon, Meta & more",
+          "url": "https://www.cnbc.com/2026/04/29/stocks-making-the-biggest-moves-after-hours-googl-msft-amzn-meta.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Pentagon Signs AI Deals With Google, OpenAI, Nvidia, Microsoft, Amazon and SpaceX",
+          "url": "https://decrypt.co/366351/pentagon-ai-deals-google-openai-nvidia-microsoft-amazon-spacex",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Microsoft Doesn't Need To Win The AI Race, It Needs The AI Race To Be Brutal",
+          "url": "https://seekingalpha.com/article/4897835-microsoft-doesnt-need-to-win-the-ai-race-it-needs-ai-race-to-be-brutal?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        }
+      ],
+      "is_new": false
+    }
+  ],
+  "crypto_trending": [
+    {
+      "name": "LAB",
+      "symbol": "LAB",
+      "market_cap_rank": 278,
+      "thumb": "https://coin-images.coingecko.com/coins/images/70014/standard/lab.png?1760352822"
+    },
+    {
+      "name": "Babylon",
+      "symbol": "BABY",
+      "market_cap_rank": 310,
+      "thumb": "https://coin-images.coingecko.com/coins/images/55092/standard/Baby-Symbol-Mint_%281%29.png?1744788866"
+    },
+    {
+      "name": "Akash Network",
+      "symbol": "AKT",
+      "market_cap_rank": 184,
+      "thumb": "https://coin-images.coingecko.com/coins/images/12785/standard/akash-logo.png?1696512580"
+    },
+    {
+      "name": "Terra Luna Classic",
+      "symbol": "LUNC",
+      "market_cap_rank": 109,
+      "thumb": "https://coin-images.coingecko.com/coins/images/8284/standard/01_LunaClassic_color.png?1696508486"
+    },
+    {
+      "name": "MegaETH",
+      "symbol": "MEGA",
+      "market_cap_rank": 227,
+      "thumb": "https://coin-images.coingecko.com/coins/images/69995/standard/ICON.png?1760337992"
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "market_cap_rank": 88,
+      "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+    },
+    {
+      "name": "Bio Protocol",
+      "symbol": "BIO",
+      "market_cap_rank": 263,
+      "thumb": "https://coin-images.coingecko.com/coins/images/53022/standard/bio.jpg?1735011002"
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "market_cap_rank": 13,
+      "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
+    },
+    {
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "market_cap_rank": 104,
+      "thumb": "https://coin-images.coingecko.com/coins/images/34057/standard/LOGOMARK.png?1708356054"
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "market_cap_rank": 2,
+      "thumb": "https://coin-images.coingecko.com/coins/images/279/standard/ethereum.png?1696501628"
+    }
+  ],
+  "stock_trending": [
+    {
+      "symbol": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 78414.34,
+      "change_pct": -0.32
+    },
+    {
+      "symbol": "ETH-USD",
+      "name": "Ethereum USD",
+      "price": 2312.51,
+      "change_pct": -0.18
+    },
+    {
+      "symbol": "XRP-USD",
+      "name": "XRP USD",
+      "price": 1.39,
+      "change_pct": -0.37
+    },
+    {
+      "symbol": "BRK-B",
+      "name": "Berkshire Hathaway Inc.",
+      "price": 473.01,
+      "change_pct": -0.12
+    },
+    {
+      "symbol": "BRK-A",
+      "name": "Berkshire Hathaway Inc.",
+      "price": 710300.0,
+      "change_pct": -0.22
+    },
+    {
+      "symbol": "BTC-EUR",
+      "name": "Bitcoin EUR",
+      "price": 66906.33,
+      "change_pct": -0.25
+    },
+    {
+      "symbol": "DOGE-USD",
+      "name": "Dogecoin USD",
+      "price": 0.11,
+      "change_pct": -0.72
+    },
+    {
+      "symbol": "DRAM",
+      "name": "Roundhill Memory ETF",
+      "price": 40.41,
+      "change_pct": 2.75
+    },
+    {
+      "symbol": "AMKR",
+      "name": "Amkor Technology, Inc.",
+      "price": 71.09,
+      "change_pct": 1.92
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "price": 312.47,
+      "change_pct": -0.24
+    }
+  ],
+  "fear_greed": {
+    "value": 47,
+    "classification": "Neutral",
+    "history": [
+      {
+        "value": 47,
+        "classification": "Neutral"
+      },
+      {
+        "value": 39,
+        "classification": "Fear"
+      },
+      {
+        "value": 26,
+        "classification": "Fear"
+      },
+      {
+        "value": 29,
+        "classification": "Fear"
+      },
+      {
+        "value": 26,
+        "classification": "Fear"
+      },
+      {
+        "value": 33,
+        "classification": "Fear"
+      },
+      {
+        "value": 47,
+        "classification": "Neutral"
+      }
+    ]
+  },
+  "total_articles": 394
+}
