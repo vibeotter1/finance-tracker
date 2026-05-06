@@ -901,9 +901,21 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/17980/standard/photo_2024-09-10_17.09.00.jpeg?1725963446"
     },
     {
+      "name": "Billions Network",
+      "symbol": "BILL",
+      "market_cap_rank": 223,
+      "thumb": "https://coin-images.coingecko.com/coins/images/68464/standard/billions.png?1755828007"
+    },
+    {
+      "name": "Firo",
+      "symbol": "FIRO",
+      "market_cap_rank": 932,
+      "thumb": "https://coin-images.coingecko.com/coins/images/479/standard/firocoingecko.png?1696501734"
+    },
+    {
       "name": "io.net",
       "symbol": "IO",
-      "market_cap_rank": 448,
+      "market_cap_rank": 447,
       "thumb": "https://coin-images.coingecko.com/coins/images/37754/standard/io_blackbg.png?1715446363"
     },
     {
@@ -913,28 +925,10 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
     },
     {
-      "name": "Firo",
-      "symbol": "FIRO",
-      "market_cap_rank": 939,
-      "thumb": "https://coin-images.coingecko.com/coins/images/479/standard/firocoingecko.png?1696501734"
-    },
-    {
-      "name": "Billions Network",
-      "symbol": "BILL",
-      "market_cap_rank": 223,
-      "thumb": "https://coin-images.coingecko.com/coins/images/68464/standard/billions.png?1755828007"
-    },
-    {
       "name": "LAB",
       "symbol": "LAB",
       "market_cap_rank": 168,
       "thumb": "https://coin-images.coingecko.com/coins/images/70014/standard/lab.png?1760352822"
-    },
-    {
-      "name": "Terra Luna Classic",
-      "symbol": "LUNC",
-      "market_cap_rank": 96,
-      "thumb": "https://coin-images.coingecko.com/coins/images/8284/standard/01_LunaClassic_color.png?1696508486"
     },
     {
       "name": "Solana",
@@ -943,10 +937,16 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/4128/standard/solana.png?1718769756"
     },
     {
-      "name": "dogwifhat",
-      "symbol": "WIF",
-      "market_cap_rank": 177,
-      "thumb": "https://coin-images.coingecko.com/coins/images/33566/standard/dogwifhat.jpg?1702499428"
+      "name": "Terra Luna Classic",
+      "symbol": "LUNC",
+      "market_cap_rank": 95,
+      "thumb": "https://coin-images.coingecko.com/coins/images/8284/standard/01_LunaClassic_color.png?1696508486"
+    },
+    {
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "market_cap_rank": 19,
+      "thumb": "https://coin-images.coingecko.com/coins/images/877/standard/Chainlink_Logo_500.png?1760023405"
     }
   ],
   "stock_trending": [
@@ -971,8 +971,8 @@
     {
       "symbol": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 80937.36,
-      "change_pct": 1.39
+      "price": 82032.53,
+      "change_pct": 1.4
     },
     {
       "symbol": "ARM",
@@ -989,8 +989,8 @@
     {
       "symbol": "NOVO-B.CO",
       "name": "Novo Nordisk A/S",
-      "price": 303.65,
-      "change_pct": 6.21
+      "price": 304.15,
+      "change_pct": 6.38
     },
     {
       "symbol": "ANET",
@@ -1045,5 +1045,5 @@
       }
     ]
   },
-  "total_articles": 373
+  "total_articles": 363
 }
