@@ -1,0 +1,1106 @@
+{
+  "date": "2026-05-11",
+  "topics": [
+    {
+      "name": "Iran",
+      "count": 34,
+      "sources": [
+        "CNBC",
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Crypto Briefing",
+        "Investing.com Crypto News",
+        "Reuters",
+        "Salon",
+        "The Block",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin whipsaws on CME open as Iran tensions pressure crypto markets",
+          "url": "https://www.coindesk.com/markets/2026/05/11/bitcoin-whipsaws-on-cme-open-as-iran-tensions-pressure-crypto-markets",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin rallies 2.3% after Trump calls Iran peace proposal \u2018totally unacceptable\u2019",
+          "url": "https://cointelegraph.com/news/bitcoin-rallies-2-percent-after-trump-calls-iran-peace-proposal-totally-unacceptable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Stocks sag, dollar firms as US-Iran talks hit stalemate",
+          "url": "https://finance.yahoo.com/news/share-futures-ease-dollar-gains-225731200.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Gold and silver prices today, Monday, May 11: Gold and silver down this morning after Trump rejects Iran's peace plan",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-and-silver-prices-today-monday-may-11-gold-and-silver-down-this-morning-after-trump-rejects-irans-peace-plan-110050358.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
+          "url": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Trump",
+      "count": 18,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Investing.com",
+        "Jezebel",
+        "MarketWatch",
+        "Motley Fool",
+        "New York Post",
+        "Reuters",
+        "Salon",
+        "The Block",
+        "Themirror.com",
+        "Yahoo Entertainment",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Trump fans put millions of dollars into a gold phone and a memecoin. Neither has gone well",
+          "url": "https://www.coindesk.com/markets/2026/05/11/trump-fans-put-millions-of-dollars-into-a-gold-phone-and-a-memecoin-neither-has-gone-well",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin rallies 2.3% after Trump calls Iran peace proposal \u2018totally unacceptable\u2019",
+          "url": "https://cointelegraph.com/news/bitcoin-rallies-2-percent-after-trump-calls-iran-peace-proposal-totally-unacceptable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "As Trump heads to China, here\u2019s how much the dollar is overvalued, according to Goldman Sachs",
+          "url": "https://www.marketwatch.com/story/as-trump-heads-to-china-heres-how-much-the-dollar-is-overvalued-according-to-goldman-sachs-e29884f9?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Factbox-Iran war raises stakes for US and China ahead of Trump\u2013Xi talks",
+          "url": "https://www.investing.com/news/commodities-news/factboxiran-war-raises-stakes-for-us-and-china-ahead-of-trumpxi-talks-4676274",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Gold and silver prices today, Monday, May 11: Gold and silver down this morning after Trump rejects Iran's peace plan",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-and-silver-prices-today-monday-may-11-gold-and-silver-down-this-morning-after-trump-rejects-irans-peace-plan-110050358.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Reuters",
+      "count": 16,
+      "sources": [
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Dollar holds firm as Iran war uncertainty keeps markets on edge - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTZ6NW1CNXZSaHpYd2tlQUtjRlFuYmZOc3hkVzlGMVRKVlFXMUwtNG40VC1jSURSVTd2cEVCV2ZXMHNHTGM0YU11OFBfMEtaQXBIN3dyQVhVc1Rmdng4SDAwYU1GUlZWZVRIYzc5S1ROQUJLcmpraHpVU1V1TnpLNm9kVXAtM1ZKUk9aQzQ5OEdPNnZRV0U4ZGlONFMtUmdVcXA0M2xpU2FYQThteFJvLUV4bUU?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump dismisses Iran's offer, oil rises as Hormuz closure persists - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTTFIeHh6enp1TW1pNmRpVy1pZ1ZtaVFvNTF2emxOOUg3VXV1RWE3SkFqb3pwY28yS0pBTDF3MjRFSVNRclFhTWtCZlN0SmQ1MDV2YUZJSXJhdXRUdldyM3VZbEkzYnIxUXlvSk1JREJwVURVVGJhcV9vcEU2WnlLcVZKaXZQX0Fac1VEWW1VZjlwdDNNWHp5ZENCNTROaEhsVFRuQ2ZUd0gwTmc?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Second Qatari LNG tanker heads through Hormuz to Pakistan as Iran war continues, data shows - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcVdvRGJBd01JMDBxRzJZQUVEMzNhRjVpRmhhWmhOWmdrRml0c25kZHBjOWFsVDI1RTVKWUcxOF9QZmRPNFFPVFZLcTF6T3ZVZzVTZnkySEF0UVpGdTExVmJpQTRNZDBhMElBeWY0TlZCWlJadi1VN1BCRzZGQnI0Yk8tdU9kT3VlZktEd29QTTk2OVNQRGNWRHlUeG1oRm9Kc29heXN3cXljSE5nVXRGYWJqYnRGSzg0VGtHOWZ1VVh2VktPdHVUR2RnbVk?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Japan to receive first Central Asian crude oil since Iran war started - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOWRzd1Z6Wk5FM215ZGVuNWdkNDFZT1dWSjVLVG54WExhR1VGSkhJcWdkdVFqa2lyeGFYQzJxOFk2WjlLUG5mZzQteU9oMjdfOGptS1pBblA2d2x4amstdTNlYm9xR3NUTkVYbFp1VGlJLVg2Ry01T043UGZtdE45MTRuTVd2cXVmc0FZRDc0ZG1YUG1BN1FkZXk4OGx6bEE0RHBaNWhxTlE3alBJRVo1LWpZT3RTVUNvSU1seTVycVFvTWl6?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold falls on oil-driven inflation fears as Trump rejects Iran peace proposal - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNS1R4YmxvUWpZMGJaX3FrMXY2aGNsNG1TZ1JFc08weHF0cXRWd0s5a04xV2xEamNKNWFrT1VXWEZnRHIyZlczejVDblEzS1Z6N2NmTG14aVVkcHJQOUtreDd3TTZKUWtkSmp1aXRuckNFaXdJbThub1RPV3E0aDc4OHNPZnYweWt4MWR4UG1nU0NEMXpaU2V4OUhLNE5JdDVJQlZWREFFRUtqV2N4MVlnbDB0cw?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Bitcoin",
+      "count": 11,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Hacker News",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin, Nasdaq investors are celebrating, while U.S. consumers turn gloomy",
+          "url": "https://www.coindesk.com/markets/2026/05/11/bitcoin-nasdaq-investors-are-celebrating-while-u-s-consumers-are-panicking",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "BTC price target becomes $85K next: Five things to know in Bitcoin this week",
+          "url": "https://cointelegraph.com/markets/btc-price-target-becomes-85k-next-five-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "This Bitcoin price level will be 'end of the bears' if broken, says analyst",
+          "url": "https://cointelegraph.com/markets/this-bitcoin-price-level-will-be-end-of-bears-if-broken-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Ether down 35% versus Bitcoin in a year: Will the ETH price downtrend continue?",
+          "url": "https://cointelegraph.com/markets/ethereum-down-35-versus-bitcoin-in-year-will-eth-downtrend-continue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Bitcoin and ethereum prices today, Monday, May 11, 2026: Bitcoin's strongest opening in months",
+          "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-may-11-2026-bitcoins-strongest-opening-in-months-113216131.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "China",
+      "count": 9,
+      "sources": [
+        "Associated Press",
+        "Crypto Briefing",
+        "Hacker News",
+        "Investing.com",
+        "MarketWatch",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "As Trump heads to China, here\u2019s how much the dollar is overvalued, according to Goldman Sachs",
+          "url": "https://www.marketwatch.com/story/as-trump-heads-to-china-heres-how-much-the-dollar-is-overvalued-according-to-goldman-sachs-e29884f9?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Factbox-Iran war raises stakes for US and China ahead of Trump\u2013Xi talks",
+          "url": "https://www.investing.com/news/commodities-news/factboxiran-war-raises-stakes-for-us-and-china-ahead-of-trumpxi-talks-4676274",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Ethereum is top public blockchain, Bitcoin No. 13 in China's new index",
+          "url": "https://www.reuters.com/article/us-crypto-currency-index/ethereum-is-top-public-blockchain-bitcoin-no-13-in-chinas-new-index-idUSKCN1II2R9?il=0",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Ethereum is top public blockchain, Bitcoin No. 13 in China's new index",
+          "url": "https://www.reuters.com/article/us-crypto-currency-index/ethereum-is-top-public-blockchain-bitcoin-no-13-in-chinas-new-index-idUSKCN1II2R9",
+          "source": "Hacker News"
+        },
+        {
+          "title": "China says April exports jump 14.1% from a year ago ahead of Trump-Xi summit - AP News",
+          "url": "https://apnews.com/article/china-trade-exports-growth-april-4e17ad3271e7391a27a247698cddd6f8",
+          "source": "Associated Press"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Intel",
+      "count": 8,
+      "sources": [
+        "CNBC",
+        "Crypto Briefing",
+        "Decrypt",
+        "Seeking Alpha",
+        "TheStreet",
+        "Wccftech",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Stock Market Today: Dow Futures Fall, Oil Jumps; Intel, Lumentum, Moderna, Circle Internet All Rise (Live Coverage)",
+          "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp500-nasdaq-oil-prices-intel-lumentum-moderna-circle-internet/?src=A00220&yptr=yahoo",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Stocks making the biggest moves premarket: Moderna, Lumentum, Intel, monday.com & more",
+          "url": "https://www.cnbc.com/2026/05/11/stocks-making-the-biggest-moves-premarket-mrna-lite-intc.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Intel and Micron are poised to break major milestones",
+          "url": "https://www.cnbc.com/2026/05/05/intel-and-micron-are-poised-to-break-major-milestones.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Intel Stock Hits All-Time High After Preliminary Chip Deal With Apple",
+          "url": "https://decrypt.co/367320/intel-all-time-high-chip-deal-apple",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Intel At $125: A 590% Rally Built On A Foundation That's Still Losing Billions",
+          "url": "https://seekingalpha.com/article/4902413-intel-at-125-a-590-percent-rally-built-on-a-foundation-thats-still-losing-billions?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Circle",
+      "count": 7,
+      "sources": [
+        "CNBC",
+        "CoinDesk",
+        "CoinTurk News",
+        "Decrypt",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Circle raises $222 million for Arc, beats Q1 earnings estimates but misses on revenue",
+          "url": "https://www.coindesk.com/business/2026/05/11/circle-raises-usd222-million-for-arc-blockchain-token-sale-at-usd3-billion-valuation",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Circle raises $222M in Arc token presale at $3B FDV from a16z crypto, BlackRock and others; Q1 revenue up 20%",
+          "url": "https://www.theblock.co/post/400709/circle-raises-222m-in-arc-token-presale-at-3b-fdv-from-a16z-crypto-blackrock-and-others-q1-revenue-up-20?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Circle Raises $222M in Arc Token Presale at $3B Valuation",
+          "url": "https://decrypt.co/367386/circle-raises-222m-in-arc-token-presale-at-3b-valuation",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Circle raises $222 million from BlackRock, Apollo and others in Arc token presale valued at $3 billion",
+          "url": "https://www.cnbc.com/2026/05/11/circle-closes-222-million-from-blackrock-apollo-for-arc-blockchain.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Circle raises $222 million for Arc blockchain token sale at $3 billion valuation",
+          "url": "https://www.coindesk.com/business/2026/05/11/circle-raises-usd222-million-for-arc-blockchain-token-sale-at-usd3-billion-valuation",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "U.S.",
+      "count": 7,
+      "sources": [
+        "CoinDesk",
+        "Cryptocurrency News",
+        "MarketWatch",
+        "Seeking Alpha",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin, Nasdaq investors are celebrating, while U.S. consumers turn gloomy",
+          "url": "https://www.coindesk.com/markets/2026/05/11/bitcoin-nasdaq-investors-are-celebrating-while-u-s-consumers-are-panicking",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "AI plays in emerging markets offer more upside than in the U.S. at present, says JPMorgan",
+          "url": "https://www.marketwatch.com/story/ai-plays-in-emerging-markets-offer-more-upside-than-in-the-u-s-at-present-says-jpmorgan-e2b26291?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Gary Stevenson says 'your kids will be poorer than you' \u2014 as U.S. income inequality widens",
+          "url": "https://finance.yahoo.com/economy/articles/gary-stevenson-says-kids-poorer-114500886.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Daily Spotlight: U.S. a Leader in Capital Raising",
+          "url": "https://finance.yahoo.com/research/reports/ARGUS_46984_MarketOutlook_1778498833000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Monday Blues: U.S. Negotiating Tactic Or Ceasefire May End",
+          "url": "https://seekingalpha.com/article/4902422-monday-blues-us-negotiating-tactic-ceasefire-may-end?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "ETH",
+      "count": 6,
+      "sources": [
+        "Bitcoin.com",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block",
+        "cryptonews"
+      ],
+      "articles": [
+        {
+          "title": "Ether down 35% versus Bitcoin in a year: Will the ETH price downtrend continue?",
+          "url": "https://cointelegraph.com/markets/ethereum-down-35-versus-bitcoin-in-year-will-eth-downtrend-continue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Arbitrum\u2019s $71 million in ETH cleared for Aave transfer as North Korea terrorism creditors retain legal claim",
+          "url": "https://www.theblock.co/post/400642/arbitrums-71-million-in-eth-cleared-for-aave-transfer-as-north-korea-terrorism-creditors-retain-legal-claim?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Ethereum down 35% versus Bitcoin in a year: Will the ETH price downtrend continue?",
+          "url": "https://cointelegraph.com/markets/ethereum-down-35-versus-bitcoin-in-year-will-eth-downtrend-continue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ethereum News: Foundation Unstakes $49.6M in ETH for Treasury Rebalancing Just Now",
+          "url": "https://cryptonews.com/news/ethereum-foundation-news-unstakes-49m-eth-treasury-rebalancing/",
+          "source": "cryptonews"
+        },
+        {
+          "title": "XRP Price Outperforms ETH and BTC: $2 Next Target as Ripple Token Eyes $10",
+          "url": "https://cryptonews.com/news/xrp-price-prediction-2-target/",
+          "source": "cryptonews"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Fed",
+      "count": 6,
+      "sources": [
+        "Bitcoin World",
+        "Cointelegraph",
+        "Crypto Briefing",
+        "Investing.com",
+        "Motley Fool",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Wall Street pushes back Fed rate-cut expectations. Here Is why",
+          "url": "https://www.investing.com/news/economy-news/wall-street-pushes-back-fed-ratecut-expectations-here-is-why-4676282",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Fed Chair Jerome Powell Just Broke 75 Years of Precedent With a Move That's Likely to Frustrate President Trump. How Will This Impact the Stock Market? - The Motley Fool",
+          "url": "https://www.fool.com/investing/2026/05/09/fed-chair-jerome-powell-just-broke-75-years-of-pre/",
+          "source": "Motley Fool"
+        },
+        {
+          "title": "Bitcoin faces pressure as Fed forecasts hotter inflation, potential rate hikes",
+          "url": "https://cryptobriefing.com/bitcoin-faces-pressure-as-fed-forecasts-hotter-inflation-potential-rate-hikes/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Bitcoin price may dip toward $70K as Fed estimates hotter inflation print",
+          "url": "https://cointelegraph.com/markets/bitcoin-price-may-dip-toward-70k-fed-estimates-hotter-inflation",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Goldman Sachs delays Fed cut outlook to December 2026 as Iran war drives US inflation - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUmowSnVOelhFSkZuUkVCMEN2TDl4NWRidHB2ak5jQkVHcUxRd2RoNW9mMkJlNTNLU0FkeWpvdGtSd0hKV2doZXdZN2NyeVdyOTJXSWVaYmkyeF9rb005d1lPYWZGLXQtRTdObUJFMWw3b1lBUDhVYUZJcEQxclIteTdzNW5PeHhGZUhZNGVjNkVZQ2NGMzZkNWNsb09hS1ZNV2RwamRncDg3STBiMGRVNmxpNkt2S1o3QTQyTW9Qc25oUQ?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Hormuz",
+      "count": 5,
+      "sources": [
+        "Crypto Briefing",
+        "MarketWatch",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "A \u2018race against time.\u2019 Hormuz closure could push Brent to $150 a barrel by summer, warns Morgan Stanley.",
+          "url": "https://www.marketwatch.com/story/a-race-against-time-hormuz-closure-could-push-brent-to-150-by-summer-warns-morgan-stanley-018be51f?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Iran strikes tanker off Doha as Qatari ship breaks Hormuz blockade, triggering crypto scam wave and oil price surge",
+          "url": "https://cryptobriefing.com/iran-strikes-tanker-hormuz-blockade-crypto/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Iran threatens to block oil shipments through Strait of Hormuz if attacked",
+          "url": "https://cryptobriefing.com/iran-threatens-to-block-oil-shipments-through-strait-of-hormuz-if-attacked/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Trump dismisses Iran's offer, oil rises as Hormuz closure persists - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTTFIeHh6enp1TW1pNmRpVy1pZ1ZtaVFvNTF2emxOOUg3VXV1RWE3SkFqb3pwY28yS0pBTDF3MjRFSVNRclFhTWtCZlN0SmQ1MDV2YUZJSXJhdXRUdldyM3VZbEkzYnIxUXlvSk1JREJwVURVVGJhcV9vcEU2WnlLcVZKaXZQX0Fac1VEWW1VZjlwdDNNWHp5ZENCNTROaEhsVFRuQ2ZUd0gwTmc?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Second Qatari LNG tanker heads through Hormuz to Pakistan as Iran war continues, data shows - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcVdvRGJBd01JMDBxRzJZQUVEMzNhRjVpRmhhWmhOWmdrRml0c25kZHBjOWFsVDI1RTVKWUcxOF9QZmRPNFFPVFZLcTF6T3ZVZzVTZnkySEF0UVpGdTExVmJpQTRNZDBhMElBeWY0TlZCWlJadi1VN1BCRzZGQnI0Yk8tdU9kT3VlZktEd29QTTk2OVNQRGNWRHlUeG1oRm9Kc29heXN3cXljSE5nVXRGYWJqYnRGSzg0VGtHOWZ1VVh2VktPdHVUR2RnbVk?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Ethereum",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Ronin set to transition to Ethereum layer 2 from independent sidechain",
+          "url": "https://www.coindesk.com/tech/2026/05/11/ronin-set-to-transition-to-ethereum-layer-2-from-independent-sidechain",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Veteran investor bets on Ethereum as AI agents drive tokenization demand",
+          "url": "https://cointelegraph.com/news/tokenized-assets-summer-veteran-macro-investor-bets-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Veteran investor bets on Ethereum as AI agents drive tokenization demand",
+          "url": "https://cointelegraph.com/news/tokenized-assets-summer-veteran-macro-investor-bets-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ronin set to transition to Ethereum layer 2 from independent sidechain",
+          "url": "https://www.coindesk.com/tech/2026/05/11/ronin-set-to-transition-to-ethereum-layer-2-from-independent-sidechain",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Arc",
+      "count": 4,
+      "sources": [
+        "CNBC",
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Circle raises $222 million for Arc, beats Q1 earnings estimates but misses on revenue",
+          "url": "https://www.coindesk.com/business/2026/05/11/circle-raises-usd222-million-for-arc-blockchain-token-sale-at-usd3-billion-valuation",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Circle raises $222M in Arc token presale at $3B FDV from a16z crypto, BlackRock and others; Q1 revenue up 20%",
+          "url": "https://www.theblock.co/post/400709/circle-raises-222m-in-arc-token-presale-at-3b-fdv-from-a16z-crypto-blackrock-and-others-q1-revenue-up-20?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Circle raises $222 million from BlackRock, Apollo and others in Arc token presale valued at $3 billion",
+          "url": "https://www.cnbc.com/2026/05/11/circle-closes-222-million-from-blackrock-apollo-for-arc-blockchain.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Circle raises $222 million for Arc blockchain token sale at $3 billion valuation",
+          "url": "https://www.coindesk.com/business/2026/05/11/circle-raises-usd222-million-for-arc-blockchain-token-sale-at-usd3-billion-valuation",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "XRP",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "CryptoSlate",
+        "cryptonews"
+      ],
+      "articles": [
+        {
+          "title": "XRP spikes 2.5%, beating bitcoin and ether, in breakout above $1.45",
+          "url": "https://www.coindesk.com/markets/2026/05/11/xrp-spikes-2-5-beating-bitcoin-and-ether-in-breakout-above-usd1-45",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "JPMorgan, Mastercard and Ripple complete cross-border XRP tokenized Treasury settlement",
+          "url": "https://cryptoslate.com/jpmorgan-mastercard-and-ripple-complete-cross-border-tokenized-treasury-settlement/",
+          "source": "CryptoSlate"
+        },
+        {
+          "title": "XRP spikes 2.5%, beating bitcoin and ether, in breakout above $1.45",
+          "url": "https://www.coindesk.com/markets/2026/05/11/xrp-spikes-2-5-beating-bitcoin-and-ether-in-breakout-above-usd1-45",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Elon Musk New Grok AI Predicts the Price of XRP by The End of 2026",
+          "url": "https://cryptonews.com/news/elon-musk-grok-ai-predicts-the-price-of-xrp-by-the-end-of-2026/",
+          "source": "cryptonews"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "CoinShares",
+      "count": 4,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Crypto funds log $858M in sixth straight week of inflows: CoinShares",
+          "url": "https://cointelegraph.com/news/crypto-funds-six-week-inflow-streak-4-9-billion-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Global crypto funds log $858M inflows in sixth straight positive week as Clarity Act progress lifts sentiment: CoinShares",
+          "url": "https://www.theblock.co/post/400688/global-crypto-funds-log-858m-inflows-in-sixth-straight-positive-week-as-clarity-act-progress-lifts-sentiment-coinshares?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Crypto funds log $858M in sixth straight week of inflows: CoinShares",
+          "url": "https://cointelegraph.com/news/crypto-funds-six-week-inflow-streak-4-9-billion-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Crypto funds log $858M in sixth straight week of inflows: CoinShares",
+          "url": "https://cointelegraph.com/news/crypto-funds-six-week-inflow-streak-4-9-billion-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "CME",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "cryptonews"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin whipsaws on CME open as Iran tensions pressure crypto markets",
+          "url": "https://www.coindesk.com/markets/2026/05/11/bitcoin-whipsaws-on-cme-open-as-iran-tensions-pressure-crypto-markets",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin whipsaws on CME open as Iran tensions pressure crypto markets",
+          "url": "https://www.coindesk.com/markets/2026/05/11/bitcoin-whipsaws-on-cme-open-as-iran-tensions-pressure-crypto-markets",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin Price Prediction: Bitcoin Is Coiling Below $83,000: Can CME\u2019s New Volatility Futures Push BTC to $85,000 This Week?",
+          "url": "https://cryptonews.com/news/bitcoin-price-prediction-59/",
+          "source": "cryptonews"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Digital Asset",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Canton Network\u2019s Digital Asset targets $2 billion valuation in a16z crypto-led raise: Bloomberg",
+          "url": "https://www.coindesk.com/business/2026/05/11/canton-network-s-digital-asset-targets-usd2-billion-valuation-in-a16z-crypto-led-raise-bloomberg",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Canton Network developer Digital Asset eyes $300 million raise at $2 billion valuation, led by a16z crypto: Bloomberg",
+          "url": "https://www.theblock.co/post/400647/canton-network-developer-digital-asset-eyes-300-million-raise-at-2-billion-valuation-led-by-a16z-crypto-bloomberg?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Canton Network\u2019s Digital Asset targets $2 billion valuation in a16z crypto-led raise: Bloomberg",
+          "url": "https://www.coindesk.com/business/2026/05/11/canton-network-s-digital-asset-targets-usd2-billion-valuation-in-a16z-crypto-led-raise-bloomberg",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Bloomberg",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Canton Network\u2019s Digital Asset targets $2 billion valuation in a16z crypto-led raise: Bloomberg",
+          "url": "https://www.coindesk.com/business/2026/05/11/canton-network-s-digital-asset-targets-usd2-billion-valuation-in-a16z-crypto-led-raise-bloomberg",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Canton Network developer Digital Asset eyes $300 million raise at $2 billion valuation, led by a16z crypto: Bloomberg",
+          "url": "https://www.theblock.co/post/400647/canton-network-developer-digital-asset-eyes-300-million-raise-at-2-billion-valuation-led-by-a16z-crypto-bloomberg?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Canton Network\u2019s Digital Asset targets $2 billion valuation in a16z crypto-led raise: Bloomberg",
+          "url": "https://www.coindesk.com/business/2026/05/11/canton-network-s-digital-asset-targets-usd2-billion-valuation-in-a16z-crypto-led-raise-bloomberg",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Crypto.com",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Crypto.com receives UAE license for Dubai government crypto payments",
+          "url": "https://cointelegraph.com/news/cryptocom-receives-uae-central-bank-license-for-virtual-asset-government-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Crypto.com receives UAE license tied to Dubai government crypto payments",
+          "url": "https://www.theblock.co/post/400687/crypto-com-receives-uae-license-tied-to-dubai-government-crypto-payments?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Crypto.com receives UAE license for Dubai government crypto payments",
+          "url": "https://cointelegraph.com/news/cryptocom-receives-uae-central-bank-license-for-virtual-asset-government-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "UAE",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Crypto.com receives UAE license for Dubai government crypto payments",
+          "url": "https://cointelegraph.com/news/cryptocom-receives-uae-central-bank-license-for-virtual-asset-government-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Crypto.com receives UAE license tied to Dubai government crypto payments",
+          "url": "https://www.theblock.co/post/400687/crypto-com-receives-uae-license-tied-to-dubai-government-crypto-payments?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Crypto.com receives UAE license for Dubai government crypto payments",
+          "url": "https://cointelegraph.com/news/cryptocom-receives-uae-central-bank-license-for-virtual-asset-government-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Dubai",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Crypto.com receives UAE license for Dubai government crypto payments",
+          "url": "https://cointelegraph.com/news/cryptocom-receives-uae-central-bank-license-for-virtual-asset-government-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Crypto.com receives UAE license tied to Dubai government crypto payments",
+          "url": "https://www.theblock.co/post/400687/crypto-com-receives-uae-license-tied-to-dubai-government-crypto-payments?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Crypto.com receives UAE license for Dubai government crypto payments",
+          "url": "https://cointelegraph.com/news/cryptocom-receives-uae-central-bank-license-for-virtual-asset-government-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Australia",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Australia plans capital gains tax changes affecting crypto investors: Report",
+          "url": "https://cointelegraph.com/news/australia-government-eyes-swap-from-cgt-to-inflation-indexation-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Australia to propose capital gains tax changes affecting crypto investors: reports",
+          "url": "https://www.theblock.co/post/400682/australia-capital-gains-tax-changes?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Australia plans capital gains tax changes affecting crypto investors: Report",
+          "url": "https://cointelegraph.com/news/australia-government-eyes-swap-from-cgt-to-inflation-indexation-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "South Korea",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "South Korea crypto holdings halve in a year as investors turn to stock market",
+          "url": "https://cointelegraph.com/news/south-korea-crypto-holdings-halve-in-a-year-as-investors-turn-to-stock-market?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "South Korea crypto holdings halve in a year as investors turn to stock market",
+          "url": "https://cointelegraph.com/news/south-korea-crypto-holdings-halve-in-a-year-as-investors-turn-to-stock-market",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "South Korea condemns attack on cargo ship in Strait of Hormuz, vows response - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3NtcFJfQlR3R2g1TzluelJ1QVhCcUZ5Z2hlb2FzZjhUeUY3RHZOSjdndGdkMG9FZTQ3Um0ybDc2UVRBWWhqeWRKNUtDdjlaaklMYVVCQzhHWGxrWFNoMkVBYkZ5blRHWnRJUFFYal9lbTFQMnl4TE5XV0hrMjVBM0k1NTVkS0xqb0NXb205UnU3NEhKX2ZLc3JrU0UzSkNXdFVNc0xqVklNVmFPclVrTDN0cTgyMk9aLWozOHJB?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "BlackRock",
+      "count": 3,
+      "sources": [
+        "CNBC",
+        "CryptoSlate",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Circle raises $222M in Arc token presale at $3B FDV from a16z crypto, BlackRock and others; Q1 revenue up 20%",
+          "url": "https://www.theblock.co/post/400709/circle-raises-222m-in-arc-token-presale-at-3b-fdv-from-a16z-crypto-blackrock-and-others-q1-revenue-up-20?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "BlackRock looks to sidestep Clarity yield issues, filing for two new tokenized money market funds",
+          "url": "https://cryptoslate.com/blackrock-files-sidestep-clarity-yield-issues-with-two-new-tokenized-money-market-funds/",
+          "source": "CryptoSlate"
+        },
+        {
+          "title": "Circle raises $222 million from BlackRock, Apollo and others in Arc token presale valued at $3 billion",
+          "url": "https://www.cnbc.com/2026/05/11/circle-closes-222-million-from-blackrock-apollo-for-arc-blockchain.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Apple",
+      "count": 3,
+      "sources": [
+        "9to5Mac",
+        "Crypto Briefing",
+        "Decrypt"
+      ],
+      "articles": [
+        {
+          "title": "Intel Stock Hits All-Time High After Preliminary Chip Deal With Apple",
+          "url": "https://decrypt.co/367320/intel-all-time-high-chip-deal-apple",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Three men charged in armed hijacking of truck carrying $1.2 million in Apple gear - 9to5Mac",
+          "url": "https://9to5mac.com/2026/05/08/three-men-charged-in-armed-hijacking-of-truck-carrying-1-2-million-in-apple-gear/",
+          "source": "9to5Mac"
+        },
+        {
+          "title": "Intel signs deal with Apple, shares double to all-time high",
+          "url": "https://cryptobriefing.com/intel-apple-chip-deal-stock-all-time-high/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Strait of",
+      "count": 3,
+      "sources": [
+        "Crypto Briefing",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Iran warns of transit difficulties in Strait of Hormuz amid US blockade tensions",
+          "url": "https://cryptobriefing.com/iran-warns-of-transit-difficulties-in-strait-of-hormuz-amid-us-blockade-tensions/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Iran to control internet cables in Strait of Hormuz, raising geopolitical tensions",
+          "url": "https://cryptobriefing.com/iran-to-control-internet-cables-in-strait-of-hormuz-raising-geopolitical/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "South Korea condemns attack on cargo ship in Strait of Hormuz, vows response - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa3NtcFJfQlR3R2g1TzluelJ1QVhCcUZ5Z2hlb2FzZjhUeUY3RHZOSjdndGdkMG9FZTQ3Um0ybDc2UVRBWWhqeWRKNUtDdjlaaklMYVVCQzhHWGxrWFNoMkVBYkZ5blRHWnRJUFFYal9lbTFQMnl4TE5XV0hrMjVBM0k1NTVkS0xqb0NXb205UnU3NEhKX2ZLc3JrU0UzSkNXdFVNc0xqVklNVmFPclVrTDN0cTgyMk9aLWozOHJB?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Michael Saylor\u2019s",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Michael Saylor\u2019s latest tax strategy echoes Strategy\u2019s 2022 bitcoin sale",
+          "url": "https://www.coindesk.com/markets/2026/05/11/michael-saylor-s-latest-tax-strategy-echoes-strategy-s-2022-bitcoin-sale",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Michael Saylor\u2019s latest tax strategy echoes Strategy\u2019s 2022 bitcoin sale",
+          "url": "https://www.coindesk.com/markets/2026/05/11/michael-saylor-s-latest-tax-strategy-echoes-strategy-s-2022-bitcoin-sale",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Canton Network\u2019s",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Canton Network\u2019s Digital Asset targets $2 billion valuation in a16z crypto-led raise: Bloomberg",
+          "url": "https://www.coindesk.com/business/2026/05/11/canton-network-s-digital-asset-targets-usd2-billion-valuation-in-a16z-crypto-led-raise-bloomberg",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Canton Network\u2019s Digital Asset targets $2 billion valuation in a16z crypto-led raise: Bloomberg",
+          "url": "https://www.coindesk.com/business/2026/05/11/canton-network-s-digital-asset-targets-usd2-billion-valuation-in-a16z-crypto-led-raise-bloomberg",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "New Fed",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "New Fed chair, Base's Azul upgrade, corporate earnings: Crypto Week Ahead",
+          "url": "https://www.coindesk.com/markets/2026/05/11/new-fed-chair-base-s-azul-upgrade-corporate-earnings-crypto-week-ahead",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "New Fed chair, Base's Azul upgrade, corporate earnings: Crypto Week Ahead",
+          "url": "https://www.coindesk.com/markets/2026/05/11/new-fed-chair-base-s-azul-upgrade-corporate-earnings-crypto-week-ahead",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Base",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "New Fed chair, Base's Azul upgrade, corporate earnings: Crypto Week Ahead",
+          "url": "https://www.coindesk.com/markets/2026/05/11/new-fed-chair-base-s-azul-upgrade-corporate-earnings-crypto-week-ahead",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "New Fed chair, Base's Azul upgrade, corporate earnings: Crypto Week Ahead",
+          "url": "https://www.coindesk.com/markets/2026/05/11/new-fed-chair-base-s-azul-upgrade-corporate-earnings-crypto-week-ahead",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    }
+  ],
+  "crypto_trending": [
+    {
+      "name": "Zano",
+      "symbol": "ZANO",
+      "market_cap_rank": 200,
+      "thumb": "https://coin-images.coingecko.com/coins/images/8370/standard/Icon-App-512x512.png?1761825305"
+    },
+    {
+      "name": "Osmosis",
+      "symbol": "OSMO",
+      "market_cap_rank": 355,
+      "thumb": "https://coin-images.coingecko.com/coins/images/16724/standard/osmo.png?1696516298"
+    },
+    {
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "market_cap_rank": 83,
+      "thumb": "https://coin-images.coingecko.com/coins/images/54023/standard/VVV_Token_Transparent.png?1741856877"
+    },
+    {
+      "name": "Sui",
+      "symbol": "SUI",
+      "market_cap_rank": 23,
+      "thumb": "https://coin-images.coingecko.com/coins/images/26375/standard/sui-ocean-square.png?1727791290"
+    },
+    {
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "market_cap_rank": 110,
+      "thumb": "https://coin-images.coingecko.com/coins/images/31745/standard/token.png?1696530564"
+    },
+    {
+      "name": "wojak",
+      "symbol": "WOJAK",
+      "market_cap_rank": 628,
+      "thumb": "https://coin-images.coingecko.com/coins/images/102172016/standard/usz-J1DohLTr0BHrWVa5zpZ-JocyeixXhmlZT3ytjdOM9cn0aYq6PT8CeUjnGEKAkZSuNa8BW2KkSsCQvYFQe8A-bvqs_AibzILyjP8sIBtqPZu3gTFjLLCvB6WjlzXIrRrnd_Hlg-fKWlf9byXwsQBZqvJ_lC8OHuz351DVfntD30avGrTc3msIIsZzobmywtrwuesT.jpg?1770967858"
+    },
+    {
+      "name": "Artificial Superintelligence Alliance",
+      "symbol": "FET",
+      "market_cap_rank": 105,
+      "thumb": "https://coin-images.coingecko.com/coins/images/5681/standard/ASI.png?1719827289"
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "market_cap_rank": 14,
+      "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
+    },
+    {
+      "name": "USD.AI",
+      "symbol": "CHIP",
+      "market_cap_rank": 253,
+      "thumb": "https://coin-images.coingecko.com/coins/images/102171777/standard/CHIP_Token_Logo_Large.png?1776777444"
+    },
+    {
+      "name": "Billions Network",
+      "symbol": "BILL",
+      "market_cap_rank": 154,
+      "thumb": "https://coin-images.coingecko.com/coins/images/68464/standard/billions.png?1755828007"
+    }
+  ],
+  "stock_trending": [
+    {
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "price": 124.89,
+      "change_pct": 13.91
+    },
+    {
+      "symbol": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 746.79,
+      "change_pct": 15.51
+    },
+    {
+      "symbol": "CRCL",
+      "name": "Circle Internet Group",
+      "price": 113.67,
+      "change_pct": 0.37
+    },
+    {
+      "symbol": "MRAM",
+      "name": "Everspin Technologies, Inc.",
+      "price": 26.99,
+      "change_pct": 25.48
+    },
+    {
+      "symbol": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 81096.23,
+      "change_pct": -1.3
+    },
+    {
+      "symbol": "CEG",
+      "name": "Constellation Energy Corporation",
+      "price": 303.63,
+      "change_pct": -2.46
+    },
+    {
+      "symbol": "HIMS",
+      "name": "Hims & Hers Health, Inc.",
+      "price": 28.27,
+      "change_pct": 10.21
+    },
+    {
+      "symbol": "MRNA",
+      "name": "Moderna, Inc.",
+      "price": 54.35,
+      "change_pct": 11.97
+    },
+    {
+      "symbol": "MNDY",
+      "name": "monday.com Ltd.",
+      "price": 72.07,
+      "change_pct": -5.66
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "price": 455.19,
+      "change_pct": 11.44
+    }
+  ],
+  "fear_greed": {
+    "value": 48,
+    "classification": "Neutral",
+    "history": [
+      {
+        "value": 48,
+        "classification": "Neutral"
+      },
+      {
+        "value": 47,
+        "classification": "Neutral"
+      },
+      {
+        "value": 38,
+        "classification": "Fear"
+      },
+      {
+        "value": 38,
+        "classification": "Fear"
+      },
+      {
+        "value": 47,
+        "classification": "Neutral"
+      },
+      {
+        "value": 46,
+        "classification": "Fear"
+      },
+      {
+        "value": 50,
+        "classification": "Neutral"
+      }
+    ]
+  },
+  "total_articles": 396
+}
