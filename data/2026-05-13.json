@@ -3,54 +3,59 @@
   "topics": [
     {
       "name": "Iran",
-      "count": 23,
+      "count": 31,
       "sources": [
-        "BusinessLine",
+        "Associated Press",
+        "BBC News",
         "CNBC",
         "CNN",
+        "CoinTelegraph",
+        "Cointelegraph",
         "Crypto Briefing",
-        "MarketWatch",
-        "NBC News",
-        "Reuters"
+        "CryptoSlate",
+        "Investing.com Crypto News",
+        "Reuters",
+        "The Times of India"
       ],
       "articles": [
+        {
+          "title": "Arkham maps Iran central bank wallets after $344M USDT freeze",
+          "url": "https://cointelegraph.com/news/iran-central-banks-crypto-wallets-get-public-map-after-ofac-designation-arkham?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
         {
           "title": "Iran focus at Trump-Xi summit may delay progress on tariffs, rare earths",
           "url": "https://www.cnbc.com/2026/05/08/iran-focus-at-trump-xi-summit-may-delay-progress-on-tariffs-rare-earths.html",
           "source": "CNBC"
         },
         {
-          "title": "Inflation expected to jump to a 3-year high as Iran war continues to fuel rising prices - NBC News",
-          "url": "https://www.nbcnews.com/business/economy/april-inflation-data-iran-war-rcna344586",
-          "source": "NBC News"
+          "title": "US inflation jumps to 3.8% as energy costs surge from Iran war - BBC",
+          "url": "https://www.bbc.com/news/articles/c202pgxx89lo",
+          "source": "BBC News"
+        },
+        {
+          "title": "Shipping industry fears fuel shortages as Iran war squeezes bunker fuel supply - AP News",
+          "url": "https://apnews.com/article/middle-east-wars-energy-asia-shipping-bunker-fuel-db0ba1dbc0bd3ff2179a84118d0064d0",
+          "source": "Associated Press"
         },
         {
           "title": "Color crunch: Japan\u2019s Calbee chip bags go monochrome as Iran war bites - CNN",
           "url": "https://www.cnn.com/2026/05/12/asia/calbee-chips-japan-packaging-middle-east-war-intl-hnk",
           "source": "CNN"
-        },
-        {
-          "title": "Stock futures are little changed as traders await inflation reading, monitor Iran war developments: Live updates - CNBC",
-          "url": "https://www.cnbc.com/2026/05/11/stock-market-today-live-updates.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Stocks are hitting record highs even as Iran war drags on. How long can it last? - MarketWatch",
-          "url": "https://www.marketwatch.com/story/stocks-are-hitting-record-highs-even-as-iran-war-drags-on-how-long-can-it-last-f65cf2d5",
-          "source": "MarketWatch"
         }
       ],
       "is_new": false
     },
     {
       "name": "Trump",
-      "count": 17,
+      "count": 20,
       "sources": [
         "CNBC",
         "Crypto Briefing",
-        "Fortune",
+        "Finbold",
         "MarketWatch",
         "NBC News",
+        "New York Post",
         "Quartz India",
         "Reuters",
         "The Washington Post",
@@ -63,8 +68,8 @@
           "source": "MarketWatch"
         },
         {
-          "title": "Oil little changed as Trump heads to China",
-          "url": "https://finance.yahoo.com/news/oil-prices-slip-teetering-iran-010021136.html",
+          "title": "Tech stocks today: Cook, Musk, and Juang join Trump for China trip, OpenAI trial continues",
+          "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-cook-musk-and-juang-join-trump-for-china-trip-openai-trial-continues-100000158.html",
           "source": "Yahoo Finance"
         },
         {
@@ -121,13 +126,57 @@
       "is_new": false
     },
     {
+      "name": "Bitcoin",
+      "count": 15,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Decrypt",
+        "Finbold",
+        "Hacker News",
+        "Invezz",
+        "Seeking Alpha",
+        "The Daily Hodl"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin\u2019s bull-bear cycle indicator turns green for first time since March 2023",
+          "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-s-bull-bear-cycle-turns-green-for-first-time-since-march-2023",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Live markets: Bitcoin climbs back to $80,800 as U.S. stocks bounce into the close",
+          "url": "https://www.coindesk.com/markets/2026/05/12/live-markets-bitcoin-holds-usd80-000-as-stocks-sink-yields-rise-on-ugly-inflation-print",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Metaplanet Q1 profit jumps, but Bitcoin losses hit bottom line",
+          "url": "https://cointelegraph.com/news/metaplanet-reports-strong-q1-operating-income-wider-loss-on-bitcoin-revaluation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Iran war, AI spending could push Bitcoin back to $126K this year: Hayes",
+          "url": "https://cointelegraph.com/news/arthur-hayes-bitcoin-ai-race-iran-war-money-printing-126k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Bhutan Moves $8.1M in Bitcoin as Sell-Off Continues",
+          "url": "https://decrypt.co/367551/bhutan-moves-8-1m-in-bitcoin-as-sell-off-continues",
+          "source": "Decrypt"
+        }
+      ],
+      "is_new": false
+    },
+    {
       "name": "China",
       "count": 15,
       "sources": [
         "CNBC",
-        "FierceBiotech",
+        "Crypto Briefing",
+        "Fox Business",
         "Hacker News",
-        "Invezz",
+        "Investing.com Crypto News",
         "MarketWatch",
         "Reuters",
         "Yahoo Finance"
@@ -139,23 +188,23 @@
           "source": "MarketWatch"
         },
         {
-          "title": "Boeing could finally reignite its China business. Will that breathe new life into its stock?",
-          "url": "https://www.marketwatch.com/story/boeing-could-finally-reignite-its-china-business-will-that-breathe-new-life-into-its-stock-388520a8?mod=mw_rss_topstories",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "Oil little changed as Trump heads to China",
-          "url": "https://finance.yahoo.com/news/oil-prices-slip-teetering-iran-010021136.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Dow Jones Futures: Nvidia's Huang Joins Trump's China Trip; Sandisk, Micron, Intel Rebound",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-stocks-sandisk-micron-intel/?src=A00220&yptr=yahoo",
+          "title": "Tech stocks today: Cook, Musk, and Juang join Trump for China trip, OpenAI trial continues",
+          "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-cook-musk-and-juang-join-trump-for-china-trip-openai-trial-continues-100000158.html",
           "source": "Yahoo Finance"
         },
         {
           "title": "Jensen Huang joins Trump's China trip after the U.S. president called the Nvidia CEO",
           "url": "https://www.cnbc.com/2026/05/13/nvidia-says-ceo-jensen-huang-is-joining-trumps-china-trip.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump is taking more than a dozen U.S. executives to China. Jensen Huang isn't one of them",
+          "url": "https://www.cnbc.com/2026/05/12/nvidia-ceo-huang-trump-china-trip-chip-sales.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Five things to watch in Asia as Trump prepares to meet China's Xi this week",
+          "url": "https://www.cnbc.com/2026/05/12/tump-xi-china-summit-taiwan-iran-trade.html",
           "source": "CNBC"
         }
       ],
@@ -163,7 +212,7 @@
     },
     {
       "name": "U.S.",
-      "count": 11,
+      "count": 10,
       "sources": [
         "CNBC",
         "CoinDesk",
@@ -201,170 +250,20 @@
       "is_new": true
     },
     {
-      "name": "Bitcoin",
-      "count": 11,
+      "name": "Solana",
+      "count": 8,
       "sources": [
-        "CoinDesk",
-        "CoinTelegraph",
-        "Cointelegraph",
-        "Decrypt",
-        "Finbold",
-        "GlobeNewswire",
-        "Hacker News"
-      ],
-      "articles": [
-        {
-          "title": "Bitcoin\u2019s bull-bear cycle indicator turns green for first time since March 2023",
-          "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-s-bull-bear-cycle-turns-green-for-first-time-since-march-2023",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Live markets: Bitcoin climbs back to $80,800 as U.S. stocks bounce into the close",
-          "url": "https://www.coindesk.com/markets/2026/05/12/live-markets-bitcoin-holds-usd80-000-as-stocks-sink-yields-rise-on-ugly-inflation-print",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Iran war, AI spending could push Bitcoin back to $126K this year: Hayes",
-          "url": "https://cointelegraph.com/news/arthur-hayes-bitcoin-ai-race-iran-war-money-printing-126k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Bhutan Moves $8.1M in Bitcoin as Sell-Off Continues",
-          "url": "https://decrypt.co/367551/bhutan-moves-8-1m-in-bitcoin-as-sell-off-continues",
-          "source": "Decrypt"
-        },
-        {
-          "title": "As Russia invaded Ukraine, Bitcoin plunged \u2013 here's what crypto experts said",
-          "url": "https://markets.businessinsider.com/news/currencies/bitcoin-ethereum-blockchain-ukraine-russia-war-conflict-europe-america-china-2022-2",
-          "source": "Hacker News"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "XRP",
-      "count": 7,
-      "sources": [
-        "CoinDesk",
-        "CoinTelegraph",
-        "Cointelegraph",
-        "U.Today"
-      ],
-      "articles": [
-        {
-          "title": "XRP tops bitcoin, ether volumes on major South Korean exchanges",
-          "url": "https://www.coindesk.com/markets/2026/05/13/xrp-tops-bitcoin-ether-volumes-on-major-south-korean-exchanges",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Spot XRP ETFs attract biggest inflows since January",
-          "url": "https://www.coindesk.com/markets/2026/05/12/spot-xrp-etfs-attract-biggest-inflows-since-january",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "XRP traders say bullishness \u2018growing\u2019 as ETFs log largest inflow since January",
-          "url": "https://cointelegraph.com/markets/xrp-traders-bullishness-growing-etfs-log-largest-inflow-since-january?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Crypto markets stalls before inflation data as XRP, SOL rebuffed from key price levels",
-          "url": "https://www.coindesk.com/daybook-us/2026/05/12/crypto-markets-stalls-before-inflation-data-as-xrp-sol-rebuffed-from-key-price-levels",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "XRP tops bitcoin, ether volumes on major South Korean exchanges",
-          "url": "https://www.coindesk.com/markets/2026/05/13/xrp-tops-bitcoin-ether-volumes-on-major-south-korean-exchanges",
-          "source": "CoinDesk"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "Senate",
-      "count": 7,
-      "sources": [
-        "CoinDesk",
-        "CoinTelegraph",
-        "Cointelegraph",
+        "Hacker News",
+        "The Block",
+        "U.Today",
         "cryptonews"
       ],
       "articles": [
         {
-          "title": "Senate confirms Kevin Warsh to Fed board ahead of expected Chair vote",
-          "url": "https://www.coindesk.com/policy/2026/05/12/senate-confirms-kevin-warsh-to-fed-board-ahead-of-expected-chair-vote",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Senate confirms Kevin Warsh as Federal Reserve governor, with chair vote expected",
-          "url": "https://cointelegraph.com/news/kevin-warsh-fed-governor-confirmation-us-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Latest version of crypto market structure bill raises eyebrows ahead of Senate markup",
-          "url": "https://cointelegraph.com/news/us-senate-banking-committee-draft-crypto-market-structure-bill-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Senate confirms Kevin Warsh as Federal Reserve governor, with chair vote expected",
-          "url": "https://cointelegraph.com/news/kevin-warsh-fed-governor-confirmation-us-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        },
-        {
-          "title": "Latest version of crypto market structure bill raises eyebrows ahead of Senate markup",
-          "url": "https://cointelegraph.com/news/us-senate-banking-committee-draft-crypto-market-structure-bill-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "JPMorgan",
-      "count": 6,
-      "sources": [
-        "CoinDesk",
-        "CoinTelegraph",
-        "Cointelegraph",
-        "Invezz",
-        "The Block"
-      ],
-      "articles": [
-        {
-          "title": "JPMorgan files to launch new tokenized fund as Wall Street tokenization race heats up",
-          "url": "https://www.coindesk.com/business/2026/05/12/jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-heats-up",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "JPMorgan to launch tokenized money market fund for stablecoin issuers",
-          "url": "https://cointelegraph.com/news/jpmorgan-files-second-tokenized-money-market-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "JPMorgan launching second tokenized money market fund on Ethereum",
-          "url": "https://www.theblock.co/post/401028/jpmorgan-launching-tokenized-money-market-fund-ethereum?utm_source=rss&utm_medium=rss",
+          "title": "Ethereum closes gap with Solana as DEX volumes converge near $45 billion",
+          "url": "https://www.theblock.co/post/400806/ethereum-closes-gap-solana-dex-volumes-converge-45-billion?utm_source=rss&utm_medium=rss",
           "source": "The Block"
         },
-        {
-          "title": "JPMorgan to launch tokenized money market fund for stablecoin issuers",
-          "url": "https://cointelegraph.com/news/jpmorgan-files-second-tokenized-money-market-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        },
-        {
-          "title": "JPMorgan files to launch new tokenized fund as Wall Street tokenization race heats up",
-          "url": "https://www.coindesk.com/business/2026/05/12/jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-heats-up",
-          "source": "CoinDesk"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Solana",
-      "count": 6,
-      "sources": [
-        "Hacker News",
-        "Invezz",
-        "The Block"
-      ],
-      "articles": [
         {
           "title": "Solana treasury firm Upexi posts $109 million quarterly net loss amid crypto markdowns",
           "url": "https://www.theblock.co/post/401104/upexi-posts-109-million-quarterly-losses?utm_source=rss&utm_medium=rss",
@@ -384,87 +283,197 @@
           "title": "Coinbase adds Solana-backed loans through Morpho, letting users borrow up to $100,000",
           "url": "https://www.theblock.co/post/400980/coinbase-solana-loans-morpho-borrow-100000?utm_source=rss&utm_medium=rss",
           "source": "The Block"
-        },
-        {
-          "title": "Solana Developers Release Software Update to Alleviate Network Congestion",
-          "url": "https://news.ycombinator.com/item?id=40068258",
-          "source": "Hacker News"
         }
       ],
       "is_new": false
     },
     {
-      "name": "GameStop",
-      "count": 5,
+      "name": "Fed",
+      "count": 7,
       "sources": [
-        "Bloomberg",
-        "CNBC",
         "CoinDesk",
         "Crypto Briefing",
-        "Decrypt"
+        "MarketWatch",
+        "Yahoo Finance"
       ],
       "articles": [
         {
-          "title": "EBay rejects GameStop\u2019s $56 billion bid, putting bitcoin exposure back in focus",
-          "url": "https://www.coindesk.com/markets/2026/05/12/ebay-rejects-gamestop-s-usd56-billion-bid-putting-bitcoin-exposure-back-in-focus",
+          "title": "Tokenized Treasuries hit $15 billion as bitcoin stalls, Fed rate-rise concerns build",
+          "url": "https://www.coindesk.com/daybook-us/2026/05/13/tokenized-treasuries-hit-usd15-billion-as-bitcoin-stalls-fed-rate-rise-concerns-build",
           "source": "CoinDesk"
         },
         {
-          "title": "Stocks making the biggest moves premarket: On Holding, Under Armour, GameStop, AST SpaceMobile & more",
-          "url": "https://www.cnbc.com/2026/05/12/stocks-making-the-biggest-moves-premarket-onon-uaa-gme-asts.html",
-          "source": "CNBC"
+          "title": "Senate confirms Kevin Warsh to Fed board ahead of expected Chair vote",
+          "url": "https://www.coindesk.com/policy/2026/05/12/senate-confirms-kevin-warsh-to-fed-board-ahead-of-expected-chair-vote",
+          "source": "CoinDesk"
         },
         {
-          "title": "EBay Rejects GameStop's $55 Billion Offer as 'Neither Credible Nor Attractive'",
-          "url": "https://decrypt.co/367562/ebay-rejects-gamestops-55-billion-offer-neither-credible-attractive",
-          "source": "Decrypt"
+          "title": "5 tests Kevin Warsh will face on the first day as Fed chair",
+          "url": "https://www.marketwatch.com/story/5-tests-kevin-warsh-will-face-on-the-first-day-as-fed-chair-f5bc4a7e?mod=mw_rss_topstories",
+          "source": "MarketWatch"
         },
         {
-          "title": "EBay Rejects GameStop\u2019s $56 Billion Takeover as Not Credible - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible",
-          "source": "Bloomberg"
+          "title": "BofA drops blunt warning about Fed rate cuts",
+          "url": "https://finance.yahoo.com/economy/policy/articles/bofa-drops-blunt-warning-fed-023300848.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "eBay board rejects GameStop\u2019s half-cash, half-stock takeover bid as neither credible nor attractive",
-          "url": "https://cryptobriefing.com/ebay-board-rejects-gamestop-takeover-bid/",
+          "title": "April US inflation YoY, above expectations, complicates Fed rate outlook",
+          "url": "https://cryptobriefing.com/april-us-inflation-yoy-above-expectations-complicates-fed-rate-outlook/",
           "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "JPMorgan",
+      "count": 6,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Crypto Briefing",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "JPMorgan files to launch new tokenized fund as Wall Street tokenization race heats up",
+          "url": "https://www.coindesk.com/business/2026/05/12/jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-heats-up",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "JPMorgan to launch tokenized money market fund for stablecoin issuers",
+          "url": "https://cointelegraph.com/news/jpmorgan-files-second-tokenized-money-market-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "JPMorgan launching second tokenized money market fund on Ethereum",
+          "url": "https://www.theblock.co/post/401028/jpmorgan-launching-tokenized-money-market-fund-ethereum?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Elliptic lands $120 million funding round backed by JPMorgan, Deutsche Bank, and Nasdaq",
+          "url": "https://cryptobriefing.com/elliptic-funding-round-jpmorgan-deutsche-bank/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "JPMorgan to launch tokenized money market fund for stablecoin issuers",
+          "url": "https://cointelegraph.com/news/jpmorgan-files-second-tokenized-money-market-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "XRP",
+      "count": 5,
+      "sources": [
+        "CoinDesk",
+        "CoinTurk News",
+        "newsBTC"
+      ],
+      "articles": [
+        {
+          "title": "XRP tops bitcoin, ether volumes on major South Korean exchanges",
+          "url": "https://www.coindesk.com/markets/2026/05/13/xrp-tops-bitcoin-ether-volumes-on-major-south-korean-exchanges",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "XRP\u2019s Current Predicament Is Only Temporary; These Factors Will Drive It To $18",
+          "url": "http://www.newsbtc.com/analysis/xrp/xrp-factors-will-drive-it-to-18/",
+          "source": "newsBTC"
+        },
+        {
+          "title": "XRP tops bitcoin, ether volumes on major South Korean exchanges",
+          "url": "https://www.coindesk.com/markets/2026/05/13/xrp-tops-bitcoin-ether-volumes-on-major-south-korean-exchanges",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "XRP holds at $1.44 as buyer momentum cools",
+          "url": "https://en.coin-turk.com/xrp-holds-at-1-44-as-buyer-momentum-cools/",
+          "source": "CoinTurk News"
+        },
+        {
+          "title": "XRP ETF daily inflow hits record $25.8 million",
+          "url": "https://en.coin-turk.com/xrp-etf-daily-inflow-hits-record-25-8-million/",
+          "source": "CoinTurk News"
         }
       ],
       "is_new": false
     },
     {
-      "name": "Vietnam",
+      "name": "Coinbase",
       "count": 5,
       "sources": [
         "CoinTelegraph",
         "Cointelegraph",
-        "Reuters"
+        "Seeking Alpha",
+        "The Block"
       ],
       "articles": [
         {
-          "title": "Vietnam eyes Q3 launch for regulated crypto asset market: Report",
-          "url": "https://cointelegraph.com/news/vietnam-plans-crypto-market-launch-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Coinbase-backed x402 adds batch settlement for AI agent payments",
+          "url": "https://cointelegraph.com/news/coinbase-launches-x402-batch-settlement-ai-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "CoinTelegraph"
         },
         {
-          "title": "Vietnam imports more fuel to offset oil shortfall amid Iran war, data shows - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMXJwMDBKRmVzQ0Z6a1JhTzRBYWdzTnEzVFpBMW8zamcyWkV1Z2J6a2dZMVU4WVU3MlZUZWoyZ0otcXlMSUZZQVVfWjFWQmdfSF9tY3ZWcWhDZW56QzhOQUMtdFlNM2h1Si1PTUg4ZzZ6aWw2WVc3aTU4Wk9FU1RMYUh2djBPNnJCU3B6X09sUGQ0dHg1UDA3S2FvZzFPb2VfVUwxX1N2ZTUzS3AzVnpTSWF6VmhlR3p2eXZYWk9sZ3Y?oc=5",
-          "source": "Reuters"
+          "title": "Benchmark joins others in reiterating Buy rating on Coinbase stock despite lackluster Q1 earnings",
+          "url": "https://www.theblock.co/post/400981/benchmark-joins-others-in-reiterating-buy-rating-on-coinbase-stock-despite-lackluster-q1-earnings?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
         },
         {
-          "title": "Vietnam state oil company urges US Navy to allow tanker through blockade, document shows - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLS1Na054WG9YNmN5ZExKOU5vckxsUHZVUGRZemU1TXRmTGpsYmlTak1IWHV0WVU2S2RBU3VFOUZYbGNMTFFDazNNb2t0bVkxSDJrVFNPQ0tmaDFjUFh1enRQMmI0MGZXZ2JYcjY1Z25hZFpUMERwMmQxOGRSS0o0ZmpzLVlpU3BQeC1sT1JxdzB6SlJFVlUtSklqal82Q2Nqa1V2WTdnT1lHc1QxaGJtNDdsd1JwMEp1akFTS0NMOVdWOU9FXy0wdw?oc=5",
-          "source": "Reuters"
+          "title": "Coinbase adds Solana-backed loans through Morpho, letting users borrow up to $100,000",
+          "url": "https://www.theblock.co/post/400980/coinbase-solana-loans-morpho-borrow-100000?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
         },
         {
-          "title": "Vietnam eyes Q3 launch for regulated crypto asset market: Report",
-          "url": "https://cointelegraph.com/news/vietnam-plans-crypto-market-launch-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Coinbase-backed x402 adds batch settlement for AI agent payments",
+          "url": "https://cointelegraph.com/news/coinbase-launches-x402-batch-settlement-ai-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "Cointelegraph"
         },
         {
-          "title": "Vietnam eyes Q3 launch for regulated crypto asset market: Report",
-          "url": "https://cointelegraph.com/news/vietnam-plans-crypto-market-launch-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "BlackRock transfers BTC, ETH worth $172M to Coinbase amid ETF redemptions",
+          "url": "https://seekingalpha.com/news/4592041-blackrock-transfers-btc-eth-worth-172m-to-coinbase-amid-etf-redemptions?utm_source=cryptocompare.com&utm_medium=referral&feed_item_type=news",
+          "source": "Seeking Alpha"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Kalshi",
+      "count": 5,
+      "sources": [
+        "CNBC",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Seeking Alpha",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "CFTC backs prediction market Kalshi in appeals court fight against Ohio",
+          "url": "https://cointelegraph.com/news/cftc-backs-kalshi-appeals-court-ohio-prediction-markets-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Kalshi traders see odds rising that a U.S.-Iran nuclear deal will be reached by 2027",
+          "url": "https://www.cnbc.com/2026/05/07/kalshi-traders-see-odds-rising-that-a-us-iran-nuclear-deal-will-be-reached-by-2027.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "CFTC backs Kalshi in Ohio fight over prediction markets jurisdictional battle",
+          "url": "https://www.theblock.co/post/401039/cftc-backs-kalshi-in-ohio-fight-over-prediction-markets-jurisdictional-battle?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "CFTC backs prediction market Kalshi in appeals court fight against Ohio",
+          "url": "https://cointelegraph.com/news/cftc-backs-kalshi-appeals-court-ohio-prediction-markets-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "Cointelegraph"
+        },
+        {
+          "title": "Kalshi bettors see Bitcoin hitting $75K before $100K",
+          "url": "https://seekingalpha.com/news/4592068-kalshi-bettors-see-bitcoin-hitting-75k-before-100k?utm_source=cryptocompare.com&utm_medium=referral&feed_item_type=news",
+          "source": "Seeking Alpha"
         }
       ],
       "is_new": true
@@ -475,7 +484,7 @@
       "sources": [
         "CNBC",
         "CoinDesk",
-        "Invezz"
+        "CoinTurk News"
       ],
       "articles": [
         {
@@ -494,40 +503,9 @@
           "source": "CoinDesk"
         },
         {
-          "title": "Bitcoin reclaims $81K as traders await Trump-Xi China talks",
-          "url": "https://invezz.com/news/2026/05/13/bitcoin-reclaims-81k-as-traders-await-trump-xi-china-talks/",
-          "source": "Invezz"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Charles Schwab",
-      "count": 4,
-      "sources": [
-        "CoinDesk",
-        "The Block"
-      ],
-      "articles": [
-        {
-          "title": "Charles Schwab begins U.S. rollout of spot crypto trading for retail customers",
-          "url": "https://www.coindesk.com/business/2026/05/13/charles-schwab-begins-rollout-of-spot-crypto-trading-for-retail",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Charles Schwab launches spot BTC, ETH trading to select retail clients",
-          "url": "https://www.theblock.co/post/401069/charles-schwab-spot-btc-eth?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
-        },
-        {
-          "title": "Charles Schwab begins U.S. rollout of spot crypto trading for retail customers",
-          "url": "https://www.coindesk.com/business/2026/05/13/charles-schwab-begins-rollout-of-spot-crypto-trading-for-retail",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Charles Schwab begins U.S. rollout of spot crypto trading for retail customers",
-          "url": "https://www.coindesk.com/business/2026/05/13/charles-schwab-begins-rollout-of-spot-crypto-trading-for-retail",
-          "source": "CoinDesk"
+          "title": "Trump-Xi talks spark focus as BTC holds $80,000",
+          "url": "https://en.coin-turk.com/trump-xi-talks-spark-focus-as-btc-holds-80000/",
+          "source": "CoinTurk News"
         }
       ],
       "is_new": true
@@ -538,7 +516,8 @@
       "sources": [
         "CoinDesk",
         "CoinTelegraph",
-        "Cointelegraph"
+        "Cointelegraph",
+        "MarketWatch"
       ],
       "articles": [
         {
@@ -552,46 +531,14 @@
           "source": "CoinTelegraph"
         },
         {
+          "title": "5 tests Kevin Warsh will face on the first day as Fed chair",
+          "url": "https://www.marketwatch.com/story/5-tests-kevin-warsh-will-face-on-the-first-day-as-fed-chair-f5bc4a7e?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
           "title": "Senate confirms Kevin Warsh as Federal Reserve governor, with chair vote expected",
           "url": "https://cointelegraph.com/news/kevin-warsh-fed-governor-confirmation-us-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "Cointelegraph"
-        },
-        {
-          "title": "Senate confirms Kevin Warsh to Fed board ahead of expected Chair vote",
-          "url": "https://www.coindesk.com/policy/2026/05/12/senate-confirms-kevin-warsh-to-fed-board-ahead-of-expected-chair-vote",
-          "source": "CoinDesk"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Fed",
-      "count": 4,
-      "sources": [
-        "CoinDesk",
-        "Fortune",
-        "Yahoo Finance"
-      ],
-      "articles": [
-        {
-          "title": "Senate confirms Kevin Warsh to Fed board ahead of expected Chair vote",
-          "url": "https://www.coindesk.com/policy/2026/05/12/senate-confirms-kevin-warsh-to-fed-board-ahead-of-expected-chair-vote",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "BofA drops blunt warning about Fed rate cuts",
-          "url": "https://finance.yahoo.com/economy/policy/articles/bofa-drops-blunt-warning-fed-023300848.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "The Fed is \u2018meaningfully deviating\u2019 from one of the most basic rules for fighting inflation, BofA warns",
-          "url": "https://fortune.com/2026/05/12/the-fed-meaningfully-deviating-taylor-rule-inflation-bank-of-america/",
-          "source": "Fortune"
-        },
-        {
-          "title": "Senate confirms Kevin Warsh to Fed board ahead of expected Chair vote",
-          "url": "https://www.coindesk.com/policy/2026/05/12/senate-confirms-kevin-warsh-to-fed-board-ahead-of-expected-chair-vote",
-          "source": "CoinDesk"
         }
       ],
       "is_new": true
@@ -630,40 +577,136 @@
       "is_new": true
     },
     {
-      "name": "Kalshi",
+      "name": "Vietnam",
       "count": 4,
       "sources": [
-        "CNBC",
         "CoinTelegraph",
         "Cointelegraph",
-        "The Block"
+        "Reuters"
       ],
       "articles": [
         {
-          "title": "CFTC backs prediction market Kalshi in appeals court fight against Ohio",
-          "url": "https://cointelegraph.com/news/cftc-backs-kalshi-appeals-court-ohio-prediction-markets-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Vietnam eyes Q3 launch for regulated crypto asset market: Report",
+          "url": "https://cointelegraph.com/news/vietnam-plans-crypto-market-launch-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "CoinTelegraph"
         },
         {
-          "title": "Kalshi traders see odds rising that a U.S.-Iran nuclear deal will be reached by 2027",
-          "url": "https://www.cnbc.com/2026/05/07/kalshi-traders-see-odds-rising-that-a-us-iran-nuclear-deal-will-be-reached-by-2027.html",
-          "source": "CNBC"
+          "title": "Vietnam imports more fuel to offset oil shortfall amid Iran war, data shows - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMXJwMDBKRmVzQ0Z6a1JhTzRBYWdzTnEzVFpBMW8zamcyWkV1Z2J6a2dZMVU4WVU3MlZUZWoyZ0otcXlMSUZZQVVfWjFWQmdfSF9tY3ZWcWhDZW56QzhOQUMtdFlNM2h1Si1PTUg4ZzZ6aWw2WVc3aTU4Wk9FU1RMYUh2djBPNnJCU3B6X09sUGQ0dHg1UDA3S2FvZzFPb2VfVUwxX1N2ZTUzS3AzVnpTSWF6VmhlR3p2eXZYWk9sZ3Y?oc=5",
+          "source": "Reuters"
         },
         {
-          "title": "CFTC backs Kalshi in Ohio fight over prediction markets jurisdictional battle",
-          "url": "https://www.theblock.co/post/401039/cftc-backs-kalshi-in-ohio-fight-over-prediction-markets-jurisdictional-battle?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
+          "title": "Vietnam state oil company urges US Navy to allow tanker through blockade, document shows - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPLS1Na054WG9YNmN5ZExKOU5vckxsUHZVUGRZemU1TXRmTGpsYmlTak1IWHV0WVU2S2RBU3VFOUZYbGNMTFFDazNNb2t0bVkxSDJrVFNPQ0tmaDFjUFh1enRQMmI0MGZXZ2JYcjY1Z25hZFpUMERwMmQxOGRSS0o0ZmpzLVlpU3BQeC1sT1JxdzB6SlJFVlUtSklqal82Q2Nqa1V2WTdnT1lHc1QxaGJtNDdsd1JwMEp1akFTS0NMOVdWOU9FXy0wdw?oc=5",
+          "source": "Reuters"
         },
         {
-          "title": "CFTC backs prediction market Kalshi in appeals court fight against Ohio",
-          "url": "https://cointelegraph.com/news/cftc-backs-kalshi-appeals-court-ohio-prediction-markets-fight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Vietnam eyes Q3 launch for regulated crypto asset market: Report",
+          "url": "https://cointelegraph.com/news/vietnam-plans-crypto-market-launch-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "Cointelegraph"
         }
       ],
       "is_new": true
     },
     {
-      "name": "Sky Ecosystem",
+      "name": "OpenAI",
+      "count": 4,
+      "sources": [
+        "Internet",
+        "Invezz",
+        "The Block",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Tech stocks today: Cook, Musk, and Juang join Trump for China trip, OpenAI trial continues",
+          "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-cook-musk-and-juang-join-trump-for-china-trip-openai-trial-continues-100000158.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Anthropic, OpenAI tokenized PreStocks on Solana plunge after unauthorized equity transfer warnings",
+          "url": "https://www.theblock.co/post/401088/anthropic-openai-tokenized-prestocks-plunge?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation - The Hacker News",
+          "url": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
+          "source": "Internet"
+        },
+        {
+          "title": "Solana AI PreStocks crash after OpenAI and Anthropic stock transfer warnings",
+          "url": "https://invezz.com/news/2026/05/13/solana-ai-prestocks-crash-after-openai-and-anthropic-stock-transfer-warnings/",
+          "source": "Invezz"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Japan",
+      "count": 4,
+      "sources": [
+        "Bitcoin.com",
+        "CNN",
+        "Seeking Alpha",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Japan\u2019s enterprise-led blockchain to issue yen stablecoin for B2B settlements",
+          "url": "https://www.theblock.co/post/401075/japan-yen-stablecoin-ejpy?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Baycurrent: Japan's Digital Transformation Compounder",
+          "url": "https://seekingalpha.com/article/4903766-baycurrent-japans-digital-transformation-compounder?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Color crunch: Japan\u2019s Calbee chip bags go monochrome as Iran war bites - CNN",
+          "url": "https://www.cnn.com/2026/05/12/asia/calbee-chips-japan-packaging-middle-east-war-intl-hnk",
+          "source": "CNN"
+        },
+        {
+          "title": "Japan\u2019s Metaplanet Posts $725M Q1 Loss as Bitcoin Stack Reaches 40,177 BTC",
+          "url": "https://news.bitcoin.com/japans-metaplanet-posts-725m-q1-loss-as-bitcoin-stack-reaches-40177-btc/",
+          "source": "Bitcoin.com"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Israel",
+      "count": 4,
+      "sources": [
+        "Crypto Briefing",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Israel operates covert military base in Iraq, escalating regional tensions",
+          "url": "https://cryptobriefing.com/israel-operates-covert-military-base-in-iraq-escalating-regional-tensions/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Iran threatens uranium enrichment as Israel deploys Iron Dome to UAE",
+          "url": "https://cryptobriefing.com/iran-threatens-uranium-enrichment-as-israel-deploys-iron-dome-to-uae/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Israel steps up attacks on Gaza since Iran truce, as military says Hamas rearming - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX3dnX0wtWFJNMHk3STdHX0hFaXJOYkFHVEhWamxaWnNwbUd6UVROd21xX3ZkZjB0VVlESDc4NlVuZUtiRXVFdnVXUlhwdE5HcTZGNG5VdnUzOF90UjlIR1MzeGhvU2d2c2pTOVpzZDc3WnpsX1luYTJjRGdRNVhHT1FjS2U4SDV0UjJoVWI2UkZnOE9LVFY0VFM0VEdkN3FyNTJSbHJVZ3FtQTJoblVPRmRWSDJsYk5kMlZ2Y0Z3MGV2LUx5eC1n?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran executes man accused of spying for Israel, Mizan reports - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcnBGNzZBa1pWNzNoVU82SW1YY1pQRVR4Q0RVSWlFX2gyWjlNb25nSTk0NUdvM3V2bHZYVHd5S1VHM0tzdVVMUXBNXzN3REo2MzZFN3lVbFIzSlg5Qi1YamVYNWtQa1h2Z0pCVGlEZlRPMHVXenlfRHY4QnNqNE80blU2QWZLR0J3T2MxOWdPTUpERlZSaGl6dDRfZm4xV3pPWFFxenhvUzBHak0?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Charles Schwab",
       "count": 3,
       "sources": [
         "CoinDesk",
@@ -671,46 +714,46 @@
       ],
       "articles": [
         {
-          "title": "Stablecoin yield infrastructure project raises $13.5M in round led by Sky Ecosystem",
-          "url": "https://www.coindesk.com/business/2026/05/12/stablecoin-yield-infrastructure-project-raises-usd13-5m-in-round-led-by-sky-ecosystem",
+          "title": "Charles Schwab begins U.S. rollout of spot crypto trading for retail customers",
+          "url": "https://www.coindesk.com/business/2026/05/13/charles-schwab-begins-rollout-of-spot-crypto-trading-for-retail",
           "source": "CoinDesk"
         },
         {
-          "title": "Sky Ecosystem leads $13.5 million round for Stablewatch-incubated stablecoin yield startup Osero",
-          "url": "https://www.theblock.co/post/400948/sky-ecosystem-stablewatch-stablecoin-yield-startup-osero-funding?utm_source=rss&utm_medium=rss",
+          "title": "Charles Schwab launches spot BTC, ETH trading to select retail clients",
+          "url": "https://www.theblock.co/post/401069/charles-schwab-spot-btc-eth?utm_source=rss&utm_medium=rss",
           "source": "The Block"
         },
         {
-          "title": "Stablecoin yield infrastructure project raises $13.5M in round led by Sky Ecosystem",
-          "url": "https://www.coindesk.com/business/2026/05/12/stablecoin-yield-infrastructure-project-raises-usd13-5m-in-round-led-by-sky-ecosystem",
+          "title": "Charles Schwab begins U.S. rollout of spot crypto trading for retail customers",
+          "url": "https://www.coindesk.com/business/2026/05/13/charles-schwab-begins-rollout-of-spot-crypto-trading-for-retail",
           "source": "CoinDesk"
         }
       ],
       "is_new": true
     },
     {
-      "name": "EBay",
+      "name": "Senate",
       "count": 3,
       "sources": [
-        "Bloomberg",
         "CoinDesk",
-        "Decrypt"
+        "CoinTelegraph",
+        "Cointelegraph"
       ],
       "articles": [
         {
-          "title": "EBay rejects GameStop\u2019s $56 billion bid, putting bitcoin exposure back in focus",
-          "url": "https://www.coindesk.com/markets/2026/05/12/ebay-rejects-gamestop-s-usd56-billion-bid-putting-bitcoin-exposure-back-in-focus",
+          "title": "Senate confirms Kevin Warsh to Fed board ahead of expected Chair vote",
+          "url": "https://www.coindesk.com/policy/2026/05/12/senate-confirms-kevin-warsh-to-fed-board-ahead-of-expected-chair-vote",
           "source": "CoinDesk"
         },
         {
-          "title": "EBay Rejects GameStop's $55 Billion Offer as 'Neither Credible Nor Attractive'",
-          "url": "https://decrypt.co/367562/ebay-rejects-gamestops-55-billion-offer-neither-credible-attractive",
-          "source": "Decrypt"
+          "title": "Senate confirms Kevin Warsh as Federal Reserve governor, with chair vote expected",
+          "url": "https://cointelegraph.com/news/kevin-warsh-fed-governor-confirmation-us-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
         },
         {
-          "title": "EBay Rejects GameStop\u2019s $56 Billion Takeover as Not Credible - Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-12/ebay-rejects-gamestop-s-56-billion-takeover-as-not-credible",
-          "source": "Bloomberg"
+          "title": "Senate confirms Kevin Warsh as Federal Reserve governor, with chair vote expected",
+          "url": "https://cointelegraph.com/news/kevin-warsh-fed-governor-confirmation-us-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
         }
       ],
       "is_new": false
@@ -797,313 +840,290 @@
       "is_new": true
     },
     {
-      "name": "Intel",
+      "name": "Federal Reserve",
       "count": 3,
       "sources": [
-        "CNBC",
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Senate confirms Kevin Warsh as Federal Reserve governor, with chair vote expected",
+          "url": "https://cointelegraph.com/news/kevin-warsh-fed-governor-confirmation-us-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Hot inflation data pours cold water on Federal Reserve rate cut hopes",
+          "url": "https://www.coindesk.com/markets/2026/05/12/hot-inflation-data-pours-cold-water-on-federal-reserve-rate-cut-hopes",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Senate confirms Kevin Warsh as Federal Reserve governor, with chair vote expected",
+          "url": "https://cointelegraph.com/news/kevin-warsh-fed-governor-confirmation-us-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Chainlink",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Crypto Briefing"
+      ],
+      "articles": [
+        {
+          "title": "DTCC to use Chainlink to power 24/7 collateral management network",
+          "url": "https://cointelegraph.com/news/dtcc-to-use-chainlink-to-power-247-collateral-management-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "DTCC taps Chainlink to power 24/7 near real-time collateral management across global markets and blockchains",
+          "url": "https://cryptobriefing.com/dtcc-taps-chainlink-power-24-7-near-real-time-collateral-management-global-markets-blockchains/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "DTCC to use Chainlink to power 24/7 collateral management network",
+          "url": "https://cointelegraph.com/news/dtcc-to-use-chainlink-to-power-247-collateral-management-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Micron",
+      "count": 3,
+      "sources": [
+        "Barron's",
+        "Yahoo Entertainment",
         "Yahoo Finance"
       ],
       "articles": [
         {
-          "title": "Intel Has Tripled in 2026. The Sell in May Case for the Year\u2019s Biggest Comeback Story",
-          "url": "https://finance.yahoo.com/news/intel-tripled-2026-sell-may-111518135.html",
+          "title": "Stock Market Today: Dow Falls Amid Hot Inflation, Trump-Xi Summit; Nvidia, Micron, Intel Rise (Live Coverage)",
+          "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp500-nasdaq-trump-xi-summit-nvidia-sandisk-micron-intel-nebius/?src=A00220&yptr=yahoo",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Dow Jones Futures: Nvidia's Huang Joins Trump's China Trip; Sandisk, Micron, Intel Rebound",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-stocks-sandisk-micron-intel/?src=A00220&yptr=yahoo",
+          "title": "Micron and SK Hynix Stocks Surge. Thank Trouble at Samsung. - Barron's",
+          "url": "https://www.barrons.com/articles/micron-stock-price-sk-hynix-samsung-memory-44c0f575",
+          "source": "Barron's"
+        },
+        {
+          "title": "Micron helps DRAM become the fastest ETF to hit $6.5 billion: Chart of the Day - Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/micron-helps-dram-become-the-fastest-etf-to-hit-65-billion-145645491.html",
+          "source": "Yahoo Entertainment"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Intel",
+      "count": 3,
+      "sources": [
+        "CNBC",
+        "Coinpaper",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Stock Market Today: Dow Falls Amid Hot Inflation, Trump-Xi Summit; Nvidia, Micron, Intel Rise (Live Coverage)",
+          "url": "https://www.investors.com/market-trend/stock-market-today/stock-market-today-dow-jones-sp500-nasdaq-trump-xi-summit-nvidia-sandisk-micron-intel-nebius/?src=A00220&yptr=yahoo",
           "source": "Yahoo Finance"
         },
         {
           "title": "Stocks making the biggest moves premarket: Moderna, Lumentum, Intel, monday.com & more",
           "url": "https://www.cnbc.com/2026/05/11/stocks-making-the-biggest-moves-premarket-mrna-lite-intc.html",
           "source": "CNBC"
+        },
+        {
+          "title": "Intel Stock Forecast: INTC Jumps 25% Amid AI Demand Surge",
+          "url": "https://coinpaper.com/16995/intel-stock-forecast-intc-jumps-25-amid-ai-demand-surge",
+          "source": "Coinpaper"
         }
       ],
       "is_new": true
     },
     {
-      "name": "Nvidia",
+      "name": "Nasdaq",
       "count": 3,
       "sources": [
-        "CNBC",
-        "Forbes",
+        "Crypto Briefing",
+        "Reuters",
         "Yahoo Finance"
       ],
       "articles": [
         {
-          "title": "Dow Jones Futures: Nvidia's Huang Joins Trump's China Trip; Sandisk, Micron, Intel Rebound",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-stocks-sandisk-micron-intel/?src=A00220&yptr=yahoo",
+          "title": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as PPI inflation data comes in hot",
+          "url": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-mixed-as-ppi-inflation-data-comes-in-hot-223045164.html",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Jensen Huang joins Trump's China trip after the U.S. president called the Nvidia CEO",
-          "url": "https://www.cnbc.com/2026/05/13/nvidia-says-ceo-jensen-huang-is-joining-trumps-china-trip.html",
-          "source": "CNBC"
+          "title": "Elliptic lands $120 million funding round backed by JPMorgan, Deutsche Bank, and Nasdaq",
+          "url": "https://cryptobriefing.com/elliptic-funding-round-jpmorgan-deutsche-bank/",
+          "source": "Crypto Briefing"
         },
         {
-          "title": "Nvidia\u2019s Jensen Huang May Soon Be Worth $200 Billion - Forbes",
-          "url": "https://www.forbes.com/sites/tylerroush/2026/05/11/nvidias-jensen-huang-nears-200-billion-club-overtakes-michael-dell-as-7th-richest/",
-          "source": "Forbes"
+          "title": "S&P 500, Nasdaq end lower as inflation, Iran tensions weigh - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDRSdFhfX2dwTkYzSGtmMkZZSzY3enF2bjVVdEhkdm9DbnBIZVJ3V3ZhM1g1VzQwc1E1NGRxa2ZFMkphR01EYTJjLWhPcFFSZWhkT21Qa1VIckpYOUtoN1NudTdvMXVENUs5SzhlUkV0dkZRcElYcEdjLUR5ODJ6b3p1Rzc4Uk5RZU5RSElxLTlUWS1BazZHUEowUzd5TUFwVFJj?oc=5",
+          "source": "Reuters"
         }
       ],
       "is_new": true
     },
     {
-      "name": "Jensen Huang",
+      "name": "GameStop",
       "count": 3,
       "sources": [
         "CNBC",
-        "Forbes"
+        "CoinDesk",
+        "Decrypt"
       ],
       "articles": [
         {
-          "title": "Jensen Huang joins Trump's China trip after the U.S. president called the Nvidia CEO",
-          "url": "https://www.cnbc.com/2026/05/13/nvidia-says-ceo-jensen-huang-is-joining-trumps-china-trip.html",
+          "title": "Stocks making the biggest moves premarket: On Holding, Under Armour, GameStop, AST SpaceMobile & more",
+          "url": "https://www.cnbc.com/2026/05/12/stocks-making-the-biggest-moves-premarket-onon-uaa-gme-asts.html",
           "source": "CNBC"
         },
         {
-          "title": "Trump is taking more than a dozen U.S. executives to China. Jensen Huang isn't one of them",
-          "url": "https://www.cnbc.com/2026/05/12/nvidia-ceo-huang-trump-china-trip-chip-sales.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Nvidia\u2019s Jensen Huang May Soon Be Worth $200 Billion - Forbes",
-          "url": "https://www.forbes.com/sites/tylerroush/2026/05/11/nvidias-jensen-huang-nears-200-billion-club-overtakes-michael-dell-as-7th-richest/",
-          "source": "Forbes"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Michael Burry",
-      "count": 3,
-      "sources": [
-        "Business Insider",
-        "CNBC"
-      ],
-      "articles": [
-        {
-          "title": "Michael Burry is not a believer: 'For any stocks going parabolic reduce positions almost entirely'",
-          "url": "https://www.cnbc.com/2026/05/11/michael-burry-is-not-a-believer-for-any-stocks-going-parabolic-reduce-positions-almost-entirely.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Michael Burry says the market today feels like 'the last months of the 1999-2000 bubble'",
-          "url": "https://www.cnbc.com/2026/05/08/michael-burry-says-the-market-today-feels-like-the-last-months-of-the-1999-2000-bubble.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "'The market has jumped the shark': Michael Burry says stocks may finally be at the precipice of a major reversal - Business Insider",
-          "url": "https://www.businessinsider.com/big-short-michael-burry-stock-market-crash-prediction-tech-bubble-2026-5",
-          "source": "Business Insider"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "OpenAI",
-      "count": 3,
-      "sources": [
-        "Crypto Briefing",
-        "Decrypt",
-        "The Block"
-      ],
-      "articles": [
-        {
-          "title": "Anthropic, OpenAI tokenized PreStocks on Solana plunge after unauthorized equity transfer warnings",
-          "url": "https://www.theblock.co/post/401088/anthropic-openai-tokenized-prestocks-plunge?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
-        },
-        {
-          "title": "OpenAI Launches Daybreak as AI Firms Expand Into Cybersecurity",
-          "url": "https://decrypt.co/367506/openai-launches-daybreak-ai-cybersecurity",
+          "title": "EBay Rejects GameStop's $55 Billion Offer as 'Neither Credible Nor Attractive'",
+          "url": "https://decrypt.co/367562/ebay-rejects-gamestops-55-billion-offer-neither-credible-attractive",
           "source": "Decrypt"
         },
         {
-          "title": "Cerebras partners with OpenAI, targets $50B market cap on IPO day",
-          "url": "https://cryptobriefing.com/cerebras-partners-with-openai-targets-50b-market-cap-on-ipo-day/",
-          "source": "Crypto Briefing"
+          "title": "EBay rejects GameStop\u2019s $56 billion bid, putting bitcoin exposure back in focus",
+          "url": "https://www.coindesk.com/markets/2026/05/12/ebay-rejects-gamestop-s-usd56-billion-bid-putting-bitcoin-exposure-back-in-focus",
+          "source": "CoinDesk"
         }
       ],
-      "is_new": true
-    },
-    {
-      "name": "Coinbase",
-      "count": 3,
-      "sources": [
-        "Crypto Briefing",
-        "The Block"
-      ],
-      "articles": [
-        {
-          "title": "Benchmark joins others in reiterating Buy rating on Coinbase stock despite lackluster Q1 earnings",
-          "url": "https://www.theblock.co/post/400981/benchmark-joins-others-in-reiterating-buy-rating-on-coinbase-stock-despite-lackluster-q1-earnings?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
-        },
-        {
-          "title": "Coinbase adds Solana-backed loans through Morpho, letting users borrow up to $100,000",
-          "url": "https://www.theblock.co/post/400980/coinbase-solana-loans-morpho-borrow-100000?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
-        },
-        {
-          "title": "Coinbase users face delays in sending and receiving Monad tokens and MONUSDC",
-          "url": "https://cryptobriefing.com/coinbase-monad-token-transfer-delays/",
-          "source": "Crypto Briefing"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Amazon",
-      "count": 3,
-      "sources": [
-        "CNBC",
-        "Hacker News",
-        "TechCrunch"
-      ],
-      "articles": [
-        {
-          "title": "Amazon joining the Blockchain revolution",
-          "url": "https://www.cnbc.com/2017/11/01/amazon-buys-crypto-domains-bitcoin-ethereum.html",
-          "source": "Hacker News"
-        },
-        {
-          "title": "Amazon launches 30-minute delivery across the U.S. - TechCrunch",
-          "url": "https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/",
-          "source": "TechCrunch"
-        },
-        {
-          "title": "FedEx CEO brushes off Amazon's new logistics service that recently sent shares tumbling",
-          "url": "https://www.cnbc.com/2026/05/12/fed-ex-ceo-jim-cramer-amazon-logistics.html",
-          "source": "CNBC"
-        }
-      ],
-      "is_new": true
+      "is_new": false
     }
   ],
   "crypto_trending": [
     {
-      "name": "Zano",
-      "symbol": "ZANO",
-      "market_cap_rank": 208,
-      "thumb": "https://coin-images.coingecko.com/coins/images/8370/standard/Icon-App-512x512.png?1761825305"
-    },
-    {
       "name": "Firo",
       "symbol": "FIRO",
-      "market_cap_rank": 817,
+      "market_cap_rank": 837,
       "thumb": "https://coin-images.coingecko.com/coins/images/479/standard/firocoingecko.png?1696501734"
     },
     {
-      "name": "Superform",
-      "symbol": "UP",
-      "market_cap_rank": 520,
-      "thumb": "https://coin-images.coingecko.com/coins/images/70945/standard/superform.png?1764747920"
+      "name": "Zano",
+      "symbol": "ZANO",
+      "market_cap_rank": 210,
+      "thumb": "https://coin-images.coingecko.com/coins/images/8370/standard/Icon-App-512x512.png?1761825305"
     },
     {
       "name": "Billions Network",
       "symbol": "BILL",
-      "market_cap_rank": 114,
+      "market_cap_rank": 118,
       "thumb": "https://coin-images.coingecko.com/coins/images/68464/standard/billions.png?1755828007"
     },
     {
-      "name": "LAB",
-      "symbol": "LAB",
-      "market_cap_rank": 118,
-      "thumb": "https://coin-images.coingecko.com/coins/images/70014/standard/lab.png?1760352822"
+      "name": "wojak",
+      "symbol": "WOJAK",
+      "market_cap_rank": 654,
+      "thumb": "https://coin-images.coingecko.com/coins/images/102172016/standard/usz-J1DohLTr0BHrWVa5zpZ-JocyeixXhmlZT3ytjdOM9cn0aYq6PT8CeUjnGEKAkZSuNa8BW2KkSsCQvYFQe8A-bvqs_AibzILyjP8sIBtqPZu3gTFjLLCvB6WjlzXIrRrnd_Hlg-fKWlf9byXwsQBZqvJ_lC8OHuz351DVfntD30avGrTc3msIIsZzobmywtrwuesT.jpg?1770967858"
+    },
+    {
+      "name": "Superform",
+      "symbol": "UP",
+      "market_cap_rank": 542,
+      "thumb": "https://coin-images.coingecko.com/coins/images/70945/standard/superform.png?1764747920"
     },
     {
       "name": "Injective",
       "symbol": "INJ",
-      "market_cap_rank": 96,
+      "market_cap_rank": 97,
       "thumb": "https://coin-images.coingecko.com/coins/images/12882/standard/Other_200x200.png?1738782212"
+    },
+    {
+      "name": "LAB",
+      "symbol": "LAB",
+      "market_cap_rank": 115,
+      "thumb": "https://coin-images.coingecko.com/coins/images/70014/standard/lab.png?1760352822"
     },
     {
       "name": "Pudgy Penguins",
       "symbol": "PENGU",
-      "market_cap_rank": 98,
+      "market_cap_rank": 99,
       "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
     },
     {
-      "name": "Pi Network",
-      "symbol": "PI",
-      "market_cap_rank": 50,
-      "thumb": "https://coin-images.coingecko.com/coins/images/54342/standard/pi_network.jpg?1739347576"
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "market_cap_rank": 16,
+      "thumb": "https://coin-images.coingecko.com/coins/images/486/standard/circle-zcash-color.png?1696501740"
     },
     {
-      "name": "Venice Token",
-      "symbol": "VVV",
-      "market_cap_rank": 89,
-      "thumb": "https://coin-images.coingecko.com/coins/images/54023/standard/VVV_Token_Transparent.png?1741856877"
-    },
-    {
-      "name": "Ethereum",
-      "symbol": "ETH",
-      "market_cap_rank": 2,
-      "thumb": "https://coin-images.coingecko.com/coins/images/279/standard/ethereum.png?1696501628"
+      "name": "Sui",
+      "symbol": "SUI",
+      "market_cap_rank": 23,
+      "thumb": "https://coin-images.coingecko.com/coins/images/26375/standard/sui-ocean-square.png?1727791290"
     }
   ],
   "stock_trending": [
     {
-      "symbol": "BABA",
-      "name": "Alibaba Group Holding Limited",
-      "price": 134.78,
-      "change_pct": -1.84
+      "symbol": "NBIS",
+      "name": "Nebius Group N.V.",
+      "price": 197.75,
+      "change_pct": 10.41
     },
     {
-      "symbol": "NVDA",
-      "name": "NVIDIA Corporation",
-      "price": 220.78,
-      "change_pct": 0.61
+      "symbol": "BABA",
+      "name": "Alibaba Group Holding Limited",
+      "price": 135.25,
+      "change_pct": 0.43
     },
     {
       "symbol": "WOLF",
       "name": "Wolfspeed, Inc.",
-      "price": 53.72,
-      "change_pct": 6.78
-    },
-    {
-      "symbol": "BTC-USD",
-      "name": "Bitcoin USD",
-      "price": 80626.29,
-      "change_pct": 0.19
-    },
-    {
-      "symbol": "QS",
-      "name": "QuantumScape Corporation",
-      "price": 8.42,
-      "change_pct": 4.86
-    },
-    {
-      "symbol": "NBIS",
-      "name": "Nebius Group N.V.",
-      "price": 179.11,
-      "change_pct": -3.76
+      "price": 69.01,
+      "change_pct": 28.34
     },
     {
       "symbol": "EOSE",
       "name": "Eos Energy Enterprises, Inc.",
-      "price": 8.1,
-      "change_pct": -5.48
+      "price": 9.32,
+      "change_pct": 15.06
     },
     {
-      "symbol": "PENG",
-      "name": "Penguin Solutions, Inc.",
-      "price": 44.13,
-      "change_pct": 1.36
+      "symbol": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 79909.19,
+      "change_pct": -0.7
     },
     {
-      "symbol": "MU",
-      "name": "Micron Technology, Inc.",
-      "price": 766.58,
-      "change_pct": -3.61
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 225.74,
+      "change_pct": 2.25
     },
     {
-      "symbol": "RKLB",
-      "name": "Rocket Lab Corporation",
-      "price": 117.56,
-      "change_pct": 0.18
+      "symbol": "QS",
+      "name": "QuantumScape Corporation",
+      "price": 8.3,
+      "change_pct": -1.43
+    },
+    {
+      "symbol": "TSEM",
+      "name": "Tower Semiconductor Ltd.",
+      "price": 260.71,
+      "change_pct": 18.06
+    },
+    {
+      "symbol": "WIX",
+      "name": "Wix.com Ltd.",
+      "price": 52.75,
+      "change_pct": -30.48
+    },
+    {
+      "symbol": "QUCY",
+      "name": "Quantum Cyber N.V.",
+      "price": 0.59,
+      "change_pct": 84.23
     }
   ],
   "fear_greed": {
@@ -1140,5 +1160,5 @@
       }
     ]
   },
-  "total_articles": 394
+  "total_articles": 397
 }
