@@ -1,0 +1,1101 @@
+{
+  "date": "2026-05-14",
+  "topics": [
+    {
+      "name": "Trump",
+      "count": 23,
+      "sources": [
+        "CNBC",
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Crypto Briefing",
+        "Fortune",
+        "Investing.com",
+        "NBC News",
+        "Politico",
+        "Raw Story",
+        "Reuters",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Solana drops 5%, bitcoin below $80,000 as Xi warns Trump on Taiwan conflict",
+          "url": "https://www.coindesk.com/markets/2026/05/14/solana-drops-5-bitcoin-below-usd80-000-as-xi-warns-trump-on-taiwan-conflict",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Trump\u2019s White House weighs 250 pardons to celebrate America's 250th birthday",
+          "url": "https://cointelegraph.com/news/trump-weighs-250-pardons-as-crypto-founders-seek-clemency?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Xi asks Trump if U.S. and China can avoid 'Thucydides Trap' at high-stakes summit",
+          "url": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Jensen Huang joins Trump's China trip after the U.S. president called the Nvidia CEO",
+          "url": "https://www.cnbc.com/2026/05/13/nvidia-says-ceo-jensen-huang-is-joining-trumps-china-trip.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump is taking more than a dozen U.S. executives to China. Jensen Huang isn't one of them",
+          "url": "https://www.cnbc.com/2026/05/12/nvidia-ceo-huang-trump-china-trip-chip-sales.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Iran",
+      "count": 21,
+      "sources": [
+        "Crypto Briefing",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "US releases 53.3M barrels from Strategic Petroleum Reserve as Trump discusses Iran and energy security with Xi Jinping",
+          "url": "https://cryptobriefing.com/us-spr-release-trump-xi-iran-energy/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Iran threatens US retaliation as Trump considers ending ceasefire",
+          "url": "https://cryptobriefing.com/iran-threatens-us-retaliation-as-trump-considers-ending-ceasefire/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "White House has few tools for gas-price relief as Iran war drags on - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0VjdHVndkRaT0dPYVNNTTAyaHRxdkpxVkVhQlpac3Q3N2JPZ3F2MDk0Q0RlZHc3RjBTb3dTS041OVZvaWdHeUV0TlR6NVROMFVFN3hRUG9CZ2E1UGRjMzJ6X3EzbmVKTG94aGFqdUd3ZFVOT05pVEJjQUtHVlNieGFicjl6T01lMndOT29Ta2pLdzZ2THFoOXdvZ1Q2WjU1dERveHNSNUQ1MmZZMmc?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran urges BRICS to condemn US, Israel for war, exposing bloc divisions - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdW53TkljVWJ0UDg1cW1kemFaaUtmcDM5ODBCcEZiZFJOcGE5SkROazJrXzBVSFZGNno5UXVlbmRYUnpDcjlKWVoxal84QVI5Mm91NXZFTVMyNHdra05YbThpZ2h3Tm82ZHlpTVQxOFVjOVlDbVZtNXNuc1E1UXVpeWFhaEU2RGlwV3R6Y1R4X1N5bktmbTlWRHZNM3FNMjVaZ2l1bFJQMA?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Stressed crude oil market looks to Xi-Trump summit for Iran help - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb3hmRVBZX1pVY09UblFUVEZoTE05eVBmWkpkMGhvSlVIZldtM093X0R4X21OQmx3UU05Zmg0enFKaGZKV2RqLUl4TEx2NjFZWGc2WXY0V1ZxbEpZeUtzeWtJa3hDWFZUVkpuamR3NXMzN0xyOElJbHRvWnl4Zl9sY3lPc1NyTjJJM190TVVqVDdzUHVMTHc2ODVCLWlHcjB6S2V2dGI2VFBBR091aDFlbzNJNzQxRFBwUmJQUi1GZzd6ZkJD?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Reuters",
+      "count": 17,
+      "sources": [
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Iran urges BRICS to condemn US, Israel for war, exposing bloc divisions - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdW53TkljVWJ0UDg1cW1kemFaaUtmcDM5ODBCcEZiZFJOcGE5SkROazJrXzBVSFZGNno5UXVlbmRYUnpDcjlKWVoxal84QVI5Mm91NXZFTVMyNHdra05YbThpZ2h3Tm82ZHlpTVQxOFVjOVlDbVZtNXNuc1E1UXVpeWFhaEU2RGlwV3R6Y1R4X1N5bktmbTlWRHZNM3FNMjVaZ2l1bFJQMA?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Stressed crude oil market looks to Xi-Trump summit for Iran help - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNb3hmRVBZX1pVY09UblFUVEZoTE05eVBmWkpkMGhvSlVIZldtM093X0R4X21OQmx3UU05Zmg0enFKaGZKV2RqLUl4TEx2NjFZWGc2WXY0V1ZxbEpZeUtzeWtJa3hDWFZUVkpuamR3NXMzN0xyOElJbHRvWnl4Zl9sY3lPc1NyTjJJM190TVVqVDdzUHVMTHc2ODVCLWlHcjB6S2V2dGI2VFBBR091aDFlbzNJNzQxRFBwUmJQUi1GZzd6ZkJD?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "UK economy posts strong Q1, but Iran war casts shadow over outlook - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQU1OcnQtbGt0TzBpSlMtMXlsdFMxdTdmWmtpNm1LYXI2R1BDMktPZ19ZblFrOGkyeTlJdzdTSnQ5WWIyYm1TcGZHZElSOTFuX3JCTXBhRThKTGZqSmlnaDNKZlZxSmJJMUI5blAxT0xsWjlLRWtiQUotYnV5djdyUjRiY2ZNbUVZc2VVSVlQZ3Y2dw?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Russia's juiced-up energy exports cushion blow from Iran war fallout - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZUZ6c2JPNVBuM0IyT0tnTWJtQzFiUG1XRXBpbTlCajN1WUtIWmQ1YTBnVWppbFlrYWJPbnEyZlZTTVdmUi1SMU5UODZGeE1SQ1B0a3M3WVpBdGhiNnFLN0k0aU1YX2hpQkt4SDVQX3Y2WmZULVRORTdMaFdWbTRzc1NraHZOWkk1eDhPaGlaZFlKSnFoNllMSDBFQUpPLVBqQzlZVXFaTXlRVk9UT2pSekI1eGdUVHRGUUNHcDd2a0FiNmdkTnNzb203VQ?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "India asks US for Russian oil waiver extension as Iran war drags on, Bloomberg News reports - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMHRfTlZmLS05NlkycE1GYmRUekJYLTZUbEVZbDhvS19kWFZKa1NIRWdvVF9Bejg1T2UtZWU4am1HMkdqR0JWTjcyaENSdUNWcjhtXzFXeE9zNTc2NUFyMVhzYkZQMF91UHRBalY2SE13cGE2QW5TMWp5ckU1enRBUXcxVml5dGRySU15SkFkb2FJVURlNXBTSjcwWWN3Y25Xbm54bFpwbHcyWlVxLVl1aURUZkZpWEhfN3ZsYndFbVdvMjRhdlU0eFpDeGg?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "China",
+      "count": 16,
+      "sources": [
+        "CNBC",
+        "Crypto Briefing",
+        "Fortune",
+        "Hacker News",
+        "Investing.com",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "US Treasury\u2019s Bessent expects large Boeing order during China visit",
+          "url": "https://www.investing.com/news/stock-market-news/us-treasurys-bessent-expects-large-boeing-order-during-china-visit-4687991",
+          "source": "Investing.com"
+        },
+        {
+          "title": "U.S. can hold AI talks with China because \u2018we are in the lead,\u2019 Bessent tells CNBC as nations plan safety protocol",
+          "url": "https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Xi asks Trump if U.S. and China can avoid 'Thucydides Trap' at high-stakes summit",
+          "url": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump in China: Traders predict a tariff truce extension and Boeing aircraft purchases",
+          "url": "https://www.cnbc.com/2026/05/13/traders-predict-trump-will-make-major-announcements-during-china-trip.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Jensen Huang joins Trump's China trip after the U.S. president called the Nvidia CEO",
+          "url": "https://www.cnbc.com/2026/05/13/nvidia-says-ceo-jensen-huang-is-joining-trumps-china-trip.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Bitcoin",
+      "count": 10,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Crypto Briefing",
+        "Crypto Potato",
+        "CryptoSlate",
+        "Hacker News",
+        "Invezz",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Crypto Long & Short: Bitcoin vs. gold: 26% relative undervaluation",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/05/13/crypto-long-and-short-bitcoin-vs-gold-26-relative-undervaluation",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "AI chatbot Claude helps man recover 5 Bitcoin after finding old seed phrase",
+          "url": "https://cointelegraph.com/news/ai-chatbot-claude-helps-man-recover-5-bitcoin-after-finding-old-seed-phrase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "\u2018Rally without conviction\u2019: Bitcoin ETFs see $630M in outflows as corporate treasury demand drops and resistance builds",
+          "url": "https://www.theblock.co/post/401247/rally-without-conviction-bitcoin-etfs-see-630m-in-outflows-as-corporate-treasury-demand-drops-and-resistance-builds?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "As Russia invaded Ukraine, Bitcoin plunged \u2013 here's what crypto experts said",
+          "url": "https://markets.businessinsider.com/news/currencies/bitcoin-ethereum-blockchain-ukraine-russia-war-conflict-europe-america-china-2022-2",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Bitcoin is dead, but it was a good try",
+          "url": "https://news.ycombinator.com/item?id=39155402",
+          "source": "Hacker News"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Solana",
+      "count": 9,
+      "sources": [
+        "CoinDesk",
+        "Hacker News",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Solana drops 5%, bitcoin below $80,000 as Xi warns Trump on Taiwan conflict",
+          "url": "https://www.coindesk.com/markets/2026/05/14/solana-drops-5-bitcoin-below-usd80-000-as-xi-warns-trump-on-taiwan-conflict",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "The Protocol: Solana\u2019s \u2018Alpenglow\u2019 upgrade is live for testing",
+          "url": "https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Solana treasury firm DeFi Development Corp reports 108% yearly growth in SOL per share",
+          "url": "https://www.theblock.co/post/401200/defi-development-corp-growth-sol-per-share?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Jupiter taps Bitwise to curate institutional-grade Solana-based USDe lending market",
+          "url": "https://www.theblock.co/post/401187/jupiter-taps-bitwise-to-curate-institutional-grade-solana-based-usde-lending-market?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Ethereum closes gap with Solana as DEX volumes converge near $45 billion",
+          "url": "https://www.theblock.co/post/400806/ethereum-closes-gap-solana-dex-volumes-converge-45-billion?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "U.S.",
+      "count": 9,
+      "sources": [
+        "CNBC",
+        "CoinDesk",
+        "Investing.com",
+        "NBC News",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Crypto wallet provider Ledger puts U.S. IPO plans on hold due to market conditions",
+          "url": "https://www.coindesk.com/business/2026/05/13/crypto-wallet-provider-ledger-puts-u-s-ipo-plans-on-hold-due-to-market-conditions",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "U.S. officials flag prospect of Chinese energy purchases after Trump-Xi meeting",
+          "url": "https://www.investing.com/news/commodities-news/us-officials-flag-prospect-of-chinese-energy-purchases-after-trumpxi-meeting-4687990",
+          "source": "Investing.com"
+        },
+        {
+          "title": "U.S. can hold AI talks with China because \u2018we are in the lead,\u2019 Bessent tells CNBC as nations plan safety protocol",
+          "url": "https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Xi asks Trump if U.S. and China can avoid 'Thucydides Trap' at high-stakes summit",
+          "url": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Jensen Huang joins Trump's China trip after the U.S. president called the Nvidia CEO",
+          "url": "https://www.cnbc.com/2026/05/13/nvidia-says-ceo-jensen-huang-is-joining-trumps-china-trip.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "IPO",
+      "count": 6,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Cerebras, OpenAI, SpaceX: The IPO pipeline that could drain crypto",
+          "url": "https://www.coindesk.com/markets/2026/05/14/cerebras-openai-spacex-the-ipo-pipeline-that-could-drain-crypto",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ethereum app builder Consensys has delayed its potential IPO until fall",
+          "url": "https://www.coindesk.com/business/2026/05/13/ethereum-app-builder-consensys-has-delayed-its-potential-ipo-until-fall",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crypto wallet provider Ledger puts U.S. IPO plans on hold due to market conditions",
+          "url": "https://www.coindesk.com/business/2026/05/13/crypto-wallet-provider-ledger-puts-u-s-ipo-plans-on-hold-due-to-market-conditions",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Anthropic, OpenAI tokens plunge as AI firms say pre-IPO share transfers are invalid",
+          "url": "https://www.coindesk.com/markets/2026/05/13/anthropic-openai-tokens-plunge-nearly-40-as-ai-firms-warn-spv-transfers-are-invalid",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ethereum app builder Consensys has delayed its potential IPO until fall",
+          "url": "https://www.coindesk.com/business/2026/05/13/ethereum-app-builder-consensys-has-delayed-its-potential-ipo-until-fall",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "ETH",
+      "count": 6,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Invezz"
+      ],
+      "articles": [
+        {
+          "title": "NY judge pushes back hearing for Aave\u2019s bid to unfreeze $71M in ETH",
+          "url": "https://cointelegraph.com/news/judge-delays-aaves-emergency-bid-to-unfreeze-71m-hacked-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Price predictions 5/13: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-513-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "NY judge pushes back hearing for Aave\u2019s bid to unfreeze $71M in ETH",
+          "url": "https://cointelegraph.com/news/judge-delays-aaves-emergency-bid-to-unfreeze-71m-hacked-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Price predictions 5/13: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-513-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Traders say Ethereum ready for a 'strong move' after ETH price taps $2.3K",
+          "url": "https://cointelegraph.com/markets/traders-say-ethereum-ready-strong-move-eth-price-taps-2-3k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Kevin Warsh",
+      "count": 6,
+      "sources": [
+        "CNBC",
+        "CoinTelegraph",
+        "Crypto Briefing",
+        "Decrypt",
+        "Politico",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Senate confirms Kevin Warsh to lead Federal Reserve",
+          "url": "https://cointelegraph.com/news/kevin-warsh-fed-governor-confirmation-us-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
+          "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Senate votes to confirm Trump-pick Kevin Warsh to succeed Jerome Powell as Fed Chair",
+          "url": "https://www.theblock.co/post/400974/senate-confirm-trump-federal-reserve-chair-kevin-warsh?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Crypto-Friendly Kevin Warsh Confirmed as Fed Chair to Replace Jerome Powell",
+          "url": "https://decrypt.co/367784/crypto-friendly-kevin-warsh-confirmed-fed-chair-replace-jerome-powell",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Why Kevin Warsh is likely to run afoul of Trump at the Fed - Politico",
+          "url": "https://www.politico.com/news/2026/05/12/warsh-fed-rates-trump-powell-iran-00915790",
+          "source": "Politico"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Senate",
+      "count": 5,
+      "sources": [
+        "CNBC",
+        "CoinTelegraph",
+        "Crypto Briefing",
+        "Politico",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Senate confirms Kevin Warsh to lead Federal Reserve",
+          "url": "https://cointelegraph.com/news/kevin-warsh-fed-governor-confirmation-us-senate?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
+          "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Senate votes to confirm Trump-pick Kevin Warsh to succeed Jerome Powell as Fed Chair",
+          "url": "https://www.theblock.co/post/400974/senate-confirm-trump-federal-reserve-chair-kevin-warsh?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Senate confirms Warsh for seat on Fed Board, clearing path to become chair - Politico",
+          "url": "https://www.politico.com/news/2026/05/12/senate-warsh-fed-board-chair-trump-00915835",
+          "source": "Politico"
+        },
+        {
+          "title": "Kevin Warsh\u2019s Fed nomination clears first Senate vote",
+          "url": "https://cryptobriefing.com/kevin-warsh-fed-nomination-senate-vote/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Trump-Xi",
+      "count": 5,
+      "sources": [
+        "CoinDesk",
+        "Crypto Briefing",
+        "Investing.com",
+        "Politico",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "U.S. officials flag prospect of Chinese energy purchases after Trump-Xi meeting",
+          "url": "https://www.investing.com/news/commodities-news/us-officials-flag-prospect-of-chinese-energy-purchases-after-trumpxi-meeting-4687990",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Trump-Xi summit raises a terrifying prospect for America and Europe: Chinese cars - Politico",
+          "url": "https://www.politico.com/news/2026/05/13/trump-xi-summit-chinese-electric-vehicles-00917652",
+          "source": "Politico"
+        },
+        {
+          "title": "Bitcoin holds below $81,000 with Trump-Xi talks on the horizon",
+          "url": "https://www.coindesk.com/markets/2026/05/13/bitcoin-holds-below-usd81-000-with-trump-xi-talks-on-the-horizon",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Trump-Xi summit aims to reshape US-China relations, and crypto markets are already placing bets",
+          "url": "https://cryptobriefing.com/trump-xi-summit-crypto-impact/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Gold steady as markets focus on Trump-Xi meeting - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcUl2UmU0WTRldHg1dEV4NnEtRmxXRlhKN1ctUXpWWFVlZno4bmJaR3dXWVl6NXJBX1E0d2F1b0hPMlhQOEtWRmUtU2NiV2hSaEJTZzdtTmtpc24xUVpWZFYwb3JMQmZTNUdJLWhtSkJjak90QWd1b3ZCM0xzZkpRYVZNd25xNm52SEVVYUV3eFJySTBGT2I0Rg?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "OpenAI",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "Crypto Briefing",
+        "Internet"
+      ],
+      "articles": [
+        {
+          "title": "Cerebras, OpenAI, SpaceX: The IPO pipeline that could drain crypto",
+          "url": "https://www.coindesk.com/markets/2026/05/14/cerebras-openai-spacex-the-ipo-pipeline-that-could-drain-crypto",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation - The Hacker News",
+          "url": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
+          "source": "Internet"
+        },
+        {
+          "title": "SoftBank records $46 billion Vision Fund gain as OpenAI valuation climbs",
+          "url": "https://cryptobriefing.com/softbank-openai-investment-gain/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Cerebras, OpenAI, SpaceX: The IPO pipeline that could drain crypto",
+          "url": "https://www.coindesk.com/markets/2026/05/14/cerebras-openai-spacex-the-ipo-pipeline-that-could-drain-crypto",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "America",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Politico"
+      ],
+      "articles": [
+        {
+          "title": "It\u2019s time for clarity for America\u2019s digital asset markets",
+          "url": "https://www.coindesk.com/opinion/2026/05/13/it-s-time-for-clarity-for-america-s-digital-asset-markets",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Trump\u2019s White House weighs 250 pardons to celebrate America's 250th birthday",
+          "url": "https://cointelegraph.com/news/trump-weighs-250-pardons-as-crypto-founders-seek-clemency?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Trump-Xi summit raises a terrifying prospect for America and Europe: Chinese cars - Politico",
+          "url": "https://www.politico.com/news/2026/05/13/trump-xi-summit-chinese-electric-vehicles-00917652",
+          "source": "Politico"
+        },
+        {
+          "title": "Trump\u2019s White House weighs 250 pardons to celebrate America's 250th birthday",
+          "url": "https://cointelegraph.com/news/trump-weighs-250-pardons-as-crypto-founders-seek-clemency?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "CLARITY Act",
+      "count": 4,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup",
+          "url": "https://cointelegraph.com/news/coinbase-ceo-brian-armstrong-clarity-act-thursday-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Bitcoin traders expect \u2018fast move\u2019 to $90K following CLARITY Act vote",
+          "url": "https://cointelegraph.com/markets/bitcoin-traders-expect-fast-move-90k-following-clarity-act-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Coinbase CEO Brian Armstrong gets behind CLARITY Act ahead of Thursday markup",
+          "url": "https://cointelegraph.com/news/coinbase-ceo-brian-armstrong-clarity-act-thursday-markup?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitcoin traders expect \u2018fast move\u2019 to $90K following CLARITY Act vote",
+          "url": "https://cointelegraph.com/markets/bitcoin-traders-expect-fast-move-90k-following-clarity-act-vote?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Moody\u2019s",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Moody\u2019s awards top rating to Fidelity and BlackRock's tokenized money market funds",
+          "url": "https://www.coindesk.com/markets/2026/05/14/moody-s-awards-top-rating-to-fidelity-and-blackrock-s-tokenized-money-market-funds",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Fidelity International\u2019s first tokenized fund receives top-tier AAA-mf rating from Moody\u2019s",
+          "url": "https://www.theblock.co/post/401196/fidelity-internationals-first-tokenized-fund-receives-top-tier-aaa-mf-rating-from-moodys?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Moody\u2019s awards top rating to Fidelity and BlackRock's tokenized money market funds",
+          "url": "https://www.coindesk.com/markets/2026/05/14/moody-s-awards-top-rating-to-fidelity-and-blackrock-s-tokenized-money-market-funds",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Taiwan",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Solana drops 5%, bitcoin below $80,000 as Xi warns Trump on Taiwan conflict",
+          "url": "https://www.coindesk.com/markets/2026/05/14/solana-drops-5-bitcoin-below-usd80-000-as-xi-warns-trump-on-taiwan-conflict",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Xi tells Trump that mishandling of Taiwan could spark conflict - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS3lkbXo1Qi03THB1M3ZabG5xUFNTNzloZl96QTUyTGItdm5WMWd4eVhWTEtDd0plRHBmYTVYUU94bXAtN3AxYzQ1aUdUR203NmM5YjFfZGNaT3F5a01BcnJxTTVRUUsyU1d5b01zRU9nNDNNLU54ZkNkckxDS0J2NTI0MGU1OGp0X3VVRFlxNHJkU3ZvMkF2Y1lrdEE2TDhUX3VoS2cxdWZ5Zw?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Solana drops 5%, bitcoin below $80,000 as Xi warns Trump on Taiwan conflict",
+          "url": "https://www.coindesk.com/markets/2026/05/14/solana-drops-5-bitcoin-below-usd80-000-as-xi-warns-trump-on-taiwan-conflict",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "CFTC",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "CFTC no-action letter eases event contract reporting rules",
+          "url": "https://cointelegraph.com/news/cftc-issues-no-action-letter-prediction-market-data-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "CFTC issues blanket no-action letter on prediction markets, relieving swap data reporting duties",
+          "url": "https://www.theblock.co/post/401215/cftc-no-action-prediction-market?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "CFTC no-action letter eases event contract reporting rules",
+          "url": "https://cointelegraph.com/news/cftc-issues-no-action-letter-prediction-market-data-reporting?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Bank of England",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Bank of England reconsiders strict stablecoin regime",
+          "url": "https://cointelegraph.com/news/boe-signals-softer-uk-stablecoin-regime-after-industry-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Bank of England set to ease sterling stablecoin rules amid industry concerns: FT",
+          "url": "https://www.theblock.co/post/401239/boe-reconsiders-stablecoin-rules?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bank of England reconsiders strict stablecoin regime",
+          "url": "https://cointelegraph.com/news/boe-signals-softer-uk-stablecoin-regime-after-industry-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "BitGo",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "BitGo posts wider Q1 loss despite revenue more than doubling",
+          "url": "https://cointelegraph.com/news/bitgo-posts-38b-in-revenue-but-losses-double-amid-bitcoin-decline-ipo-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "BitGo doubles revenue to $3.8 billion but net loss widens in Q1",
+          "url": "https://www.theblock.co/post/401205/bitgo-doubles-q1-revenue?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "BitGo posts wider Q1 loss despite revenue more than doubling",
+          "url": "https://cointelegraph.com/news/bitgo-posts-38b-in-revenue-but-losses-double-amid-bitcoin-decline-ipo-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "White House",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Trump\u2019s White House weighs 250 pardons to celebrate America's 250th birthday",
+          "url": "https://cointelegraph.com/news/trump-weighs-250-pardons-as-crypto-founders-seek-clemency?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "White House has few tools for gas-price relief as Iran war drags on - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0VjdHVndkRaT0dPYVNNTTAyaHRxdkpxVkVhQlpac3Q3N2JPZ3F2MDk0Q0RlZHc3RjBTb3dTS041OVZvaWdHeUV0TlR6NVROMFVFN3hRUG9CZ2E1UGRjMzJ6X3EzbmVKTG94aGFqdUd3ZFVOT05pVEJjQUtHVlNieGFicjl6T01lMndOT29Ta2pLdzZ2THFoOXdvZ1Q2WjU1dERveHNSNUQ1MmZZMmc?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump\u2019s White House weighs 250 pardons to celebrate America's 250th birthday",
+          "url": "https://cointelegraph.com/news/trump-weighs-250-pardons-as-crypto-founders-seek-clemency?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Nakamoto",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin firm Nakamoto records net loss in Q1 despite sixfold revenue growth",
+          "url": "https://cointelegraph.com/news/bitcoin-treasury-nakamoto-reports-238m-net-loss-q1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "David Bailey\u2019s Nakamoto reports $239 million Q1 loss as bitcoin treasury value slides",
+          "url": "https://www.theblock.co/post/401225/nakamoto-reports-q1-loss?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin firm Nakamoto records net loss in Q1 despite sixfold revenue growth",
+          "url": "https://cointelegraph.com/news/bitcoin-treasury-nakamoto-reports-238m-net-loss-q1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "CryptoQuant",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Decrypt"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin risks slump after hitting \u2018major bear market resistance\u2019: CryptoQuant",
+          "url": "https://cointelegraph.com/news/bitcoin-at-risk-of-falling-after-hitting-major-bear-market-resistance-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Bitcoin Rally Cut Short as Profit-Taking Rises, US Demand Falls: CryptoQuant",
+          "url": "https://decrypt.co/367787/bitcoin-rally-cut-short-profit-taking-rises-us-demand-falls-cryptoquant",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin risks slump after hitting \u2018major bear market resistance\u2019: CryptoQuant",
+          "url": "https://cointelegraph.com/news/bitcoin-at-risk-of-falling-after-hitting-major-bear-market-resistance-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "XRP",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Coinpaper",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Price predictions 5/13: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-513-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Price predictions 5/13: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-513-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "XRP\u2019s Secret Sauce? Ripple CEO Says The Army, 3-Second Settlements & 4 billion Transactions",
+          "url": "https://coinpaper.com/17021/xrp-s-secret-sauce-ripple-ceo-says-the-army-3-second-settlements-and-4-billion-transactions",
+          "source": "Coinpaper"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Fed",
+      "count": 3,
+      "sources": [
+        "Crypto Briefing",
+        "Politico",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Senate votes to confirm Trump-pick Kevin Warsh to succeed Jerome Powell as Fed Chair",
+          "url": "https://www.theblock.co/post/400974/senate-confirm-trump-federal-reserve-chair-kevin-warsh?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Why Kevin Warsh is likely to run afoul of Trump at the Fed - Politico",
+          "url": "https://www.politico.com/news/2026/05/12/warsh-fed-rates-trump-powell-iran-00915790",
+          "source": "Politico"
+        },
+        {
+          "title": "Kevin Warsh\u2019s Fed nomination clears first Senate vote",
+          "url": "https://cryptobriefing.com/kevin-warsh-fed-nomination-senate-vote/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "SoftBank",
+      "count": 3,
+      "sources": [
+        "CNBC",
+        "Crypto Briefing",
+        "Seeking Alpha"
+      ],
+      "articles": [
+        {
+          "title": "SoftBank FY 2025: $64B OpenAI Gamble - 13% Stake Explained",
+          "url": "https://seekingalpha.com/article/4904440-softbank-fy25-64b-openai-gamble-13-percent-stake-explained?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "SoftBank posts $46 billion gain at Vision Fund driven mainly by massive OpenAI bet - CNBC",
+          "url": "https://www.cnbc.com/2026/05/13/softbank-earnings-fy-2025-vision-fund-openai-stake.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "SoftBank records $46 billion Vision Fund gain as OpenAI valuation climbs",
+          "url": "https://cryptobriefing.com/softbank-openai-investment-gain/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Cerebras",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Cerebras, OpenAI, SpaceX: The IPO pipeline that could drain crypto",
+          "url": "https://www.coindesk.com/markets/2026/05/14/cerebras-openai-spacex-the-ipo-pipeline-that-could-drain-crypto",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Cerebras, OpenAI, SpaceX: The IPO pipeline that could drain crypto",
+          "url": "https://www.coindesk.com/markets/2026/05/14/cerebras-openai-spacex-the-ipo-pipeline-that-could-drain-crypto",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Fidelity",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Moody\u2019s awards top rating to Fidelity and BlackRock's tokenized money market funds",
+          "url": "https://www.coindesk.com/markets/2026/05/14/moody-s-awards-top-rating-to-fidelity-and-blackrock-s-tokenized-money-market-funds",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Moody\u2019s awards top rating to Fidelity and BlackRock's tokenized money market funds",
+          "url": "https://www.coindesk.com/markets/2026/05/14/moody-s-awards-top-rating-to-fidelity-and-blackrock-s-tokenized-money-market-funds",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "BlackRock",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Moody\u2019s awards top rating to Fidelity and BlackRock's tokenized money market funds",
+          "url": "https://www.coindesk.com/markets/2026/05/14/moody-s-awards-top-rating-to-fidelity-and-blackrock-s-tokenized-money-market-funds",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Moody\u2019s awards top rating to Fidelity and BlackRock's tokenized money market funds",
+          "url": "https://www.coindesk.com/markets/2026/05/14/moody-s-awards-top-rating-to-fidelity-and-blackrock-s-tokenized-money-market-funds",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "TRUMP",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "TRUMP token down 5% as namesake handset begins shipping next week",
+          "url": "https://www.coindesk.com/markets/2026/05/14/trump-token-down-5-as-namesake-handset-begins-shipping-next-week",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "TRUMP token down 5% as namesake handset begins shipping next week",
+          "url": "https://www.coindesk.com/markets/2026/05/14/trump-token-down-5-as-namesake-handset-begins-shipping-next-week",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    }
+  ],
+  "crypto_trending": [
+    {
+      "name": "Gensyn",
+      "symbol": "AI",
+      "market_cap_rank": 463,
+      "thumb": "https://coin-images.coingecko.com/coins/images/71027/standard/gensyn.png?1765331043"
+    },
+    {
+      "name": "Zano",
+      "symbol": "ZANO",
+      "market_cap_rank": 205,
+      "thumb": "https://coin-images.coingecko.com/coins/images/8370/standard/Icon-App-512x512.png?1761825305"
+    },
+    {
+      "name": "Firo",
+      "symbol": "FIRO",
+      "market_cap_rank": 813,
+      "thumb": "https://coin-images.coingecko.com/coins/images/479/standard/firocoingecko.png?1696501734"
+    },
+    {
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "market_cap_rank": 37,
+      "thumb": "https://coin-images.coingecko.com/coins/images/28452/standard/ARUsPeNQ_400x400.jpeg?1696527447"
+    },
+    {
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "market_cap_rank": 89,
+      "thumb": "https://coin-images.coingecko.com/coins/images/54023/standard/VVV_Token_Transparent.png?1741856877"
+    },
+    {
+      "name": "Billions Network",
+      "symbol": "BILL",
+      "market_cap_rank": 116,
+      "thumb": "https://coin-images.coingecko.com/coins/images/68464/standard/billions.png?1755828007"
+    },
+    {
+      "name": "LAB",
+      "symbol": "LAB",
+      "market_cap_rank": 128,
+      "thumb": "https://coin-images.coingecko.com/coins/images/70014/standard/lab.png?1760352822"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "market_cap_rank": 1,
+      "thumb": "https://coin-images.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400"
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "market_cap_rank": 2,
+      "thumb": "https://coin-images.coingecko.com/coins/images/279/standard/ethereum.png?1696501628"
+    },
+    {
+      "name": "Maple Finance",
+      "symbol": "SYRUP",
+      "market_cap_rank": 167,
+      "thumb": "https://coin-images.coingecko.com/coins/images/51232/standard/_syrup_token_logo.png?1747292046"
+    }
+  ],
+  "stock_trending": [
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "price": 101.87,
+      "change_pct": 2.6
+    },
+    {
+      "symbol": "QUCY",
+      "name": "Quantum Cyber N.V.",
+      "price": 1.34,
+      "change_pct": 315.12
+    },
+    {
+      "symbol": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 79479.73,
+      "change_pct": 0.25
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology, Inc.",
+      "price": 177.95,
+      "change_pct": 8.18
+    },
+    {
+      "symbol": "NOK",
+      "name": "Nokia Oyj",
+      "price": 14.71,
+      "change_pct": 11.69
+    },
+    {
+      "symbol": "ONDS",
+      "name": "Ondas Inc.",
+      "price": 8.86,
+      "change_pct": -1.99
+    },
+    {
+      "symbol": "F",
+      "name": "Ford Motor Company",
+      "price": 13.57,
+      "change_pct": 13.18
+    },
+    {
+      "symbol": "AIIO",
+      "name": "Robo.ai Inc.",
+      "price": 2.61,
+      "change_pct": 103.91
+    },
+    {
+      "symbol": "CBRS-USD",
+      "name": "Cerebras Systems (Derivatives) USD",
+      "price": 285.66,
+      "change_pct": -1.29
+    },
+    {
+      "symbol": "NIO",
+      "name": "NIO Inc.",
+      "price": 6.54,
+      "change_pct": 7.57
+    }
+  ],
+  "fear_greed": {
+    "value": 34,
+    "classification": "Fear",
+    "history": [
+      {
+        "value": 34,
+        "classification": "Fear"
+      },
+      {
+        "value": 42,
+        "classification": "Fear"
+      },
+      {
+        "value": 49,
+        "classification": "Neutral"
+      },
+      {
+        "value": 48,
+        "classification": "Neutral"
+      },
+      {
+        "value": 47,
+        "classification": "Neutral"
+      },
+      {
+        "value": 38,
+        "classification": "Fear"
+      },
+      {
+        "value": 38,
+        "classification": "Fear"
+      }
+    ]
+  },
+  "total_articles": 380
+}
