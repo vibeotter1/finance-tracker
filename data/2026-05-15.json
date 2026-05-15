@@ -1,0 +1,1192 @@
+{
+  "date": "2026-05-15",
+  "topics": [
+    {
+      "name": "Trump",
+      "count": 22,
+      "sources": [
+        "CNBC",
+        "Crypto Briefing",
+        "Decrypt",
+        "Fortune",
+        "NBC News",
+        "Reuters",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Trump leaves China after talks dominated by trade, oil and Taiwan",
+          "url": "https://www.cnbc.com/2026/05/15/trump-wraps-up-two-day-china-trip-invites-xi-for-a-september-visit.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "UFC's Dana White urges Trump to reverse gambling tax law. His letter moved the prediction market",
+          "url": "https://www.cnbc.com/2026/05/14/ufcs-dana-white-urges-trump-to-reverse-gambling-tax-law.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Xi warns Trump: Mishandling Taiwan will put U.S.-China relationship in 'great jeopardy'",
+          "url": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Jensen Huang joins Trump's China trip after the U.S. president called the Nvidia CEO",
+          "url": "https://www.cnbc.com/2026/05/13/nvidia-says-ceo-jensen-huang-is-joining-trumps-china-trip.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump is taking more than a dozen U.S. executives to China. Jensen Huang isn't one of them",
+          "url": "https://www.cnbc.com/2026/05/12/nvidia-ceo-huang-trump-china-trip-chip-sales.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "China",
+      "count": 17,
+      "sources": [
+        "BusinessLine",
+        "CNBC",
+        "Fortune",
+        "Hacker News",
+        "NBC News",
+        "Politico",
+        "Reuters",
+        "Yahoo Entertainment"
+      ],
+      "articles": [
+        {
+          "title": "Trump leaves China after talks dominated by trade, oil and Taiwan",
+          "url": "https://www.cnbc.com/2026/05/15/trump-wraps-up-two-day-china-trip-invites-xi-for-a-september-visit.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "U.S. can hold AI talks with China because \u2018we are in the lead,\u2019 Bessent tells CNBC as nations plan safety protocol",
+          "url": "https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump in China: Traders predict a tariff truce extension and Boeing aircraft purchases",
+          "url": "https://www.cnbc.com/2026/05/13/traders-predict-trump-will-make-major-announcements-during-china-trip.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Jensen Huang joins Trump's China trip after the U.S. president called the Nvidia CEO",
+          "url": "https://www.cnbc.com/2026/05/13/nvidia-says-ceo-jensen-huang-is-joining-trumps-china-trip.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump is taking more than a dozen U.S. executives to China. Jensen Huang isn't one of them",
+          "url": "https://www.cnbc.com/2026/05/12/nvidia-ceo-huang-trump-china-trip-chip-sales.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Iran",
+      "count": 11,
+      "sources": [
+        "Crypto Briefing",
+        "Investing.com",
+        "Reuters",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Israel inflation rate holds at 1.9% in April, Iran war boosts CPI m/m",
+          "url": "https://www.investing.com/news/economy-news/israel-inflation-rate-holds-at-19-in-april-iran-war-boosts-cpi-mm-4691899",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Victims of Iran attacks seek court order for turnover of $344 million in USDT frozen by Tether",
+          "url": "https://www.theblock.co/post/401443/victims-of-iran-attacks-seek-court-order-for-turnover-of-344-million-in-usdt-frozen-by-tether?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Iran\u2019s Hormuz closure threatens global trade, raises hunger crisis fears",
+          "url": "https://cryptobriefing.com/irans-hormuz-closure-threatens-global-trade-raises-hunger-crisis-fears/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Trump says he and China's Xi agree Iran cannot have nuclear weapons - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFFlcklCYWQwZUZGc2xjSF9QWjJvMU1PWFVtakpUVDljdTFCMzJqN2lULXMycUVxS2V2Q0I4X3h3ZndCczNqZ2JKTEFwdW1tTlBMMGlJRWRiT05jT3otM1BtT3F6YmxNQ1hEM1hjVnZPTEdXX1JlWk9lWWJLd3BvQlozTDFDQnQtbFU5ZUZzakE4Q0RPTHA5QWVmbXluVkFSRVQtZjlmdkRNUHVhR29v?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "German economy to take hit from Iran war during Q2, ministry says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSDZkZExsZVpBRnlRUkttUm1fVGdvWlF6UHhPMUpxVlhVNExBdktjT1dLbTlhUXFuYkJ6b3ZGT09iN0RTQVNJOEx0MW5WQVRTdTFONlgtcTVyeW1kaWhhOFVzZTRKLXMzb1dJaVI5YkIwN0FDc21ibkdhblZLNVFnbjR6anFpY1pQdkR5S291eFFsdWdrdkFEbHhXdTFLeVRLQWNn?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Reuters",
+      "count": 10,
+      "sources": [
+        "CNBC",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Walmart cuts 1,000 roles to simplify operations, Reuters reports - CNBC",
+          "url": "https://www.cnbc.com/2026/05/13/walmart-cuts-1000-roles-to-simplify-operations-reports.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump says he and China's Xi agree Iran cannot have nuclear weapons - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeFFlcklCYWQwZUZGc2xjSF9QWjJvMU1PWFVtakpUVDljdTFCMzJqN2lULXMycUVxS2V2Q0I4X3h3ZndCczNqZ2JKTEFwdW1tTlBMMGlJRWRiT05jT3otM1BtT3F6YmxNQ1hEM1hjVnZPTEdXX1JlWk9lWWJLd3BvQlozTDFDQnQtbFU5ZUZzakE4Q0RPTHA5QWVmbXluVkFSRVQtZjlmdkRNUHVhR29v?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "German economy to take hit from Iran war during Q2, ministry says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSDZkZExsZVpBRnlRUkttUm1fVGdvWlF6UHhPMUpxVlhVNExBdktjT1dLbTlhUXFuYkJ6b3ZGT09iN0RTQVNJOEx0MW5WQVRTdTFONlgtcTVyeW1kaWhhOFVzZTRKLXMzb1dJaVI5YkIwN0FDc21ibkdhblZLNVFnbjR6anFpY1pQdkR5S291eFFsdWdrdkFEbHhXdTFLeVRLQWNn?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Airlines cancel flights in response to Middle East conflict - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUktYcUtESEg4Vkt6a2d5akRkeFI2Njd0dkR1UnhaLU5EbVFuQkJnMnkyaWRnWFlkQlVBY1BtWFRRVWpfS1RPMjRfclZidFBVaWJwb0c2Y2UxV2p5azA5M3FyWjRJLXlMcVRsd3JIdWZsZXpXVDV5WVdJRHFFUUFzWF9pQkxsbURWQ0p4bnl3MkxtTVFrVUxEX3dhdGNKM2MyNkhhOVNMTmhLRGNEYnJSWHRKTG5zdw?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "India raises retail fuel prices for first time since Iran war started - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1Vpck9GV3BPb1A5LW5aM0xsWGJ4OV9udnZDMTEzbTJZOXR1RFhTay1tVXRpV1FDZDd0U2cxU2hCd1BXVEFJOTFZVjYyR293UXVEUGJ1dWt6TEhTYmwwblF6YXZsOVJWMk9WQl9nempVaEdBYWtnN0thaWgwazQ3N2U0MjVDVHZVYWlwdDNKQlRrajMwazEwMEpGRGxNOS1kalBvSXZkVUhOeWZaQXRscEsySXdTQQ?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Bitcoin",
+      "count": 8,
+      "sources": [
+        "CoinDesk",
+        "Cointelegraph",
+        "Crypto Briefing",
+        "CryptoSlate",
+        "Finbold",
+        "Hacker News"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin is still stuck below its 200-day average. Treasury yields may be the reason.",
+          "url": "https://www.coindesk.com/markets/2026/05/15/the-two-and-ten-year-treasury-yields-hit-a-12-month-high-bitcoin-is-still-stuck-below-its-200-day-average",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "As Russia invaded Ukraine, Bitcoin plunged \u2013 here's what crypto experts said",
+          "url": "https://markets.businessinsider.com/news/currencies/bitcoin-ethereum-blockchain-ukraine-russia-war-conflict-europe-america-china-2022-2",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Bitcoin is dead, but it was a good try",
+          "url": "https://news.ycombinator.com/item?id=39155402",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Hot inflation data dims Federal Reserve rate cut prospects, Bitcoin slips 1.2%",
+          "url": "https://cryptobriefing.com/inflation-data-dims-fed-rate-cut-bitcoin-slips/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "JPMorgan lifts Bitcoin ETF exposure in Q1, led by BlackRock\u2019s IBIT",
+          "url": "https://cointelegraph.com/news/jpmorgan-bitcoin-etf-buy-blackrock-ibit-q1-2026",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "U.S.",
+      "count": 7,
+      "sources": [
+        "CNBC",
+        "CoinDesk",
+        "MarketWatch"
+      ],
+      "articles": [
+        {
+          "title": "The U.S. stock market is getting close to dot-com bubble peak valuations",
+          "url": "https://www.coindesk.com/markets/2026/05/15/the-u-s-stock-market-is-getting-close-to-dot-com-bubble-peak-valuations",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "U.S. senators lament failure to win bipartisan support, yet, on crypto Clarity Act",
+          "url": "https://www.coindesk.com/policy/2026/05/14/u-s-senators-lament-failure-to-win-bipartisan-support-yet-on-crypto-clarity-act",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "The U.S. dollar has barely budged this year \u2014 but that could be about to change",
+          "url": "https://www.marketwatch.com/story/the-u-s-dollar-has-barely-budged-this-year-but-that-could-be-about-to-change-08d42b61?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "U.S. can hold AI talks with China because \u2018we are in the lead,\u2019 Bessent tells CNBC as nations plan safety protocol",
+          "url": "https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Jensen Huang joins Trump's China trip after the U.S. president called the Nvidia CEO",
+          "url": "https://www.cnbc.com/2026/05/13/nvidia-says-ceo-jensen-huang-is-joining-trumps-china-trip.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Boeing",
+      "count": 7,
+      "sources": [
+        "CNBC",
+        "Fortune",
+        "Yahoo Entertainment"
+      ],
+      "articles": [
+        {
+          "title": "Trump in China: Traders predict a tariff truce extension and Boeing aircraft purchases",
+          "url": "https://www.cnbc.com/2026/05/13/traders-predict-trump-will-make-major-announcements-during-china-trip.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "The Dow is poised to retake 50,000 as Cisco jumps, Boeing gains: Live updates - CNBC",
+          "url": "https://www.cnbc.com/2026/05/13/stock-market-today-live-updates.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Boeing lost China. Trump\u2014and 500 jets\u2014may be about to win it back. - Fortune",
+          "url": "https://fortune.com/2026/05/14/trump-china-boeing-kelly-ortberg-plane-sales/",
+          "source": "Fortune"
+        },
+        {
+          "title": "Trump-Xi Summit Puts Nvidia, Boeing And 500-Jet Deal In Focus - Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/trump-xi-summit-puts-nvidia-040122496.html",
+          "source": "Yahoo Entertainment"
+        },
+        {
+          "title": "Boeing could be the biggest winner on Trump\u2019s trip to Beijing",
+          "url": "https://fortune.com/2026/05/14/boeing-china-500-planes-trump/",
+          "source": "Fortune"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Upbit",
+      "count": 6,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Hana Bank to acquire $670 million stake in Upbit operator Dunamu",
+          "url": "https://www.coindesk.com/business/2026/05/15/hana-bank-to-acquire-usd670-million-stake-in-upbit-operator-dunamu",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Hana Financial to acquire 6.55% stake in Upbit operator Dunamu for $668M",
+          "url": "https://cointelegraph.com/news/hana-financial-dunamu-upbit-stake-acquisition-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Hana Bank acquires $670 million stake in Upbit parent Dunamu",
+          "url": "https://www.theblock.co/post/401413/hana-bank-upbit-dunamu?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Hana Bank to acquire $670 million stake in Upbit operator Dunamu",
+          "url": "https://www.coindesk.com/business/2026/05/15/hana-bank-to-acquire-usd670-million-stake-in-upbit-operator-dunamu",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Hana Financial to acquire 6.55% stake in Upbit operator Dunamu for $668M",
+          "url": "https://cointelegraph.com/news/hana-financial-dunamu-upbit-stake-acquisition-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Dunamu",
+      "count": 6,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Hana Bank to acquire $670 million stake in Upbit operator Dunamu",
+          "url": "https://www.coindesk.com/business/2026/05/15/hana-bank-to-acquire-usd670-million-stake-in-upbit-operator-dunamu",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Hana Financial to acquire 6.55% stake in Upbit operator Dunamu for $668M",
+          "url": "https://cointelegraph.com/news/hana-financial-dunamu-upbit-stake-acquisition-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Hana Bank acquires $670 million stake in Upbit parent Dunamu",
+          "url": "https://www.theblock.co/post/401413/hana-bank-upbit-dunamu?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Hana Bank to acquire $670 million stake in Upbit operator Dunamu",
+          "url": "https://www.coindesk.com/business/2026/05/15/hana-bank-to-acquire-usd670-million-stake-in-upbit-operator-dunamu",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Hana Financial to acquire 6.55% stake in Upbit operator Dunamu for $668M",
+          "url": "https://cointelegraph.com/news/hana-financial-dunamu-upbit-stake-acquisition-crypto-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Senate",
+      "count": 6,
+      "sources": [
+        "CNBC",
+        "CoinDesk",
+        "Financial Times",
+        "Politico"
+      ],
+      "articles": [
+        {
+          "title": "XRP, DOGE surge 5%, bitcoin above $81,000 as Clarity Act clears Senate banking panel",
+          "url": "https://www.coindesk.com/markets/2026/05/15/xrp-doge-surge-5-bitcoin-above-usd81-000-as-clarity-act-clears-senate-banking-panel",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
+          "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Wall Street-crypto clash creates strange bedfellows in the Senate - Politico",
+          "url": "https://www.politico.com/news/2026/05/13/wall-street-crypto-clash-senate-warren-00919742",
+          "source": "Politico"
+        },
+        {
+          "title": "Senate confirms Kevin Warsh to succeed Jay Powell as Fed chair - Financial Times",
+          "url": "https://www.ft.com/content/2f1a9453-d062-45a4-9991-9a9552542e25?syn-25a6b1a6\\\\u003d1",
+          "source": "Financial Times"
+        },
+        {
+          "title": "Crypto industry scores win as Clarity Act regulation bill clears Senate hurdle",
+          "url": "https://www.cnbc.com/2026/05/14/clarity-act-congress-crypto-senate.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Thorchain",
+      "count": 5,
+      "sources": [
+        "Bitcoin World",
+        "CoinDesk",
+        "U.Today"
+      ],
+      "articles": [
+        {
+          "title": "Thorchain halts trading after $10 million cross-chain exploit, RUNE token drops 12%",
+          "url": "https://www.coindesk.com/tech/2026/05/15/thorchain-halts-trading-after-usd10-million-cross-chain-exploit-rune-token-drops-12",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Thorchain halts trading after $10 million cross-chain exploit, RUNE token drops 12%",
+          "url": "https://www.coindesk.com/tech/2026/05/15/thorchain-halts-trading-after-usd10-million-cross-chain-exploit-rune-token-drops-12",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Thorchain Exploited? Trading Paused Amid Risk of Enormous Attack",
+          "url": "https://u.today/thorchain-exploited-trading-paused-amid-risk-of-enormous-attack",
+          "source": "U.Today"
+        },
+        {
+          "title": "Thorchain Halts Trading Following Suspected $10M Exploit Across Multiple Networks",
+          "url": "https://bitcoinworld.co.in/thorchain-halts-trading-suspected-10m-exploit/",
+          "source": "Bitcoin World"
+        },
+        {
+          "title": "Thorchain halts trading after $10 million cross-chain exploit, RUNE token drops 12%",
+          "url": "https://www.coindesk.com/tech/2026/05/15/thorchain-halts-trading-after-usd10-million-cross-chain-exploit-rune-token-drops-12",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "XRP",
+      "count": 5,
+      "sources": [
+        "CoinDesk",
+        "CoinTurk News",
+        "Crypto Potato",
+        "TimesTabloid"
+      ],
+      "articles": [
+        {
+          "title": "XRP, DOGE surge 5%, bitcoin above $81,000 as Clarity Act clears Senate banking panel",
+          "url": "https://www.coindesk.com/markets/2026/05/15/xrp-doge-surge-5-bitcoin-above-usd81-000-as-clarity-act-clears-senate-banking-panel",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "XRP, DOGE surge 5%, bitcoin above $81,000 as CLARITY Act clears Senate banking panel",
+          "url": "https://www.coindesk.com/markets/2026/05/15/xrp-doge-surge-5-bitcoin-above-usd81-000-as-clarity-act-clears-senate-banking-panel",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "$0 XRP vs $10,000 XRP: The Truth About XRP Utility",
+          "url": "https://timestabloid.com/0-xrp-vs-10000-xrp-the-truth-about-xrp-utility/",
+          "source": "TimesTabloid"
+        },
+        {
+          "title": "Crypto Price Analysis May-15: ETH, XRP, ADA, BNB, and HYPE",
+          "url": "https://cryptopotato.com/crypto-price-analysis-may-15-eth-xrp-ada-bnb-and-hype/",
+          "source": "Crypto Potato"
+        },
+        {
+          "title": "XRP open positions drop fast as price holds at $1.42",
+          "url": "https://en.coin-turk.com/xrp-open-positions-drop-fast-as-price-holds-at-1-42/",
+          "source": "CoinTurk News"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Coinbase",
+      "count": 5,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block",
+        "U.Today"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin hits $82,000, Coinbase leads crypto stock gains as Clarity Act advances",
+          "url": "https://www.coindesk.com/markets/2026/05/14/bitcoin-hits-usd82-000-coinbase-leads-crypto-stock-gains-as-clarity-act-advances",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin trades at a 'discount' on Coinbase: Is a $76K retest next?",
+          "url": "https://cointelegraph.com/markets/bitcoin-trades-discount-coinbase-is-76k-retest-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Trump\u2019s latest disclosure shows Coinbase, Strategy, MARA purchases in Q1",
+          "url": "https://www.theblock.co/post/401406/trump-coinbase-strategy-mara?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin trades at a 'discount' on Coinbase: Is a $76K retest next?",
+          "url": "https://cointelegraph.com/markets/bitcoin-trades-discount-coinbase-is-76k-retest-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "1 Billion Users: Coinbase CEO Armstrong Makes Known Ultimate Goal for Major US Crypto Exchange",
+          "url": "https://u.today/1-billion-users-coinbase-ceo-armstrong-makes-known-ultimate-goal-for-major-us-crypto-exchange",
+          "source": "U.Today"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Fed",
+      "count": 5,
+      "sources": [
+        "CNBC",
+        "Financial Times",
+        "MarketWatch",
+        "The Wall Street Journal"
+      ],
+      "articles": [
+        {
+          "title": "The bond market is already hiking rates as Kevin Warsh takes over as Fed\u2019s new chair",
+          "url": "https://www.marketwatch.com/story/the-bond-market-is-already-hiking-rates-as-kevin-warsh-takes-over-as-feds-new-chair-7a74acbd?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Fed Governor Miran submits resignation, throws support behind Warsh as new chair",
+          "url": "https://www.cnbc.com/2026/05/14/fed-governor-miran-submits-resignation-throws-support-behind-warsh-as-new-chair.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "How Eight Tumultuous Years Pushed Jerome Powell and the Fed to the Limit - WSJ",
+          "url": "https://www.wsj.com/economy/central-banking/how-eight-tumultuous-years-pushed-jerome-powell-and-the-fed-to-the-limit-96388c46",
+          "source": "The Wall Street Journal"
+        },
+        {
+          "title": "Senate confirms Kevin Warsh to succeed Jay Powell as Fed chair - Financial Times",
+          "url": "https://www.ft.com/content/2f1a9453-d062-45a4-9991-9a9552542e25?syn-25a6b1a6\\\\u003d1",
+          "source": "Financial Times"
+        },
+        {
+          "title": "Fed Governor Miran submits resignation, throws support behind Warsh as new chair",
+          "url": "https://www.cnbc.com/2026/05/14/fed-governor-miran-submits-resignation-throws-support-behind-warsh-as-new-chair.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Nvidia",
+      "count": 5,
+      "sources": [
+        "CNBC",
+        "MarketWatch",
+        "Tipranks.com",
+        "Yahoo Entertainment",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Nvidia earnings alone won\u2019t rescue the S&P 500 from its new sell signal",
+          "url": "https://www.marketwatch.com/story/nvidia-earnings-alone-wont-rescue-the-s-p-500-from-its-new-sell-signal-5a41acc3?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Nvidia CEO's foundation buys $108 million of AI computing from CoreWeave, donates it to researchers",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-ceo39s-foundation-buys-108-million-of-ai-computing-from-coreweave-donates-it-to-researchers-235709405.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Jensen Huang joins Trump's China trip after the U.S. president called the Nvidia CEO",
+          "url": "https://www.cnbc.com/2026/05/13/nvidia-says-ceo-jensen-huang-is-joining-trumps-china-trip.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Exclusive-US clears H200 chip sales to 10 China firms as Nvidia CEO looks for breakthrough - Yahoo Finance",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/exclusive-us-clears-h200-chip-054811034.html",
+          "source": "Yahoo Entertainment"
+        },
+        {
+          "title": "Nvidia, Micron and AMD: AI Stocks Score New Price Target Hikes From Bank of America - TipRanks",
+          "url": "https://www.tipranks.com/news/nvidia-micron-and-amd-ai-stocks-score-new-price-target-hikes-from-bank-of-america",
+          "source": "Tipranks.com"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Beijing",
+      "count": 5,
+      "sources": [
+        "CNBC",
+        "Decrypt",
+        "Fortune",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Trump-Xi summit: the 3 big takeaways from historic meeting in Beijing",
+          "url": "https://www.cnbc.com/2026/05/15/trump-xi-summit-the-3-big-takeaways-from-historic-meeting-in-beijing.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Morning Minute: What\u2019s At Stake with Trump in Beijing",
+          "url": "https://decrypt.co/367825/morning-minute-whats-at-stake-with-trump-in-beijing",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Boeing could be the biggest winner on Trump\u2019s trip to Beijing",
+          "url": "https://fortune.com/2026/05/14/boeing-china-500-planes-trump/",
+          "source": "Fortune"
+        },
+        {
+          "title": "Trump leaves Beijing with few wins but warm words for Xi - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRU9TTUprdzlUN0ZBWGo1LUVNZWlYNzFvaXpPX21KTk1aQ0tfYXp5alZGai1Ub09XX2tma2JqME9MM0lKcEJVWDZneklPQWhkTlc5c1U4Z0NpUElNUUg1Tjc2UkpHQ3pTcWJLSWxhR2NYaFVVYnhOalZPUjhMaDhpVWJEQ24xY3NjTlpYaV9QTlJzZjhOZjdaNTN3bXY1WFk?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Beijing trip unlikely to ease Trump\u2019s problems at home - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSGJaWVNmWEg1aWNicDBwT19JYUQzM0RMVFBOVUFVS3Fsc3Q5QXlBMkRISVZuQWdLMUVlRWhEaVFTSUdjLVVmR3N4YTl2dTlEUndHTk0wZ2dnSEk2cGRiX0NLY0dBOHlrM0NHUmt2aXdjeUJYRTNxc0RlMEhtQTA3bW04ekYyZw?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Hana Bank",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Hana Bank to acquire $670 million stake in Upbit operator Dunamu",
+          "url": "https://www.coindesk.com/business/2026/05/15/hana-bank-to-acquire-usd670-million-stake-in-upbit-operator-dunamu",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Hana Bank acquires $670 million stake in Upbit parent Dunamu",
+          "url": "https://www.theblock.co/post/401413/hana-bank-upbit-dunamu?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Hana Bank to acquire $670 million stake in Upbit operator Dunamu",
+          "url": "https://www.coindesk.com/business/2026/05/15/hana-bank-to-acquire-usd670-million-stake-in-upbit-operator-dunamu",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Hana Bank to acquire $670 million stake in Upbit operator Dunamu",
+          "url": "https://www.coindesk.com/business/2026/05/15/hana-bank-to-acquire-usd670-million-stake-in-upbit-operator-dunamu",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "IREN",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "IREN closes $3 billion convertible notes deal amid AI infrastructure expansion",
+          "url": "https://www.coindesk.com/markets/2026/05/15/iren-closes-usd3-billion-convertible-notes-deal-amid-ai-infrastructure-expansion",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "IREN closes $3 billion convertible notes offering as Bitcoin miner\u2019s AI infrastructure push accelerates",
+          "url": "https://www.theblock.co/post/401447/iren-closes-3-billion-convertible-notes-offering-as-bitcoin-miners-ai-infrastructure-push-accelerates?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "IREN closes $3 billion convertible notes deal amid AI infrastructure expansion",
+          "url": "https://www.coindesk.com/markets/2026/05/15/iren-closes-usd3-billion-convertible-notes-deal-amid-ai-infrastructure-expansion",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "IREN closes $3 billion convertible notes deal amid AI infrastructure expansion",
+          "url": "https://www.coindesk.com/markets/2026/05/15/iren-closes-usd3-billion-convertible-notes-deal-amid-ai-infrastructure-expansion",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "ADA",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "Coinjournal.net",
+        "Crypto Potato"
+      ],
+      "articles": [
+        {
+          "title": "Cardano whales now hold 67% of ADA supply in highest share since 2020",
+          "url": "https://www.coindesk.com/markets/2026/05/15/cardano-whales-now-hold-67-of-ada-supply-in-highest-share-since-2020",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Cardano price forecast: is $0.40 next as $ADA flashes buy signal?",
+          "url": "https://coinjournal.net/news/cardano-price-forecast-is-0-40-next-as-ada-flashes-buy-signal/",
+          "source": "Coinjournal.net"
+        },
+        {
+          "title": "Cardano whales now hold 67% of ADA supply in highest share since 2020",
+          "url": "https://www.coindesk.com/markets/2026/05/15/cardano-whales-now-hold-67-of-ada-supply-in-highest-share-since-2020",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crypto Price Analysis May-15: ETH, XRP, ADA, BNB, and HYPE",
+          "url": "https://cryptopotato.com/crypto-price-analysis-may-15-eth-xrp-ada-bnb-and-hype/",
+          "source": "Crypto Potato"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Kraken",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Decrypt"
+      ],
+      "articles": [
+        {
+          "title": "Kraken to replace LayerZero with Chainlink to bridge assets across blockchains",
+          "url": "https://www.coindesk.com/business/2026/05/14/kraken-to-replace-layerzero-with-chainlink-to-bridge-assets-across-blockchains",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kraken joins LayerZero exodus as it switches to Chainlink CCIP",
+          "url": "https://cointelegraph.com/news/kraken-joins-layerzero-exodus-switching-chainlink-ccip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Kraken to Migrate Wrapped Bitcoin Tech to Chainlink as LayerZero Exodus Expands",
+          "url": "https://decrypt.co/367880/kraken-migrate-wrapped-bitcoin-chainlink-layerzero-exodus",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Kraken joins LayerZero exodus as it switches to Chainlink CCIP",
+          "url": "https://cointelegraph.com/news/kraken-joins-layerzero-exodus-switching-chainlink-ccip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "LayerZero",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Kraken to replace LayerZero with Chainlink to bridge assets across blockchains",
+          "url": "https://www.coindesk.com/business/2026/05/14/kraken-to-replace-layerzero-with-chainlink-to-bridge-assets-across-blockchains",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kraken joins LayerZero exodus as it switches to Chainlink CCIP",
+          "url": "https://cointelegraph.com/news/kraken-joins-layerzero-exodus-switching-chainlink-ccip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Chainlink CCIP gains over $2.5 billion in TVL from protocols migrating from LayerZero, with Kraken Bitcoin the latest to join",
+          "url": "https://www.theblock.co/post/401368/chainlink-ccip-gains-over-2-5-billion-tvl-from-protocols-migrating-layerzero-kraken-bitcoin-latest?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Kraken joins LayerZero exodus as it switches to Chainlink CCIP",
+          "url": "https://cointelegraph.com/news/kraken-joins-layerzero-exodus-switching-chainlink-ccip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Cisco",
+      "count": 4,
+      "sources": [
+        "CNBC"
+      ],
+      "articles": [
+        {
+          "title": "Stocks making the biggest moves premarket: Versant, Biogen, Bullish, Cisco and more",
+          "url": "https://www.cnbc.com/2026/05/14/stocks-making-the-biggest-moves-premarket-.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "The Dow is poised to retake 50,000 as Cisco jumps, Boeing gains: Live updates - CNBC",
+          "url": "https://www.cnbc.com/2026/05/13/stock-market-today-live-updates.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "What's good for Cisco is good for Broadcom. 3 reasons both stocks are soaring",
+          "url": "https://www.cnbc.com/2026/05/14/whats-good-for-cisco-is-good-for-broadcom-3-reasons-both-stocks-are-up.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Cisco CEO says tech is entering a 'networking supercycle' as stock pops 14% on strong AI demand",
+          "url": "https://www.cnbc.com/2026/05/14/cisco-csco-pops-on-ai-demand.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "CNBC",
+      "count": 4,
+      "sources": [
+        "CNBC"
+      ],
+      "articles": [
+        {
+          "title": "U.S. can hold AI talks with China because \u2018we are in the lead,\u2019 Bessent tells CNBC as nations plan safety protocol",
+          "url": "https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "The Dow is poised to retake 50,000 as Cisco jumps, Boeing gains: Live updates - CNBC",
+          "url": "https://www.cnbc.com/2026/05/13/stock-market-today-live-updates.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Versant reports first-quarter revenue decline, with bright spots in platforms and licensing - CNBC",
+          "url": "https://www.cnbc.com/2026/05/14/versant-vsnt-earnings-q1-2026.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Walmart cuts 1,000 roles to simplify operations, Reuters reports - CNBC",
+          "url": "https://www.cnbc.com/2026/05/13/walmart-cuts-1000-roles-to-simplify-operations-reports.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "THORChain",
+      "count": 4,
+      "sources": [
+        "Bitcoin World",
+        "Decrypt",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "THORChain pauses trading as security researchers flag suspected $10M multi-chain exploit",
+          "url": "https://www.theblock.co/post/401462/thorchain-pauses-trading-as-security-researchers-flag-suspected-10m-multi-chain-exploit?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "THORChain\u2019s RUNE Token Plunges Double Digits After $10M Exploit, Trading Halt",
+          "url": "https://decrypt.co/367943/thorchains-rune-token-plunges-double-digits-after-10m-exploit-trading-halt",
+          "source": "Decrypt"
+        },
+        {
+          "title": "THORChain\u2019s RUNE Token Plunges Double Digits After $10M Exploit, Trading Halt",
+          "url": "https://decrypt.co/367943/thorchains-rune-token-plunges-double-digits-after-10m-exploit-trading-halt",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Coinone Issues Investor Warning for THORChain (RUNE) After Confirmed Security Incident",
+          "url": "https://bitcoinworld.co.in/coinone-investor-warning-thorchain-rune/",
+          "source": "Bitcoin World"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Iran war",
+      "count": 4,
+      "sources": [
+        "Crypto Briefing",
+        "Politico",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Iran war is fueling China\u2019s clean energy surge ahead of Trump-Xi talks - Politico",
+          "url": "https://www.politico.com/news/2026/05/13/iran-war-is-fueling-chinas-clean-energy-surge-ahead-of-trump-xi-talks-00918799",
+          "source": "Politico"
+        },
+        {
+          "title": "Trump proposes federal gasoline tax pause amid Iran war energy costs",
+          "url": "https://cryptobriefing.com/trump-federal-gasoline-tax-pause-iran/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "India raises retail fuel prices for first time since Iran war started - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1Vpck9GV3BPb1A5LW5aM0xsWGJ4OV9udnZDMTEzbTJZOXR1RFhTay1tVXRpV1FDZDd0U2cxU2hCd1BXVEFJOTFZVjYyR293UXVEUGJ1dWt6TEhTYmwwblF6YXZsOVJWMk9WQl9nempVaEdBYWtnN0thaWgwazQ3N2U0MjVDVHZVYWlwdDNKQlRrajMwazEwMEpGRGxNOS1kalBvSXZkVUhOeWZaQXRscEsySXdTQQ?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran war, inflation weaken Trump's hand as he meets Xi - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zc2VpQW9EdnRUWDJzY0FwZEhsUXZxUDNPU1dJRHJTRG1Vam9meWp1SUhHTnd4TmRmclR4VmxOTE1sWDkxNWUxS3VCaFBzS2JWcm9QNm42QVhhUnh5NnhtM0hBMVd1OUhneFdtY2hMOUZ1MkUzNUVz?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Crypto",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "Hacker News"
+      ],
+      "articles": [
+        {
+          "title": "Crypto\u2019s regulatory tailwind runs into a potential rates reset",
+          "url": "https://www.coindesk.com/daybook-us/2026/05/15/crypto-s-regulatory-tailwind-runs-into-a-potential-rates-reset",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ask HN: ELI5 \u2013 Crypto, Blockchain and Web3.0",
+          "url": "https://news.ycombinator.com/item?id=29629868",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Crypto Doesn't Need Blockchain",
+          "url": "https://news.ycombinator.com/item?id=44660422",
+          "source": "Hacker News"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Tether",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Lawyer behind Arbitrum crypto seizure fight now targets Tether for $344 million",
+          "url": "https://www.coindesk.com/policy/2026/05/15/lawyer-behind-arbitrum-crypto-seizure-fight-now-targets-tether-for-usd344-million",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Victims of Iran attacks seek court order for turnover of $344 million in USDT frozen by Tether",
+          "url": "https://www.theblock.co/post/401443/victims-of-iran-attacks-seek-court-order-for-turnover-of-344-million-in-usdt-frozen-by-tether?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Lawyer behind Arbitrum crypto seizure fight now targets Tether for $344 million",
+          "url": "https://www.coindesk.com/policy/2026/05/15/lawyer-behind-arbitrum-crypto-seizure-fight-now-targets-tether-for-usd344-million",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Treasury",
+      "count": 3,
+      "sources": [
+        "Bloomberg",
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin is still stuck below its 200-day average. Treasury yields may be the reason.",
+          "url": "https://www.coindesk.com/markets/2026/05/15/the-two-and-ten-year-treasury-yields-hit-a-12-month-high-bitcoin-is-still-stuck-below-its-200-day-average",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Treasury Buyers Get 5% Long Bond for First Time Since 2007 - Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-13/treasury-buyers-get-5-long-bond-rate-for-first-time-since-2007",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "The two- and ten-year Treasury yields hit a 12-month high. Bitcoin is still stuck below its 200-day average.",
+          "url": "https://www.coindesk.com/markets/2026/05/15/the-two-and-ten-year-treasury-yields-hit-a-12-month-high-bitcoin-is-still-stuck-below-its-200-day-average",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "IPO",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "Crypto Briefing"
+      ],
+      "articles": [
+        {
+          "title": "Cerebras shares skyrocket 100% after $5.5 billion IPO amid AI stock frenzy",
+          "url": "https://www.coindesk.com/markets/2026/05/14/cerebras-shares-skyrocket-100-after-usd5-5b-ipo-amid-ai-stock-frenzy",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Robinhood files for IPO of second retail venture fund RVII amid AI hype",
+          "url": "https://cryptobriefing.com/robinhood-rvii-ipo-filing-venture-fund/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Cerebras, OpenAI, SpaceX: The IPO pipeline that could drain crypto",
+          "url": "https://www.coindesk.com/markets/2026/05/14/cerebras-openai-spacex-the-ipo-pipeline-that-could-drain-crypto",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Hyperliquid",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Why is Hyperliquid's HYPE token price up 23% in a day?",
+          "url": "https://cointelegraph.com/markets/why-is-hyperliquid-hype-price-up-23-percent-in-a-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Why is Hyperliquid's HYPE token price up 23% in a day?",
+          "url": "https://cointelegraph.com/markets/why-is-hyperliquid-hype-price-up-23-percent-in-a-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Why is Hyperliquid's HYPE token price up 23% in a day?",
+          "url": "https://cointelegraph.com/markets/why-is-hyperliquid-hype-price-up-23-percent-in-a-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    }
+  ],
+  "crypto_trending": [
+    {
+      "name": "Firo",
+      "symbol": "FIRO",
+      "market_cap_rank": 881,
+      "thumb": "https://coin-images.coingecko.com/coins/images/479/standard/firocoingecko.png?1696501734"
+    },
+    {
+      "name": "THORChain",
+      "symbol": "RUNE",
+      "market_cap_rank": 196,
+      "thumb": "https://coin-images.coingecko.com/coins/images/6595/standard/THORChain_Circle_Gradient__with_Lightning_Bolt_-_Square_Transparent_Background_200px.png?1768635632"
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "market_cap_rank": 99,
+      "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+    },
+    {
+      "name": "Zano",
+      "symbol": "ZANO",
+      "market_cap_rank": 210,
+      "thumb": "https://coin-images.coingecko.com/coins/images/8370/standard/Icon-App-512x512.png?1761825305"
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "market_cap_rank": 13,
+      "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
+    },
+    {
+      "name": "Irys",
+      "symbol": "IRYS",
+      "market_cap_rank": 239,
+      "thumb": "https://coin-images.coingecko.com/coins/images/70808/standard/irys.png?1764757341"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "market_cap_rank": 1,
+      "thumb": "https://coin-images.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400"
+    },
+    {
+      "name": "LAB",
+      "symbol": "LAB",
+      "market_cap_rank": 154,
+      "thumb": "https://coin-images.coingecko.com/coins/images/70014/standard/lab.png?1760352822"
+    },
+    {
+      "name": "Billions Network",
+      "symbol": "BILL",
+      "market_cap_rank": 107,
+      "thumb": "https://coin-images.coingecko.com/coins/images/68464/standard/billions.png?1755828007"
+    },
+    {
+      "name": "Kishu Inu",
+      "symbol": "KISHU",
+      "market_cap_rank": 671,
+      "thumb": "https://coin-images.coingecko.com/coins/images/14890/standard/uVLzCoP.png?1696514553"
+    }
+  ],
+  "stock_trending": [
+    {
+      "symbol": "CBRS",
+      "name": "Cerebras Systems Inc. Class A Common Stock",
+      "price": 311.07,
+      "change_pct": 68.15
+    },
+    {
+      "symbol": "POET",
+      "name": "POET Technologies Inc.",
+      "price": 20.57,
+      "change_pct": 43.15
+    },
+    {
+      "symbol": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 80616.64,
+      "change_pct": -0.56
+    },
+    {
+      "symbol": "FIG",
+      "name": "Figma, Inc.",
+      "price": 20.24,
+      "change_pct": 6.86
+    },
+    {
+      "symbol": "DVLT",
+      "name": "Datavault AI Inc.",
+      "price": 0.59,
+      "change_pct": 8.96
+    },
+    {
+      "symbol": "NQ=F",
+      "name": "Nasdaq 100 Jun 26",
+      "price": 29328.5,
+      "change_pct": -1.21
+    },
+    {
+      "symbol": "MLGO",
+      "name": "MicroAlgo Inc.",
+      "price": 4.55,
+      "change_pct": 13.18
+    },
+    {
+      "symbol": "XRP-USD",
+      "name": "XRP USD",
+      "price": 1.47,
+      "change_pct": -0.85
+    },
+    {
+      "symbol": "HCWB",
+      "name": "HCW Biologics Inc.",
+      "price": 0.34,
+      "change_pct": -3.55
+    },
+    {
+      "symbol": "CL=F",
+      "name": "Crude Oil Jun 26",
+      "price": 99.35,
+      "change_pct": 2.51
+    }
+  ],
+  "fear_greed": {
+    "value": 43,
+    "classification": "Fear",
+    "history": [
+      {
+        "value": 43,
+        "classification": "Fear"
+      },
+      {
+        "value": 34,
+        "classification": "Fear"
+      },
+      {
+        "value": 42,
+        "classification": "Fear"
+      },
+      {
+        "value": 49,
+        "classification": "Neutral"
+      },
+      {
+        "value": 48,
+        "classification": "Neutral"
+      },
+      {
+        "value": 47,
+        "classification": "Neutral"
+      },
+      {
+        "value": 38,
+        "classification": "Fear"
+      }
+    ]
+  },
+  "total_articles": 399
+}
