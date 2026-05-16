@@ -3,7 +3,7 @@
   "topics": [
     {
       "name": "Trump",
-      "count": 24,
+      "count": 31,
       "sources": [
         "Bloomberg",
         "CNBC",
@@ -11,7 +11,9 @@
         "CoinDesk",
         "CoinTelegraph",
         "Cointelegraph",
+        "Crypto Briefing",
         "Decrypt",
+        "Fortune",
         "Investing.com",
         "MarketWatch",
         "Reuters",
@@ -34,21 +36,21 @@
           "source": "MarketWatch"
         },
         {
-          "title": "Trump says Xi agrees Iran must open strait, China says war shouldn\u2019t have started",
-          "url": "https://www.investing.com/news/commodities-news/trump-says-xi-agrees-iran-must-open-strait-china-says-war-shouldnt-have-started-4694428",
+          "title": "Canada deepens Arctic defense ties with Nordics after Trump threats",
+          "url": "https://www.investing.com/news/world-news/canada-deepens-arctic-defense-ties-with-nordics-after-trump-threats-4694448",
           "source": "Investing.com"
         },
         {
-          "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
-          "url": "https://www.cnbc.com/2026/05/16/trumps-meeting-with-chinas-xi-steers-the-us-away-from-taiwan-again.html",
-          "source": "CNBC"
+          "title": "Trump says Iran war is worth the economic pain. These rural voters agree",
+          "url": "https://www.investing.com/news/commodities-news/trump-says-iran-war-is-worth-the-economic-pain-these-rural-voters-agree-4694447",
+          "source": "Investing.com"
         }
       ],
       "is_new": false
     },
     {
       "name": "Iran",
-      "count": 18,
+      "count": 17,
       "sources": [
         "Associated Press",
         "Bitcoin World",
@@ -56,7 +58,6 @@
         "CoinTelegraph",
         "Cointelegraph",
         "Crypto Briefing",
-        "Ibtimes.com.au",
         "Investing.com",
         "Reuters",
         "The Block"
@@ -73,8 +74,8 @@
           "source": "CoinTelegraph"
         },
         {
-          "title": "Trump says Xi agrees Iran must open strait, China says war shouldn\u2019t have started",
-          "url": "https://www.investing.com/news/commodities-news/trump-says-xi-agrees-iran-must-open-strait-china-says-war-shouldnt-have-started-4694428",
+          "title": "Rising diesel costs from Iran war strain US school budgets",
+          "url": "https://www.investing.com/news/commodities-news/rising-diesel-costs-from-iran-war-strain-us-school-budgets-4694446",
           "source": "Investing.com"
         },
         {
@@ -97,27 +98,17 @@
         "24/7 Wall St.",
         "Bloomberg",
         "CNBC",
+        "Crypto Briefing",
+        "Fortune",
         "Hacker News",
-        "Investing.com",
         "MarketWatch",
-        "Reuters",
-        "Seeking Alpha"
+        "Reuters"
       ],
       "articles": [
         {
           "title": "Stocks and bonds get swept up in a selloff, as Trump\u2019s China visit fails to pry open the Strait of Hormuz",
           "url": "https://www.marketwatch.com/story/stocks-tumble-bond-rout-deepens-as-trumps-china-visit-fails-to-reopen-strait-of-hormuz-8501c294?mod=mw_rss_topstories",
           "source": "MarketWatch"
-        },
-        {
-          "title": "Putin scheduled for state visit to China following Trump-Xi Beijing summit",
-          "url": "https://www.investing.com/news/economy-news/putin-scheduled-for-state-visit-to-china-following-trumpxi-beijing-summit-4694432",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Trump says Xi agrees Iran must open strait, China says war shouldn\u2019t have started",
-          "url": "https://www.investing.com/news/commodities-news/trump-says-xi-agrees-iran-must-open-strait-china-says-war-shouldnt-have-started-4694428",
-          "source": "Investing.com"
         },
         {
           "title": "Trump leaves China after talks dominated by trade, oil and Taiwan",
@@ -127,6 +118,16 @@
         {
           "title": "U.S. can hold AI talks with China because \u2018we are in the lead,\u2019 Bessent tells CNBC as nations plan safety protocol",
           "url": "https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump in China: Traders predict a tariff truce extension and Boeing aircraft purchases",
+          "url": "https://www.cnbc.com/2026/05/13/traders-predict-trump-will-make-major-announcements-during-china-trip.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Jensen Huang joins Trump's China trip after the U.S. president called the Nvidia CEO",
+          "url": "https://www.cnbc.com/2026/05/13/nvidia-says-ceo-jensen-huang-is-joining-trumps-china-trip.html",
           "source": "CNBC"
         }
       ],
@@ -168,6 +169,49 @@
       "is_new": false
     },
     {
+      "name": "Bitcoin",
+      "count": 10,
+      "sources": [
+        "AMB Crypto",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Crypto Briefing",
+        "Crypto Potato",
+        "Hacker News",
+        "Investing.com",
+        "Investing.com Crypto News",
+        "TechRadar"
+      ],
+      "articles": [
+        {
+          "title": "US CLARITY Act brings \u2018major spike of euphoria\u2019 to Bitcoin: Santiment",
+          "url": "https://cointelegraph.com/news/us-clarity-act-brings-major-spike-of-euphoria-to-bitcoin-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Bitcoin drops to $78,000 as rate hike fears trigger massive $550M long flush",
+          "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-to-78000-as-rate-hike-fears-trigger-massive-550m-long-flush-4694443",
+          "source": "Investing.com"
+        },
+        {
+          "title": "As Russia invaded Ukraine, Bitcoin plunged \u2013 here's what crypto experts said",
+          "url": "https://markets.businessinsider.com/news/currencies/bitcoin-ethereum-blockchain-ukraine-russia-war-conflict-europe-america-china-2022-2",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Bitcoin is dead, but it was a good try",
+          "url": "https://news.ycombinator.com/item?id=39155402",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Senate Banking Committee votes on Clarity Act, favoring Bitcoin and Coinbase staking",
+          "url": "https://cryptobriefing.com/senate-clarity-act-bitcoin-coinbase-staking/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": false
+    },
+    {
       "name": "XRP",
       "count": 9,
       "sources": [
@@ -175,7 +219,8 @@
         "CoinTelegraph",
         "CoinTurk News",
         "Coinjournal.net",
-        "Cointelegraph"
+        "Cointelegraph",
+        "Cryptopolitan"
       ],
       "articles": [
         {
@@ -202,47 +247,6 @@
           "title": "Crypto longs lose $500 million as bitcoin slides to $78,000, SOL and XRP down 5%",
           "url": "https://www.coindesk.com/markets/2026/05/16/crypto-longs-lose-usd500-million-as-bitcoin-slides-to-usd78-000-sol-and-xrp-down-5",
           "source": "CoinDesk"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "Bitcoin",
-      "count": 9,
-      "sources": [
-        "AMB Crypto",
-        "CoinTelegraph",
-        "Cointelegraph",
-        "Crypto Briefing",
-        "Hacker News",
-        "TechRadar",
-        "The Times of India"
-      ],
-      "articles": [
-        {
-          "title": "US CLARITY Act brings \u2018major spike of euphoria\u2019 to Bitcoin: Santiment",
-          "url": "https://cointelegraph.com/news/us-clarity-act-brings-major-spike-of-euphoria-to-bitcoin-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Bitcoin risks \u2018next downtrend\u2019 as traders diverge on fate of $82K resistance",
-          "url": "https://cointelegraph.com/markets/bitcoin-risks-next-downtrend-traders-diverge-fate-82k-resistance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "As Russia invaded Ukraine, Bitcoin plunged \u2013 here's what crypto experts said",
-          "url": "https://markets.businessinsider.com/news/currencies/bitcoin-ethereum-blockchain-ukraine-russia-war-conflict-europe-america-china-2022-2",
-          "source": "Hacker News"
-        },
-        {
-          "title": "Bitcoin is dead, but it was a good try",
-          "url": "https://news.ycombinator.com/item?id=39155402",
-          "source": "Hacker News"
-        },
-        {
-          "title": "Senate Banking Committee votes on Clarity Act, favoring Bitcoin and Coinbase staking",
-          "url": "https://cryptobriefing.com/senate-clarity-act-bitcoin-coinbase-staking/",
-          "source": "Crypto Briefing"
         }
       ],
       "is_new": false
@@ -294,6 +298,7 @@
         "Coinjournal.net",
         "Cointelegraph",
         "CryptoSlate",
+        "Investing.com Crypto News",
         "The Block"
       ],
       "articles": [
@@ -332,7 +337,7 @@
         "Axios",
         "CNBC",
         "CoinDesk",
-        "Investing.com"
+        "Crypto Briefing"
       ],
       "articles": [
         {
@@ -346,19 +351,59 @@
           "source": "CoinDesk"
         },
         {
-          "title": "SpaceX shareholders approve 5-for-1 stock split ahead of IPO, reports Bloomberg",
-          "url": "https://www.investing.com/news/stock-market-news/spacex-shareholders-approve-5for1-stock-split-ahead-of-ipo-reports-bloomberg-4694429",
-          "source": "Investing.com"
-        },
-        {
           "title": "The SpaceX IPO is already upending the stock market - Axios",
           "url": "https://www.axios.com/2026/05/14/spacex-musk-sp-stocks",
           "source": "Axios"
         },
         {
+          "title": "OpenAI CEO Sam Altman\u2019s investments face GOP scrutiny ahead of IPO",
+          "url": "https://cryptobriefing.com/openai-altman-investments-gop-scrutiny-ipo/",
+          "source": "Crypto Briefing"
+        },
+        {
           "title": "What you need to know about Nvidia competitor Cerebras after wild IPO",
           "url": "https://www.cnbc.com/2026/05/15/nvidia-cerebras-stock-price-ipo.html",
           "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "THORChain",
+      "count": 7,
+      "sources": [
+        "Bitcoinfoundation.org",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Crypto Briefing",
+        "Decrypt",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "THORChain confirms $10M exploit, rolls out recovery portal for affected users",
+          "url": "https://cointelegraph.com/news/thorchain-confirms-10m-exploit-rolls-out-recovery-portal-for-affected-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "THORChain pauses trading as security researchers flag suspected $10M multi-chain exploit",
+          "url": "https://www.theblock.co/post/401462/thorchain-pauses-trading-as-security-researchers-flag-suspected-10m-multi-chain-exploit?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "THORChain\u2019s RUNE Token Plunges Double Digits After $10M Exploit, Trading Halt",
+          "url": "https://decrypt.co/367943/thorchains-rune-token-plunges-double-digits-after-10m-exploit-trading-halt",
+          "source": "Decrypt"
+        },
+        {
+          "title": "THORChain loses $11 million in suspected exploit as RUNE tumbles 13%",
+          "url": "https://cryptobriefing.com/thorchain-exploit-bitcoin-ethereum-bsc/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "THORChain Exploit Alert Points to More Than $7.4M in Losses",
+          "url": "https://bitcoinfoundation.org/news/defi/thorchain-exploit-alert-points-to-more-than-7-4m-in-losses/",
+          "source": "Bitcoinfoundation.org"
         }
       ],
       "is_new": false
@@ -479,43 +524,6 @@
       "is_new": false
     },
     {
-      "name": "CLARITY Act",
-      "count": 5,
-      "sources": [
-        "CoinTelegraph",
-        "Cointelegraph",
-        "The Times of India"
-      ],
-      "articles": [
-        {
-          "title": "House committee leaders urge Trump to nominate CFTC members, citing CLARITY Act",
-          "url": "https://cointelegraph.com/news/house-committee-nominate-cftc-commissioners-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Bitcoin stalls above $80K despite CLARITY Act pass: What will trigger a breakout?",
-          "url": "https://cointelegraph.com/markets/bitcoin-stalls-80k-despite-clarity-act-pass-what-will-trigger-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Bitcoin slips back to $81K after rallying to $82K on CLARITY Act optimism",
-          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-slips-back-to-81k-after-rallying-to-82k-on-clarity-act-optimism/articleshow/131111648.cms",
-          "source": "The Times of India"
-        },
-        {
-          "title": "House committee leaders urge Trump to nominate CFTC members, citing CLARITY Act",
-          "url": "https://cointelegraph.com/news/house-committee-nominate-cftc-commissioners-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        },
-        {
-          "title": "Bitcoin stalls above $80K despite CLARITY Act pass: What will trigger a breakout?",
-          "url": "https://cointelegraph.com/markets/bitcoin-stalls-80k-despite-clarity-act-pass-what-will-trigger-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        }
-      ],
-      "is_new": false
-    },
-    {
       "name": "ETH",
       "count": 5,
       "sources": [
@@ -550,6 +558,44 @@
           "title": "Ethereum \u2013 Is another sell-off likely now after ETH falls below the realized price and its 200WMA?",
           "url": "https://ambcrypto.com/ethereum-is-another-sell-off-likely-now-after-eth-falls-below-the-realized-price-and-its-200wma/",
           "source": "AMB Crypto"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Kevin Warsh",
+      "count": 5,
+      "sources": [
+        "CNBC",
+        "Crypto Briefing",
+        "MarketWatch",
+        "Seeking Alpha"
+      ],
+      "articles": [
+        {
+          "title": "Stephen Miran exits the Fed. How he set the stage for Kevin Warsh.",
+          "url": "https://www.cnbc.com/2026/05/15/stephen-miran-exits-the-fed-how-he-set-the-stage-for-kevin-warsh.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
+          "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "The Tribulations Of Kevin Warsh",
+          "url": "https://seekingalpha.com/article/4905614-tribulations-of-kevin-warsh?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "The bond market is already hiking rates as Kevin Warsh takes over as Fed\u2019s new chair - MarketWatch",
+          "url": "https://www.marketwatch.com/story/the-bond-market-is-already-hiking-rates-as-kevin-warsh-takes-over-as-feds-new-chair-7a74acbd",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Kevin Warsh confirmed as new Fed Chair, succeeding Jerome Powell",
+          "url": "https://cryptobriefing.com/kevin-warsh-confirmed-as-new-fed-chair-succeeding-jerome-powell/",
+          "source": "Crypto Briefing"
         }
       ],
       "is_new": true
@@ -625,54 +671,21 @@
       "is_new": true
     },
     {
-      "name": "BNB",
-      "count": 4,
-      "sources": [
-        "CoinDesk",
-        "CoinTelegraph",
-        "Cointelegraph"
-      ],
-      "articles": [
-        {
-          "title": "CoinDesk 20 performance update: BNB is only gainer as index drops 2%",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/05/15/coindesk-20-performance-update-bnb-is-only-gainer-as-index-drops-2",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Price predictions 5/15: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
-          "url": "https://cointelegraph.com/markets/price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Price predictions 5/15: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
-          "url": "https://cointelegraph.com/markets/price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        },
-        {
-          "title": "CoinDesk 20 performance update: BNB is only gainer as index drops 2%",
-          "url": "https://www.coindesk.com/coindesk-indices/2026/05/15/coindesk-20-performance-update-bnb-is-only-gainer-as-index-drops-2",
-          "source": "CoinDesk"
-        }
-      ],
-      "is_new": true
-    },
-    {
       "name": "Microsoft",
       "count": 4,
       "sources": [
         "CNBC",
-        "Investing.com",
         "Yahoo Finance"
       ],
       "articles": [
         {
-          "title": "Ackman clarifies Alphabet exit was funding source for his new Microsoft position",
-          "url": "https://www.investing.com/news/stock-market-news/ackman-clarifies-alphabet-exit-was-funding-source-for-his-new-microsoft-position-4694437",
-          "source": "Investing.com"
-        },
-        {
           "title": "Microsoft (MSFT) \u2013 Among the 10 Best US Stocks to Invest in According to Billionaires",
           "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-among-10-best-084118955.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Ackman's Pershing Square takes Microsoft stake, exits Google parent Alphabet",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/ackmans-pershing-square-takes-stake-092754300.html",
           "source": "Yahoo Finance"
         },
         {
@@ -719,38 +732,6 @@
         }
       ],
       "is_new": false
-    },
-    {
-      "name": "Kevin Warsh",
-      "count": 4,
-      "sources": [
-        "CNBC",
-        "MarketWatch",
-        "Seeking Alpha"
-      ],
-      "articles": [
-        {
-          "title": "Stephen Miran exits the Fed. How he set the stage for Kevin Warsh.",
-          "url": "https://www.cnbc.com/2026/05/15/stephen-miran-exits-the-fed-how-he-set-the-stage-for-kevin-warsh.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
-          "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "The Tribulations Of Kevin Warsh",
-          "url": "https://seekingalpha.com/article/4905614-tribulations-of-kevin-warsh?source=feed_all_articles",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "The bond market is already hiking rates as Kevin Warsh takes over as Fed\u2019s new chair - MarketWatch",
-          "url": "https://www.marketwatch.com/story/the-bond-market-is-already-hiking-rates-as-kevin-warsh-takes-over-as-feds-new-chair-7a74acbd",
-          "source": "MarketWatch"
-        }
-      ],
-      "is_new": true
     },
     {
       "name": "CNBC",
@@ -808,37 +789,11 @@
       "is_new": true
     },
     {
-      "name": "LayerZero",
-      "count": 3,
-      "sources": [
-        "CoinDesk",
-        "Cointelegraph"
-      ],
-      "articles": [
-        {
-          "title": "Lombard joins LayerZero exodus as $4 billion in assets switch to Chainlink's bridge",
-          "url": "https://www.coindesk.com/business/2026/05/15/lombard-joins-layerzero-exodus-as-usd4-billion-in-assets-switch-to-chainlink-s-bridge",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Kraken joins LayerZero exodus as it switches to Chainlink CCIP",
-          "url": "https://cointelegraph.com/news/kraken-joins-layerzero-exodus-switching-chainlink-ccip",
-          "source": "Cointelegraph"
-        },
-        {
-          "title": "Lombard joins LayerZero exodus as $4 billion in assets switch to Chainlink's bridge",
-          "url": "https://www.coindesk.com/business/2026/05/15/lombard-joins-layerzero-exodus-as-usd4-billion-in-assets-switch-to-chainlink-s-bridge",
-          "source": "CoinDesk"
-        }
-      ],
-      "is_new": true
-    },
-    {
       "name": "Kraken",
       "count": 3,
       "sources": [
-        "CoinDesk",
-        "Cointelegraph"
+        "AMB Crypto",
+        "CoinDesk"
       ],
       "articles": [
         {
@@ -847,44 +802,44 @@
           "source": "CoinDesk"
         },
         {
-          "title": "Kraken joins LayerZero exodus as it switches to Chainlink CCIP",
-          "url": "https://cointelegraph.com/news/kraken-joins-layerzero-exodus-switching-chainlink-ccip",
-          "source": "Cointelegraph"
-        },
-        {
           "title": "Kraken parent Payward cuts 150 staff, streamlining business ahead of planned IPO",
           "url": "https://www.coindesk.com/business/2026/05/14/kraken-parent-payward-cuts-150-staff-streamlining-business-ahead-of-planned-ipo",
           "source": "CoinDesk"
+        },
+        {
+          "title": "Kraken turns to Chainlink \u2013 Cross-chain security becomes first priority",
+          "url": "https://ambcrypto.com/kraken-turns-to-chainlink-cross-chain-security-becomes-first-priority/",
+          "source": "AMB Crypto"
         }
       ],
       "is_new": false
     },
     {
-      "name": "Gemini",
+      "name": "BNB",
       "count": 3,
       "sources": [
-        "Bitcoinfoundation.org",
         "CoinDesk",
-        "The Block"
+        "CoinTelegraph",
+        "Cointelegraph"
       ],
       "articles": [
         {
-          "title": "Winklevoss\u2019 Gemini jumps 25% on $100 million bitcoin infusion despite deepening losses",
-          "url": "https://www.coindesk.com/business/2026/05/15/winklevoss-gemini-jumps-20-on-usd100-million-bitcoin-infusion-despite-deepening-losses",
+          "title": "CoinDesk 20 performance update: BNB is only gainer as index drops 2%",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/05/15/coindesk-20-performance-update-bnb-is-only-gainer-as-index-drops-2",
           "source": "CoinDesk"
         },
         {
-          "title": "Gemini shares soar after reporting 42% revenue growth, first prediction market metrics",
-          "url": "https://www.theblock.co/post/401376/gemini-shares-soar-42-revenue-growth-first-prediction-market-metrics?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
+          "title": "Price predictions 5/15: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
         },
         {
-          "title": "Winklevoss Twins Put $100M Into Gemini Shares",
-          "url": "https://bitcoinfoundation.org/news/crypto-companies-news/winklevoss-twins-put-100m-into-gemini-shares/",
-          "source": "Bitcoinfoundation.org"
+          "title": "Price predictions 5/15: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
         }
       ],
-      "is_new": false
+      "is_new": true
     },
     {
       "name": "Crypto",
@@ -908,6 +863,112 @@
           "title": "Crypto Doesn't Need Blockchain",
           "url": "https://news.ycombinator.com/item?id=44660422",
           "source": "Hacker News"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Upbit",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Hana Bank to acquire $670 million stake in Upbit operator Dunamu",
+          "url": "https://www.coindesk.com/business/2026/05/15/hana-bank-to-acquire-usd670-million-stake-in-upbit-operator-dunamu",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Hana Bank acquires $670 million stake in Upbit parent Dunamu",
+          "url": "https://www.theblock.co/post/401413/hana-bank-upbit-dunamu?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Hana Financial to acquire 6.55% stake in Upbit operator Dunamu for $668M",
+          "url": "https://cointelegraph.com/news/hana-financial-dunamu-upbit-stake-acquisition-crypto-investment",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Dunamu",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Hana Bank to acquire $670 million stake in Upbit operator Dunamu",
+          "url": "https://www.coindesk.com/business/2026/05/15/hana-bank-to-acquire-usd670-million-stake-in-upbit-operator-dunamu",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Hana Bank acquires $670 million stake in Upbit parent Dunamu",
+          "url": "https://www.theblock.co/post/401413/hana-bank-upbit-dunamu?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Hana Financial to acquire 6.55% stake in Upbit operator Dunamu for $668M",
+          "url": "https://cointelegraph.com/news/hana-financial-dunamu-upbit-stake-acquisition-crypto-investment",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Ethereum",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Sharplink CEO points out 3 catalysts for Ethereum's price to surge higher",
+          "url": "https://cointelegraph.com/news/sharplink-ceo-points-out-these-3-catalysts-for-ethereum-to-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Sharplink CEO points out 3 catalysts for Ethereum's price to surge higher",
+          "url": "https://cointelegraph.com/news/sharplink-ceo-points-out-these-3-catalysts-for-ethereum-to-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Sharplink CEO points out 3 catalysts for Ethereum's price to surge higher",
+          "url": "https://cointelegraph.com/news/sharplink-ceo-points-out-these-3-catalysts-for-ethereum-to-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "CLARITY Act",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "House committee leaders urge Trump to nominate CFTC members, citing CLARITY Act",
+          "url": "https://cointelegraph.com/news/house-committee-nominate-cftc-commissioners-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Bitcoin stalls above $80K despite CLARITY Act pass: What will trigger a breakout?",
+          "url": "https://cointelegraph.com/markets/bitcoin-stalls-80k-despite-clarity-act-pass-what-will-trigger-breakout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "House committee leaders urge Trump to nominate CFTC members, citing CLARITY Act",
+          "url": "https://cointelegraph.com/news/house-committee-nominate-cftc-commissioners-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
         }
       ],
       "is_new": false
@@ -940,33 +1001,6 @@
       "is_new": true
     },
     {
-      "name": "ZEC",
-      "count": 3,
-      "sources": [
-        "AMB Crypto",
-        "CoinTelegraph",
-        "Cointelegraph"
-      ],
-      "articles": [
-        {
-          "title": "Price predictions 5/15: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
-          "url": "https://cointelegraph.com/markets/price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Price predictions 5/15: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
-          "url": "https://cointelegraph.com/markets/price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        },
-        {
-          "title": "Whale bets $9.57M on ZEC rally, but will its $542 support hold on?",
-          "url": "https://ambcrypto.com/whale-bets-9-57m-on-zec-rally-but-will-its-542-support-hold-on/",
-          "source": "AMB Crypto"
-        }
-      ],
-      "is_new": true
-    },
-    {
       "name": "Myanmar",
       "count": 3,
       "sources": [
@@ -992,58 +1026,14 @@
         }
       ],
       "is_new": true
-    },
-    {
-      "name": "Cerebras",
-      "count": 3,
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ],
-      "articles": [
-        {
-          "title": "Cerebras (CRBS) Climbs 108% on Strong Chip Appetite",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/cerebras-crbs-climbs-108-strong-033827075.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Stocks making the biggest moves midday: Cerebras, Microsoft, ServiceNow, Papa John's & more",
-          "url": "https://www.cnbc.com/2026/05/15/stocks-making-the-biggest-moves-midday-cbrs-msft-now-pzza.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "What you need to know about Nvidia competitor Cerebras after wild IPO",
-          "url": "https://www.cnbc.com/2026/05/15/nvidia-cerebras-stock-price-ipo.html",
-          "source": "CNBC"
-        }
-      ],
-      "is_new": true
     }
   ],
   "crypto_trending": [
     {
       "name": "Asteroid Shiba",
       "symbol": "ASTEROID",
-      "market_cap_rank": 239,
+      "market_cap_rank": 242,
       "thumb": "https://coin-images.coingecko.com/coins/images/50333/standard/IMG_0728.jpeg?1727384521"
-    },
-    {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "market_cap_rank": 99,
-      "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
-    },
-    {
-      "name": "Billions Network",
-      "symbol": "BILL",
-      "market_cap_rank": 127,
-      "thumb": "https://coin-images.coingecko.com/coins/images/68464/standard/billions.png?1755828007"
-    },
-    {
-      "name": "Solana",
-      "symbol": "SOL",
-      "market_cap_rank": 7,
-      "thumb": "https://coin-images.coingecko.com/coins/images/4128/standard/solana.png?1718769756"
     },
     {
       "name": "Bitcoin",
@@ -1052,22 +1042,40 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400"
     },
     {
+      "name": "Sui",
+      "symbol": "SUI",
+      "market_cap_rank": 27,
+      "thumb": "https://coin-images.coingecko.com/coins/images/26375/standard/sui-ocean-square.png?1727791290"
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "market_cap_rank": 99,
+      "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+    },
+    {
       "name": "Hyperliquid",
       "symbol": "HYPE",
       "market_cap_rank": 13,
       "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
     },
     {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "market_cap_rank": 17,
-      "thumb": "https://coin-images.coingecko.com/coins/images/486/standard/circle-zcash-color.png?1696501740"
+      "name": "Billions Network",
+      "symbol": "BILL",
+      "market_cap_rank": 134,
+      "thumb": "https://coin-images.coingecko.com/coins/images/68464/standard/billions.png?1755828007"
     },
     {
-      "name": "LAB",
-      "symbol": "LAB",
-      "market_cap_rank": 134,
-      "thumb": "https://coin-images.coingecko.com/coins/images/70014/standard/lab.png?1760352822"
+      "name": "Pi Network",
+      "symbol": "PI",
+      "market_cap_rank": 51,
+      "thumb": "https://coin-images.coingecko.com/coins/images/54342/standard/pi_network.jpg?1739347576"
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "market_cap_rank": 7,
+      "thumb": "https://coin-images.coingecko.com/coins/images/4128/standard/solana.png?1718769756"
     },
     {
       "name": "Ethereum",
@@ -1076,24 +1084,18 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/279/standard/ethereum.png?1696501628"
     },
     {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "market_cap_rank": 39,
-      "thumb": "https://coin-images.coingecko.com/coins/images/28452/standard/ARUsPeNQ_400x400.jpeg?1696527447"
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "market_cap_rank": 52,
+      "thumb": "https://coin-images.coingecko.com/coins/images/26580/standard/ONDO.png?1696525656"
     }
   ],
   "stock_trending": [
     {
       "symbol": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 78239.21,
-      "change_pct": -1.04
-    },
-    {
-      "symbol": "UNH",
-      "name": "UnitedHealth Group Incorporated",
-      "price": 393.85,
-      "change_pct": -1.31
+      "price": 77852.62,
+      "change_pct": -1.53
     },
     {
       "symbol": "^GSPC",
@@ -1102,16 +1104,16 @@
       "change_pct": -1.24
     },
     {
-      "symbol": "MSFT",
-      "name": "Microsoft Corporation",
-      "price": 421.92,
-      "change_pct": 3.05
-    },
-    {
       "symbol": "ETH-USD",
       "name": "Ethereum USD",
-      "price": 2185.4,
-      "change_pct": -1.7
+      "price": 2170.36,
+      "change_pct": -2.38
+    },
+    {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "price": 393.85,
+      "change_pct": -1.31
     },
     {
       "symbol": "^IXIC",
@@ -1122,14 +1124,8 @@
     {
       "symbol": "XRP-USD",
       "name": "XRP USD",
-      "price": 1.41,
-      "change_pct": -1.52
-    },
-    {
-      "symbol": "DAL",
-      "name": "Delta Air Lines, Inc.",
-      "price": 70.23,
-      "change_pct": -1.84
+      "price": 1.4,
+      "change_pct": -2.26
     },
     {
       "symbol": "^DJI",
@@ -1138,10 +1134,22 @@
       "change_pct": -1.07
     },
     {
+      "symbol": "DAL",
+      "name": "Delta Air Lines, Inc.",
+      "price": 70.23,
+      "change_pct": -1.84
+    },
+    {
       "symbol": "M",
       "name": "Macy's, Inc.",
       "price": 18.41,
       "change_pct": 0.55
+    },
+    {
+      "symbol": "PATH",
+      "name": "UiPath, Inc.",
+      "price": 10.27,
+      "change_pct": 6.2
     }
   ],
   "fear_greed": {
@@ -1178,5 +1186,5 @@
       }
     ]
   },
-  "total_articles": 394
+  "total_articles": 393
 }
