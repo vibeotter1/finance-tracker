@@ -1,0 +1,1175 @@
+{
+  "date": "2026-05-17",
+  "topics": [
+    {
+      "name": "Trump",
+      "count": 23,
+      "sources": [
+        "AlterNet",
+        "Breitbart News",
+        "CBS News",
+        "CNBC",
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Decrypt",
+        "Fortune",
+        "Reuters",
+        "Salon",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "U.S. House lawmakers who oversee the CFTC are urging Trump to fill the commission",
+          "url": "https://www.coindesk.com/policy/2026/05/15/u-s-house-lawmakers-who-oversee-the-cftc-are-urging-trump-to-fill-the-commission",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "House committee leaders urge Trump to nominate CFTC members, citing CLARITY Act",
+          "url": "https://cointelegraph.com/news/house-committee-nominate-cftc-commissioners-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
+          "url": "https://www.cnbc.com/2026/05/16/trumps-meeting-with-chinas-xi-steers-the-us-away-from-taiwan-again.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump leaves China after talks dominated by trade, oil and Taiwan",
+          "url": "https://www.cnbc.com/2026/05/15/trump-wraps-up-two-day-china-trip-invites-xi-for-a-september-visit.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "UFC's Dana White urges Trump to reverse gambling tax law. His letter moved the prediction market",
+          "url": "https://www.cnbc.com/2026/05/14/ufcs-dana-white-urges-trump-to-reverse-gambling-tax-law.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Iran",
+      "count": 14,
+      "sources": [
+        "Al Jazeera English",
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Reuters",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Iran war shows markets no longer sleep",
+          "url": "https://www.coindesk.com/opinion/2026/05/15/iran-war-shows-markets-no-longer-sleep",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "US law firm files motion requesting redistribution of $344M USDt linked to Iran",
+          "url": "https://cointelegraph.com/news/us-law-firm-motion-redistribution-344m-usdt-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Victims of Iran attacks seek court order for turnover of $344 million in USDT frozen by Tether",
+          "url": "https://www.theblock.co/post/401443/victims-of-iran-attacks-seek-court-order-for-turnover-of-344-million-in-usdt-frozen-by-tether?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "US charges alleged Iran-backed \u2060Kataib Hezbollah suspect \u2013 What we know",
+          "url": "https://www.aljazeera.com/news/2026/5/16/us-charges-alleged-iran-backed-%e2%81%a0kataib-hezbollah-suspect-what-we-know",
+          "source": "Al Jazeera English"
+        },
+        {
+          "title": "FIFA says it held positive talks with Iran's FA ahead of World Cup - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeWZtSGRNLVhiQTRLTzBaUmR0UTZsbHZMRzkyZ2h6OFAzZTBUQ2xQRUpUalJzRllyRHdwSmF2Sl9QVUNNelNDZW5Zd3I0VUpxWmx1amd0N2dIUUE2Q3g4ckFJcExXSU16OFZjVkNSSm4wT0lCczRBZjZ5QS1Bb1VtQ1ZhS0hwckN6Q0VqQy1PRk1keW1YZVVZaXZNUkJUV09TNHMyeVlHRDQyb0tYcFE?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Bitcoin",
+      "count": 14,
+      "sources": [
+        "AMB Crypto",
+        "Bitcoinist",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "CryptoSlate",
+        "Cryptopolitan",
+        "Hacker News",
+        "Investing.com Crypto News",
+        "The Times of India"
+      ],
+      "articles": [
+        {
+          "title": "Michael Saylor floated Bitcoin sales idea to avoid 'impairing' the asset",
+          "url": "https://cointelegraph.com/news/strategy-mstr-michael-saylor-bitcoin-sell-statement-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "US CLARITY Act brings \u2018major spike of euphoria\u2019 to Bitcoin: Santiment",
+          "url": "https://cointelegraph.com/news/us-clarity-act-brings-major-spike-of-euphoria-to-bitcoin-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "As Russia invaded Ukraine, Bitcoin plunged \u2013 here's what crypto experts said",
+          "url": "https://markets.businessinsider.com/news/currencies/bitcoin-ethereum-blockchain-ukraine-russia-war-conflict-europe-america-china-2022-2",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Bitcoin is dead, but it was a good try",
+          "url": "https://news.ycombinator.com/item?id=39155402",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Strategy has put Bitcoin sales on the table for repurchases \u2013 but will it affect BTC price?",
+          "url": "https://cryptoslate.com/strategy-has-put-bitcoin-sales-on-the-table-for-repurchases-but-will-it-affect-btc-price/",
+          "source": "CryptoSlate"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Reuters",
+      "count": 13,
+      "sources": [
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Trump says Iran war is worth the economic pain. These rural voters agree. - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQmxMdlNJMXdlUF9ZOFk0RW1tYlpwSkdiREhNRWVfUnZER1dCQnFIUjNIZElVazZVako3N0tDek1tQzU5V18teTFTWW9nSUVKaG85bldoSDRjWHFubjVZTk1fTDBEQklZV3RsNlJ2Z294MFcwbXk4Vy02T0hQbldzbG1tcUpueTAzV0NBa0lkUUowOThPX3AyRXZ6MVU5dksydktzMDAyWHJkeG04ZWFOT3JvTUJENDduX3Fj?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Rising diesel costs from Iran war strain US school budgets - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaXJwb0lxb0NMVzhRYzYzQ3F0QjY3M1MwcElKREtqdW9OVzluREJXWU9TaVBvdzU2ZThIc29fVEkxLVVKcGxTMEI4NWVLQUptR1lZT0Z1aml3WTVVbW41WnJWb1ZDdkhlTzZ6LVFMWEJJMVVNeGJ2LTdkcDBhR1dzR3VpcFZoOUFxZTR1THdNRWxMUGRZVTBNOTlsbXpta3hEMkNmeTZmTUY?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Israel kills Hamas armed wing leader Haddad in Gaza strike - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOXRieDYzVldHX1ZQNDRVQ21ZWmdZelQ0QWdJc1FaOEJnUzNNMWZqbC16QUpBYUZ0OER2RFhCTm5YZXk5S3FhQ0psZ2FlR1FsdnpiczZiM3M4ODNfVGtuTWlYRWhIRFRBalFPdUxQc0k0TlpLNU1FNTBGbU9YUVRWZ0ttRVFGQk5rb1JoZVo0cS1CbzZCR1RVSmswZmJmeUZTNHJBWDZrcTdFOFBIa1phY2dVX1F3YUFTcmdEYzVGaUg2ejYyUHZ6RmtwSVdNUQ?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Trump says Xi agrees Iran must open strait, but no sign China will weigh in - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWhRa0VGSXhNc1pnb0daVmpKM0wzVDJtdzEtLWxlcDdkcHNQNEpyc3NGcmVXMVJ3dUZjTUJSelFBY0lpZVFHMS1iNXFLR0tWWHZmczFTZl9VM3VkS3E2clk5Q2JKazBITTlqQzRhWXdURGMzQXBhOFFieHAxWHhRRGZjZnNodDVwcDhLZm5TMDdUeUFaZVl4dDV4TElWVUVtajlvcGtCekhkVjhSOGk1elotRVVmcVhsRUZFc3UtZm82NGhnM0E?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iran's stock market to reopen on Tuesday, official says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFgtcktkYW4zS3EwcS1KNnkzeFEybGFOLUtLWi1IQ0NQaWM3TGRvd0ExYVVNaFowQmo5d1JYZk5JQ3hpbWpSQ2xSelhjWWtyeXJJc1plazZjczJpWmFjT1RoUDRjYy1QbU5DNWNXbGFNQXlUMndDLVF5d1hFc0NxWTI3SmJyUHAxQ1NjTzZUUFd4ODJPUUZ5OVh2SXJ4SU92MEkw?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "China",
+      "count": 12,
+      "sources": [
+        "Bloomberg",
+        "CBS News",
+        "CNBC",
+        "Hacker News",
+        "Investing.com",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Why China is positioned to capture the bulk of the economic robotic value",
+          "url": "https://www.investing.com/news/economy-news/why-china-is-positioned-to-capture-the-bulk-of-the-economic-robotic-value-4694505",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Trump leaves China after talks dominated by trade, oil and Taiwan",
+          "url": "https://www.cnbc.com/2026/05/15/trump-wraps-up-two-day-china-trip-invites-xi-for-a-september-visit.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "U.S. can hold AI talks with China because \u2018we are in the lead,\u2019 Bessent tells CNBC as nations plan safety protocol",
+          "url": "https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump in China: Traders predict a tariff truce extension and Boeing aircraft purchases",
+          "url": "https://www.cnbc.com/2026/05/13/traders-predict-trump-will-make-major-announcements-during-china-trip.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Ethereum is top public blockchain, Bitcoin No. 13 in China's new index",
+          "url": "https://www.reuters.com/article/us-crypto-currency-index/ethereum-is-top-public-blockchain-bitcoin-no-13-in-chinas-new-index-idUSKCN1II2R9?il=0",
+          "source": "Hacker News"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "XRP",
+      "count": 11,
+      "sources": [
+        "AMB Crypto",
+        "Bitcoin.com",
+        "Bitcoinist",
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "TimesTabloid"
+      ],
+      "articles": [
+        {
+          "title": "XRP beat bitcoin gains as Clarity Act advanced, but a real bullrun still needs Congress",
+          "url": "https://www.coindesk.com/markets/2026/05/15/xrp-beat-bitcoin-gains-as-clarity-act-advanced-but-a-real-bullrun-still-needs-congress",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crypto longs lose $500 million as bitcoin slides to $78,000, SOL and XRP down 5%",
+          "url": "https://www.coindesk.com/markets/2026/05/16/crypto-longs-lose-usd500-million-as-bitcoin-slides-to-usd78-000-sol-and-xrp-down-5",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "XRP gives back gains after Senate crypto bill sparks 5% rally",
+          "url": "https://www.coindesk.com/markets/2026/05/15/xrp-gives-back-gains-after-senate-crypto-bill-sparks-5-rally",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Price predictions 5/15: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "XRP ETF Accumulation Pushes Marex Group Among Top Holders",
+          "url": "https://bitcoinist.com/xrp-etf-accumulation-pushes-marex-group-into-top-3-holders/",
+          "source": "Bitcoinist"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Fed",
+      "count": 9,
+      "sources": [
+        "AMB Crypto",
+        "CNBC",
+        "Crypto Briefing",
+        "MarketWatch",
+        "TheStreet"
+      ],
+      "articles": [
+        {
+          "title": "April\u2019s inflation spike leaves Warsh and the Fed zero excuses not to raise rates",
+          "url": "https://www.marketwatch.com/story/warsh-faces-rate-pressure-as-aprils-inflation-spike-leaves-the-fed-with-zero-excuses-9610ddb6?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates",
+          "url": "https://www.cnbc.com/2026/05/16/kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-rates.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Stephen Miran exits the Fed. How he set the stage for Kevin Warsh.",
+          "url": "https://www.cnbc.com/2026/05/15/stephen-miran-exits-the-fed-how-he-set-the-stage-for-kevin-warsh.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Fed Governor Miran submits resignation, throws support behind Warsh as new chair",
+          "url": "https://www.cnbc.com/2026/05/14/fed-governor-miran-submits-resignation-throws-support-behind-warsh-as-new-chair.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "\u2018Unhinged\u2019 bond yields resets Fed rate-cut odds - thestreet.com",
+          "url": "https://www.thestreet.com/fed/unhinged-bond-yields-reset-fed-rate-cut-odds-as-inflation-risks-spook-traders",
+          "source": "TheStreet"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "U.S.",
+      "count": 7,
+      "sources": [
+        "CBS News",
+        "CNBC",
+        "CoinDesk",
+        "Investing.com",
+        "Investing.com Crypto News"
+      ],
+      "articles": [
+        {
+          "title": "U.S. House lawmakers who oversee the CFTC are urging Trump to fill the commission",
+          "url": "https://www.coindesk.com/policy/2026/05/15/u-s-house-lawmakers-who-oversee-the-cftc-are-urging-trump-to-fill-the-commission",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "CME, ICE push U.S. regulators to scrutinize Hyperliquid over manipulation risks",
+          "url": "https://www.coindesk.com/markets/2026/05/15/cme-ice-push-u-s-regulators-to-scrutinize-hyperliquid-over-manipulation-risks-bloomberg",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin pauses near $78k as U.S. retail adoption surges, Strategy hints at sales",
+          "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-78k-as-us-retail-adoption-surges-strategy-hints-at-sales-4694512",
+          "source": "Investing.com"
+        },
+        {
+          "title": "U.S. can hold AI talks with China because \u2018we are in the lead,\u2019 Bessent tells CNBC as nations plan safety protocol",
+          "url": "https://www.cnbc.com/2026/05/14/us-china-ai-rules-bessent-us-lead.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Why are so many U.S. CEOs in China with Trump, and what do they want? - CBS News",
+          "url": "https://www.cbsnews.com/news/trump-china-trip-xi-jinping-us-ceos-business-interests/",
+          "source": "CBS News"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "CFTC",
+      "count": 7,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "U.S. House lawmakers who oversee the CFTC are urging Trump to fill the commission",
+          "url": "https://www.coindesk.com/policy/2026/05/15/u-s-house-lawmakers-who-oversee-the-cftc-are-urging-trump-to-fill-the-commission",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "House committee leaders urge Trump to nominate CFTC members, citing CLARITY Act",
+          "url": "https://cointelegraph.com/news/house-committee-nominate-cftc-commissioners-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "House Agriculture leaders press Trump to appoint CFTC commissioners as CLARITY Act advances in Senate",
+          "url": "https://www.theblock.co/post/401558/house-agriculture-leaders-press-trump-to-appoint-cftc-commissioners-as-clarity-act-advances-in-senate?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Hyperliquid Policy Center argues onchain perps offer efficiency, transparency as ICE and CME reportedly press for CFTC oversight",
+          "url": "https://www.theblock.co/post/401512/hyperliquid-onchain-perps-offer-efficiency-transparency-ice-cme-cftc-oversight?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "House committee leaders urge Trump to nominate CFTC members, citing CLARITY Act",
+          "url": "https://cointelegraph.com/news/house-committee-nominate-cftc-commissioners-clarity-act",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Solana",
+      "count": 5,
+      "sources": [
+        "CoinDesk",
+        "GlobeNewswire",
+        "Hacker News",
+        "NewsBTC"
+      ],
+      "articles": [
+        {
+          "title": "Jump Crypto\u2019s \u2018Firedancer\u2019 is taking a slow and steady approach to its long-awaited Solana infrastructure rollout",
+          "url": "https://www.coindesk.com/tech/2026/05/16/jump-crypto-s-firedancer-is-taking-a-slow-and-steady-approach-to-its-long-awaited-solana-infrastructure-rollout",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Solana Developers Release Software Update to Alleviate Network Congestion",
+          "url": "https://news.ycombinator.com/item?id=40068258",
+          "source": "Hacker News"
+        },
+        {
+          "title": "$STREAM Surges 50% in 24 Hours as Streamflow Staking Hits 45% APY on Solana",
+          "url": "https://www.globenewswire.com/news-release/2026/05/16/3296206/0/en/STREAM-Surges-50-in-24-Hours-as-Streamflow-Staking-Hits-45-APY-on-Solana.html",
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "Jump Crypto\u2019s \u2018Firedancer\u2019 is taking a slow and steady approach to its long-awaited Solana infrastructure rollout",
+          "url": "https://www.coindesk.com/tech/2026/05/16/jump-crypto-s-firedancer-is-taking-a-slow-and-steady-approach-to-its-long-awaited-solana-infrastructure-rollout",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "What Solana\u2019s 108% Growth Means For Its Price Outlook",
+          "url": "https://www.newsbtc.com/altcoin/what-solanas-108-growth-means-for-its-price-outlook/",
+          "source": "NewsBTC"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "House",
+      "count": 5,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "U.S. House lawmakers who oversee the CFTC are urging Trump to fill the commission",
+          "url": "https://www.coindesk.com/policy/2026/05/15/u-s-house-lawmakers-who-oversee-the-cftc-are-urging-trump-to-fill-the-commission",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "House committee leaders urge Trump to nominate CFTC members, citing CLARITY Act",
+          "url": "https://cointelegraph.com/news/house-committee-nominate-cftc-commissioners-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "House committee leaders urge Trump to nominate CFTC members, citing CLARITY Act",
+          "url": "https://cointelegraph.com/news/house-committee-nominate-cftc-commissioners-clarity-act",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "House committee leaders urge Trump to nominate CFTC members, citing CLARITY Act",
+          "url": "https://cointelegraph.com/news/house-committee-nominate-cftc-commissioners-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "U.S. House lawmakers who oversee the CFTC are urging Trump to fill the commission",
+          "url": "https://www.coindesk.com/policy/2026/05/15/u-s-house-lawmakers-who-oversee-the-cftc-are-urging-trump-to-fill-the-commission",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "IPO",
+      "count": 5,
+      "sources": [
+        "CNBC",
+        "CoinDesk",
+        "Fortune"
+      ],
+      "articles": [
+        {
+          "title": "SpaceX targets June 11 IPO pricing, picks Nasdaq for historic market debut",
+          "url": "https://www.coindesk.com/markets/2026/05/15/spacex-targets-june-11-ipo-pricing-picks-nasdaq-for-historic-market-debut",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kraken parent Payward cuts 150 staff, streamlining business ahead of planned IPO",
+          "url": "https://www.coindesk.com/business/2026/05/14/kraken-parent-payward-cuts-150-staff-streamlining-business-ahead-of-planned-ipo",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "SpaceX said to plan public IPO filing as soon as Wednesday - Fortune",
+          "url": "https://fortune.com/2026/05/15/spacex-ipo-public-filing-elon-musk-trading-debut-ticker-spcx/",
+          "source": "Fortune"
+        },
+        {
+          "title": "What you need to know about Nvidia competitor Cerebras after wild IPO",
+          "url": "https://www.cnbc.com/2026/05/15/nvidia-cerebras-stock-price-ipo.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "SpaceX targets June 11 IPO pricing, picks Nasdaq for historic market debut",
+          "url": "https://www.coindesk.com/markets/2026/05/15/spacex-targets-june-11-ipo-pricing-picks-nasdaq-for-historic-market-debut",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "CME",
+      "count": 5,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block",
+        "newsBTC"
+      ],
+      "articles": [
+        {
+          "title": "CME, ICE push U.S. regulators to scrutinize Hyperliquid over manipulation risks",
+          "url": "https://www.coindesk.com/markets/2026/05/15/cme-ice-push-u-s-regulators-to-scrutinize-hyperliquid-over-manipulation-risks-bloomberg",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "ICE, CME press US regulators to 'rein in' Hyperliquid energy trading: Report",
+          "url": "https://cointelegraph.com/news/ice-cme-press-us-regulators-rein-hyperliquid-dex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Hyperliquid Policy Center argues onchain perps offer efficiency, transparency as ICE and CME reportedly press for CFTC oversight",
+          "url": "https://www.theblock.co/post/401512/hyperliquid-onchain-perps-offer-efficiency-transparency-ice-cme-cftc-oversight?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "HYPE Falls 6% As CME, ICE Target Hyperliquid Over Oil Risks",
+          "url": "http://www.newsbtc.com/news/hype-falls-6-ccme-ice-target-hyperliquid-oil-risks/",
+          "source": "newsBTC"
+        },
+        {
+          "title": "ICE, CME press US regulators to 'rein in' Hyperliquid energy trading: Report",
+          "url": "https://cointelegraph.com/news/ice-cme-press-us-regulators-rein-hyperliquid-dex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Senate",
+      "count": 5,
+      "sources": [
+        "CNBC",
+        "CoinDesk",
+        "Crypto Briefing",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "XRP gives back gains after Senate crypto bill sparks 5% rally",
+          "url": "https://www.coindesk.com/markets/2026/05/15/xrp-gives-back-gains-after-senate-crypto-bill-sparks-5-rally",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
+          "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "House Agriculture leaders press Trump to appoint CFTC commissioners as CLARITY Act advances in Senate",
+          "url": "https://www.theblock.co/post/401558/house-agriculture-leaders-press-trump-to-appoint-cftc-commissioners-as-clarity-act-advances-in-senate?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Crypto market structure bill still faces significant hurdles despite Senate committee win: analysts",
+          "url": "https://www.theblock.co/post/401528/crypto-market-structure-bill-significant-hurdles-despite-senate-committee-win-analysts?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Powell gets temporary Fed chair role as Senate-confirmed Warsh prepares to take over",
+          "url": "https://cryptobriefing.com/powell-temporary-fed-chair-role-senate-confirmed-warsh-prepares-take-over/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "THORChain",
+      "count": 5,
+      "sources": [
+        "CoinOtag",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Decrypt",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "THORChain confirms $10M exploit, rolls out recovery portal for affected users",
+          "url": "https://cointelegraph.com/news/thorchain-confirms-10m-exploit-rolls-out-recovery-portal-for-affected-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "THORChain pauses trading as security researchers flag suspected $10M multi-chain exploit",
+          "url": "https://www.theblock.co/post/401462/thorchain-pauses-trading-as-security-researchers-flag-suspected-10m-multi-chain-exploit?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "THORChain\u2019s RUNE Token Plunges Double Digits After $10M Exploit, Trading Halt",
+          "url": "https://decrypt.co/367943/thorchains-rune-token-plunges-double-digits-after-10m-exploit-trading-halt",
+          "source": "Decrypt"
+        },
+        {
+          "title": "THORChain confirms $10M exploit, rolls out recovery portal for affected users",
+          "url": "https://cointelegraph.com/news/thorchain-confirms-10m-exploit-rolls-out-recovery-portal-for-affected-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "CLARITY Act Advances as Strategy Buys Back $1.5B Debt, THORChain Refunds $10M Exploit",
+          "url": "https://en.coinotag.com/clarity-act-advances-strategy-buyback-thorchain-exploit-refund",
+          "source": "CoinOtag"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Hyperliquid",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "CME, ICE push U.S. regulators to scrutinize Hyperliquid over manipulation risks",
+          "url": "https://www.coindesk.com/markets/2026/05/15/cme-ice-push-u-s-regulators-to-scrutinize-hyperliquid-over-manipulation-risks-bloomberg",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitwise launches US-listed Hyperliquid fund with staking rewards",
+          "url": "https://cointelegraph.com/news/bitwise-asset-management-us-listed-hyperliquid-fund-staking-reward?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "21Shares\u2019 Hyperliquid ETF posts \u2018best day\u2019 inflows of $5 million as Coinbase becomes treasury deployer",
+          "url": "https://www.theblock.co/post/401479/21shares-hyperliquid-etf-best-day-inflows-5-million-coinbase-treasury-deployer?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitwise launches US-listed Hyperliquid fund with staking rewards",
+          "url": "https://cointelegraph.com/news/bitwise-asset-management-us-listed-hyperliquid-fund-staking-reward?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "BNB",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "CoinDesk 20 performance update: BNB is only gainer as index drops 2%",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/05/15/coindesk-20-performance-update-bnb-is-only-gainer-as-index-drops-2",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Price predictions 5/15: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "VanEck, Grayscale file fresh BNB ETF amendments as race for next altcoin spot ETF accelerates",
+          "url": "https://www.theblock.co/post/401553/vaneck-grayscale-file-fresh-bnb-etf-amendments-as-race-for-next-altcoin-spot-etf-accelerates?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Price predictions 5/15: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "CLARITY Act",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "House committee leaders urge Trump to nominate CFTC members, citing CLARITY Act",
+          "url": "https://cointelegraph.com/news/house-committee-nominate-cftc-commissioners-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "House committee leaders urge Trump to nominate CFTC members, citing CLARITY Act",
+          "url": "https://cointelegraph.com/news/house-committee-nominate-cftc-commissioners-clarity-act",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "XRP beat bitcoin gains as CLARITY Act advanced, but a real bullrun still needs Congress",
+          "url": "https://www.coindesk.com/markets/2026/05/15/xrp-beat-bitcoin-gains-as-clarity-act-advanced-but-a-real-bullrun-still-needs-congress",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "House committee leaders urge Trump to nominate CFTC members, citing CLARITY Act",
+          "url": "https://cointelegraph.com/news/house-committee-nominate-cftc-commissioners-clarity-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Samsung",
+      "count": 4,
+      "sources": [
+        "Investing.com",
+        "Yahoo Entertainment"
+      ],
+      "articles": [
+        {
+          "title": "5 big analyst AI moves: PT hikes for Samsung and SK Hynix, AMD downgraded",
+          "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-pt-hikes-for-samsung-and-sk-hynix-amd-downgraded-4694462",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Samsung, labor union to meet in \u2018last chance\u2019 talks to avert costly strike",
+          "url": "https://www.investing.com/news/company-news/samsung-labor-union-to-meet-in-last-chance-talks-to-avert-costly-strike-4694509",
+          "source": "Investing.com"
+        },
+        {
+          "title": "South Korea says it will pursue all options to avoid Samsung strike",
+          "url": "https://www.investing.com/news/stock-market-news/south-korea-says-it-will-pursue-all-options-to-avoid-samsung-strike-4694503",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Samsung strike looms: Why analysts say to \u201cwatch MU\u201d as memory fabs warm down - Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-strike-looms-why-analysts-135241419.html",
+          "source": "Yahoo Entertainment"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Kevin Warsh",
+      "count": 4,
+      "sources": [
+        "CNBC"
+      ],
+      "articles": [
+        {
+          "title": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates",
+          "url": "https://www.cnbc.com/2026/05/16/kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-rates.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Stephen Miran exits the Fed. How he set the stage for Kevin Warsh.",
+          "url": "https://www.cnbc.com/2026/05/15/stephen-miran-exits-the-fed-how-he-set-the-stage-for-kevin-warsh.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
+          "url": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates",
+          "url": "https://www.cnbc.com/2026/05/16/kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-rates.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Michael Saylor",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Michael Saylor floated Bitcoin sales idea to avoid 'impairing' the asset",
+          "url": "https://cointelegraph.com/news/strategy-mstr-michael-saylor-bitcoin-sell-statement-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Michael Saylor floated Bitcoin sales idea to avoid 'impairing' the asset",
+          "url": "https://cointelegraph.com/news/strategy-mstr-michael-saylor-bitcoin-sell-statement-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Michael Saylor floated Bitcoin sales idea to avoid 'impairing' the asset",
+          "url": "https://cointelegraph.com/news/strategy-mstr-michael-saylor-bitcoin-sell-statement-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "US CLARITY Act",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "US CLARITY Act will be a \u2018boon for domestic innovation\u2019: A16z",
+          "url": "https://cointelegraph.com/news/us-clarity-act-will-be-a-boon-for-domestic-innovation-a16z?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "US CLARITY Act will be a \u2018boon for domestic innovation\u2019: A16z",
+          "url": "https://cointelegraph.com/news/us-clarity-act-will-be-a-boon-for-domestic-innovation-a16z?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "US CLARITY Act will be a \u2018boon for domestic innovation\u2019: A16z",
+          "url": "https://cointelegraph.com/news/us-clarity-act-will-be-a-boon-for-domestic-innovation-a16z?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "OpenAI",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "NBC News"
+      ],
+      "articles": [
+        {
+          "title": "OpenAI partners with Malta to give all citizens free ChatGPT Plus access",
+          "url": "https://cointelegraph.com/news/openai-partners-with-malta-to-give-all-citizens-free-chatgpt-plus-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "\u2018Billionaires versus billionaires\u2019: Inside the bizarre scenes of the OpenAI trial - NBC News",
+          "url": "https://www.nbcnews.com/tech/elon-musk/elon-musk-openai-trial-court-ai-rcna345038",
+          "source": "NBC News"
+        },
+        {
+          "title": "OpenAI partners with Malta to give all citizens free ChatGPT Plus access",
+          "url": "https://cointelegraph.com/news/openai-partners-with-malta-to-give-all-citizens-free-chatgpt-plus-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Ethereum",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Sharplink CEO points out 3 catalysts for Ethereum's price to surge higher",
+          "url": "https://cointelegraph.com/news/sharplink-ceo-points-out-these-3-catalysts-for-ethereum-to-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Sharplink CEO points out 3 catalysts for Ethereum's price to surge higher",
+          "url": "https://cointelegraph.com/news/sharplink-ceo-points-out-these-3-catalysts-for-ethereum-to-reach-new-highs",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Sharplink CEO points out 3 catalysts for Ethereum's price to surge higher",
+          "url": "https://cointelegraph.com/news/sharplink-ceo-points-out-these-3-catalysts-for-ethereum-to-reach-new-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "ETH",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Price predictions 5/15: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Bit Digital reports 14% revenue drop in Q1, driven by lower ETH staking rewards",
+          "url": "https://www.theblock.co/post/401420/bit-digital-reports-lower-q1-revenue?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Price predictions 5/15: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "ADA",
+      "count": 3,
+      "sources": [
+        "Benzinga",
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Price predictions 5/15: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Cardano (ADA) Price Prediction: 2025, 2026, 2030",
+          "url": "https://www.benzinga.com/money/cardano-price-prediction",
+          "source": "Benzinga"
+        },
+        {
+          "title": "Price predictions 5/15: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-515-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Warsh",
+      "count": 3,
+      "sources": [
+        "CNBC",
+        "Crypto Briefing",
+        "MarketWatch"
+      ],
+      "articles": [
+        {
+          "title": "April\u2019s inflation spike leaves Warsh and the Fed zero excuses not to raise rates",
+          "url": "https://www.marketwatch.com/story/warsh-faces-rate-pressure-as-aprils-inflation-spike-leaves-the-fed-with-zero-excuses-9610ddb6?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Fed Governor Miran submits resignation, throws support behind Warsh as new chair",
+          "url": "https://www.cnbc.com/2026/05/14/fed-governor-miran-submits-resignation-throws-support-behind-warsh-as-new-chair.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Powell gets temporary Fed chair role as Senate-confirmed Warsh prepares to take over",
+          "url": "https://cryptobriefing.com/powell-temporary-fed-chair-role-senate-confirmed-warsh-prepares-take-over/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "South Korea",
+      "count": 3,
+      "sources": [
+        "Bitcoinist",
+        "Investing.com"
+      ],
+      "articles": [
+        {
+          "title": "South Korea says it will pursue all options to avoid Samsung strike",
+          "url": "https://www.investing.com/news/stock-market-news/south-korea-says-it-will-pursue-all-options-to-avoid-samsung-strike-4694503",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Japan and South Korea set a critical summit amid market volatility",
+          "url": "https://www.investing.com/news/economy-news/japan-and-south-korea-set-a-critical-summit-amid-market-volatility-4694504",
+          "source": "Investing.com"
+        },
+        {
+          "title": "South Korea To Unveil Tokenized Securities Rules In July As Crypto Regulation Advances",
+          "url": "https://bitcoinist.com/south-korea-tokenized-securities-crypto-regulation/",
+          "source": "Bitcoinist"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Taiwan",
+      "count": 3,
+      "sources": [
+        "CNBC"
+      ],
+      "articles": [
+        {
+          "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
+          "url": "https://www.cnbc.com/2026/05/16/trumps-meeting-with-chinas-xi-steers-the-us-away-from-taiwan-again.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump leaves China after talks dominated by trade, oil and Taiwan",
+          "url": "https://www.cnbc.com/2026/05/15/trump-wraps-up-two-day-china-trip-invites-xi-for-a-september-visit.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Xi warns Trump: Mishandling Taiwan will put U.S.-China relationship in 'great jeopardy'",
+          "url": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Microsoft",
+      "count": 3,
+      "sources": [
+        "Barron's",
+        "CNBC"
+      ],
+      "articles": [
+        {
+          "title": "Stocks making the biggest moves midday: Cerebras, Microsoft, ServiceNow, Papa John's & more",
+          "url": "https://www.cnbc.com/2026/05/15/stocks-making-the-biggest-moves-midday-cbrs-msft-now-pzza.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Bill Ackman built Microsoft stake in first quarter during sell-off, betting on AI and cloud growth",
+          "url": "https://www.cnbc.com/2026/05/15/bill-ackman-says-he-built-microsoft-position-in-first-quarter.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Pershing Square Snapped Up Microsoft Shares, Exited Hilton, Slashed Alphabet Stake in First Quarter - Barron's",
+          "url": "https://www.barrons.com/articles/bill-ackman-pershing-square-microsoft-hilton-alphabet-71b0961c",
+          "source": "Barron's"
+        }
+      ],
+      "is_new": false
+    }
+  ],
+  "crypto_trending": [
+    {
+      "name": "Asteroid Shiba",
+      "symbol": "ASTEROID",
+      "market_cap_rank": 206,
+      "thumb": "https://coin-images.coingecko.com/coins/images/50333/standard/IMG_0728.jpeg?1727384521"
+    },
+    {
+      "name": "OpenServ",
+      "symbol": "SERV",
+      "market_cap_rank": 578,
+      "thumb": "https://coin-images.coingecko.com/coins/images/51430/standard/X_Logo_Blue_%282%29.png?1747853206"
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "market_cap_rank": 98,
+      "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "market_cap_rank": 13,
+      "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
+    },
+    {
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "market_cap_rank": 87,
+      "thumb": "https://coin-images.coingecko.com/coins/images/54023/standard/VVV_Token_Transparent.png?1741856877"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "market_cap_rank": 1,
+      "thumb": "https://coin-images.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400"
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "market_cap_rank": 7,
+      "thumb": "https://coin-images.coingecko.com/coins/images/4128/standard/solana.png?1718769756"
+    },
+    {
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "market_cap_rank": 50,
+      "thumb": "https://coin-images.coingecko.com/coins/images/26580/standard/ONDO.png?1696525656"
+    },
+    {
+      "name": "Gensyn",
+      "symbol": "AI",
+      "market_cap_rank": 491,
+      "thumb": "https://coin-images.coingecko.com/coins/images/71027/standard/gensyn.png?1765331043"
+    },
+    {
+      "name": "MegaETH",
+      "symbol": "MEGA",
+      "market_cap_rank": 277,
+      "thumb": "https://coin-images.coingecko.com/coins/images/69995/standard/9fcb2fa4-b240-46e2-9016-c4f6101a139d.jpeg?1778485816"
+    }
+  ],
+  "stock_trending": [
+    {
+      "symbol": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 78084.64,
+      "change_pct": -0.04
+    },
+    {
+      "symbol": "ETH-USD",
+      "name": "Ethereum USD",
+      "price": 2187.65,
+      "change_pct": 0.36
+    },
+    {
+      "symbol": "XRP-USD",
+      "name": "XRP USD",
+      "price": 1.41,
+      "change_pct": 0.06
+    },
+    {
+      "symbol": "ZETA",
+      "name": "Zeta Global Holdings Corp.",
+      "price": 17.19,
+      "change_pct": 3.68
+    },
+    {
+      "symbol": "SOL-USD",
+      "name": "Solana USD",
+      "price": 86.94,
+      "change_pct": 0.47
+    },
+    {
+      "symbol": "BTC-EUR",
+      "name": "Bitcoin EUR",
+      "price": 67237.26,
+      "change_pct": 0.08
+    },
+    {
+      "symbol": "SPAX.PVT",
+      "name": "SpaceX",
+      "price": 646.78,
+      "change_pct": 0.0
+    },
+    {
+      "symbol": "MCD",
+      "name": "McDonald's Corporation",
+      "price": 276.39,
+      "change_pct": 0.52
+    },
+    {
+      "symbol": "DXYZ",
+      "name": "Destiny Tech100 Inc.",
+      "price": 47.62,
+      "change_pct": 4.61
+    },
+    {
+      "symbol": "IBM",
+      "name": "International Business Machines Corporation",
+      "price": 219.3,
+      "change_pct": 0.43
+    }
+  ],
+  "fear_greed": {
+    "value": 27,
+    "classification": "Fear",
+    "history": [
+      {
+        "value": 27,
+        "classification": "Fear"
+      },
+      {
+        "value": 31,
+        "classification": "Fear"
+      },
+      {
+        "value": 43,
+        "classification": "Fear"
+      },
+      {
+        "value": 34,
+        "classification": "Fear"
+      },
+      {
+        "value": 42,
+        "classification": "Fear"
+      },
+      {
+        "value": 49,
+        "classification": "Neutral"
+      },
+      {
+        "value": 48,
+        "classification": "Neutral"
+      }
+    ]
+  },
+  "total_articles": 389
+}
