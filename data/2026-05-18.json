@@ -1,0 +1,1133 @@
+{
+  "date": "2026-05-18",
+  "topics": [
+    {
+      "name": "Iran",
+      "count": 34,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "CoinTurk News",
+        "Cointelegraph",
+        "Crypto Briefing",
+        "Decrypt",
+        "Investing.com",
+        "Reuters",
+        "Seeking Alpha",
+        "The Block",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin slides below $77,000 as Trump\u2019s Iran warning rattles risk assets",
+          "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-below-usd77-000-as-trump-s-iran-warning-rattles-risk-assets",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Iran may be turning the Strait of Hormuz into a bitcoin-based insurance market, local reports say",
+          "url": "https://www.coindesk.com/markets/2026/05/18/iran-may-be-turning-the-strait-of-hormuz-into-a-bitcoin-insurance-market-local-reports-say",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin falls to $76K after Trump says \u2018clock is ticking\u2019 for Iran",
+          "url": "https://cointelegraph.com/markets/bitcoin-falls-to-76k-after-trump-says-clock-is-ticking-for-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Reports suggest Iran is mulling Hormuz \u2018insurance\u2019 scheme, paid in Bitcoin",
+          "url": "https://cointelegraph.com/news/iran-mulls-platform-for-ships-transiting-strait-of-hormuz-to-pay-in-bitcoin-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "US Treasury, India\u2019s Adani Enterprises settle alleged Iran sanctions violations",
+          "url": "https://www.investing.com/news/stock-market-news/us-treasury-announces-275-million-settlement-with-indias-adani-enterprises-4696263",
+          "source": "Investing.com"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Trump",
+      "count": 20,
+      "sources": [
+        "CNBC",
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Crypto Briefing",
+        "Decrypt",
+        "Gizmodo.com",
+        "Reuters",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin slides below $77,000 as Trump\u2019s Iran warning rattles risk assets",
+          "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-slides-below-usd77-000-as-trump-s-iran-warning-rattles-risk-assets",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin falls to $76K after Trump says \u2018clock is ticking\u2019 for Iran",
+          "url": "https://cointelegraph.com/markets/bitcoin-falls-to-76k-after-trump-says-clock-is-ticking-for-iran?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
+          "url": "https://www.cnbc.com/2026/05/16/trumps-meeting-with-chinas-xi-steers-the-us-away-from-taiwan-again.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump leaves China after talks dominated by trade, oil and Taiwan",
+          "url": "https://www.cnbc.com/2026/05/15/trump-wraps-up-two-day-china-trip-invites-xi-for-a-september-visit.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "UFC's Dana White urges Trump to reverse gambling tax law. His letter moved the prediction market",
+          "url": "https://www.cnbc.com/2026/05/14/ufcs-dana-white-urges-trump-to-reverse-gambling-tax-law.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Bitcoin",
+      "count": 17,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "CoinTurk News",
+        "Cointelegraph",
+        "Crypto Briefing",
+        "Crypto Potato",
+        "Finbold",
+        "Hacker News",
+        "Investing.com Crypto News",
+        "Seeking Alpha",
+        "U.Today"
+      ],
+      "articles": [
+        {
+          "title": "Live markets: Bitcoin gives up all of May's gains, slipping below $77,000",
+          "url": "https://www.coindesk.com/markets/2026/05/18/live-markets-crypto-adds-to-last-week-s-declines-with-bitcoin-slipping-below-usd77-000",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "BTC price \u2018bull trap\u2019 at $76.5K? Five things to know in Bitcoin this week",
+          "url": "https://cointelegraph.com/markets/btc-price-bull-trap-76-5k-five-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Capital B boosts Bitcoin reserves with $15.2M purchase",
+          "url": "https://cointelegraph.com/news/capital-b-acquires-bitcoin-reach-btc-total-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Analysts debate whether Bitcoin is in \u2018sell in May\u2019 bear market setup",
+          "url": "https://cointelegraph.com/news/sell-in-may-historical-pattern-could-see-btc-back-at-33k-analyst?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "As Russia invaded Ukraine, Bitcoin plunged \u2013 here's what crypto experts said",
+          "url": "https://markets.businessinsider.com/news/currencies/bitcoin-ethereum-blockchain-ukraine-russia-war-conflict-europe-america-china-2022-2",
+          "source": "Hacker News"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Reuters",
+      "count": 16,
+      "sources": [
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Revised Iranian proposal to end war shared with US, Pakistani source says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOakpsZkRTa3dDcTltOXJiUktHZEJsQTNYWlppMzl3Q3lzV01WN01FVC1xaEdfUVdndHV3UTgzc2JlSTQzUmFMR0ZPX2E5b1pRaEQ2Tk9PdEtFTmFCcWtJdTRZNUo2cFFkYWViOWppUGlreWF5SEpVUnFEbG1OMkdZdWZXVk54cTM1eUtVMnBjSFJuWjdlNXpvdDR1WG8zSERTZS14bXd2VWRGWmU4ZlJuTU5pRHo4QWE3WlNhS2pYVGxmdw?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Iranian Nobel laureate discharged from hospital and sent home, family say - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb0RFdENpZERLMzdIZWdtZTZJaVF3cFdlcVdPbWxLbnp0NjdBN0tUTmhNMVhBUHFnX2tCVlJRaWpnZWxJa1FPcDRUSnFSSlh0V053amdicFlCNDU0Vnk3a1YxNnRoei1xX2F0Tl9YODhsa3V1LWdHb2cxSzE3TmxpNjdVMkhwbTFPUTYyNW1abG84c0k2WW1QZU8zaC0zeEZ1NWNLRWNLUEdSY0N6azMxM0NfbktXS3lV?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Opaque oil deals around Hormuz test the petrodollar - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcWM4R0xuLW8wczNqU3M3UTRpMnA3SWlOazNrU0ZJYU9hRVh6Z3hUT0xiX2dFSWhHamV5WktVcl9FVkNPeWVncldOTk9PNWNsQks2RHlIMm9LYmk3T3NQbFdMVVJ6LUZEYU51ZlhZXzhCV1pjNktVUm5QeWloeW9SeV9RdDhWNEhERTVNTjBydDU3UFVNQjRCZUhxOWpJZlBsU09zTS1lY1hEbTZYMHRIZEc0QVBXb1U?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Investors bet on stability after Trump-Xi summit as Iran war concerns linger - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOV3hPV2RDUHJZZlNpUEtXZWZUeXQ2YUpQNXU1aHJicDBNRXVUb2loUXBDSGxYeURtd19ON3dLekFvNVJoenpJSTNHRjVtMWNua29NYXZkeTdxYjc1azZ6WjY0UjR1aktKSWRyUGZ3eXoxTDRNb2lGaHg0Q1dnUGVvalpRQWpsdjF3aFNES1RmU1ZhOTFEVC12STdZd2VYSGt2VkdRTlRUQWJURnFqcmh2a0hLcWdTVGowUnMzSW1CMHpOZXc?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "How Trump\u2019s crypto venture and Iran\u2019s top exchange tapped into the same industry networks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVVFzRWZEcDlEbnBoYnk4RXlKalFfNjBiOFRKZXpPRW1Sc1VYZm9QNUlST29TX3RQTlQwdlRVMkJ1OTEyR2N1cFowRm1OQzVlVm1lc3YtMlFBTXV6d2gzOVpBbEN5Qy0xX1pnRW9lQVhPby1pc2JaekFHYVh2RVhhS0NnRHBGYmlubFRVTWZTUExHSmlMbEo2SUhqVF9LNEF0bXpMbllpOHZlYWprUHRlaXdrc0ZGNXJuS0UxWEo3SWp2a21LR29jbEtR?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Standard Chartered",
+      "count": 9,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "CoinTurk News",
+        "Cointelegraph",
+        "The Block",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Standard Chartered to acquire remainder of subsidiary Zodia Custody",
+          "url": "https://www.coindesk.com/business/2026/05/18/standard-chartered-to-acquire-remainder-of-subsidiary-zodia-custody",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Standard Chartered to absorb Zodia Custody\u2019s core business, spin out Zodia Solutions",
+          "url": "https://cointelegraph.com/news/standard-chartered-zodia-custodys-core-business-spin-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Standard Chartered appoints new group CFO",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/standard-chartered-appoints-group-cfo-143556803.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Standard Chartered to absorb Zodia Custody\u2019s crypto business into its own operations: Bloomberg",
+          "url": "https://www.theblock.co/post/401663/standard-chartered-absorb-zodia-custody-crypto-business-bloomberg?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Standard Chartered projects $4T in tokenized assets by end-2028, with DeFi protocols primary beneficiaries",
+          "url": "https://www.theblock.co/post/401635/standard-chartered-projects-4t-in-tokenized-assets-by-end-2028-with-defi-protocols-primary-beneficiaries?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Fed",
+      "count": 6,
+      "sources": [
+        "CNBC",
+        "CNN",
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Fed minutes, Meta stablecoin Senate deadline: Crypto Week Ahead",
+          "url": "https://www.coindesk.com/markets/2026/05/18/fed-minutes-meta-stablecoin-senate-deadline-crypto-week-ahead",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates",
+          "url": "https://www.cnbc.com/2026/05/16/kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-rates.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Stephen Miran exits the Fed. How he set the stage for Kevin Warsh.",
+          "url": "https://www.cnbc.com/2026/05/15/stephen-miran-exits-the-fed-how-he-set-the-stage-for-kevin-warsh.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Fed Governor Miran submits resignation, throws support behind Warsh as new chair",
+          "url": "https://www.cnbc.com/2026/05/14/fed-governor-miran-submits-resignation-throws-support-behind-warsh-as-new-chair.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Is it a problem if the Fed speaks too much? - CNN",
+          "url": "https://www.cnn.com/2026/05/17/business/federal-reserve-kevin-warsh-forward-guidance",
+          "source": "CNN"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "China",
+      "count": 6,
+      "sources": [
+        "CNBC",
+        "Crypto Briefing",
+        "Hacker News"
+      ],
+      "articles": [
+        {
+          "title": "White House touts deals on soybeans and rare earths after Trump-Xi summit, while China talks up tariff cuts",
+          "url": "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump leaves China after talks dominated by trade, oil and Taiwan",
+          "url": "https://www.cnbc.com/2026/05/15/trump-wraps-up-two-day-china-trip-invites-xi-for-a-september-visit.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Ethereum is top public blockchain, Bitcoin No. 13 in China's new index",
+          "url": "https://www.reuters.com/article/us-crypto-currency-index/ethereum-is-top-public-blockchain-bitcoin-no-13-in-chinas-new-index-idUSKCN1II2R9?il=0",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Ethereum is top public blockchain, Bitcoin No. 13 in China's new index",
+          "url": "https://www.reuters.com/article/us-crypto-currency-index/ethereum-is-top-public-blockchain-bitcoin-no-13-in-chinas-new-index-idUSKCN1II2R9",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Trump to receive options for action on China overcapacity, Greer says",
+          "url": "https://cryptobriefing.com/trump-china-overcapacity-options-greer/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Senate",
+      "count": 5,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Fed minutes, Meta stablecoin Senate deadline: Crypto Week Ahead",
+          "url": "https://www.coindesk.com/markets/2026/05/18/fed-minutes-meta-stablecoin-senate-deadline-crypto-week-ahead",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Senate crypto bill at risk beyond midterms if not passed by August: NYDIG",
+          "url": "https://cointelegraph.com/news/senate-crypto-bill-august-advance-in-lame-duck-session-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "House Agriculture leaders press Trump to appoint CFTC commissioners as CLARITY Act advances in Senate",
+          "url": "https://www.theblock.co/post/401558/house-agriculture-leaders-press-trump-to-appoint-cftc-commissioners-as-clarity-act-advances-in-senate?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Fed minutes, Meta stablecoin Senate deadline: Crypto Week Ahead",
+          "url": "https://www.coindesk.com/markets/2026/05/18/fed-minutes-meta-stablecoin-senate-deadline-crypto-week-ahead",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Senate crypto bill at risk beyond midterms if not passed by August: NYDIG",
+          "url": "https://cointelegraph.com/news/senate-crypto-bill-august-advance-in-lame-duck-session-nydig?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Hormuz",
+      "count": 5,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Crypto Briefing",
+        "Reuters",
+        "Seeking Alpha"
+      ],
+      "articles": [
+        {
+          "title": "Reports suggest Iran is mulling Hormuz \u2018insurance\u2019 scheme, paid in Bitcoin",
+          "url": "https://cointelegraph.com/news/iran-mulls-platform-for-ships-transiting-strait-of-hormuz-to-pay-in-bitcoin-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Trump, Xi agree to keep Strait of Hormuz open amid US-Iran tensions",
+          "url": "https://cryptobriefing.com/trump-xi-agree-to-keep-strait-of-hormuz-open-amid-us-iran-tensions-2/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Opaque oil deals around Hormuz test the petrodollar - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcWM4R0xuLW8wczNqU3M3UTRpMnA3SWlOazNrU0ZJYU9hRVh6Z3hUT0xiX2dFSWhHamV5WktVcl9FVkNPeWVncldOTk9PNWNsQks2RHlIMm9LYmk3T3NQbFdMVVJ6LUZEYU51ZlhZXzhCV1pjNktVUm5QeWloeW9SeV9RdDhWNEhERTVNTjBydDU3UFVNQjRCZUhxOWpJZlBsU09zTS1lY1hEbTZYMHRIZEc0QVBXb1U?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Reports suggest Iran is mulling Hormuz \u2018insurance\u2019 scheme, paid in Bitcoin",
+          "url": "https://cointelegraph.com/news/iran-mulls-platform-for-ships-transiting-strait-of-hormuz-to-pay-in-bitcoin-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Iran unveils Bitcoin-backed shipping insurance plan for Hormuz -reports",
+          "url": "https://seekingalpha.com/news/4594396-iran-unveils-bitcoin-backed-shipping-insurance-plan-for-hormuz--reports?utm_source=cryptocompare.com&utm_medium=referral&feed_item_type=news",
+          "source": "Seeking Alpha"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Kraken",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Kraken parent Payward's Q1 revenue climbs despite crypto market slump",
+          "url": "https://www.coindesk.com/business/2026/05/18/kraken-parent-payward-s-q1-revenue-climbs-despite-crypto-market-slump",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kraken cuts 150 staff amid AI efficiencies, potentially delaying IPO: Report",
+          "url": "https://cointelegraph.com/news/kraken-parent-payward-cuts-150-staff-potentially-delaying-ipo-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Kraken cuts 150 staff amid AI efficiencies, potentially delaying IPO: Report",
+          "url": "https://cointelegraph.com/news/kraken-parent-payward-cuts-150-staff-potentially-delaying-ipo-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Kraken parent Payward's Q1 revenue climbs despite crypto market slump",
+          "url": "https://www.coindesk.com/business/2026/05/18/kraken-parent-payward-s-q1-revenue-climbs-despite-crypto-market-slump",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "XRP",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "XRP slips 2% as profit-taking knocks token back below $1.40",
+          "url": "https://www.coindesk.com/markets/2026/05/18/xrp-slips-2-as-profit-taking-knocks-token-back-below-usd1-40",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Goldman Sachs exits XRP, Solana ETF exposure in Q1 2026",
+          "url": "https://cointelegraph.com/news/goldman-sachs-xrp-solana-etf-exposure-q1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Goldman Sachs exits XRP, Solana ETF exposure in Q1 2026",
+          "url": "https://cointelegraph.com/news/goldman-sachs-xrp-solana-etf-exposure-q1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "XRP slips 2% as profit-taking knocks token back below $1.40",
+          "url": "https://www.coindesk.com/markets/2026/05/18/xrp-slips-2-as-profit-taking-knocks-token-back-below-usd1-40",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "DeFi",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "Crypto Briefing",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Tokenization push could pull trillions of dollars into DeFi, StanChart says",
+          "url": "https://www.coindesk.com/markets/2026/05/18/tokenization-push-could-pull-trillions-of-dollars-into-defi-stanchart-says",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Standard Chartered projects $4T in tokenized assets by end-2028, with DeFi protocols primary beneficiaries",
+          "url": "https://www.theblock.co/post/401635/standard-chartered-projects-4t-in-tokenized-assets-by-end-2028-with-defi-protocols-primary-beneficiaries?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Total TVL in DeFi declines 49% since October 2025",
+          "url": "https://cryptobriefing.com/defi-tvl-declines-49-percent-2025/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Tokenization push could pull trillions of dollars into DeFi, StanChart says",
+          "url": "https://www.coindesk.com/markets/2026/05/18/tokenization-push-could-pull-trillions-of-dollars-into-defi-stanchart-says",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Bitcoin Depot",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "CoinTurk News",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin Depot, North America's largest bitcoin ATM operator, files for bankruptcy",
+          "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-depot-once-north-america-s-largest-bitcoin-atm-operator-files-for-bankruptcy",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "US crypto ATM operator Bitcoin Depot files for Chapter 11 to wind down business",
+          "url": "https://www.theblock.co/post/401590/bitcoin-depot-chapter-11?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin Depot, North America's largest bitcoin ATM operator, files for bankruptcy",
+          "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-depot-once-north-america-s-largest-bitcoin-atm-operator-files-for-bankruptcy",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin Depot files for bankruptcy as revenue falls 49.2%",
+          "url": "https://en.coin-turk.com/bitcoin-depot-files-for-bankruptcy-as-revenue-falls-49-2/",
+          "source": "CoinTurk News"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "ATM",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "Decrypt",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin Depot, North America's largest bitcoin ATM operator, files for bankruptcy",
+          "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-depot-once-north-america-s-largest-bitcoin-atm-operator-files-for-bankruptcy",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "US crypto ATM operator Bitcoin Depot files for Chapter 11 to wind down business",
+          "url": "https://www.theblock.co/post/401590/bitcoin-depot-chapter-11?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin Depot Flashes Bankruptcy Warning as ATM Revenue Falls, Regulatory Scrutiny Grows",
+          "url": "https://decrypt.co/368035/bitcoin-depot-bankruptcy-warning-atm-revenue-falls-regulatory-scrutiny",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin Depot, North America's largest bitcoin ATM operator, files for bankruptcy",
+          "url": "https://www.coindesk.com/markets/2026/05/18/bitcoin-depot-once-north-america-s-largest-bitcoin-atm-operator-files-for-bankruptcy",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Zodia Custody\u2019s",
+      "count": 4,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Standard Chartered to absorb Zodia Custody\u2019s core business, spin out Zodia Solutions",
+          "url": "https://cointelegraph.com/news/standard-chartered-zodia-custodys-core-business-spin-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Standard Chartered to absorb Zodia Custody\u2019s crypto business into its own operations: Bloomberg",
+          "url": "https://www.theblock.co/post/401663/standard-chartered-absorb-zodia-custody-crypto-business-bloomberg?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Standard Chartered to absorb Zodia Custody\u2019s core business, spin out Zodia Solutions",
+          "url": "https://cointelegraph.com/news/standard-chartered-zodia-custodys-core-business-spin-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Standard Chartered to absorb Zodia Custody\u2019s core business, spin out Zodia Solutions",
+          "url": "https://cointelegraph.com/news/standard-chartered-zodia-custodys-core-business-spin-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Taiwan",
+      "count": 4,
+      "sources": [
+        "CNBC",
+        "Crypto Briefing",
+        "Investing.com"
+      ],
+      "articles": [
+        {
+          "title": "WHO member states reject Taiwan\u2019s participation in annual assembly",
+          "url": "https://www.investing.com/news/world-news/who-member-states-reject-taiwans-participation-in-annual-assembly-93CH-4696312",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
+          "url": "https://www.cnbc.com/2026/05/16/trumps-meeting-with-chinas-xi-steers-the-us-away-from-taiwan-again.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump leaves China after talks dominated by trade, oil and Taiwan",
+          "url": "https://www.cnbc.com/2026/05/15/trump-wraps-up-two-day-china-trip-invites-xi-for-a-september-visit.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump advisers warn of heightened risk of China invading Taiwan in next 5 years",
+          "url": "https://cryptobriefing.com/trump-advisers-china-taiwan-invasion-risk/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "U.S.",
+      "count": 4,
+      "sources": [
+        "CNBC",
+        "Investing.com",
+        "Investing.com Crypto News",
+        "Investor's Business Daily"
+      ],
+      "articles": [
+        {
+          "title": "Adani Enterprises settles with U.S. for $275 million over Iran sanctions",
+          "url": "https://www.investing.com/news/stock-market-news/adani-enterprises-settles-with-us-for-275-million-over-iran-sanctions-93CH-4696311",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Tesla Raises U.S. Model Y Prices. Its Stock Just Forged A Lower Buy Point.. - Investor's Business Daily",
+          "url": "https://www.investors.com/news/tesla-raises-u-s-model-y-prices-lower-buy-point/",
+          "source": "Investor's Business Daily"
+        },
+        {
+          "title": "Americans are leaving the U.S. in record numbers and spending hundreds to learn how to do it",
+          "url": "https://www.cnbc.com/2026/05/17/americans-are-leaving-the-united-states-in-record-numbers-spending-hundreds-to-learn-how.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Bitcoin pauses near $78k as U.S. retail adoption surges, Strategy hints at sales",
+          "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pauses-near-78k-as-us-retail-adoption-surges-strategy-hints-at-sales-4694512",
+          "source": "Investing.com Crypto News"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Nvidia",
+      "count": 4,
+      "sources": [
+        "Crypto Briefing",
+        "TheStreet",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Tech stocks today: Tech stocks fall as investors gear up for Nvidia earnings, OpenAI v. Elon Musk trial decision",
+          "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-tech-stocks-fall-as-investors-gear-up-for-nvidia-earnings-openai-v-elon-musk-trial-decision-111103131.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Stock Market Today: Dow Wavers As Oil Falls On Iran News; Nvidia, Walmart On Watch (Live Coverage)",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-nvidia-walmart-tesla/?src=A00220&yptr=yahoo",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "5-star analyst resets Nvidia stock price target ahead of earnings - thestreet.com",
+          "url": "https://www.thestreet.com/investing/stocks/td-cowen-raises-nvidia-stock-price-target-ahead-of-earnings",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Nvidia boosts S&P 500 earnings growth with strong AI sales",
+          "url": "https://cryptobriefing.com/nvidia-sp500-earnings-ai-sales/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Microsoft",
+      "count": 4,
+      "sources": [
+        "CNBC",
+        "Fortune",
+        "Seeking Alpha"
+      ],
+      "articles": [
+        {
+          "title": "Stocks making the biggest moves midday: Cerebras, Microsoft, ServiceNow, Papa John's & more",
+          "url": "https://www.cnbc.com/2026/05/15/stocks-making-the-biggest-moves-midday-cbrs-msft-now-pzza.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Bill Ackman built Microsoft stake in first quarter during sell-off, betting on AI and cloud growth",
+          "url": "https://www.cnbc.com/2026/05/15/bill-ackman-says-he-built-microsoft-position-in-first-quarter.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Microsoft: How Ditching OpenAI Unlocks New AI Growth Catalysts",
+          "url": "https://seekingalpha.com/article/4906016-microsoft-msft-how-ditching-openai-unlocks-new-ai-growth-catalysts?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Microsoft AI chief gives it 18 months\u2014for all white-collar work to be automated by AI - Fortune",
+          "url": "https://fortune.com/article/why-microsoft-ai-chief-mustafa-suleyman-predicts-ai-automation-18-months/",
+          "source": "Fortune"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Vitalik Buterin",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "Decrypt"
+      ],
+      "articles": [
+        {
+          "title": "Vitalik Buterin says AI 'formal verification' could actually make crypto much more secure",
+          "url": "https://www.coindesk.com/tech/2026/05/18/vitalik-buterin-says-ai-formal-verification-could-actually-make-crypto-much-more-secure",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Justin Sun-Led Liberland Micronation Awards Ethereum Founder Vitalik Buterin Its Top Honor",
+          "url": "https://decrypt.co/368116/justin-sun-liberland-awards-ethereum-founder-vitalik-buterin-top-honor",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Vitalik Buterin says AI 'formal verification' could actually make crypto much more secure",
+          "url": "https://www.coindesk.com/tech/2026/05/18/vitalik-buterin-says-ai-formal-verification-could-actually-make-crypto-much-more-secure",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Tom Lee",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Bitmine buys the dip as Tom Lee ties ether's pullback to rising oil prices",
+          "url": "https://www.coindesk.com/business/2026/05/18/bitmine-buys-the-dip-as-tom-lee-ties-ether-s-pullback-to-rising-oil-prices",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Surging oil prices have been driving Ether selling pressure: Tom Lee",
+          "url": "https://cointelegraph.com/news/surging-oil-prices-key-driver-of-eth-selling-pressure-says-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Surging oil prices have been driving Ether selling pressure: Tom Lee",
+          "url": "https://cointelegraph.com/news/surging-oil-prices-key-driver-of-eth-selling-pressure-says-tom-lee?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Zodia Custody",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "CoinTurk News"
+      ],
+      "articles": [
+        {
+          "title": "Standard Chartered to acquire remainder of subsidiary Zodia Custody",
+          "url": "https://www.coindesk.com/business/2026/05/18/standard-chartered-to-acquire-remainder-of-subsidiary-zodia-custody",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Standard Chartered to acquire remainder of subsidiary Zodia Custody",
+          "url": "https://www.coindesk.com/business/2026/05/18/standard-chartered-to-acquire-remainder-of-subsidiary-zodia-custody",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Standard Chartered to acquire all Zodia Custody shares",
+          "url": "https://en.coin-turk.com/standard-chartered-to-acquire-all-zodia-custody-shares/",
+          "source": "CoinTurk News"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Deploi Launches Direct Issuance Infrastructure for Private Credit",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Deploi Launches Direct Issuance Infrastructure for Private Credit on Polygon, Secures ISIN Allocations from Nasdaq CSD",
+          "url": "https://cointelegraph.com/press-releases/deploi-launches-direct-issuance-infrastructure-for-private-credit-on-polygon-secures-isin-allocations-from-nasdaq-csd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Deploi Launches Direct Issuance Infrastructure for Private Credit on Polygon, Secures ISIN Allocations from Nasdaq CSD",
+          "url": "https://cointelegraph.com/press-releases/deploi-launches-direct-issuance-infrastructure-for-private-credit-on-polygon-secures-isin-allocations-from-nasdaq-csd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Deploi Launches Direct Issuance Infrastructure for Private Credit on Polygon, Secures ISIN Allocations from Nasdaq CSD",
+          "url": "https://cointelegraph.com/press-releases/deploi-launches-direct-issuance-infrastructure-for-private-credit-on-polygon-secures-isin-allocations-from-nasdaq-csd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Secures ISIN Allocations",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Deploi Launches Direct Issuance Infrastructure for Private Credit on Polygon, Secures ISIN Allocations from Nasdaq CSD",
+          "url": "https://cointelegraph.com/press-releases/deploi-launches-direct-issuance-infrastructure-for-private-credit-on-polygon-secures-isin-allocations-from-nasdaq-csd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Deploi Launches Direct Issuance Infrastructure for Private Credit on Polygon, Secures ISIN Allocations from Nasdaq CSD",
+          "url": "https://cointelegraph.com/press-releases/deploi-launches-direct-issuance-infrastructure-for-private-credit-on-polygon-secures-isin-allocations-from-nasdaq-csd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Deploi Launches Direct Issuance Infrastructure for Private Credit on Polygon, Secures ISIN Allocations from Nasdaq CSD",
+          "url": "https://cointelegraph.com/press-releases/deploi-launches-direct-issuance-infrastructure-for-private-credit-on-polygon-secures-isin-allocations-from-nasdaq-csd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Nasdaq CSD",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Deploi Launches Direct Issuance Infrastructure for Private Credit on Polygon, Secures ISIN Allocations from Nasdaq CSD",
+          "url": "https://cointelegraph.com/press-releases/deploi-launches-direct-issuance-infrastructure-for-private-credit-on-polygon-secures-isin-allocations-from-nasdaq-csd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Deploi Launches Direct Issuance Infrastructure for Private Credit on Polygon, Secures ISIN Allocations from Nasdaq CSD",
+          "url": "https://cointelegraph.com/press-releases/deploi-launches-direct-issuance-infrastructure-for-private-credit-on-polygon-secures-isin-allocations-from-nasdaq-csd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Deploi Launches Direct Issuance Infrastructure for Private Credit on Polygon, Secures ISIN Allocations from Nasdaq CSD",
+          "url": "https://cointelegraph.com/press-releases/deploi-launches-direct-issuance-infrastructure-for-private-credit-on-polygon-secures-isin-allocations-from-nasdaq-csd?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Saylor\u2019s Strategy",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Saylor\u2019s Strategy scoops $2B Bitcoin, holdings reach 843,738 BTC",
+          "url": "https://cointelegraph.com/news/strategy-2-billion-bitcoin-holdings-reach-843-738-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Saylor\u2019s Strategy scoops $2B Bitcoin, holdings reach 843,738 BTC",
+          "url": "https://cointelegraph.com/news/strategy-2-billion-bitcoin-holdings-reach-843-738-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Saylor\u2019s Strategy scoops $2B Bitcoin, holdings reach 843,738 BTC",
+          "url": "https://cointelegraph.com/news/strategy-2-billion-bitcoin-holdings-reach-843-738-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "2B Bitcoin",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Saylor\u2019s Strategy scoops $2B Bitcoin, holdings reach 843,738 BTC",
+          "url": "https://cointelegraph.com/news/strategy-2-billion-bitcoin-holdings-reach-843-738-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Saylor\u2019s Strategy scoops $2B Bitcoin, holdings reach 843,738 BTC",
+          "url": "https://cointelegraph.com/news/strategy-2-billion-bitcoin-holdings-reach-843-738-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Saylor\u2019s Strategy scoops $2B Bitcoin, holdings reach 843,738 BTC",
+          "url": "https://cointelegraph.com/news/strategy-2-billion-bitcoin-holdings-reach-843-738-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Zodia Solutions",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Standard Chartered to absorb Zodia Custody\u2019s core business, spin out Zodia Solutions",
+          "url": "https://cointelegraph.com/news/standard-chartered-zodia-custodys-core-business-spin-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Standard Chartered to absorb Zodia Custody\u2019s core business, spin out Zodia Solutions",
+          "url": "https://cointelegraph.com/news/standard-chartered-zodia-custodys-core-business-spin-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Standard Chartered to absorb Zodia Custody\u2019s core business, spin out Zodia Solutions",
+          "url": "https://cointelegraph.com/news/standard-chartered-zodia-custodys-core-business-spin-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Solana",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Hacker News"
+      ],
+      "articles": [
+        {
+          "title": "Goldman Sachs exits XRP, Solana ETF exposure in Q1 2026",
+          "url": "https://cointelegraph.com/news/goldman-sachs-xrp-solana-etf-exposure-q1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Solana Developers Release Software Update to Alleviate Network Congestion",
+          "url": "https://news.ycombinator.com/item?id=40068258",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Goldman Sachs exits XRP, Solana ETF exposure in Q1 2026",
+          "url": "https://cointelegraph.com/news/goldman-sachs-xrp-solana-etf-exposure-q1-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "India",
+      "count": 3,
+      "sources": [
+        "Investing.com",
+        "Reuters",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "US Treasury, India\u2019s Adani Enterprises settle alleged Iran sanctions violations",
+          "url": "https://www.investing.com/news/stock-market-news/us-treasury-announces-275-million-settlement-with-indias-adani-enterprises-4696263",
+          "source": "Investing.com"
+        },
+        {
+          "title": "US Treasury, India's Adani Enterprises settle alleged Iran sanctions violations",
+          "url": "https://finance.yahoo.com/economy/policy/articles/us-treasury-announces-275-million-142254817.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "India's equity benchmarks muted as Iran war worries offset IT gains - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2NMV0ZmZWNFS1MtNzdrVWxBeWxRNGZseXFoZzM2TC11NllwYWtLc1dQOUhrLURKT0dEVlFQLUN5N0VET3VCOC1ZbkxKeUtSMTJtLXFJd29MbEJveWNpVVBxaVc2MVktVy1BUGE0dU51azQwQVRUWEpoVUlQRTU2N1lBMWFCazllWVA5LVZzMGhybEdQenpkSDJyZjlXaFByMG1EU3FfVmcxNVdyenc?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": true
+    }
+  ],
+  "crypto_trending": [
+    {
+      "name": "OriginTrail",
+      "symbol": "TRAC",
+      "market_cap_rank": 181,
+      "thumb": "https://coin-images.coingecko.com/coins/images/1877/standard/TRAC.jpg?1696502873"
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "market_cap_rank": 13,
+      "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "market_cap_rank": 16,
+      "thumb": "https://coin-images.coingecko.com/coins/images/486/standard/circle-zcash-color.png?1696501740"
+    },
+    {
+      "name": "MegaETH",
+      "symbol": "MEGA",
+      "market_cap_rank": 298,
+      "thumb": "https://coin-images.coingecko.com/coins/images/69995/standard/9fcb2fa4-b240-46e2-9016-c4f6101a139d.jpeg?1778485816"
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "market_cap_rank": 101,
+      "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "market_cap_rank": 1,
+      "thumb": "https://coin-images.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400"
+    },
+    {
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "market_cap_rank": 86,
+      "thumb": "https://coin-images.coingecko.com/coins/images/54023/standard/VVV_Token_Transparent.png?1741856877"
+    },
+    {
+      "name": "Billions Network",
+      "symbol": "BILL",
+      "market_cap_rank": 123,
+      "thumb": "https://coin-images.coingecko.com/coins/images/68464/standard/billions.png?1755828007"
+    },
+    {
+      "name": "Solana",
+      "symbol": "SOL",
+      "market_cap_rank": 7,
+      "thumb": "https://coin-images.coingecko.com/coins/images/4128/standard/solana.png?1718769756"
+    },
+    {
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "market_cap_rank": 39,
+      "thumb": "https://coin-images.coingecko.com/coins/images/28452/standard/ARUsPeNQ_400x400.jpeg?1696527447"
+    }
+  ],
+  "stock_trending": [
+    {
+      "symbol": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 76428.51,
+      "change_pct": -1.27
+    },
+    {
+      "symbol": "D",
+      "name": "Dominion Energy, Inc.",
+      "price": 67.53,
+      "change_pct": 9.4
+    },
+    {
+      "symbol": "HIVE",
+      "name": "HIVE Digital Technologies Ltd.",
+      "price": 3.33,
+      "change_pct": 23.79
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab Corporation",
+      "price": 128.87,
+      "change_pct": 3.29
+    },
+    {
+      "symbol": "GCTS",
+      "name": "GCT Semiconductor Holding, Inc.",
+      "price": 2.5,
+      "change_pct": 36.78
+    },
+    {
+      "symbol": "NEE",
+      "name": "NextEra Energy, Inc.",
+      "price": 88.25,
+      "change_pct": -5.47
+    },
+    {
+      "symbol": "SBFM",
+      "name": "Sunshine Biopharma, Inc.",
+      "price": 1.83,
+      "change_pct": 545.9
+    },
+    {
+      "symbol": "GOVX",
+      "name": "GeoVax Labs, Inc.",
+      "price": 3.31,
+      "change_pct": 169.02
+    },
+    {
+      "symbol": "REGN",
+      "name": "Regeneron Pharmaceuticals, Inc.",
+      "price": 623.43,
+      "change_pct": -10.71
+    },
+    {
+      "symbol": "TE",
+      "name": "T1 Energy Inc.",
+      "price": 6.82,
+      "change_pct": 20.28
+    }
+  ],
+  "fear_greed": {
+    "value": 28,
+    "classification": "Fear",
+    "history": [
+      {
+        "value": 28,
+        "classification": "Fear"
+      },
+      {
+        "value": 27,
+        "classification": "Fear"
+      },
+      {
+        "value": 31,
+        "classification": "Fear"
+      },
+      {
+        "value": 43,
+        "classification": "Fear"
+      },
+      {
+        "value": 34,
+        "classification": "Fear"
+      },
+      {
+        "value": 42,
+        "classification": "Fear"
+      },
+      {
+        "value": 49,
+        "classification": "Neutral"
+      }
+    ]
+  },
+  "total_articles": 388
+}
