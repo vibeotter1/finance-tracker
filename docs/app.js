@@ -31,10 +31,52 @@ function formatDate(dateStr) {
   });
 }
 
+async function loadAndRender(snapshots) {
+  allSnapshots = snapshots;
+  const latest = snapshots[snapshots.length - 1];
+
+  document.getElementById('date-tag').textContent = formatDate(latest.date);
+
+  const footerEl = document.querySelector('footer p');
+  if (footerEl && !footerEl.dataset.stamped) {
+    footerEl.innerHTML += ` &middot; Last updated: ${escHtml(latest.date)}`;
+    footerEl.dataset.stamped = '1';
+  }
+
+  renderTopics(latest.topics || [], latest.date, true);
+  renderCrypto(latest.crypto_trending || []);
+  renderStocks(latest.stock_trending || []);
+  renderTrendChart(activeDays);
+  renderArchive(snapshots, latest.date);
+  initChartTabs();
+  fetchLiveFearGreed();
+
+  // Poll silently until today's data arrives (max 10 attempts, every 5 min)
+  const today = new Date().toISOString().split('T')[0];
+  if (latest.date !== today) pollForToday(latest.date, 0);
+}
+
+async function pollForToday(knownDate, attempt) {
+  if (attempt >= 10) return;
+  await new Promise(r => setTimeout(r, 5 * 60 * 1000));
+  try {
+    const res = await fetch('data.json?v=' + Date.now());
+    const snapshots = await res.json();
+    const newest = snapshots[snapshots.length - 1];
+    if (newest.date !== knownDate) {
+      await loadAndRender(snapshots);
+    } else {
+      pollForToday(knownDate, attempt + 1);
+    }
+  } catch {
+    pollForToday(knownDate, attempt + 1);
+  }
+}
+
 async function init() {
   let snapshots;
   try {
-    const res = await fetch('data.json');
+    const res = await fetch('data.json?v=' + Date.now());
     snapshots = await res.json();
   } catch {
     showEmpty('Could not load data.');
@@ -46,25 +88,7 @@ async function init() {
     return;
   }
 
-  allSnapshots = snapshots;
-  const latest = snapshots[snapshots.length - 1];
-
-  // Date tag
-  document.getElementById('date-tag').textContent = formatDate(latest.date);
-
-  // Last updated in footer
-  const footerEl = document.querySelector('footer p');
-  if (footerEl) {
-    footerEl.innerHTML += ` &middot; Last updated: ${escHtml(latest.date)}`;
-  }
-
-  renderTopics(latest.topics || [], latest.date, true);
-  renderCrypto(latest.crypto_trending || []);
-  renderStocks(latest.stock_trending || []);
-  renderTrendChart(activeDays);
-  renderArchive(snapshots, latest.date);
-  initChartTabs();
-  fetchLiveFearGreed();
+  await loadAndRender(snapshots);
 }
 
 function renderFearGreed(data) {

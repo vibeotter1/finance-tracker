@@ -3,7 +3,9 @@ name: Daily Finance Topics Update
 on:
   schedule:
     - cron: '0 3 * * *'
-    - cron: '0 6 * * *'
+    - cron: '0 5 * * *'
+    - cron: '0 7 * * *'
+    - cron: '0 9 * * *'
   workflow_dispatch:
 
 permissions:
