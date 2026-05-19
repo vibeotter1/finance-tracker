@@ -3,24 +3,19 @@
   "topics": [
     {
       "name": "Iran",
-      "count": 25,
+      "count": 26,
       "sources": [
         "CBS News",
         "Cointelegraph",
         "Crypto Briefing",
         "Decrypt",
         "Financial Times",
-        "Investing.com",
         "Reuters",
+        "WWD",
         "Yahoo Entertainment",
         "Yahoo Finance"
       ],
       "articles": [
-        {
-          "title": "Oil prices fall by more than 1% as Trump pauses Iran attack plans",
-          "url": "https://www.investing.com/news/commodities-news/us-crude-futures-fall-over-2-as-trump-says-he-holds-off-scheduled-attack-on-iran-4697215",
-          "source": "Investing.com"
-        },
         {
           "title": "Stocks fall as US bond yields rise, oil eases on Trump's Iran comments",
           "url": "https://finance.yahoo.com/markets/articles/asian-shares-mixed-bonds-recover-012931456.html",
@@ -40,6 +35,11 @@
           "title": "Global bond rout deepens as prolonged Iran war heightens inflation risk - Yahoo Finance",
           "url": "https://finance.yahoo.com/economy/policy/articles/global-bond-rout-deepens-inflation-025732395.html",
           "source": "Yahoo Entertainment"
+        },
+        {
+          "title": "Donald Trump\u2019s Iran war hits Americans with $40bn fuel bill - Financial Times",
+          "url": "https://www.ft.com/content/32ff9d8d-0103-42f8-8a78-10e2216b8fe2?syn-25a6b1a6\\\\u003d1",
+          "source": "Financial Times"
         }
       ],
       "is_new": false
@@ -81,15 +81,13 @@
     },
     {
       "name": "Trump",
-      "count": 17,
+      "count": 15,
       "sources": [
         "CBS News",
         "CNBC",
         "Crypto Briefing",
-        "Investing.com",
         "MarketWatch",
         "Reuters",
-        "Yahoo Entertainment",
         "Yahoo Finance"
       ],
       "articles": [
@@ -97,11 +95,6 @@
           "title": "Trump says he\u2019ll let Warsh \u2018do what he wants to do\u2019 with interest rates. It\u2019s a remark that Fed watchers have been bracing for.",
           "url": "https://www.marketwatch.com/story/trump-says-hell-let-warsh-do-what-he-wants-to-do-with-interest-rates-its-a-remark-that-fed-watchers-have-been-bracing-for-2b014504?mod=mw_rss_topstories",
           "source": "MarketWatch"
-        },
-        {
-          "title": "Oil prices fall by more than 1% as Trump pauses Iran attack plans",
-          "url": "https://www.investing.com/news/commodities-news/us-crude-futures-fall-over-2-as-trump-says-he-holds-off-scheduled-attack-on-iran-4697215",
-          "source": "Investing.com"
         },
         {
           "title": "Stocks fall as US bond yields rise, oil eases on Trump's Iran comments",
@@ -117,6 +110,11 @@
           "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
           "url": "https://www.cnbc.com/2026/05/16/trumps-meeting-with-chinas-xi-steers-the-us-away-from-taiwan-again.html",
           "source": "CNBC"
+        },
+        {
+          "title": "Live Updates: Iran war \"re-escalation risks,\" new Trump threat keep oil prices high as diplomacy staggers on - CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/",
+          "source": "CBS News"
         }
       ],
       "is_new": false
@@ -202,11 +200,12 @@
     },
     {
       "name": "Bitcoin",
-      "count": 7,
+      "count": 8,
       "sources": [
         "CoinDesk",
         "CoinTelegraph",
         "Cointelegraph",
+        "Finbold",
         "Hacker News"
       ],
       "articles": [
@@ -240,11 +239,12 @@
     },
     {
       "name": "XRP",
-      "count": 7,
+      "count": 8,
       "sources": [
         "Bitcoinist",
         "CoinDesk",
         "Coinpaper",
+        "Finbold",
         "The Block",
         "Yahoo Entertainment",
         "ZyCrypto",
@@ -465,6 +465,83 @@
       "is_new": true
     },
     {
+      "name": "Nvidia",
+      "count": 5,
+      "sources": [
+        "CNBC",
+        "Investing.com",
+        "MarketWatch",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Is Nvidia spending its cash on the right things? Investors will soon get an update.",
+          "url": "https://www.marketwatch.com/story/is-nvidia-spending-its-cash-on-the-right-things-investors-will-soon-get-an-update-a8b4460d?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Nvidia options signal $355 billion market value swing ahead of earnings",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-options-signal-355-billion-market-value-swing-ahead-of-earnings-93CH-4699263",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Nvidia shares set for $350 billion price swing after earnings, options show",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-shares-set-for-350-billion-price-swing-after-earnings-options-show-4699260",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Nvidia and Apple hold stock market's power like never before: Chart of the Day",
+          "url": "https://finance.yahoo.com/sectors/technology/article/nvidia-and-apple-hold-stock-markets-power-like-never-before-chart-of-the-day-155214605.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit?",
+          "url": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Japan",
+      "count": 5,
+      "sources": [
+        "Cryptopolitan",
+        "Decrypt",
+        "Reuters",
+        "The Block",
+        "TimesTabloid"
+      ],
+      "articles": [
+        {
+          "title": "Japan\u2019s ruling party advances proposal to build national AI-blockchain financial system",
+          "url": "https://www.theblock.co/post/401804/japan-ai-blockchain-proposal-ldp?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Japan\u2019s Ruling Party Pushes On-Chain Finance Plan to Protect Yen",
+          "url": "https://decrypt.co/368331/japans-ruling-party-pushes-on-chain-finance-plan-to-protect-yen",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Japan's solid Q1 GDP faces reality check as Iran war threatens economy - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWVMxVjZ6YW5uMThsaWN3UkJrMW1NdkszVG82bVViNzk3RFkyQ0hTTkdpeUpZcVlYOTBZY1hvOEM3T1piM2JTQ3JZbUstMnZOY0tLQWx3WUxaeVJrcmxwd3RucS1sbnBncUtENFU2b05NOFZkM1N1VEpCbGcwWGFuMXpUbGp6WUVIcXlVYWVhUE9UWFNiQmQ0U01RWlg?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Japan\u2019s manufacturers see factory floors as AI\u2019s next frontier",
+          "url": "https://www.cryptopolitan.com/japanese-companies-factories-ai-frontier/",
+          "source": "Cryptopolitan"
+        },
+        {
+          "title": "Jake Claver\u2019s XRP Reverse Carry Trade Theory. Here\u2019s What Just Happened In Japan",
+          "url": "https://timestabloid.com/jake-clavers-xrp-reverse-carry-trade-theory-heres-what-just-happened/",
+          "source": "TimesTabloid"
+        }
+      ],
+      "is_new": true
+    },
+    {
       "name": "Elizabeth Warren",
       "count": 4,
       "sources": [
@@ -529,19 +606,51 @@
       "is_new": true
     },
     {
+      "name": "Vitalik Buterin",
+      "count": 4,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Decrypt"
+      ],
+      "articles": [
+        {
+          "title": "A viral hedgehog, Vitalik Buterin, and a bow: the GraphDex launch that crypto won't forget",
+          "url": "https://cointelegraph.com/press-releases/a-viral-hedgehog-vitalik-buterin-and-a-bow-the-graphdex-launch-that-crypto-wont-forget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Ethereum Founder Vitalik Buterin Says AI Verification Could Help Secure Crypto Networks",
+          "url": "https://decrypt.co/368226/ethereum-founder-vitalik-buterin-ai-verification-secure-crypto-networks",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Ethereum Founder Vitalik Buterin Says AI Verification Could Help Secure Crypto Networks",
+          "url": "https://decrypt.co/368226/ethereum-founder-vitalik-buterin-ai-verification-secure-crypto-networks",
+          "source": "Decrypt"
+        },
+        {
+          "title": "A viral hedgehog, Vitalik Buterin, and a bow: the GraphDex launch that crypto won't forget",
+          "url": "https://cointelegraph.com/press-releases/a-viral-hedgehog-vitalik-buterin-and-a-bow-the-graphdex-launch-that-crypto-wont-forget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
       "name": "Google",
       "count": 4,
       "sources": [
         "BBC News",
         "Business Insider",
         "CNBC",
-        "Yahoo Finance"
+        "Investing.com"
       ],
       "articles": [
         {
-          "title": "Blackstone and Google form AI infrastructure joint venture focused on TPU cloud expansion",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/blackstone-google-form-ai-infrastructure-163200978.html",
-          "source": "Yahoo Finance"
+          "title": "Google unveils voice features for YouTube and Docs at developer event",
+          "url": "https://www.investing.com/news/stock-market-news/google-unveils-voice-features-for-youtube-and-docs-at-developer-event-93CH-4699264",
+          "source": "Investing.com"
         },
         {
           "title": "Former Google CEO Eric Schmidt booed by graduates at mention of AI - BBC",
@@ -557,99 +666,6 @@
           "title": "Here's why Broadcom is a winner from Blackstone's new AI venture with Google",
           "url": "https://www.cnbc.com/2026/05/19/why-broadcom-is-a-winner-from-blackstones-new-ai-venture-with-google.html",
           "source": "CNBC"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Japan",
-      "count": 4,
-      "sources": [
-        "Decrypt",
-        "Reuters",
-        "The Block",
-        "TimesTabloid"
-      ],
-      "articles": [
-        {
-          "title": "Japan\u2019s ruling party advances proposal to build national AI-blockchain financial system",
-          "url": "https://www.theblock.co/post/401804/japan-ai-blockchain-proposal-ldp?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
-        },
-        {
-          "title": "Japan\u2019s Ruling Party Pushes On-Chain Finance Plan to Protect Yen",
-          "url": "https://decrypt.co/368331/japans-ruling-party-pushes-on-chain-finance-plan-to-protect-yen",
-          "source": "Decrypt"
-        },
-        {
-          "title": "Japan's solid Q1 GDP faces reality check as Iran war threatens economy - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWVMxVjZ6YW5uMThsaWN3UkJrMW1NdkszVG82bVViNzk3RFkyQ0hTTkdpeUpZcVlYOTBZY1hvOEM3T1piM2JTQ3JZbUstMnZOY0tLQWx3WUxaeVJrcmxwd3RucS1sbnBncUtENFU2b05NOFZkM1N1VEpCbGcwWGFuMXpUbGp6WUVIcXlVYWVhUE9UWFNiQmQ0U01RWlg?oc=5",
-          "source": "Reuters"
-        },
-        {
-          "title": "Jake Claver\u2019s XRP Reverse Carry Trade Theory. Here\u2019s What Just Happened In Japan",
-          "url": "https://timestabloid.com/jake-clavers-xrp-reverse-carry-trade-theory-heres-what-just-happened/",
-          "source": "TimesTabloid"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "J.P. Morgan 54th Annual Global Technology",
-      "count": 4,
-      "sources": [
-        "Seeking Alpha"
-      ],
-      "articles": [
-        {
-          "title": "Varonis Systems, Inc. (VRNS) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
-          "url": "https://seekingalpha.com/article/4906539-varonis-systems-inc-vrns-presents-at-j-p-morgan-54th-annual-global-technology-media-and?source=feed_all_articles",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "AGCO Corporation (AGCO) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
-          "url": "https://seekingalpha.com/article/4906562-agco-corporation-agco-presents-at-j-p-morgan-54th-annual-global-technology-media-and?source=feed_all_articles",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "The New York Times Company (NYT) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
-          "url": "https://seekingalpha.com/article/4906542-the-new-york-times-company-nyt-presents-at-j-p-morgan-54th-annual-global-technology-media-and?source=feed_all_articles",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "KLA Corporation (KLAC) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
-          "url": "https://seekingalpha.com/article/4906522-kla-corporation-klac-presents-at-j-p-morgan-54th-annual-global-technology-media-and?source=feed_all_articles",
-          "source": "Seeking Alpha"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Media and Communications Conference Transcript",
-      "count": 4,
-      "sources": [
-        "Seeking Alpha"
-      ],
-      "articles": [
-        {
-          "title": "Varonis Systems, Inc. (VRNS) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
-          "url": "https://seekingalpha.com/article/4906539-varonis-systems-inc-vrns-presents-at-j-p-morgan-54th-annual-global-technology-media-and?source=feed_all_articles",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "AGCO Corporation (AGCO) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
-          "url": "https://seekingalpha.com/article/4906562-agco-corporation-agco-presents-at-j-p-morgan-54th-annual-global-technology-media-and?source=feed_all_articles",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "The New York Times Company (NYT) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
-          "url": "https://seekingalpha.com/article/4906542-the-new-york-times-company-nyt-presents-at-j-p-morgan-54th-annual-global-technology-media-and?source=feed_all_articles",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "KLA Corporation (KLAC) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
-          "url": "https://seekingalpha.com/article/4906522-kla-corporation-klac-presents-at-j-p-morgan-54th-annual-global-technology-media-and?source=feed_all_articles",
-          "source": "Seeking Alpha"
         }
       ],
       "is_new": true
@@ -759,60 +775,6 @@
       "is_new": true
     },
     {
-      "name": "Vitalik Buterin",
-      "count": 3,
-      "sources": [
-        "CoinTelegraph",
-        "Cointelegraph",
-        "Decrypt"
-      ],
-      "articles": [
-        {
-          "title": "A viral hedgehog, Vitalik Buterin, and a bow: the GraphDex launch that crypto won't forget",
-          "url": "https://cointelegraph.com/press-releases/a-viral-hedgehog-vitalik-buterin-and-a-bow-the-graphdex-launch-that-crypto-wont-forget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Ethereum Founder Vitalik Buterin Says AI Verification Could Help Secure Crypto Networks",
-          "url": "https://decrypt.co/368226/ethereum-founder-vitalik-buterin-ai-verification-secure-crypto-networks",
-          "source": "Decrypt"
-        },
-        {
-          "title": "A viral hedgehog, Vitalik Buterin, and a bow: the GraphDex launch that crypto won't forget",
-          "url": "https://cointelegraph.com/press-releases/a-viral-hedgehog-vitalik-buterin-and-a-bow-the-graphdex-launch-that-crypto-wont-forget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "Zondacrypto",
-      "count": 3,
-      "sources": [
-        "CoinTelegraph",
-        "Cointelegraph",
-        "Cryptopolitan"
-      ],
-      "articles": [
-        {
-          "title": "Estonian regulator partially suspends Zondacrypto operator license",
-          "url": "https://cointelegraph.com/news/zondacrypto-license-partial-suspension-estonia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Estonian regulator partially suspends Zondacrypto operator license",
-          "url": "https://cointelegraph.com/news/zondacrypto-license-partial-suspension-estonia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        },
-        {
-          "title": "Zondacrypto loses Estonia license as collapse fallout grows",
-          "url": "https://www.cryptopolitan.com/zondacryptos-license-suspended-by-estonia/",
-          "source": "Cryptopolitan"
-        }
-      ],
-      "is_new": true
-    },
-    {
       "name": "ETH",
       "count": 3,
       "sources": [
@@ -867,59 +829,6 @@
       "is_new": false
     },
     {
-      "name": "Nvidia",
-      "count": 3,
-      "sources": [
-        "CNBC",
-        "MarketWatch",
-        "Yahoo Finance"
-      ],
-      "articles": [
-        {
-          "title": "Is Nvidia spending its cash on the right things? Investors will soon get an update.",
-          "url": "https://www.marketwatch.com/story/is-nvidia-spending-its-cash-on-the-right-things-investors-will-soon-get-an-update-a8b4460d?mod=mw_rss_topstories",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "Nvidia and Apple hold stock market's power like never before: Chart of the Day",
-          "url": "https://finance.yahoo.com/sectors/technology/article/nvidia-and-apple-hold-stock-markets-power-like-never-before-chart-of-the-day-155214605.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit?",
-          "url": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
-          "source": "CNBC"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "Blackstone",
-      "count": 3,
-      "sources": [
-        "CNBC",
-        "Yahoo Finance"
-      ],
-      "articles": [
-        {
-          "title": "Blackstone and Google form AI infrastructure joint venture focused on TPU cloud expansion",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/blackstone-google-form-ai-infrastructure-163200978.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Stocks making the biggest moves premarket: Home Depot, Amer Sports, Blackstone, Alphabet & more",
-          "url": "https://www.cnbc.com/2026/05/19/stocks-making-the-biggest-moves-premarket-hd-as-bx-googl.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Here's why Broadcom is a winner from Blackstone's new AI venture with Google",
-          "url": "https://www.cnbc.com/2026/05/19/why-broadcom-is-a-winner-from-blackstones-new-ai-venture-with-google.html",
-          "source": "CNBC"
-        }
-      ],
-      "is_new": true
-    },
-    {
       "name": "Hathaway",
       "count": 3,
       "sources": [
@@ -971,6 +880,108 @@
         }
       ],
       "is_new": true
+    },
+    {
+      "name": "Bitcoin, Ethereum ETFs Bleed",
+      "count": 3,
+      "sources": [
+        "Decrypt",
+        "Yahoo Entertainment"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin, Ethereum ETFs Bleed as Crypto Funds Shed $1.07 Billion, Ending 6-Week Win Streak",
+          "url": "https://decrypt.co/368183/bitcoin-ethereum-etfs-bleed-crypto-funds-shed-1-billion",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin, Ethereum ETFs Bleed as Crypto Funds Shed $1.07 Billion, Ending 6-Week Win Streak",
+          "url": "https://decrypt.co/368183/bitcoin-ethereum-etfs-bleed-crypto-funds-shed-1-billion",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin, Ethereum ETFs Bleed as Crypto Funds Shed $1.07 Billion, Ending 6-Week Win Streak",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6ed13ba6-7f5f-43f5-b50d-f4ebbbc69c19",
+          "source": "Yahoo Entertainment"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Crypto Funds",
+      "count": 3,
+      "sources": [
+        "Decrypt",
+        "Yahoo Entertainment"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin, Ethereum ETFs Bleed as Crypto Funds Shed $1.07 Billion, Ending 6-Week Win Streak",
+          "url": "https://decrypt.co/368183/bitcoin-ethereum-etfs-bleed-crypto-funds-shed-1-billion",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin, Ethereum ETFs Bleed as Crypto Funds Shed $1.07 Billion, Ending 6-Week Win Streak",
+          "url": "https://decrypt.co/368183/bitcoin-ethereum-etfs-bleed-crypto-funds-shed-1-billion",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Bitcoin, Ethereum ETFs Bleed as Crypto Funds Shed $1.07 Billion, Ending 6-Week Win Streak",
+          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_6ed13ba6-7f5f-43f5-b50d-f4ebbbc69c19",
+          "source": "Yahoo Entertainment"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "J.P. Morgan 54th Annual Global Technology",
+      "count": 3,
+      "sources": [
+        "Seeking Alpha"
+      ],
+      "articles": [
+        {
+          "title": "Automatic Data Processing, Inc. (ADP) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
+          "url": "https://seekingalpha.com/article/4906599-automatic-data-processing-inc-adp-presents-at-j-p-morgan-54th-annual-global-technology-media?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Chewy, Inc. (CHWY) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
+          "url": "https://seekingalpha.com/article/4906598-chewy-inc-chwy-presents-at-j-p-morgan-54th-annual-global-technology-media-and-communications?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Varonis Systems, Inc. (VRNS) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
+          "url": "https://seekingalpha.com/article/4906539-varonis-systems-inc-vrns-presents-at-j-p-morgan-54th-annual-global-technology-media-and?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Media and Communications Conference Transcript",
+      "count": 3,
+      "sources": [
+        "Seeking Alpha"
+      ],
+      "articles": [
+        {
+          "title": "Automatic Data Processing, Inc. (ADP) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
+          "url": "https://seekingalpha.com/article/4906599-automatic-data-processing-inc-adp-presents-at-j-p-morgan-54th-annual-global-technology-media?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Chewy, Inc. (CHWY) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
+          "url": "https://seekingalpha.com/article/4906598-chewy-inc-chwy-presents-at-j-p-morgan-54th-annual-global-technology-media-and-communications?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Varonis Systems, Inc. (VRNS) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
+          "url": "https://seekingalpha.com/article/4906539-varonis-systems-inc-vrns-presents-at-j-p-morgan-54th-annual-global-technology-media-and?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        }
+      ],
+      "is_new": true
     }
   ],
   "crypto_trending": [
@@ -983,7 +994,7 @@
     {
       "name": "Zest Protocol",
       "symbol": "ZEST",
-      "market_cap_rank": 962,
+      "market_cap_rank": 958,
       "thumb": "https://coin-images.coingecko.com/coins/images/102173294/standard/zest.jpg?1778837125"
     },
     {
@@ -993,34 +1004,16 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
     },
     {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "market_cap_rank": 14,
-      "thumb": "https://coin-images.coingecko.com/coins/images/486/standard/circle-zcash-color.png?1696501740"
-    },
-    {
       "name": "Bitcoin",
       "symbol": "BTC",
       "market_cap_rank": 1,
       "thumb": "https://coin-images.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400"
     },
     {
-      "name": "Bittensor",
-      "symbol": "TAO",
-      "market_cap_rank": 39,
-      "thumb": "https://coin-images.coingecko.com/coins/images/28452/standard/ARUsPeNQ_400x400.jpeg?1696527447"
-    },
-    {
-      "name": "Venice Token",
-      "symbol": "VVV",
-      "market_cap_rank": 84,
-      "thumb": "https://coin-images.coingecko.com/coins/images/54023/standard/VVV_Token_Transparent.png?1741856877"
-    },
-    {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "market_cap_rank": 167,
-      "thumb": "https://coin-images.coingecko.com/coins/images/71121/standard/lighter.png?1765888098"
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "market_cap_rank": 14,
+      "thumb": "https://coin-images.coingecko.com/coins/images/486/standard/circle-zcash-color.png?1696501740"
     },
     {
       "name": "Solana",
@@ -1029,72 +1022,90 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/4128/standard/solana.png?1718769756"
     },
     {
-      "name": "Ethereum",
-      "symbol": "ETH",
-      "market_cap_rank": 2,
-      "thumb": "https://coin-images.coingecko.com/coins/images/279/standard/ethereum.png?1696501628"
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "market_cap_rank": 39,
+      "thumb": "https://coin-images.coingecko.com/coins/images/28452/standard/ARUsPeNQ_400x400.jpeg?1696527447"
+    },
+    {
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "market_cap_rank": 47,
+      "thumb": "https://coin-images.coingecko.com/coins/images/26580/standard/ONDO.png?1696525656"
+    },
+    {
+      "name": "Toncoin",
+      "symbol": "TON",
+      "market_cap_rank": 21,
+      "thumb": "https://coin-images.coingecko.com/coins/images/17980/standard/photo_2024-09-10_17.09.00.jpeg?1725963446"
+    },
+    {
+      "name": "PlaysOut",
+      "symbol": "PLAY",
+      "market_cap_rank": 510,
+      "thumb": "https://coin-images.coingecko.com/coins/images/67765/standard/plays.jpg?1753786347"
     }
   ],
   "stock_trending": [
     {
       "symbol": "WNW",
       "name": "Meiwu Technology Company Limited",
-      "price": 5.25,
-      "change_pct": 117.8
+      "price": 5.36,
+      "change_pct": 122.41
     },
     {
       "symbol": "AMST",
       "name": "Amesite Inc.",
-      "price": 1.87,
-      "change_pct": 137.88
+      "price": 1.86,
+      "change_pct": 137.25
     },
     {
       "symbol": "ALAB",
       "name": "Astera Labs, Inc.",
-      "price": 250.58,
-      "change_pct": 16.24
+      "price": 249.11,
+      "change_pct": 15.55
     },
     {
       "symbol": "INM",
       "name": "InMed Pharmaceuticals Inc.",
       "price": 1.53,
-      "change_pct": 124.15
+      "change_pct": 124.78
     },
     {
       "symbol": "HD",
       "name": "The Home Depot, Inc.",
-      "price": 301.14,
-      "change_pct": 0.45
+      "price": 301.31,
+      "change_pct": 0.5
     },
     {
       "symbol": "CHWY",
       "name": "Chewy, Inc.",
-      "price": 19.83,
-      "change_pct": -8.32
+      "price": 19.9,
+      "change_pct": -8.0
     },
     {
       "symbol": "RUBI",
       "name": "Rubico Inc.",
-      "price": 1.7,
-      "change_pct": -1.73
+      "price": 1.72,
+      "change_pct": -0.87
     },
     {
       "symbol": "VDY.TO",
       "name": "Vanguard FTSE Canadian High Dividend Yield Index ETF",
-      "price": 72.95,
-      "change_pct": 1.35
+      "price": 72.92,
+      "change_pct": 1.31
     },
     {
       "symbol": "CSU.TO",
       "name": "Constellation Software Inc.",
-      "price": 2826.49,
-      "change_pct": 8.2
+      "price": 2825.44,
+      "change_pct": 8.16
     },
     {
       "symbol": "RXRX",
       "name": "Recursion Pharmaceuticals, Inc.",
-      "price": 2.81,
-      "change_pct": -2.63
+      "price": 2.83,
+      "change_pct": -1.9
     }
   ],
   "fear_greed": {
