@@ -1,0 +1,1079 @@
+{
+  "date": "2026-05-19",
+  "topics": [
+    {
+      "name": "Iran",
+      "count": 29,
+      "sources": [
+        "CNBC",
+        "CoinTelegraph",
+        "Crypto Briefing",
+        "Decrypt",
+        "Financial Post",
+        "Financial Times",
+        "Insurance Journal",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Crypto funds see $1B in outflows as Iran tensions revive risk-off sentiment",
+          "url": "https://cointelegraph.com/news/crypto-funds-1b-outflows-iran-tensions-risk-off-bitcoin-ether?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Polymarket Users Spur Insider Trading Suspicions With $2.4 Million in Iran Prediction Wins",
+          "url": "https://decrypt.co/368255/polymarket-users-insider-trading-2-4-million-iran-predictions",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Iran Pushes $10B Bitcoin Insurance Plan for Strait of Hormuz: Report",
+          "url": "https://decrypt.co/368168/iran-pushes-10b-bitcoin-insurance-plan-for-strait-of-hormuz-report",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Donald Trump\u2019s Iran war hits Americans with $40bn fuel bill - Financial Times",
+          "url": "https://www.ft.com/content/32ff9d8d-0103-42f8-8a78-10e2216b8fe2?syn-25a6b1a6\\\\u003d1",
+          "source": "Financial Times"
+        },
+        {
+          "title": "Asia-Pacific markets mostly fall as Trump\u2019s Iran warning stokes fresh oil supply fears - CNBC",
+          "url": "https://www.cnbc.com/2026/05/18/asia-pacific-markets-today-live-updates-nikkei-225-hang-seng-index-kospi-nifty-50.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Reuters",
+      "count": 18,
+      "sources": [
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Iran says peace proposal includes reparations for war damage, US troop withdrawal - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSF9rZVdjR0RKS2w2VnI2M2dWWXZQQ21vck5sX1BRSGs0UVc0YWpTbXEzUEdXVGN6dmRLaTRMQlBERENZQTlUZnl5ZFVxLUNmd0N6dzk0bWlmaDlmcFlER0FDeFhWRDBUV29ONXBVb0xZblZIWE5VcW04Y3FMdGZUY1dHY3NVa2lzLWRyVGhHSUwwMElGQUFJLTEzTGtaeGlheUlqMjQtNTVwOHBzTjNOX2RfcF9reVFuU2FiSmVLcFRGbGRRZmk5bDdWdw?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Explosions heard in Iran's Qeshm island due to disposal of enemy ammunition - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYXp2VkJXcWNlaEc3N0JOazlfb2ZDbXljVmVxV0V0enNsRXNTMWhuYkIzZDBDZkREUTBJTkVOdy1JOURBdGFSaHJkeDBmV2lxTm9RZHlTaEtVR1NMMUZiaXdLY2diLWEzQlB0SmFyYnNFSFhlaEo3UExrcWpYc1oxRDAzTXRUa2hNcVlXQXFRQ0xHeC1sNnN3NzhWX1lvcGo4V1dNSzdnS2hOczN3ZDFrVW5KMVVBS2J6WU9yeQ?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Morning Bid: Ceasefire on a knife edge - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMjFYVzVWMnlXb3ExWC15QmNnVElKZkZKYUlIQTJNN1BqZ3VxT1pReE1WLVQ4VWFMRm9LTTRBSUw1QzMzZk5IY05JSkU0ZTZmQnI2WVQyT0VWa2pYcDMyQy11YzdWdEZhUlFBb3NYUk9wY1VVQldwY2hFRExod0Y4eWhJSGstMTRSRFcwU3E5bnRLQmwtb0d3?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "G7 finance ministers explore responses to Iran war fallout - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUnhudmJ5VG1fcTE3Y1RXSEhSN2diRjQ3Z3hwNVRUd1dwdlFadlBNMDRzak13VjMwdFU1enNmbDZzMFhyNW9ManBTYkJueW5UMnkwMjdsRGNTSE8zRVd5cEFGaWwwVWRiU2t0LXcwSDZYdGpCMXFBLWJzWXZBUk5QTVJSbnR1SjFOdVpUY2dFQ2NONUUwdzZlQmdLTVZxY19RblhUNjhn?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "European shares gain as Trump's Iran comments cheer markets - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaS1Jc3l3RGdNZEhQODhpY0Y0SUo3XzVqSUhXT2U5SUNRb05xUTdpZEEtTkpIcmxyaDFpaDNUbmRXM3Q5RlU2Vm42dzROU1FPUk40bzg1WjJVY0hQMUdwaW1RVFg5Q0Q3eUpoeV8ycVNwMWRZWGkyclZLQTdnLXVVYjlNcW5nLWYxUzItekxxUQ?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Bitcoin",
+      "count": 16,
+      "sources": [
+        "24/7 Wall St.",
+        "Bitcoin World",
+        "Bitcoin.com",
+        "CoinDesk",
+        "CoinOtag",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Forexlive",
+        "Hacker News",
+        "Investing.com Crypto News"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin has shed $5,000 within days. ETF flows, derivatives say the selloff could worsen",
+          "url": "https://www.coindesk.com/markets/2026/05/19/bitcoin-has-shed-usd5-000-within-days-the-data-says-this-selloff-could-worsen",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin lost its hold on $80K, but three events may send it back sooner than markets expect",
+          "url": "https://cointelegraph.com/markets/bitcoin-lost-its-hold-on-80k-but-three-events-may-send-it-back-sooner-than-markets-expect?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Soluna revenue jumps 58% as hosting business offsets weaker Bitcoin mining",
+          "url": "https://cointelegraph.com/news/soluna-q1-revenue-rises-58-data-center-hosting-surpasses-crypto-mining?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Bitcoin\u2019s trend-defining battle starts at $74K support: Analyst",
+          "url": "https://cointelegraph.com/markets/bitcoin-analyst-flags-74k-as-btcs-biggest-support-battle?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "As Russia invaded Ukraine, Bitcoin plunged \u2013 here's what crypto experts said",
+          "url": "https://markets.businessinsider.com/news/currencies/bitcoin-ethereum-blockchain-ukraine-russia-war-conflict-europe-america-china-2022-2",
+          "source": "Hacker News"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "SEC",
+      "count": 10,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "CoinTurk News",
+        "Cointelegraph",
+        "Decrypt",
+        "The Block",
+        "cryptonews"
+      ],
+      "articles": [
+        {
+          "title": "World Liberty Financial treasury company AI Financial warns that it may not survive the year in SEC filing",
+          "url": "https://www.coindesk.com/markets/2026/05/19/world-liberty-financial-wlfi-treasury-company-ai-financial-warns-in-sec-filing-that-it-may-not-survive-the-year",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg",
+          "url": "https://www.coindesk.com/policy/2026/05/18/sec-to-propose-tokenized-stock-framework-as-wall-street-efforts-deepen-bloomberg",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "SEC to make \u2018innovation exemption\u2019 for tokenized stock trading: Report",
+          "url": "https://cointelegraph.com/news/sec-to-make-innovation-exemption-for-tokenized-stock-trading-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "SEC\u2019s innovation exemption for tokenized stocks to come as early as this week: Bloomberg",
+          "url": "https://www.theblock.co/post/401766/sec-innovation-exemption-tokenized-securities-this-week?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Morning Minute: SEC Reverses Course on Tokenized Stocks, HYPE Soars",
+          "url": "https://decrypt.co/368317/morning-minute-sec-reverses-course-on-tokenized-stocks-hype-soars",
+          "source": "Decrypt"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "XRP",
+      "count": 8,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "CoinTurk News",
+        "The Block",
+        "The Crypto Basic",
+        "TimesTabloid"
+      ],
+      "articles": [
+        {
+          "title": "XRP and Solana funds attract inflows as bitcoin outflows hit nearly $1 billion",
+          "url": "https://www.coindesk.com/markets/2026/05/19/xrp-and-solana-attract-fresh-inflows-as-bitcoin-fund-outflows-hit-nearly-usd1-billion",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Price predictions 5/18: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA",
+          "url": "https://cointelegraph.com/markets/price-predictions-518-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "XRP Alliance debuts as Flare, D\u2019CENT link hardware wallets to XRP yield vaults",
+          "url": "https://www.theblock.co/post/401828/xrp-alliance-debuts-as-flare-dcent-link-hardware-wallets-to-xrp-yield-vaults?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "XRP and Solana funds attract inflows as bitcoin outflows hit nearly $1 billion",
+          "url": "https://www.coindesk.com/markets/2026/05/19/xrp-and-solana-attract-fresh-inflows-as-bitcoin-fund-outflows-hit-nearly-usd1-billion",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Pundit Has Message for Those Still Hesitant about XRP",
+          "url": "https://timestabloid.com/pundit-has-message-for-those-still-hesitant-about-xrp/",
+          "source": "TimesTabloid"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Trump",
+      "count": 8,
+      "sources": [
+        "CNBC",
+        "Reuters",
+        "Yahoo Entertainment"
+      ],
+      "articles": [
+        {
+          "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit?",
+          "url": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Why Taiwan became the defining issue in the Trump-Xi talks",
+          "url": "https://www.cnbc.com/2026/05/16/trumps-meeting-with-chinas-xi-steers-the-us-away-from-taiwan-again.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump tells Fortune on Intel stake: 'should have asked for more' - Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/trump-tells-fortune-intel-stake-082405554.html",
+          "source": "Yahoo Entertainment"
+        },
+        {
+          "title": "Asia-Pacific markets mostly fall as Trump\u2019s Iran warning stokes fresh oil supply fears - CNBC",
+          "url": "https://www.cnbc.com/2026/05/18/asia-pacific-markets-today-live-updates-nikkei-225-hang-seng-index-kospi-nifty-50.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "European shares gain as Trump's Iran comments cheer markets - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaS1Jc3l3RGdNZEhQODhpY0Y0SUo3XzVqSUhXT2U5SUNRb05xUTdpZEEtTkpIcmxyaDFpaDNUbmRXM3Q5RlU2Vm42dzROU1FPUk40bzg1WjJVY0hQMUdwaW1RVFg5Q0Q3eUpoeV8ycVNwMWRZWGkyclZLQTdnLXVVYjlNcW5nLWYxUzItekxxUQ?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "China",
+      "count": 7,
+      "sources": [
+        "Bloomberg",
+        "CNBC",
+        "Crypto Briefing",
+        "Financial Times",
+        "Hacker News"
+      ],
+      "articles": [
+        {
+          "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit?",
+          "url": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "White House touts deals on soybeans and rare earths after Trump-Xi summit, while China talks up tariff cuts",
+          "url": "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Ethereum is top public blockchain, Bitcoin No. 13 in China's new index",
+          "url": "https://www.reuters.com/article/us-crypto-currency-index/ethereum-is-top-public-blockchain-bitcoin-no-13-in-chinas-new-index-idUSKCN1II2R9?il=0",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Ethereum is top public blockchain, Bitcoin No. 13 in China's new index",
+          "url": "https://www.reuters.com/article/us-crypto-currency-index/ethereum-is-top-public-blockchain-bitcoin-no-13-in-chinas-new-index-idUSKCN1II2R9",
+          "source": "Hacker News"
+        },
+        {
+          "title": "China\u2019s Economy Slows Sharply as Investment Resumes Declines - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-18/china-economy-slows-sharply-as-investment-returns-to-contraction",
+          "source": "Bloomberg"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Solana",
+      "count": 6,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Hacker News"
+      ],
+      "articles": [
+        {
+          "title": "XRP and Solana funds attract inflows as bitcoin outflows hit nearly $1 billion",
+          "url": "https://www.coindesk.com/markets/2026/05/19/xrp-and-solana-attract-fresh-inflows-as-bitcoin-fund-outflows-hit-nearly-usd1-billion",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Solana is shedding its memecoin reputation as big banks move billions into its ecosystem",
+          "url": "https://www.coindesk.com/markets/2026/05/18/solana-is-shedding-its-memecoin-reputation-as-big-banks-move-billions-into-its-ecosystem",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Pump.fun accounts for over one-third of Solana\u2019s Q1 revenue despite memecoin slowdown",
+          "url": "https://cointelegraph.com/news/pumpfun-over-third-solana-q1-revenue-memecoin-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Solana Developers Release Software Update to Alleviate Network Congestion",
+          "url": "https://news.ycombinator.com/item?id=40068258",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Pump.fun accounts for over one-third of Solana\u2019s Q1 revenue despite memecoin slowdown",
+          "url": "https://cointelegraph.com/news/pumpfun-over-third-solana-q1-revenue-memecoin-slowdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Fed",
+      "count": 6,
+      "sources": [
+        "CNBC",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Reuters",
+        "TheStreet"
+      ],
+      "articles": [
+        {
+          "title": "About 10% of Americans used crypto in 2025, highest level since 2022: Fed",
+          "url": "https://cointelegraph.com/news/10-percent-of-americans-invested-or-used-crypto-in-2025-federal-reserve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates",
+          "url": "https://www.cnbc.com/2026/05/16/kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-rates.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Stephen Miran exits the Fed. How he set the stage for Kevin Warsh.",
+          "url": "https://www.cnbc.com/2026/05/15/stephen-miran-exits-the-fed-how-he-set-the-stage-for-kevin-warsh.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Major bank drops bombshell on Fed interest-rate bets - thestreet.com",
+          "url": "https://www.thestreet.com/fed/major-bank-drops-bombshell-on-fed-interest-rate-bets-despite-bond-market-warnings-of-upcoming-hikes",
+          "source": "TheStreet"
+        },
+        {
+          "title": "Dollar strengthens as investors weigh Fed outlook and Middle East uncertainty - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNckFzdWZHV0FURVBCcnMxaVpuSFI1dTAxbzAzNEd1LW9ELXZTSV9KWTlMeFBaVUduZWhOLXBBNXdVNEFJd0VmRkp0ZllCZlp6V1lTY2pmc0g4WkU3SnZGaXYtQ0hpaThFcmVnVl9KUV9FVXNTNEYxZmE0QXllSHlxOWlhLVdLR0lvR2ZLdG54eVRSa0RaRFgwcmpkRXcwMVVoQzRXalgzQ2RTWGFtaURqcmpCb1hyZw?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Nasdaq",
+      "count": 5,
+      "sources": [
+        "CoinDesk",
+        "Reuters",
+        "The Block",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "A DeFi exchange becomes the first to offer equity perpetuals powered by Nasdaq data",
+          "url": "https://www.coindesk.com/markets/2026/05/19/a-defi-exchange-becomes-the-first-to-offer-equity-perpetuals-powered-by-nasdaq-data",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Stock market today: Dow, S&P 500, Nasdaq slide as rising bond yields maintain pressure, tech stocks retreat",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-slide-as-rising-bond-yields-maintain-pressure-tech-stocks-retreat-222343224.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Ostium\u2019s onchain perpetuals exchange to be \u2018powered\u2019 by Nasdaq data",
+          "url": "https://www.theblock.co/post/401743/ostiums-onchain-perpetuals-exchange-nasdaq-data?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Nasdaq leads equity losses with oil, borrowing costs in focus - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSlh5Y3pEUnpYTGgwMlRpWng4QW9kN0RZQzZTTjFJektBc1B5dmowTEZxaUozYkVmY0xiTlViVkRXblc4dmJsbl93dlQ5ZjVTNlR4TzZWaTRRWkVzTF9fRGR0WTI1Vm9pOVpRUE5tWS1xWHp3eGV1REkwTTl0NkhKSFl3YU16UUtlWnBzbm1LWHVfYmlI?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "A DeFi exchange becomes the first to offer equity perpetuals powered by Nasdaq data",
+          "url": "https://www.coindesk.com/markets/2026/05/19/a-defi-exchange-becomes-the-first-to-offer-equity-perpetuals-powered-by-nasdaq-data",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "HYPE",
+      "count": 5,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Decrypt",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Hyperliquid's USDC deal could supercharge HYPE, pressure Circle, Coinbase margins, analysts say",
+          "url": "https://www.coindesk.com/markets/2026/05/18/hyperliquid-s-usdc-deal-could-supercharge-hype-pressure-circle-coinbase-margins-analysts-say",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Price predictions 5/18: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA",
+          "url": "https://cointelegraph.com/markets/price-predictions-518-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Bitwise to add HYPE to balance sheet using fees from Hyperliquid ETF",
+          "url": "https://www.theblock.co/post/401688/bitwise-add-hype-balance-sheet-fees-hyperliquid-etf?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Morning Minute: SEC Reverses Course on Tokenized Stocks, HYPE Soars",
+          "url": "https://decrypt.co/368317/morning-minute-sec-reverses-course-on-tokenized-stocks-hype-soars",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Hyperliquid's USDC deal could supercharge HYPE, pressure Circle, Coinbase margins, analysts say",
+          "url": "https://www.coindesk.com/markets/2026/05/18/hyperliquid-s-usdc-deal-could-supercharge-hype-pressure-circle-coinbase-margins-analysts-say",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "New York",
+      "count": 5,
+      "sources": [
+        "BBC News",
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Mike Novogratz\u2019s Galaxy receives New York BitLicense for institutional crypto push",
+          "url": "https://www.coindesk.com/business/2026/05/18/mike-novogratz-s-galaxy-receives-new-york-bitlicense-for-institutional-crypto-push",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Galaxy secures New York BitLicense to expand institutional crypto services",
+          "url": "https://cointelegraph.com/news/galaxy-secures-new-york-bitlicense-institutional-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Galaxy scores New York BitLicense to offer digital asset services in the state",
+          "url": "https://www.theblock.co/post/401732/galaxy-new-york-bitlicense-offer-digital-asset-services-state?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "New York commuters face rush-hour chaos in first major rail strike in 30 years - BBC",
+          "url": "https://www.bbc.com/news/live/c7v9m5j4eypt",
+          "source": "BBC News"
+        },
+        {
+          "title": "Galaxy secures New York BitLicense to expand institutional crypto services",
+          "url": "https://cointelegraph.com/news/galaxy-secures-new-york-bitlicense-institutional-crypto-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "CNBC",
+      "count": 5,
+      "sources": [
+        "CNBC"
+      ],
+      "articles": [
+        {
+          "title": "Warren Buffett teased to CNBC a \u2018tiny purchase\u2019 in March. Berkshire filing may have revealed it",
+          "url": "https://www.cnbc.com/2026/05/18/warren-buffett-teased-to-cnbc-a-tiny-purchase-in-march-berkshire-filing-may-have-revealed-it.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "NextEra Energy to buy Dominion in a deal that combines two key players in the race to power AI data centers - CNBC",
+          "url": "https://www.cnbc.com/2026/05/18/nextera-nee-dominion-energy-d-data-center-ai.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Why a small UK lender has major U.S. credit firms on edge - CNBC",
+          "url": "https://www.cnbc.com/2026/05/18/mfs-private-credit-insolvency-banks-failure-collapse-barclays-mortgage.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Samsung strike involving 47,000 workers looms as South Korea\u2019s president urges labor deal - CNBC",
+          "url": "https://www.cnbc.com/2026/05/18/samsung-strike-lee-jae-myung-labor-deal.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Asia-Pacific markets mostly fall as Trump\u2019s Iran warning stokes fresh oil supply fears - CNBC",
+          "url": "https://www.cnbc.com/2026/05/18/asia-pacific-markets-today-live-updates-nikkei-225-hang-seng-index-kospi-nifty-50.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Monad",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Echo Protocol suffers $76 million exploit in eBTC minting attack on Monad",
+          "url": "https://www.coindesk.com/business/2026/05/19/echo-protocol-suffers-usd76-million-exploit-in-ebtc-minting-attack-on-monad",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "BTCFi protocol Echo exploited, targeting eBTC market on Monad: onchain analysts",
+          "url": "https://www.theblock.co/post/401771/echo-protocol-monad-exploit?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Echo Protocol suffers $76 million exploit in eBTC minting attack on Monad",
+          "url": "https://www.coindesk.com/business/2026/05/19/echo-protocol-suffers-usd76-million-exploit-in-ebtc-minting-attack-on-monad",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "AI Financial",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "World Liberty Financial treasury company AI Financial warns that it may not survive the year in SEC filing",
+          "url": "https://www.coindesk.com/markets/2026/05/19/world-liberty-financial-wlfi-treasury-company-ai-financial-warns-in-sec-filing-that-it-may-not-survive-the-year",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "WLFI treasury firm AI Financial posts $271 million quarterly net loss, flags doubt over survival within one year",
+          "url": "https://www.theblock.co/post/401788/wlfi-treasury-ai-financial-posts-loss?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "World Liberty Financial treasury company AI Financial warns in SEC filing that it may not survive the year",
+          "url": "https://www.coindesk.com/markets/2026/05/19/world-liberty-financial-wlfi-treasury-company-ai-financial-warns-in-sec-filing-that-it-may-not-survive-the-year",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Bloomberg",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg",
+          "url": "https://www.coindesk.com/policy/2026/05/18/sec-to-propose-tokenized-stock-framework-as-wall-street-efforts-deepen-bloomberg",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "SEC\u2019s innovation exemption for tokenized stocks to come as early as this week: Bloomberg",
+          "url": "https://www.theblock.co/post/401766/sec-innovation-exemption-tokenized-securities-this-week?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "SEC to propose tokenized stock framework as Wall Street efforts deepen: Bloomberg",
+          "url": "https://www.coindesk.com/policy/2026/05/18/sec-to-propose-tokenized-stock-framework-as-wall-street-efforts-deepen-bloomberg",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Hyperliquid",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Hyperliquid's USDC deal could supercharge HYPE, pressure Circle, Coinbase margins, analysts say",
+          "url": "https://www.coindesk.com/markets/2026/05/18/hyperliquid-s-usdc-deal-could-supercharge-hype-pressure-circle-coinbase-margins-analysts-say",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitwise to add HYPE to balance sheet using fees from Hyperliquid ETF",
+          "url": "https://www.theblock.co/post/401688/bitwise-add-hype-balance-sheet-fees-hyperliquid-etf?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Hyperliquid's USDC deal could supercharge HYPE, pressure Circle, Coinbase margins, analysts say",
+          "url": "https://www.coindesk.com/markets/2026/05/18/hyperliquid-s-usdc-deal-could-supercharge-hype-pressure-circle-coinbase-margins-analysts-say",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "USDC",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "Cryptopolitan"
+      ],
+      "articles": [
+        {
+          "title": "Hyperliquid's USDC deal could supercharge HYPE, pressure Circle, Coinbase margins, analysts say",
+          "url": "https://www.coindesk.com/markets/2026/05/18/hyperliquid-s-usdc-deal-could-supercharge-hype-pressure-circle-coinbase-margins-analysts-say",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Hyperliquid's USDC deal could supercharge HYPE, pressure Circle, Coinbase margins, analysts say",
+          "url": "https://www.coindesk.com/markets/2026/05/18/hyperliquid-s-usdc-deal-could-supercharge-hype-pressure-circle-coinbase-margins-analysts-say",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Pump.fun prepares to introduce USDC pairs on meme launches on its V2 platform",
+          "url": "https://www.cryptopolitan.com/pump-fun-usdc-liquidity-from-may-21/",
+          "source": "Cryptopolitan"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Ethereum Foundation",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Ethereum Foundation sees 2 more high-profile departures",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-sees-2-more-high-profile-departures-amid-wave-of-resignations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Two more Ethereum Foundation researchers resign amid wave of departures",
+          "url": "https://www.theblock.co/post/401718/two-more-ethereum-foundation-researchers-resign-amid-wave-of-departures?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Ethereum Foundation sees 2 more high-profile departures",
+          "url": "https://cointelegraph.com/news/ethereum-foundation-sees-2-more-high-profile-departures-amid-wave-of-resignations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Bitmine",
+      "count": 3,
+      "sources": [
+        "AMB Crypto",
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Ether pullback was \u2018attractive opportunity\u2019 for 71,672 ETH buy: Bitmine\u2019s Lee",
+          "url": "https://cointelegraph.com/news/tom-lee-bitmine-buys-71672-eth-during-price-pullback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Ether pullback was \u2018attractive opportunity\u2019 for 71,672 ETH buy: Bitmine\u2019s Lee",
+          "url": "https://cointelegraph.com/news/tom-lee-bitmine-buys-71672-eth-during-price-pullback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitmine buys \u2018attractive\u2019 Ethereum dip despite ETH\u2019s 12.6% pullback \u2013 Here\u2019s why",
+          "url": "https://ambcrypto.com/bitmine-buys-attractive-ethereum-dip-despite-eths-12-6-pullback-heres-why/",
+          "source": "AMB Crypto"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "ETH",
+      "count": 3,
+      "sources": [
+        "AMB Crypto",
+        "CoinTelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Price predictions 5/18: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA",
+          "url": "https://cointelegraph.com/markets/price-predictions-518-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Ethereum\u2019s onchain conviction grows as staked ETH rises, even as price underperforms",
+          "url": "https://www.theblock.co/post/401709/ethereum-onchain-conviction-grows-staked-eth-rises-price-underperforms?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitmine buys \u2018attractive\u2019 Ethereum dip despite ETH\u2019s 12.6% pullback \u2013 Here\u2019s why",
+          "url": "https://ambcrypto.com/bitmine-buys-attractive-ethereum-dip-despite-eths-12-6-pullback-heres-why/",
+          "source": "AMB Crypto"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Nvidia",
+      "count": 3,
+      "sources": [
+        "CNBC",
+        "Crypto Briefing"
+      ],
+      "articles": [
+        {
+          "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit?",
+          "url": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Aletheia raises Nvidia price target to $270 ahead of earnings",
+          "url": "https://cryptobriefing.com/aletheia-nvidia-price-target-270-earnings/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "It's not too late to buy Nvidia. Here are the reasons we say 'own it, don't trade it'",
+          "url": "https://www.cnbc.com/2026/05/18/its-not-too-late-to-buy-nvidia-here-are-the-reasons-we-say-own-it-dont-trade-it.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Kevin Warsh",
+      "count": 3,
+      "sources": [
+        "CNBC",
+        "Crypto Briefing"
+      ],
+      "articles": [
+        {
+          "title": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates",
+          "url": "https://www.cnbc.com/2026/05/16/kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-rates.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Stephen Miran exits the Fed. How he set the stage for Kevin Warsh.",
+          "url": "https://www.cnbc.com/2026/05/15/stephen-miran-exits-the-fed-how-he-set-the-stage-for-kevin-warsh.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Kevin Warsh confirmed as Federal Reserve Chair, Powell exit priced by 2026",
+          "url": "https://cryptobriefing.com/kevin-warsh-confirmed-as-federal-reserve-chair-powell-exit-priced-by-2026/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Japan",
+      "count": 3,
+      "sources": [
+        "CryptoSlate",
+        "Reuters",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Japan\u2019s ruling party advances proposal to build national AI-blockchain financial system",
+          "url": "https://www.theblock.co/post/401804/japan-ai-blockchain-proposal-ldp?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bitcoin faces Treasury yield pressure as Japan sells nearly $30 billion of US debt",
+          "url": "https://cryptoslate.com/bitcoin-treasury-yields-japan-selling/",
+          "source": "CryptoSlate"
+        },
+        {
+          "title": "Japan's solid Q1 GDP faces reality check as Iran war threatens economy - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWVMxVjZ6YW5uMThsaWN3UkJrMW1NdkszVG82bVViNzk3RFkyQ0hTTkdpeUpZcVlYOTBZY1hvOEM3T1piM2JTQ3JZbUstMnZOY0tLQWx3WUxaeVJrcmxwd3RucS1sbnBncUtENFU2b05NOFZkM1N1VEpCbGcwWGFuMXpUbGp6WUVIcXlVYWVhUE9UWFNiQmQ0U01RWlg?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "CoinDesk 20",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "CoinDesk 20 performance update: Bitcoin Cash (BCH) rises 2.1%",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/05/19/coindesk-20-performance-update-bitcoin-cash-bch-rises-2-1",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "CoinDesk 20 performance update: Bitcoin Cash (BCH) rises 2.1%",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/05/19/coindesk-20-performance-update-bitcoin-cash-bch-rises-2-1",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Bitcoin Cash",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "CoinDesk 20 performance update: Bitcoin Cash (BCH) rises 2.1%",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/05/19/coindesk-20-performance-update-bitcoin-cash-bch-rises-2-1",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "CoinDesk 20 performance update: Bitcoin Cash (BCH) rises 2.1%",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/05/19/coindesk-20-performance-update-bitcoin-cash-bch-rises-2-1",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "BCH",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "CoinDesk 20 performance update: Bitcoin Cash (BCH) rises 2.1%",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/05/19/coindesk-20-performance-update-bitcoin-cash-bch-rises-2-1",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "CoinDesk 20 performance update: Bitcoin Cash (BCH) rises 2.1%",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/05/19/coindesk-20-performance-update-bitcoin-cash-bch-rises-2-1",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "DeFi",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Amid the Clarity Act fanfare is some worry over how a last-minute deal may punch DeFi",
+          "url": "https://www.coindesk.com/news-analysis/2026/05/18/amid-the-clarity-act-fanfare-is-some-worry-over-how-a-last-minute-deal-may-punch-defi",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Amid the Clarity Act fanfare is some worry over how a last-minute deal may punch DeFi",
+          "url": "https://www.coindesk.com/news-analysis/2026/05/18/amid-the-clarity-act-fanfare-is-some-worry-over-how-a-last-minute-deal-may-punch-defi",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "BSC",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "BSC\u2019s quantum defense works. The trade-off is 40% slower transaction throughput.",
+          "url": "https://www.coindesk.com/markets/2026/05/19/bsc-s-quantum-defense-works-the-trade-off-is-40-slower-transaction-throughput",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "BSC\u2019s quantum defense works. The trade-off is 40% slower transaction throughput.",
+          "url": "https://www.coindesk.com/markets/2026/05/19/bsc-s-quantum-defense-works-the-trade-off-is-40-slower-transaction-throughput",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "tokens",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin treads water near pivotal monthly close while speculative tokens retreat",
+          "url": "https://www.coindesk.com/markets/2026/05/19/bitcoin-treads-water-near-pivotal-monthly-close-while-speculative-tokens-retreat",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin treads water near pivotal monthly close while speculative tokens retreat",
+          "url": "https://www.coindesk.com/markets/2026/05/19/bitcoin-treads-water-near-pivotal-monthly-close-while-speculative-tokens-retreat",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    }
+  ],
+  "crypto_trending": [
+    {
+      "name": "Zest Protocol",
+      "symbol": "ZEST",
+      "market_cap_rank": 1053,
+      "thumb": "https://coin-images.coingecko.com/coins/images/102173294/standard/zest.jpg?1778837125"
+    },
+    {
+      "name": "Ronin",
+      "symbol": "RON",
+      "market_cap_rank": 308,
+      "thumb": "https://coin-images.coingecko.com/coins/images/20009/standard/photo_2024-04-06_22-52-24.jpg?1712415367"
+    },
+    {
+      "name": "Zano",
+      "symbol": "ZANO",
+      "market_cap_rank": 201,
+      "thumb": "https://coin-images.coingecko.com/coins/images/8370/standard/Icon-App-512x512.png?1761825305"
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "market_cap_rank": 12,
+      "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "market_cap_rank": 97,
+      "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "market_cap_rank": 14,
+      "thumb": "https://coin-images.coingecko.com/coins/images/486/standard/circle-zcash-color.png?1696501740"
+    },
+    {
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "market_cap_rank": 47,
+      "thumb": "https://coin-images.coingecko.com/coins/images/26580/standard/ONDO.png?1696525656"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "market_cap_rank": 1,
+      "thumb": "https://coin-images.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400"
+    },
+    {
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "market_cap_rank": 86,
+      "thumb": "https://coin-images.coingecko.com/coins/images/54023/standard/VVV_Token_Transparent.png?1741856877"
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "market_cap_rank": 43,
+      "thumb": "https://coin-images.coingecko.com/coins/images/10365/standard/near.jpg?1696510367"
+    }
+  ],
+  "stock_trending": [
+    {
+      "symbol": "HD",
+      "name": "The Home Depot, Inc.",
+      "price": 298.06,
+      "change_pct": -0.58
+    },
+    {
+      "symbol": "COST",
+      "name": "Costco Wholesale Corporation",
+      "price": 1088.61,
+      "change_pct": 1.13
+    },
+    {
+      "symbol": "WNW",
+      "name": "Meiwu Technology Company Limited",
+      "price": 5.53,
+      "change_pct": 129.46
+    },
+    {
+      "symbol": "RUBI",
+      "name": "Rubico Inc.",
+      "price": 2.53,
+      "change_pct": 46.24
+    },
+    {
+      "symbol": "ZETA",
+      "name": "Zeta Global Holdings Corp.",
+      "price": 19.31,
+      "change_pct": 0.63
+    },
+    {
+      "symbol": "AMST",
+      "name": "Amesite Inc.",
+      "price": 2.13,
+      "change_pct": 170.97
+    },
+    {
+      "symbol": "INM",
+      "name": "InMed Pharmaceuticals Inc.",
+      "price": 1.59,
+      "change_pct": 133.58
+    },
+    {
+      "symbol": "MTVA",
+      "name": "MetaVia Inc.",
+      "price": 1.64,
+      "change_pct": 47.75
+    },
+    {
+      "symbol": "BKKT",
+      "name": "Bakkt, Inc.",
+      "price": 10.36,
+      "change_pct": 18.81
+    },
+    {
+      "symbol": "STX",
+      "name": "Seagate Technology Holdings plc",
+      "price": 708.95,
+      "change_pct": -4.3
+    }
+  ],
+  "fear_greed": {
+    "value": 25,
+    "classification": "Extreme Fear",
+    "history": [
+      {
+        "value": 25,
+        "classification": "Extreme Fear"
+      },
+      {
+        "value": 28,
+        "classification": "Fear"
+      },
+      {
+        "value": 27,
+        "classification": "Fear"
+      },
+      {
+        "value": 31,
+        "classification": "Fear"
+      },
+      {
+        "value": 43,
+        "classification": "Fear"
+      },
+      {
+        "value": 34,
+        "classification": "Fear"
+      },
+      {
+        "value": 42,
+        "classification": "Fear"
+      }
+    ]
+  },
+  "total_articles": 394
+}
