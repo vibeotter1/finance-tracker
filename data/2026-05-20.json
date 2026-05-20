@@ -2,55 +2,76 @@
   "date": "2026-05-20",
   "topics": [
     {
-      "name": "Reuters",
-      "count": 25,
+      "name": "Iran",
+      "count": 22,
       "sources": [
-        "Reuters"
+        "BBC News",
+        "Bitcoin World",
+        "CoinDesk",
+        "CoinTelegraph",
+        "Coinpaper",
+        "Investing.Com Crypto Opinion and Analysis",
+        "Investing.com",
+        "MarketWatch",
+        "Reuters",
+        "Yahoo Entertainment",
+        "Yahoo Finance"
       ],
       "articles": [
         {
-          "title": "Dollar rises to six-week high on rate hike bets and war uncertainty - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWlpMNmFpSU54eHZwMjNnUkhyS3dQOEZDQVRLNDd3YmZqa2JUQjNUajZna3lXSlVTTVppbTBrLUhTM0EtRUF5T3NfdEFJRUdPUHB4UjZzLVByUFU2NUkzZEZRZlVpQkpselNfVDVkVUNFSWt0dEl2SUNvTFRfamhRempTQ1lCenFmS3ZVNUlveUlkZGxIR0ZtQkpFRlp4TERtWFByUkwwY1N5ci1sc0Jqbw?oc=5",
-          "source": "Reuters"
+          "title": "Bitcoin, ether, XRP rebound as Senate curbs Trump's Iran war powers",
+          "url": "https://www.coindesk.com/markets/2026/05/20/bitcoin-ether-xrp-rebound-as-senate-curbs-trump-s-iran-war-powers",
+          "source": "CoinDesk"
         },
         {
-          "title": "Qatar Airways works to rebuild global network after Iran war hits profit - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZzhzVVRVak1KRjdyT2wzRTRKODdxdjRxX2hweWM2ZFU2enhoZ3JlMDc2bDJOQ1JBd2pGRVlBVjV4djRPaGo3ZEF3aGd5ZkdObmVVclVhQUs2MTcwRUs5SG0zUW5nUnptRFdPS2Vid1hHNFpveDF6U3lqMVpJdFRvYk1DZUdVSFIzbURiaXhXYXd2b0IzMFJna2pqb0llaDFvVTFmS2tHZll5cVV0cXZORg?oc=5",
-          "source": "Reuters"
+          "title": "US Senate advances resolution to curb Trump\u2019s Iran war powers",
+          "url": "https://cointelegraph.com/news/us-senate-advances-resolution-to-end-trumps-iran-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
         },
         {
-          "title": "UK inflation dips in only temporary relief from Iran war impact - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PSERGbXJ1eWRPN2ZXYzJtTVBIZk1jblJaYUF1eVpwakk4TWh1ODNvR3AtS29tWmJwRHFrcVY1VC11NjJWMW1UcjA0Y2FVRU5qUWlDeEtXd1k5cnBNMHdnMjJIekh1SGhUMDh0NFl6QWNxSENtWWZDVmN0YnA?oc=5",
-          "source": "Reuters"
+          "title": "Bond yields, oil fall amid hopes for Iran deal; stocks gain with Nvidia results ahead",
+          "url": "https://www.investing.com/news/economy-news/asian-stocks-fall-for-4th-day-as-higher-yields-bite-all-eyes-on-nvidia-results-4700139",
+          "source": "Investing.com"
         },
         {
-          "title": "Europe EV sales leap as Iran war pushes up petrol pump prices - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYV9heDh6VEtBeDIydHFJV3NXZ0dsYVFweU9zUE1ibWlIU1hTMG9nWlRhVFZ1WU83ajY5aGl4ZS14T19xVnBsQkljTHB6U3RReGVvT3pFMzFoTXdpa21SMmZJZWZRQ3N1S1JEQWhMNGRTS2FDVTFfV2U5aGd6QVlQdHRZQmkta1dnSkdvUWVITXI1ckpJSDQwNVBsSGdzRUJXaWdBcGF1TmFrYUZaYmpJYWlPbTVSLTRGRzh6NnkwdGtYZw?oc=5",
-          "source": "Reuters"
+          "title": "Bond yields, oil fall amid hopes for Iran deal; stocks gain with Nvidia results ahead",
+          "url": "https://finance.yahoo.com/news/asian-stocks-fall-4th-day-020854458.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Europe's airlines say wars, red tape are holding them back as rivals streak ahead - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0ZwcTNrd3NfR0pRbzNLWjlRTFJNQXhMdGI5UkhpNDZULVUwc3NoVWN2WEQzVEpkVUNGS3hmQk5GWFNfNXJ5VG5IeDN3SVlDWk1qeklMVDlCRGtaMzRWRlVxYW5jenFFMXdrZjhwa1FPZXNCdGo4ZDZwdWVteWVRWVJnM2hncHVBUC1mbkpISnhTZ0l5Q2F2bjhZbHN4NTQwV05KRThwcno2eGx2Snc3UDVxa3cxY3hZSEllWmh3?oc=5",
-          "source": "Reuters"
+          "title": "Petrol hits highest price since start of Iran war - BBC",
+          "url": "https://www.bbc.com/news/articles/cdep64555wzo",
+          "source": "BBC News"
         }
       ],
       "is_new": false
     },
     {
       "name": "Trump",
-      "count": 19,
+      "count": 21,
       "sources": [
+        "Bitcoin World",
         "CNBC",
         "CoinDesk",
         "CoinTelegraph",
-        "CoinTurk News",
-        "Cointelegraph",
+        "Common Dreams",
         "MarketWatch",
         "Reuters",
         "The Block",
-        "Yahoo Entertainment"
+        "The Seattle Times",
+        "The Washington Post"
       ],
       "articles": [
+        {
+          "title": "Why Trump's bitcoin ETF plans likely collapsed before getting off the ground",
+          "url": "https://www.coindesk.com/markets/2026/05/20/why-trump-s-bitcoin-etf-plans-likely-collapsed-before-even-getting-off-the-ground",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Live markets: Crypto prices buoyed by Trump's 'final stages' remark",
+          "url": "https://www.coindesk.com/markets/2026/05/20/live-markets-crypto-prices-remain-flat-ahead-of-fomc-minutes-nvidia-earnings",
+          "source": "CoinDesk"
+        },
         {
           "title": "Despite Trump\u2019s pledge, a CBDC is being explored behind closed doors, says former CTFC chair",
           "url": "https://www.coindesk.com/business/2026/05/19/despite-trump-s-pledge-a-cbdc-is-being-explored-behind-closed-doors-says-former-ctfc-chair",
@@ -65,53 +86,36 @@
           "title": "US Senate advances resolution to curb Trump\u2019s Iran war powers",
           "url": "https://cointelegraph.com/news/us-senate-advances-resolution-to-end-trumps-iran-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "CoinTelegraph"
-        },
-        {
-          "title": "Trump-backed Truth Social pulls bids for crypto ETFs",
-          "url": "https://cointelegraph.com/news/trump-backed-truth-social-pulls-bids-for-crypto-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Oil prices decline after Trump reaffirmed he would end the war in Iran \u2018very quickly\u2019",
-          "url": "https://www.marketwatch.com/story/oil-prices-decline-after-trump-reaffirmed-he-would-end-the-war-in-iran-very-quickly-f5148dd4?mod=mw_rss_topstories",
-          "source": "MarketWatch"
         }
       ],
       "is_new": false
     },
     {
-      "name": "Iran",
-      "count": 18,
+      "name": "Reuters",
+      "count": 21,
       "sources": [
-        "Bitcoin World",
-        "CoinDesk",
-        "CoinTelegraph",
-        "Cointelegraph",
-        "Investing.Com Crypto Opinion and Analysis",
-        "Investing.com",
-        "MarketWatch",
         "Reuters"
       ],
       "articles": [
         {
-          "title": "Bitcoin, ether, XRP rebound as Senate curbs Trump's Iran war powers",
-          "url": "https://www.coindesk.com/markets/2026/05/20/bitcoin-ether-xrp-rebound-as-senate-curbs-trump-s-iran-war-powers",
-          "source": "CoinDesk"
+          "title": "Trump says negotiations with Iran in final stages, warns of attacks if deal fails - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbGtCOC1FeFNhRG9yNTFpSUMzVVFkN2JFRXJSWGhTLUZ4SE1ueklHTzB2cEdSWGZOTy0ycE9pQkFKNDl0SHY5Y1p0UHIxdGxqZG0wX3FjS1VZZFFmcnZzU18xczQ1eUk4VGJWelp1blVYNjJMOFd6elZ2NWMxQlNqMlo1SUV0TkF0RlhFeWpyWTU0czUwM2JLLW1pUDFfQTZWUnRRNmUta1p5ckhBb2hmM2RCcDg?oc=5",
+          "source": "Reuters"
         },
         {
-          "title": "US Senate advances resolution to curb Trump\u2019s Iran war powers",
-          "url": "https://cointelegraph.com/news/us-senate-advances-resolution-to-end-trumps-iran-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
+          "title": "'Am I out?' Drought and rising costs from Iran war deepen pain for US farmers - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUjd6MUMtT2xpUUFRV0QxUjN6TkJFQ0pxQnBrX2t3aUVlcmJHaUZmYjRSdzE2NU1jZHdjYWV0a2tBWDJSY01hWFFRd1ZSRHF2a3lxYkh4V2RoZXJCY3l5RXUyUi1mcVNzZnRPVjlSYWFPNUZYOGNQYWJzcEU1QV9lSVZnM1JiZ3ZLMGVvOVpfYnpCOEljMHczRk1mM3gtdnFNUG1LU1RZNVJCc2JvRGgtcFJlZDVEUXdzTmc?oc=5",
+          "source": "Reuters"
         },
         {
-          "title": "Oil prices decline after Trump reaffirmed he would end the war in Iran \u2018very quickly\u2019",
-          "url": "https://www.marketwatch.com/story/oil-prices-decline-after-trump-reaffirmed-he-would-end-the-war-in-iran-very-quickly-f5148dd4?mod=mw_rss_topstories",
-          "source": "MarketWatch"
+          "title": "Tankers exit Strait of Hormuz with 6 million barrels of crude oil - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXNrRTVhT0c5MGxfUmJneWZOYWpMblUyU2pHRFUzS1czM1ZWaTY5XzVCcHZKUzZnMnBpZ2wydzdSSS1uNExYd21adTY2QlkwODBIUmNpeHBtTG1rblN5dzJOUkxjLVFzYV9xQUctWmxXcWNJTTdNVGpCbnlqYkZTQW5RN084YTU2QklES3VuX21kTUJBR2Y5akFzOFBUd3BEVE5HdkYwdk5wSktsS2pvZHM5QUwtSUhONkNqQ0UweE1fNWN0emdQZTZR?oc=5",
+          "source": "Reuters"
         },
         {
-          "title": "Iran threatens war \u2019beyond the region\u2019 if US attacks",
-          "url": "https://www.investing.com/news/world-news/tankers-exit-hormuz-as-trump-vance-talk-up-iran-deal-prospects-4700173",
-          "source": "Investing.com"
+          "title": "Germany will deploy Patriot air defence system to southeast Turkey, Ankara says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaUxaRzBNMkptc2lkM0V2LUN0WUpCVWtXMllPTDJrUHVyX2Z4S2hqOHd3c1ZsUzJfTzJaZnNRVDdpdkt3SGtfSThpT05xWkNieXFLR1B3eHdROGlsNE1HSGVhY3hjem5sYkFYRjhqVWdfMnFDWm9yazhzcnVuT0wtS0k0YldxSjNWLWhicjg2OUxNZ2tuMDF0UEY4U3RQUVMxRFRKSktqYkpKTW44M3Ryb0JkeTdaT2p5WmdMOHdaS3ZDM25rRFgyMw?oc=5",
+          "source": "Reuters"
         },
         {
           "title": "Qatar Airways works to rebuild global network after Iran war hits profit - Reuters",
@@ -123,31 +127,14 @@
     },
     {
       "name": "China",
-      "count": 12,
+      "count": 9,
       "sources": [
         "CNBC",
-        "CoinDesk",
         "Hacker News",
-        "Investing.com",
         "Reuters",
-        "Yahoo Finance"
+        "Tipranks.com"
       ],
       "articles": [
-        {
-          "title": "The U.S. can\u2019t lose the bitcoin race to China",
-          "url": "https://www.coindesk.com/opinion/2026/05/19/the-u-s-can-t-lose-the-bitcoin-race-to-china",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Morgan Stanley asks bankers to carry a separate phone for China trips, source says",
-          "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-asks-bankers-to-carry-a-separate-phone-for-china-trips-source-says-4701136",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Morgan Stanley asks bankers to carry a separate phone for China trips, source says",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/morgan-stanley-asks-bankers-carry-114351176.html",
-          "source": "Yahoo Finance"
-        },
         {
           "title": "China confirms order for 200 Boeing planes, calls aviation key area for U.S. cooperation",
           "url": "https://www.cnbc.com/2026/05/20/china-confirms-200-boeing-aircraft-order.html",
@@ -157,66 +144,38 @@
           "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit?",
           "url": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
           "source": "CNBC"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "Bitcoin",
-      "count": 8,
-      "sources": [
-        "Bitcoin World",
-        "CoinDesk",
-        "CoinTelegraph",
-        "Cointelegraph",
-        "Crypto Potato",
-        "Hacker News"
-      ],
-      "articles": [
-        {
-          "title": "Bitcoin is falling, bond yields are rising. Yet BTC\u2019s implied volatility, an uncertainty gauge, remains low.",
-          "url": "https://www.coindesk.com/markets/2026/05/20/bitcoin-is-falling-bond-yields-are-rising-yet-btc-s-implied-volatility-an-uncertainty-gauge-remains-low",
-          "source": "CoinDesk"
         },
         {
-          "title": "Data shows Bitcoin dip buyers waiting for lower prices: Is $70K BTC\u2019s next stop?",
-          "url": "https://cointelegraph.com/markets/bitcoin-traders-may-look-for-deeper-pullback-zones?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
+          "title": "White House touts deals on soybeans and rare earths after Trump-Xi summit, while China talks up tariff cuts",
+          "url": "https://www.cnbc.com/2026/05/18/us-china-announce-deals-after-trump-xi-summit.html",
+          "source": "CNBC"
         },
         {
-          "title": "As Russia invaded Ukraine, Bitcoin plunged \u2013 here's what crypto experts said",
-          "url": "https://markets.businessinsider.com/news/currencies/bitcoin-ethereum-blockchain-ukraine-russia-war-conflict-europe-america-china-2022-2",
+          "title": "Ethereum is top public blockchain, Bitcoin No. 13 in China's new index",
+          "url": "https://www.reuters.com/article/us-crypto-currency-index/ethereum-is-top-public-blockchain-bitcoin-no-13-in-chinas-new-index-idUSKCN1II2R9?il=0",
           "source": "Hacker News"
         },
         {
-          "title": "Bitcoin is dead, but it was a good try",
-          "url": "https://news.ycombinator.com/item?id=39155402",
+          "title": "Ethereum is top public blockchain, Bitcoin No. 13 in China's new index",
+          "url": "https://www.reuters.com/article/us-crypto-currency-index/ethereum-is-top-public-blockchain-bitcoin-no-13-in-chinas-new-index-idUSKCN1II2R9",
           "source": "Hacker News"
-        },
-        {
-          "title": "Bitcoin is falling, bond yields are rising. Yet BTC\u2019s implied volatility, an uncertainty gauge, remains low.",
-          "url": "https://www.coindesk.com/markets/2026/05/20/bitcoin-is-falling-bond-yields-are-rising-yet-btc-s-implied-volatility-an-uncertainty-gauge-remains-low",
-          "source": "CoinDesk"
         }
       ],
       "is_new": false
     },
     {
       "name": "Fed",
-      "count": 7,
+      "count": 8,
       "sources": [
         "CNBC",
-        "CoinDesk",
         "CoinTelegraph",
         "Cointelegraph",
-        "The Block"
+        "The Block",
+        "The Washington Post",
+        "TheStreet",
+        "Yahoo Entertainment"
       ],
       "articles": [
-        {
-          "title": "Trump orders government, Fed to review crypto firms' access to payment rails",
-          "url": "https://www.coindesk.com/policy/2026/05/19/trump-orders-government-fed-to-review-crypto-firms-access-to-payment-rails",
-          "source": "CoinDesk"
-        },
         {
           "title": "Trump orders review of fintech firms' access to Fed payment services",
           "url": "https://cointelegraph.com/news/trump-review-crypto-access-federal-reserve-payment-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -236,130 +195,101 @@
           "title": "Trump orders Fed to review giving crypto firms access to master accounts",
           "url": "https://www.theblock.co/post/401953/trump-orders-fed-master-account?utm_source=rss&utm_medium=rss",
           "source": "The Block"
+        },
+        {
+          "title": "Forget tariffs and the Iran oil shock\u2014a top economist says the Fed is blind to the real inflation threat - Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/forget-tariffs-iran-oil-shock-070000349.html",
+          "source": "Yahoo Entertainment"
         }
       ],
       "is_new": false
     },
     {
-      "name": "U.S.",
-      "count": 6,
+      "name": "Bitcoin",
+      "count": 7,
       "sources": [
-        "CNBC",
-        "CoinDesk",
-        "Seeking Alpha"
+        "CoinTelegraph",
+        "Cointelegraph",
+        "CryptoSlate",
+        "Hacker News"
       ],
       "articles": [
         {
-          "title": "Pan-European stablecoin effort expands to 37 lenders in push back against U.S. dollar dominance",
-          "url": "https://www.coindesk.com/business/2026/05/20/pan-european-stablecoin-effort-expands-to-37-lenders-in-push-back-against-u-s-dollar-dominance",
-          "source": "CoinDesk"
+          "title": "This Bitcoin price model targets \u2018conservative\u2019 $255K by year-end",
+          "url": "https://cointelegraph.com/markets/this-bitcoin-price-model-targets-conservative-255k-by-year-end?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
         },
         {
-          "title": "The U.S. can\u2019t lose the bitcoin race to China",
-          "url": "https://www.coindesk.com/opinion/2026/05/19/the-u-s-can-t-lose-the-bitcoin-race-to-china",
-          "source": "CoinDesk"
+          "title": "Bitcoin\u2019s momentum is fading: Traders have these support levels in mind",
+          "url": "https://cointelegraph.com/markets/bitcoins-momentum-is-fading-traders-have-these-support-levels-in-mind?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
         },
         {
-          "title": "China confirms order for 200 Boeing planes, calls aviation key area for U.S. cooperation",
-          "url": "https://www.cnbc.com/2026/05/20/china-confirms-200-boeing-aircraft-order.html",
-          "source": "CNBC"
+          "title": "As Russia invaded Ukraine, Bitcoin plunged \u2013 here's what crypto experts said",
+          "url": "https://markets.businessinsider.com/news/currencies/bitcoin-ethereum-blockchain-ukraine-russia-war-conflict-europe-america-china-2022-2",
+          "source": "Hacker News"
         },
         {
-          "title": "U.S. Health Insurers Raise EPS Estimates After Strong Q1'26, Higher Medicare Rates",
-          "url": "https://seekingalpha.com/article/4906969-us-health-insurers-raise-eps-estimates-after-strong-q126-higher-medicare-rates?source=feed_all_articles",
-          "source": "Seeking Alpha"
+          "title": "Bitcoin is dead, but it was a good try",
+          "url": "https://news.ycombinator.com/item?id=39155402",
+          "source": "Hacker News"
         },
         {
-          "title": "Pan-European stablecoin effort expands to 37 lenders in push back against U.S. dollar dominance",
-          "url": "https://www.coindesk.com/business/2026/05/20/pan-european-stablecoin-effort-expands-to-37-lenders-in-push-back-against-u-s-dollar-dominance",
-          "source": "CoinDesk"
+          "title": "Recent Bitcoin holders sell $770M BTC at a loss amid $65K BTC price calls",
+          "url": "https://cointelegraph.com/markets/recent-bitcoin-holders-sell-770m-btc-at-a-loss-amid-65k-btc-price-calls",
+          "source": "Cointelegraph"
         }
       ],
       "is_new": false
     },
     {
-      "name": "SEC",
+      "name": "South Carolina",
       "count": 6,
       "sources": [
-        "CoinDesk",
-        "CryptoSlate",
+        "CoinTelegraph",
+        "CoinTurk News",
+        "Cointelegraph",
         "Decrypt",
         "The Block",
-        "pymnts.com"
+        "U.Today"
       ],
       "articles": [
         {
-          "title": "The SEC wants to let newly public companies raise cash instantly in its biggest rule change in decades",
-          "url": "https://www.coindesk.com/markets/2026/05/19/the-sec-wants-to-let-newly-public-companies-raise-cash-instantly-in-its-biggest-rule-change-in-decades",
-          "source": "CoinDesk"
+          "title": "South Carolina governor signs bill protecting Bitcoin miners, banning CBDC",
+          "url": "https://cointelegraph.com/news/south-carolina-governor-signs-bill-protecting-bitcoin-miners-banning-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
         },
         {
-          "title": "Trump\u2019s Truth Social withdraws bitcoin ETF application from SEC",
-          "url": "https://www.theblock.co/post/401946/truth-social-withdraws-bitcoin-etf?utm_source=rss&utm_medium=rss",
+          "title": "South Carolina Governor signs pro-crypto, anti-CBDC bill into law",
+          "url": "https://www.theblock.co/post/401965/south-carolina-governor-signs-pro-crypto-bill?utm_source=rss&utm_medium=rss",
           "source": "The Block"
         },
         {
-          "title": "Morning Minute: SEC Reverses Course on Tokenized Stocks, HYPE Soars",
-          "url": "https://decrypt.co/368317/morning-minute-sec-reverses-course-on-tokenized-stocks-hype-soars",
+          "title": "South Carolina Passes Law Banning CBDCs While Protecting Crypto Users, Bitcoin Miners",
+          "url": "https://decrypt.co/368455/south-carolina-law-banning-cbdc-protecting-crypto-users-bitcoin-miners",
           "source": "Decrypt"
         },
         {
-          "title": "Morning Minute: SEC Reverses Course on Tokenized Stocks, HYPE Soars",
-          "url": "https://decrypt.co/368317/morning-minute-sec-reverses-course-on-tokenized-stocks-hype-soars",
-          "source": "Decrypt"
+          "title": "South Carolina governor signs bill protecting Bitcoin miners, banning CBDC",
+          "url": "https://cointelegraph.com/news/south-carolina-governor-signs-bill-protecting-bitcoin-miners-banning-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
         },
         {
-          "title": "SEC Developing Framework to Permit Tokenized Stocks",
-          "url": "https://www.pymnts.com/blockchain/2026/sec-developing-framework-to-permit-tokenized-stocks/",
-          "source": "pymnts.com"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "K33",
-      "count": 5,
-      "sources": [
-        "Bitcoin World",
-        "CoinDesk",
-        "CoinOtag",
-        "The Block"
-      ],
-      "articles": [
-        {
-          "title": "This bitcoin bear market is different with 'uniquely pessimistic' traders limiting downside, K33 says",
-          "url": "https://www.coindesk.com/markets/2026/05/19/this-bitcoin-bear-market-is-different-with-uniquely-pessimistic-traders-limiting-downside-k33-says",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "\u2018Not all 200-day moving averages are equal\u2019: K33 argues February\u2019s $60K low still marks cycle\u2019s maximum drawdown",
-          "url": "https://www.theblock.co/post/401991/not-all-200-day-moving-averages-are-equal-k33-argues-februarys-60k-low-still-marks-cycles-maximum-drawdown?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
-        },
-        {
-          "title": "This bitcoin bear market is different with 'uniquely pessimistic' traders limiting downside, K33 says",
-          "url": "https://www.coindesk.com/markets/2026/05/19/this-bitcoin-bear-market-is-different-with-uniquely-pessimistic-traders-limiting-downside-k33-says",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Bitcoin\u2019s $60K February Low Was the Cycle Bottom, K33 Analyst Says",
-          "url": "https://bitcoinworld.co.in/bitcoin-60k-february-low-cycle-bottom-k33-analyst/",
-          "source": "Bitcoin World"
-        },
-        {
-          "title": "UK Crypto Hub Stalls, K33 Defends $60K Bitcoin Bottom, KuCoin Eyes Institutional Award",
-          "url": "https://en.coinotag.com/uk-crypto-hub-stalls-k33-bitcoin-60k-bottom-kucoin-institutional-trading",
-          "source": "CoinOtag"
+          "title": "South Carolina blocks CBDC, protects crypto mining in 2024 law",
+          "url": "https://en.coin-turk.com/south-carolina-blocks-cbdc-protects-crypto-mining-in-2024-law/",
+          "source": "CoinTurk News"
         }
       ],
       "is_new": true
     },
     {
       "name": "HYPE",
-      "count": 5,
+      "count": 6,
       "sources": [
         "CoinTelegraph",
         "Cointelegraph",
+        "Crypto Briefing",
+        "Cryptopolitan",
         "Decrypt",
         "The Block"
       ],
@@ -375,14 +305,14 @@
           "source": "The Block"
         },
         {
-          "title": "Morning Minute: SEC Reverses Course on Tokenized Stocks, HYPE Soars",
-          "url": "https://decrypt.co/368317/morning-minute-sec-reverses-course-on-tokenized-stocks-hype-soars",
+          "title": "HYPE Surges 101% This Year: What\u2019s Driving Hyperliquid\u2019s Growth?",
+          "url": "https://decrypt.co/368443/hype-surges-101-this-year-whats-driving-hyperliquids-growth",
           "source": "Decrypt"
         },
         {
-          "title": "Morning Minute: SEC Reverses Course on Tokenized Stocks, HYPE Soars",
-          "url": "https://decrypt.co/368317/morning-minute-sec-reverses-course-on-tokenized-stocks-hype-soars",
-          "source": "Decrypt"
+          "title": "HYPE hits highest level since October near $48 as Bitwise CIO calls Hyperliquid a super app",
+          "url": "https://cryptobriefing.com/hyperliquid-super-app-rise/",
+          "source": "Crypto Briefing"
         },
         {
           "title": "Bitwise calls HYPE \u2018most mispriced\u2019 crypto despite 77% rise this year",
@@ -393,88 +323,13 @@
       "is_new": true
     },
     {
-      "name": "Minnesota",
-      "count": 5,
-      "sources": [
-        "CoinTelegraph",
-        "Cointelegraph",
-        "Decrypt",
-        "The Block",
-        "Yahoo Entertainment"
-      ],
-      "articles": [
-        {
-          "title": "CFTC sues Minnesota, Governor Tim Walz over prediction markets ban",
-          "url": "https://cointelegraph.com/news/cftc-lawsuit-minnesota-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "CFTC sues Minnesota over first explicit state ban on prediction markets",
-          "url": "https://www.theblock.co/post/401917/cftc-sues-minnesota-first-explicit-state-ban-prediction-markets?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
-        },
-        {
-          "title": "Minnesota Bans Prediction Markets\u2014And Is Sued By the Trump Admin Hours Later",
-          "url": "https://decrypt.co/368406/minnesota-bans-prediction-markets-sued-trump-admin-hours-later",
-          "source": "Decrypt"
-        },
-        {
-          "title": "Minnesota Gives Banks Crypto Custody Powers As States Build Their Own Rules",
-          "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_2b05759e-05c5-4bab-aac5-c3ef3225abfc",
-          "source": "Yahoo Entertainment"
-        },
-        {
-          "title": "CFTC sues Minnesota, Governor Tim Walz over prediction markets ban",
-          "url": "https://cointelegraph.com/news/cftc-lawsuit-minnesota-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Nvidia",
-      "count": 5,
-      "sources": [
-        "CNBC",
-        "Investing.com",
-        "Yahoo Finance"
-      ],
-      "articles": [
-        {
-          "title": "Wall Street futures climb as chip stocks rebound ahead of Nvidia results",
-          "url": "https://www.investing.com/news/stock-market-news/us-stock-futures-climb-as-chip-stocks-rebound-ahead-of-nvidia-results-4700711",
-          "source": "Investing.com"
-        },
-        {
-          "title": "Stock market today: Dow, S&P 500, Nasdaq futures rise in countdown to Nvidia earnings",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-futures-rise-in-countdown-to-nvidia-earnings-222757872.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Intel, Micron, and other semiconductor stocks extend bounce ahead of Nvidia earnings",
-          "url": "https://finance.yahoo.com/markets/article/intel-micron-and-other-semiconductor-stocks-extend-bounce-ahead-of-nvidia-earnings-114957534.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit?",
-          "url": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit? - CNBC",
-          "url": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
-          "source": "CNBC"
-        }
-      ],
-      "is_new": false
-    },
-    {
       "name": "CBDC",
-      "count": 4,
+      "count": 5,
       "sources": [
         "CoinDesk",
         "CoinTelegraph",
-        "CoinTurk News"
+        "CoinTurk News",
+        "Cointelegraph"
       ],
       "articles": [
         {
@@ -488,13 +343,18 @@
           "source": "CoinTelegraph"
         },
         {
+          "title": "South Carolina governor signs bill protecting Bitcoin miners, banning CBDC",
+          "url": "https://cointelegraph.com/news/south-carolina-governor-signs-bill-protecting-bitcoin-miners-banning-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
           "title": "Despite Trump\u2019s pledge, a CBDC is being explored behind closed doors, says former CTFC chair",
           "url": "https://www.coindesk.com/business/2026/05/19/despite-trump-s-pledge-a-cbdc-is-being-explored-behind-closed-doors-says-former-ctfc-chair",
           "source": "CoinDesk"
         },
         {
-          "title": "Trump opposes CBDC as US quietly advances digital dollar",
-          "url": "https://en.coin-turk.com/trump-opposes-cbdc-as-us-quietly-advances-digital-dollar/",
+          "title": "South Carolina blocks CBDC, protects crypto mining in 2024 law",
+          "url": "https://en.coin-turk.com/south-carolina-blocks-cbdc-protects-crypto-mining-in-2024-law/",
           "source": "CoinTurk News"
         }
       ],
@@ -502,8 +362,338 @@
     },
     {
       "name": "Singapore",
+      "count": 5,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Singapore revokes crypto payment license of Bsquared over regulatory breaches",
+          "url": "https://cointelegraph.com/news/singapore-revokes-crypto-payment-licence-of-bsquared-over-regulatory-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "OpenAI launches overseas AI lab in Singapore with $234M commitment",
+          "url": "https://cointelegraph.com/news/openai-launches-overseas-ai-lab-singapore-234m-commitment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Meta begins 8K global job cuts, starting in Singapore",
+          "url": "https://cointelegraph.com/news/meta-begins-its-8000-job-cut-starting-in-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Singapore revokes crypto payment license of Bsquared over regulatory breaches",
+          "url": "https://cointelegraph.com/news/singapore-revokes-crypto-payment-licence-of-bsquared-over-regulatory-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "OpenAI launches overseas AI lab in Singapore with $234M commitment",
+          "url": "https://cointelegraph.com/news/openai-launches-overseas-ai-lab-singapore-234m-commitment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Nvidia",
+      "count": 5,
+      "sources": [
+        "CNBC",
+        "CoinDesk",
+        "Investing.com",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "European stocks rise as Nvidia earnings release, inflation fears loom large",
+          "url": "https://www.investing.com/news/stock-market-news/european-stocks-tick-lower-as-nvidia-earnings-release-inflation-fears-loom-large-4700309",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Bond yields, oil fall amid hopes for Iran deal; stocks gain with Nvidia results ahead",
+          "url": "https://www.investing.com/news/economy-news/asian-stocks-fall-for-4th-day-as-higher-yields-bite-all-eyes-on-nvidia-results-4700139",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Bond yields, oil fall amid hopes for Iran deal; stocks gain with Nvidia results ahead",
+          "url": "https://finance.yahoo.com/news/asian-stocks-fall-4th-day-020854458.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit?",
+          "url": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Live markets: Crypto prices remain flat ahead of FOMC minutes, Nvidia earnings",
+          "url": "https://www.coindesk.com/markets/2026/05/20/live-markets-crypto-prices-remain-flat-ahead-of-fomc-minutes-nvidia-earnings",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "U.S.",
       "count": 4,
       "sources": [
+        "CNBC",
+        "CoinDesk",
+        "Investing.com"
+      ],
+      "articles": [
+        {
+          "title": "Pan-European stablecoin effort expands to 37 lenders in push back against U.S. dollar dominance",
+          "url": "https://www.coindesk.com/business/2026/05/20/pan-european-stablecoin-effort-expands-to-37-lenders-in-push-back-against-u-s-dollar-dominance",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "AI financing fueling a surge in U.S. convertible bond sales",
+          "url": "https://www.investing.com/news/economy-news/ai-financing-fueling-a-surge-in-us-convertible-bond-sales-4700667",
+          "source": "Investing.com"
+        },
+        {
+          "title": "China confirms order for 200 Boeing planes, calls aviation key area for U.S. cooperation",
+          "url": "https://www.cnbc.com/2026/05/20/china-confirms-200-boeing-aircraft-order.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Pan-European stablecoin effort expands to 37 lenders in push back against U.S. dollar dominance",
+          "url": "https://www.coindesk.com/business/2026/05/20/pan-european-stablecoin-effort-expands-to-37-lenders-in-push-back-against-u-s-dollar-dominance",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "XRP",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "Coinpaper",
+        "Crypto Briefing",
+        "Finbold"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin, ether, XRP rebound as Senate curbs Trump's Iran war powers",
+          "url": "https://www.coindesk.com/markets/2026/05/20/bitcoin-ether-xrp-rebound-as-senate-curbs-trump-s-iran-war-powers",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Flare integrates D\u2019CENT hardware wallets with XRP yield vaults, launches XRP Alliance",
+          "url": "https://cryptobriefing.com/flare-dcent-xrp-yield-vaults-alliance/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "While Crypto Funds Bled by $1.07B Due to Iran-Linked Risk-Off, XRP Defied the Odds Pulling in $67.6M",
+          "url": "https://coinpaper.com/17170/while-crypto-funds-bled-by-1-07-b-due-to-iran-linked-risk-off-xrp-defied-the-odds-pulling-in-67-6-m",
+          "source": "Coinpaper"
+        },
+        {
+          "title": "Goldman Sachs dumped over $1 billion in XRP, ETH & BTC \u2013 but bought this crypto",
+          "url": "https://finbold.com/goldman-sachs-dumped-over-1-billion-in-xrp-eth-btc-but-bought-this-crypto/",
+          "source": "Finbold"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "J.P. Morgan 54th Annual Global Technology",
+      "count": 4,
+      "sources": [
+        "Seeking Alpha"
+      ],
+      "articles": [
+        {
+          "title": "ACV Auctions Inc. (ACVA) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
+          "url": "https://seekingalpha.com/article/4907084-acv-auctions-inc-acva-presents-at-j-p-morgan-54th-annual-global-technology-media-and?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Sinclair, Inc. (SBGI) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
+          "url": "https://seekingalpha.com/article/4907082-sinclair-inc-sbgi-presents-at-j-p-morgan-54th-annual-global-technology-media-and?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Microchip Technology Incorporated (MCHP) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
+          "url": "https://seekingalpha.com/article/4907123-microchip-technology-incorporated-mchp-presents-at-j-p-morgan-54th-annual-global-technology?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "NXP Semiconductors N.V. (NXPI) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
+          "url": "https://seekingalpha.com/article/4907075-nxp-semiconductors-n-v-nxpi-presents-at-j-p-morgan-54th-annual-global-technology-media-and?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Media and Communications Conference Transcript",
+      "count": 4,
+      "sources": [
+        "Seeking Alpha"
+      ],
+      "articles": [
+        {
+          "title": "ACV Auctions Inc. (ACVA) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
+          "url": "https://seekingalpha.com/article/4907084-acv-auctions-inc-acva-presents-at-j-p-morgan-54th-annual-global-technology-media-and?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Sinclair, Inc. (SBGI) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
+          "url": "https://seekingalpha.com/article/4907082-sinclair-inc-sbgi-presents-at-j-p-morgan-54th-annual-global-technology-media-and?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "Microchip Technology Incorporated (MCHP) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
+          "url": "https://seekingalpha.com/article/4907123-microchip-technology-incorporated-mchp-presents-at-j-p-morgan-54th-annual-global-technology?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        },
+        {
+          "title": "NXP Semiconductors N.V. (NXPI) Presents at J.P. Morgan 54th Annual Global Technology, Media and Communications Conference Transcript",
+          "url": "https://seekingalpha.com/article/4907075-nxp-semiconductors-n-v-nxpi-presents-at-j-p-morgan-54th-annual-global-technology-media-and?source=feed_all_articles",
+          "source": "Seeking Alpha"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "ETF",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Why Trump's bitcoin ETF plans likely collapsed before getting off the ground",
+          "url": "https://www.coindesk.com/markets/2026/05/20/why-trump-s-bitcoin-etf-plans-likely-collapsed-before-even-getting-off-the-ground",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Trump\u2019s Truth Social withdraws bitcoin ETF application from SEC",
+          "url": "https://www.theblock.co/post/401946/truth-social-withdraws-bitcoin-etf?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Why Trump's bitcoin ETF plans likely collapsed before getting off the ground",
+          "url": "https://www.coindesk.com/markets/2026/05/20/why-trump-s-bitcoin-etf-plans-likely-collapsed-before-even-getting-off-the-ground",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Vitalik Buterin",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Vitalik Buterin outlines Ethereum's privacy measures. Here is what it means for the network and ETH",
+          "url": "https://www.coindesk.com/tech/2026/05/20/vitalik-buterin-outlines-ethereum-s-privacy-measures-here-is-what-it-means-for-the-network-and-eth",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "A viral hedgehog, Vitalik Buterin, and a bow: the GraphDex launch that crypto won't forget",
+          "url": "https://cointelegraph.com/press-releases/a-viral-hedgehog-vitalik-buterin-and-a-bow-the-graphdex-launch-that-crypto-wont-forget",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Vitalik Buterin outlines Ethereum's privacy measures. Here is what it means for the network and ETH",
+          "url": "https://www.coindesk.com/tech/2026/05/20/vitalik-buterin-outlines-ethereum-s-privacy-measures-here-is-what-it-means-for-the-network-and-eth",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "ETH",
+      "count": 3,
+      "sources": [
+        "Bitcoin World",
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Vitalik Buterin outlines Ethereum's privacy measures. Here is what it means for the network and ETH",
+          "url": "https://www.coindesk.com/tech/2026/05/20/vitalik-buterin-outlines-ethereum-s-privacy-measures-here-is-what-it-means-for-the-network-and-eth",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Vitalik Buterin outlines Ethereum's privacy measures. Here is what it means for the network and ETH",
+          "url": "https://www.coindesk.com/tech/2026/05/20/vitalik-buterin-outlines-ethereum-s-privacy-measures-here-is-what-it-means-for-the-network-and-eth",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "K3 Capital-linked address withdraws $16.8M in ETH from Binance, on-chain data shows",
+          "url": "https://bitcoinworld.co.in/k3-capital-eth-withdrawal-binance/",
+          "source": "Bitcoin World"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Germany",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Germany's AllUnity plans Swedish krona stablecoin, pushes into AI agentic payments",
+          "url": "https://www.coindesk.com/business/2026/05/20/germany-s-allunity-plans-swedish-krona-stablecoin-pushes-into-ai-agentic-payments",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Germany will deploy Patriot air defence system to southeast Turkey, Ankara says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaUxaRzBNMkptc2lkM0V2LUN0WUpCVWtXMllPTDJrUHVyX2Z4S2hqOHd3c1ZsUzJfTzJaZnNRVDdpdkt3SGtfSThpT05xWkNieXFLR1B3eHdROGlsNE1HSGVhY3hjem5sYkFYRjhqVWdfMnFDWm9yazhzcnVuT0wtS0k0YldxSjNWLWhicjg2OUxNZ2tuMDF0UEY4U3RQUVMxRFRKSktqYkpKTW44M3Ryb0JkeTdaT2p5WmdMOHdaS3ZDM25rRFgyMw?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Germany's AllUnity plans Swedish krona stablecoin, pushes into AI agentic payments",
+          "url": "https://www.coindesk.com/business/2026/05/20/germany-s-allunity-plans-swedish-krona-stablecoin-pushes-into-ai-agentic-payments",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "AllUnity",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Germany's AllUnity plans Swedish krona stablecoin, pushes into AI agentic payments",
+          "url": "https://www.coindesk.com/business/2026/05/20/germany-s-allunity-plans-swedish-krona-stablecoin-pushes-into-ai-agentic-payments",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "AllUnity plans Swedish krona stablecoin, launches agentic payments infrastructure",
+          "url": "https://www.theblock.co/post/402027/allunity-plans-swedish-krona-stablecoin-launches-agentic-payments-infrastructure?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Germany's AllUnity plans Swedish krona stablecoin, pushes into AI agentic payments",
+          "url": "https://www.coindesk.com/business/2026/05/20/germany-s-allunity-plans-swedish-krona-stablecoin-pushes-into-ai-agentic-payments",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "OpenAI",
+      "count": 3,
+      "sources": [
+        "Bitcoin World",
         "CoinTelegraph",
         "Cointelegraph"
       ],
@@ -514,187 +704,14 @@
           "source": "CoinTelegraph"
         },
         {
-          "title": "Meta begins 8K global job cuts, starting in Singapore",
-          "url": "https://cointelegraph.com/news/meta-begins-its-8000-job-cut-starting-in-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
           "title": "OpenAI launches overseas AI lab in Singapore with $234M commitment",
           "url": "https://cointelegraph.com/news/openai-launches-overseas-ai-lab-singapore-234m-commitment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "Cointelegraph"
         },
         {
-          "title": "Meta begins 8K global job cuts, starting in Singapore",
-          "url": "https://cointelegraph.com/news/meta-begins-its-8000-job-cut-starting-in-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Solana",
-      "count": 4,
-      "sources": [
-        "CoinTelegraph",
-        "Cointelegraph",
-        "Hacker News",
-        "Investing.Com Crypto Opinion and Analysis"
-      ],
-      "articles": [
-        {
-          "title": "Solana futures funding rate turns negative: Is $78 SOL next?",
-          "url": "https://cointelegraph.com/markets/solana-futures-funding-rate-turns-negative-is-a-drop-to-78-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Solana Developers Release Software Update to Alleviate Network Congestion",
-          "url": "https://news.ycombinator.com/item?id=40068258",
-          "source": "Hacker News"
-        },
-        {
-          "title": "Solana futures funding rate turns negative: Is $78 SOL next?",
-          "url": "https://cointelegraph.com/markets/solana-futures-funding-rate-turns-negative-is-a-drop-to-78-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        },
-        {
-          "title": "Solana Analysis: Price Tests a Fragile Recovery as Bulls Defend the Mid-$80s",
-          "url": "https://www.investing.com/analysis/solana-analysis-price-tests-a-fragile-recovery-as-bulls-defend-the-mid80s-200680500",
-          "source": "Investing.Com Crypto Opinion and Analysis"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "CFTC",
-      "count": 4,
-      "sources": [
-        "CoinTelegraph",
-        "Cointelegraph",
-        "Reuters",
-        "The Block"
-      ],
-      "articles": [
-        {
-          "title": "CFTC sues Minnesota, Governor Tim Walz over prediction markets ban",
-          "url": "https://cointelegraph.com/news/cftc-lawsuit-minnesota-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "CFTC sues Minnesota over first explicit state ban on prediction markets",
-          "url": "https://www.theblock.co/post/401917/cftc-sues-minnesota-first-explicit-state-ban-prediction-markets?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
-        },
-        {
-          "title": "US CFTC probes spike in oil futures trading before Trump postponed Iran strikes, WSJ reports - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU2lfM3dDd3V3NTRuT0VBUTk0aFR4SlZOX0prRTEtQXlEckwtbVVlZ01jRlo4bWJ6TzlIam85cmdLVGdReXRvd3dsaFZNWDNiNG56cDVrb1l4WEpFdFZKYTM3b3M5MGNYWTJLYS1TNzMyVFRuSnZWMFpvYXhMUG5TOU9WVjZNS002WllvRmQyUkxsWGJCWEpKVE1RMFlTbXNaMUs0bWNDeGxuUUdiWEgwMy1QVDZMRkQ1SklNc0Z1N2ljVUEtRzVBeElQUDk?oc=5",
-          "source": "Reuters"
-        },
-        {
-          "title": "CFTC sues Minnesota, Governor Tim Walz over prediction markets ban",
-          "url": "https://cointelegraph.com/news/cftc-lawsuit-minnesota-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Telegram",
-      "count": 3,
-      "sources": [
-        "CoinDesk"
-      ],
-      "articles": [
-        {
-          "title": "Telegram group at center of Jane Street insider-trading allegations in Terra collapse",
-          "url": "https://www.coindesk.com/policy/2026/05/20/telegram-group-at-center-of-jane-street-insider-trading-allegations-in-terra-collapse",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Telegram group at center of Jane Street insider-trading allegations in Terra collapse",
-          "url": "https://www.coindesk.com/policy/2026/05/20/telegram-group-at-center-of-jane-street-insider-trading-allegations-in-terra-collapse",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Telegram group at center of Jane Street insider-trading allegations in Terra collapse",
-          "url": "https://www.coindesk.com/policy/2026/05/20/telegram-group-at-center-of-jane-street-insider-trading-allegations-in-terra-collapse",
-          "source": "CoinDesk"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Terra",
-      "count": 3,
-      "sources": [
-        "CoinDesk"
-      ],
-      "articles": [
-        {
-          "title": "Telegram group at center of Jane Street insider-trading allegations in Terra collapse",
-          "url": "https://www.coindesk.com/policy/2026/05/20/telegram-group-at-center-of-jane-street-insider-trading-allegations-in-terra-collapse",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Telegram group at center of Jane Street insider-trading allegations in Terra collapse",
-          "url": "https://www.coindesk.com/policy/2026/05/20/telegram-group-at-center-of-jane-street-insider-trading-allegations-in-terra-collapse",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Telegram group at center of Jane Street insider-trading allegations in Terra collapse",
-          "url": "https://www.coindesk.com/policy/2026/05/20/telegram-group-at-center-of-jane-street-insider-trading-allegations-in-terra-collapse",
-          "source": "CoinDesk"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "XRP",
-      "count": 3,
-      "sources": [
-        "24/7 Wall St.",
-        "CoinDesk"
-      ],
-      "articles": [
-        {
-          "title": "Bitcoin, ether, XRP rebound as Senate curbs Trump's Iran war powers",
-          "url": "https://www.coindesk.com/markets/2026/05/20/bitcoin-ether-xrp-rebound-as-senate-curbs-trump-s-iran-war-powers",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Is XRP (Ripple) Still a Good Long-Term Investment After the 2026 Drawdown?",
-          "url": "https://247wallst.com/investing/2026/05/19/is-xrp-ripple-still-a-good-long-term-investment-after-the-2026-drawdown/",
-          "source": "24/7 Wall St."
-        },
-        {
-          "title": "Bitcoin, ether, XRP rebound as Senate curbs Trump's Iran war powers",
-          "url": "https://www.coindesk.com/markets/2026/05/20/bitcoin-ether-xrp-rebound-as-senate-curbs-trump-s-iran-war-powers",
-          "source": "CoinDesk"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "Tether",
-      "count": 3,
-      "sources": [
-        "CoinDesk",
-        "The Block"
-      ],
-      "articles": [
-        {
-          "title": "Even a mountain of T-bills won't save Tether and Circle from a sudden liquidity crisis, expert says",
-          "url": "https://www.coindesk.com/business/2026/05/19/even-a-mountain-of-t-bills-won-t-save-tether-and-circle-from-a-sudden-liquidity-crisis-expert-says",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Stablecoin supply tops $300 billion but growth stalls as Tether gains at rivals\u2019 expense",
-          "url": "https://www.theblock.co/post/401707/stablecoin-supply-300-billion-growth-stalls-tether-gains-rivals-expense?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
-        },
-        {
-          "title": "Even a mountain of T-bills won't save Tether and Circle from a sudden liquidity crisis, expert says",
-          "url": "https://www.coindesk.com/business/2026/05/19/even-a-mountain-of-t-bills-won-t-save-tether-and-circle-from-a-sudden-liquidity-crisis-expert-says",
-          "source": "CoinDesk"
+          "title": "AI Search Startups Surge as Exa Labs Raises $250M, Challenging Google and OpenAI",
+          "url": "https://bitcoinworld.co.in/ai-search-startups-surge-exa-labs-funding/",
+          "source": "Bitcoin World"
         }
       ],
       "is_new": true
@@ -704,77 +721,76 @@
       "count": 3,
       "sources": [
         "CoinTelegraph",
-        "CoinTurk News",
-        "Cointelegraph"
-      ],
-      "articles": [
-        {
-          "title": "GitHub investigates unauthorized access to internal repositories",
-          "url": "https://cointelegraph.com/news/github-warns-of-unauthorized-access-to-internal-repositories?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "GitHub investigates unauthorized access to internal repositories",
-          "url": "https://cointelegraph.com/news/github-warns-of-unauthorized-access-to-internal-repositories?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        },
-        {
-          "title": "GitHub confirms breach of 3,800 internal repos via VS Code plugin",
-          "url": "https://en.coin-turk.com/github-confirms-breach-of-3800-internal-repos-via-vs-code-plugin/",
-          "source": "CoinTurk News"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "US Senate",
-      "count": 3,
-      "sources": [
-        "CoinTelegraph",
         "Cointelegraph",
-        "Reuters"
+        "Crypto Briefing"
       ],
       "articles": [
         {
-          "title": "US Senate advances resolution to curb Trump\u2019s Iran war powers",
-          "url": "https://cointelegraph.com/news/us-senate-advances-resolution-to-end-trumps-iran-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "GitHub investigates unauthorized access to internal repositories",
+          "url": "https://cointelegraph.com/news/github-warns-of-unauthorized-access-to-internal-repositories?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "CoinTelegraph"
         },
         {
-          "title": "US Senate advances measure curbing Trump's Iran war powers - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQnlvb0RIYm4zX1hkNU1hQkFKbTFQdEpONE80cGdJaS1IUzUzSmJuTUxoaXN5dGpabEpTTWFybF9pVkQwUTA1VjJDSGYyc1VKUzgzajV0cEZ1SkJodmpCeGlRZ21SME9GUW10bFhtd2tIMVdXcGhoSUJINmpVdGpGbmVDS1EydF9lbjBrRFFrNFBOU0lnU1h2d2xyaTJRRmltaVc2UVlROXJwUzFVRElreA?oc=5",
-          "source": "Reuters"
+          "title": "CISA exposed plaintext passwords and cloud keys on GitHub for six months",
+          "url": "https://cryptobriefing.com/cisa-exposed-passwords-github/",
+          "source": "Crypto Briefing"
         },
         {
-          "title": "US Senate advances resolution to curb Trump\u2019s Iran war powers",
-          "url": "https://cointelegraph.com/news/us-senate-advances-resolution-to-end-trumps-iran-war?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "GitHub investigates unauthorized access to internal repositories",
+          "url": "https://cointelegraph.com/news/github-warns-of-unauthorized-access-to-internal-repositories?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "Cointelegraph"
         }
       ],
       "is_new": true
     },
     {
-      "name": "Micron",
+      "name": "Tether Tightens Grip",
       "count": 3,
       "sources": [
-        "Seeking Alpha",
+        "Decrypt",
         "Yahoo Finance"
       ],
       "articles": [
         {
-          "title": "Dow Jones Futures Rise, Target Beats Views With Nvidia Due; Micron, Sandisk, Astera Extend Gains",
-          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-yields-micron-sandisk-astera-labs-nvidia-earnings/?src=A00220&yptr=yahoo",
+          "title": "Tether Tightens Grip on Bitcoin Treasury Firm Twenty One With SoftBank Buyout",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/tether-tightens-grip-bitcoin-treasury-161253239.html",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Intel, Micron, and other semiconductor stocks extend bounce ahead of Nvidia earnings",
-          "url": "https://finance.yahoo.com/markets/article/intel-micron-and-other-semiconductor-stocks-extend-bounce-ahead-of-nvidia-earnings-114957534.html",
+          "title": "Tether Tightens Grip on Bitcoin Treasury Firm Twenty One With SoftBank Buyout",
+          "url": "https://decrypt.co/368458/tether-bitcoin-treasury-xxi-twenty-one-softbank-buyout",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Tether Tightens Grip on Bitcoin Treasury Firm Twenty One With SoftBank Buyout",
+          "url": "https://decrypt.co/368458/tether-bitcoin-treasury-xxi-twenty-one-softbank-buyout",
+          "source": "Decrypt"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "SoftBank Buyout",
+      "count": 3,
+      "sources": [
+        "Decrypt",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Tether Tightens Grip on Bitcoin Treasury Firm Twenty One With SoftBank Buyout",
+          "url": "https://finance.yahoo.com/markets/crypto/articles/tether-tightens-grip-bitcoin-treasury-161253239.html",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Micron: The Market Still Underestimates The AI Memory Cycle",
-          "url": "https://seekingalpha.com/article/4906955-micron-the-market-still-underestimates-the-ai-memory-cycle?source=feed_all_articles",
-          "source": "Seeking Alpha"
+          "title": "Tether Tightens Grip on Bitcoin Treasury Firm Twenty One With SoftBank Buyout",
+          "url": "https://decrypt.co/368458/tether-bitcoin-treasury-xxi-twenty-one-softbank-buyout",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Tether Tightens Grip on Bitcoin Treasury Firm Twenty One With SoftBank Buyout",
+          "url": "https://decrypt.co/368458/tether-bitcoin-treasury-xxi-twenty-one-softbank-buyout",
+          "source": "Decrypt"
         }
       ],
       "is_new": true
@@ -792,13 +808,13 @@
           "source": "CNBC"
         },
         {
-          "title": "U.S. Treasury sell-off eases, traders eye highest 30-year yield since 1999 - CNBC",
-          "url": "https://www.cnbc.com/2026/05/19/treasurys-yields-inflation-traders-fed-interest-rates.html",
+          "title": "AI stocks helped the bull power through multiple threats. But now is this market too out of balance? - CNBC",
+          "url": "https://www.cnbc.com/2026/05/19/ai-stocks-helped-the-bull-power-through-multiple-threats-but-now-is-this-market-too-out-of-balance.html",
           "source": "CNBC"
         },
         {
-          "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit? - CNBC",
-          "url": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
+          "title": "Startup backed by American Eagle CEO reaches unicorn status in latest funding round - CNBC",
+          "url": "https://www.cnbc.com/2026/05/19/radar-reaches-unicorn-status-in-series-b-funding-round.html",
           "source": "CNBC"
         }
       ],
@@ -808,7 +824,6 @@
       "name": "Japan",
       "count": 3,
       "sources": [
-        "Crypto Briefing",
         "Decrypt"
       ],
       "articles": [
@@ -823,113 +838,106 @@
           "source": "Decrypt"
         },
         {
-          "title": "Japan\u2019s FSA opens qualified path for foreign trust-type stablecoins under new payment rules",
-          "url": "https://cryptobriefing.com/japan-stablecoin-regulations-foreign-trust/",
-          "source": "Crypto Briefing"
+          "title": "Japan\u2019s Ruling Party Pushes On-Chain Finance Plan to Protect Yen",
+          "url": "https://decrypt.co/368331/japans-ruling-party-pushes-on-chain-finance-plan-to-protect-yen",
+          "source": "Decrypt"
         }
       ],
       "is_new": false
     },
     {
-      "name": "Q4 - Results - Earnings",
+      "name": "Russia",
       "count": 3,
       "sources": [
-        "Seeking Alpha"
+        "Hacker News",
+        "Reuters"
       ],
       "articles": [
         {
-          "title": "Marks and Spencer Group plc 2026 Q4 - Results - Earnings Call Presentation",
-          "url": "https://seekingalpha.com/article/4906981-marks-and-spencer-group-plc-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
-          "source": "Seeking Alpha"
+          "title": "As Russia invaded Ukraine, Bitcoin plunged \u2013 here's what crypto experts said",
+          "url": "https://markets.businessinsider.com/news/currencies/bitcoin-ethereum-blockchain-ukraine-russia-war-conflict-europe-america-china-2022-2",
+          "source": "Hacker News"
         },
         {
-          "title": "Driven Brands Holdings Inc. 2025 Q4 - Results - Earnings Call Presentation",
-          "url": "https://seekingalpha.com/article/4906979-driven-brands-holdings-inc-2025-q4-results-earnings-call-presentation?source=feed_all_articles",
-          "source": "Seeking Alpha"
+          "title": "Russia's oil and gas revenue seen up 39% y/y in May thanks to Iran war - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMGloY1NkaG12OHhldFNOZ2tJcjkteXdvTmJwajlIejRyaklPMHVPVmRuTmZnaV9leE9MVkVqaUM3b0RRMnU2N3pfaGg2SXBTUXdmTmFoNEZ0WTBHTzdSZzdVWkFvbUVlTU9MbFJVZXRWRmszSjdVbnJzcnlyM0ZPWTB5bnFEdDFIbTRUVXVDb3hzYkI1RjBIZll5bTJwZ28wZWNiQnFTMzRFNG5lOHc?oc=5",
+          "source": "Reuters"
         },
         {
-          "title": "Marks and Spencer Group plc 2026 Q4 - Results - Earnings Call Presentation",
-          "url": "https://seekingalpha.com/article/4906968-marks-and-spencer-group-plc-2026-q4-results-earnings-call-presentation?source=feed_all_articles",
-          "source": "Seeking Alpha"
+          "title": "Putin says Russia-China ties at unprecedented level, invites Xi to Russia - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkhtdzY4NWdlWjJLeUEwWElyOU5RdUVTMktZbEJlV0M2blhEbjhrQ0NhZTk1NXkwTUxKTzAzRElPeHZEeXB1cGRoSmVZMUkxRWpEYnpyYkZ5S2RXd3BoX0oydUV2RXgyOHJhUl84TWR3YjZjcW4xbHpJU1FPM0luejk5NjdnbFRSV2FSRGFMMVRTdXBXOHZRMmd5WE1KQXBabHg2MWFWUjZsUXl0bW5FUXktdVo?oc=5",
+          "source": "Reuters"
         }
       ],
       "is_new": true
     },
     {
-      "name": "Bitfinex",
+      "name": "Andrej Karpathy",
+      "count": 3,
+      "sources": [
+        "Crypto Briefing",
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "title": "OpenAI co-founder Andrej Karpathy joins Anthropic\u2019s pre-training team - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Andrej Karpathy joins Anthropic to lead pre-training team",
+          "url": "https://cryptobriefing.com/karpathy-joins-anthropic-pre-training/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "OpenAI co-founder Andrej Karpathy joins Anthropic to double down on LLM research",
+          "url": "https://cryptobriefing.com/open-ai-founder-andrej-karpathy-joins-anthropic/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Anthropic",
+      "count": 3,
+      "sources": [
+        "Crypto Briefing",
+        "TechCrunch"
+      ],
+      "articles": [
+        {
+          "title": "OpenAI co-founder Andrej Karpathy joins Anthropic\u2019s pre-training team - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/19/openai-co-founder-andrej-karpathy-joins-anthropics-pre-training-team/",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Andrej Karpathy joins Anthropic to lead pre-training team",
+          "url": "https://cryptobriefing.com/karpathy-joins-anthropic-pre-training/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "OpenAI co-founder Andrej Karpathy joins Anthropic to double down on LLM research",
+          "url": "https://cryptobriefing.com/open-ai-founder-andrej-karpathy-joins-anthropic/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Fairshake",
       "count": 2,
       "sources": [
         "CoinDesk"
       ],
       "articles": [
         {
-          "title": "Bitfinex traders double down on bitcoin during five-day slide as longs hit 2.5-year high",
-          "url": "https://www.coindesk.com/markets/2026/05/20/bitfinex-traders-double-down-on-bitcoin-during-five-day-slide-as-longs-hit-2-5-year-high",
+          "title": "Crypto campaign cash from Fairshake flooded Southern primaries, picked winners",
+          "url": "https://www.coindesk.com/policy/2026/05/20/crypto-campaign-cash-from-fairshake-flooded-southern-primaries-picked-winners",
           "source": "CoinDesk"
         },
         {
-          "title": "Bitfinex traders double down on bitcoin during five-day slide as longs hit 2.5-year high",
-          "url": "https://www.coindesk.com/markets/2026/05/20/bitfinex-traders-double-down-on-bitcoin-during-five-day-slide-as-longs-hit-2-5-year-high",
-          "source": "CoinDesk"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "CTFC",
-      "count": 2,
-      "sources": [
-        "CoinDesk"
-      ],
-      "articles": [
-        {
-          "title": "Despite Trump\u2019s pledge, a CBDC is being explored behind closed doors, says former CTFC chair",
-          "url": "https://www.coindesk.com/business/2026/05/19/despite-trump-s-pledge-a-cbdc-is-being-explored-behind-closed-doors-says-former-ctfc-chair",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Despite Trump\u2019s pledge, a CBDC is being explored behind closed doors, says former CTFC chair",
-          "url": "https://www.coindesk.com/business/2026/05/19/despite-trump-s-pledge-a-cbdc-is-being-explored-behind-closed-doors-says-former-ctfc-chair",
-          "source": "CoinDesk"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Germany",
-      "count": 2,
-      "sources": [
-        "CoinDesk"
-      ],
-      "articles": [
-        {
-          "title": "Germany's AllUnity plans Swedish krona stablecoin, pushes into AI agentic payments",
-          "url": "https://www.coindesk.com/business/2026/05/20/germany-s-allunity-plans-swedish-krona-stablecoin-pushes-into-ai-agentic-payments",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Germany's AllUnity plans Swedish krona stablecoin, pushes into AI agentic payments",
-          "url": "https://www.coindesk.com/business/2026/05/20/germany-s-allunity-plans-swedish-krona-stablecoin-pushes-into-ai-agentic-payments",
-          "source": "CoinDesk"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "AllUnity",
-      "count": 2,
-      "sources": [
-        "CoinDesk"
-      ],
-      "articles": [
-        {
-          "title": "Germany's AllUnity plans Swedish krona stablecoin, pushes into AI agentic payments",
-          "url": "https://www.coindesk.com/business/2026/05/20/germany-s-allunity-plans-swedish-krona-stablecoin-pushes-into-ai-agentic-payments",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Germany's AllUnity plans Swedish krona stablecoin, pushes into AI agentic payments",
-          "url": "https://www.coindesk.com/business/2026/05/20/germany-s-allunity-plans-swedish-krona-stablecoin-pushes-into-ai-agentic-payments",
+          "title": "Crypto campaign cash from Fairshake flooded Southern primaries, picked winners",
+          "url": "https://www.coindesk.com/policy/2026/05/20/crypto-campaign-cash-from-fairshake-flooded-southern-primaries-picked-winners",
           "source": "CoinDesk"
         }
       ],
@@ -938,126 +946,126 @@
   ],
   "crypto_trending": [
     {
+      "name": "Nexus",
+      "symbol": "NEX",
+      "market_cap_rank": 159,
+      "thumb": "https://coin-images.coingecko.com/coins/images/102173233/standard/nexus.jpg?1778490588"
+    },
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "market_cap_rank": 93,
+      "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+    },
+    {
+      "name": "Manifesting",
+      "symbol": "MANIFEST",
+      "market_cap_rank": 855,
+      "thumb": "https://coin-images.coingecko.com/coins/images/102173340/standard/2rmo9sk0d8lqtf03ebvup8uika6g.?1779090208"
+    },
+    {
       "name": "Hyperliquid",
       "symbol": "HYPE",
-      "market_cap_rank": 12,
+      "market_cap_rank": 11,
       "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
     },
     {
       "name": "Venice Token",
       "symbol": "VVV",
-      "market_cap_rank": 78,
+      "market_cap_rank": 79,
       "thumb": "https://coin-images.coingecko.com/coins/images/54023/standard/VVV_Token_Transparent.png?1741856877"
     },
     {
-      "name": "Pudgy Penguins",
-      "symbol": "PENGU",
-      "market_cap_rank": 97,
-      "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
-    },
-    {
-      "name": "Zest Protocol",
-      "symbol": "ZEST",
-      "market_cap_rank": 854,
-      "thumb": "https://coin-images.coingecko.com/coins/images/102173294/standard/zest.jpg?1778837125"
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "market_cap_rank": 14,
+      "thumb": "https://coin-images.coingecko.com/coins/images/486/standard/circle-zcash-color.png?1696501740"
     },
     {
       "name": "Lighter",
       "symbol": "LIT",
-      "market_cap_rank": 148,
+      "market_cap_rank": 145,
       "thumb": "https://coin-images.coingecko.com/coins/images/71121/standard/lighter.png?1765888098"
     },
     {
-      "name": "Gitlawb",
-      "symbol": "GITLAWB",
-      "market_cap_rank": 587,
-      "thumb": "https://coin-images.coingecko.com/coins/images/102172941/standard/b16bfbf1-8384-43fc-9797-88fba91ddca5.png?1776736251"
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "market_cap_rank": 47,
+      "thumb": "https://coin-images.coingecko.com/coins/images/26580/standard/ONDO.png?1696525656"
     },
     {
-      "name": "OpenServ",
-      "symbol": "SERV",
-      "market_cap_rank": 532,
-      "thumb": "https://coin-images.coingecko.com/coins/images/51430/standard/X_Logo_Blue_%282%29.png?1747853206"
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "market_cap_rank": 1,
+      "thumb": "https://coin-images.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400"
     },
     {
-      "name": "Terra Luna Classic",
-      "symbol": "LUNC",
-      "market_cap_rank": 118,
-      "thumb": "https://coin-images.coingecko.com/coins/images/8284/standard/01_LunaClassic_color.png?1696508486"
-    },
-    {
-      "name": "Chainlink",
-      "symbol": "LINK",
-      "market_cap_rank": 19,
-      "thumb": "https://coin-images.coingecko.com/coins/images/877/standard/Chainlink_Logo_500.png?1760023405"
-    },
-    {
-      "name": "Canton",
-      "symbol": "CC",
-      "market_cap_rank": 20,
-      "thumb": "https://coin-images.coingecko.com/coins/images/70468/standard/Canton-Ticker_%281%29.png?1762826299"
+      "name": "Bittensor",
+      "symbol": "TAO",
+      "market_cap_rank": 38,
+      "thumb": "https://coin-images.coingecko.com/coins/images/28452/standard/ARUsPeNQ_400x400.jpeg?1696527447"
     }
   ],
   "stock_trending": [
     {
-      "symbol": "TGT",
-      "name": "Target Corporation",
-      "price": 127.24,
-      "change_pct": 3.11
-    },
-    {
-      "symbol": "NVDA",
-      "name": "NVIDIA Corporation",
-      "price": 220.61,
-      "change_pct": -0.77
+      "symbol": "ARM",
+      "name": "Arm Holdings plc",
+      "price": 256.48,
+      "change_pct": 14.94
     },
     {
       "symbol": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 77377.31,
-      "change_pct": 0.81
+      "price": 77099.24,
+      "change_pct": 0.45
     },
     {
-      "symbol": "LOW",
-      "name": "Lowe's Companies, Inc.",
-      "price": 218.37,
-      "change_pct": 0.16
-    },
-    {
-      "symbol": "MRVL",
-      "name": "Marvell Technology, Inc.",
-      "price": 176.27,
-      "change_pct": 4.34
-    },
-    {
-      "symbol": "INTC",
-      "name": "Intel Corporation",
-      "price": 110.8,
-      "change_pct": 2.43
+      "symbol": "TGT",
+      "name": "Target Corporation",
+      "price": 121.82,
+      "change_pct": -4.26
     },
     {
       "symbol": "ALAB",
       "name": "Astera Labs, Inc.",
-      "price": 244.26,
-      "change_pct": 13.3
+      "price": 278.3,
+      "change_pct": 13.94
     },
     {
-      "symbol": "VFC",
-      "name": "V.F. Corporation",
-      "price": 16.74,
-      "change_pct": -0.89
+      "symbol": "HCWB",
+      "name": "HCW Biologics Inc.",
+      "price": 2.03,
+      "change_pct": 91.51
     },
     {
-      "symbol": "MWC",
-      "name": "Micware Co., Ltd.",
-      "price": 4.72,
-      "change_pct": -25.67
+      "symbol": "RDDT",
+      "name": "Reddit, Inc.",
+      "price": 144.43,
+      "change_pct": -6.75
     },
     {
-      "symbol": "ETH-USD",
-      "name": "Ethereum USD",
-      "price": 2128.8,
-      "change_pct": 0.89
+      "symbol": "ADI",
+      "name": "Analog Devices, Inc.",
+      "price": 386.62,
+      "change_pct": -6.68
+    },
+    {
+      "symbol": "TE",
+      "name": "T1 Energy Inc.",
+      "price": 8.91,
+      "change_pct": 29.58
+    },
+    {
+      "symbol": "IMVT",
+      "name": "Immunovant, Inc.",
+      "price": 35.02,
+      "change_pct": 33.19
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 224.61,
+      "change_pct": 1.81
     }
   ],
   "fear_greed": {
@@ -1094,5 +1102,5 @@
       }
     ]
   },
-  "total_articles": 375
+  "total_articles": 391
 }
