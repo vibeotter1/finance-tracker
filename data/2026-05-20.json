@@ -79,7 +79,7 @@
     },
     {
       "name": "Trump",
-      "count": 17,
+      "count": 19,
       "sources": [
         "CNBC",
         "CoinDesk",
@@ -122,14 +122,20 @@
     },
     {
       "name": "China",
-      "count": 8,
+      "count": 9,
       "sources": [
         "CNBC",
         "Hacker News",
         "Reuters",
-        "Tipranks.com"
+        "Tipranks.com",
+        "Yahoo Finance"
       ],
       "articles": [
+        {
+          "title": "China's top flash-memory chipmaker YMTC begins pre-IPO coaching with investment bank",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/chinas-top-flash-memory-chipmaker-082808615.html",
+          "source": "Yahoo Finance"
+        },
         {
           "title": "China confirms order for 200 Boeing planes, calls aviation key area for U.S. cooperation",
           "url": "https://www.cnbc.com/2026/05/20/china-confirms-200-boeing-aircraft-order.html",
@@ -149,21 +155,17 @@
           "title": "Ethereum is top public blockchain, Bitcoin No. 13 in China's new index",
           "url": "https://www.reuters.com/article/us-crypto-currency-index/ethereum-is-top-public-blockchain-bitcoin-no-13-in-chinas-new-index-idUSKCN1II2R9?il=0",
           "source": "Hacker News"
-        },
-        {
-          "title": "Ethereum is top public blockchain, Bitcoin No. 13 in China's new index",
-          "url": "https://www.reuters.com/article/us-crypto-currency-index/ethereum-is-top-public-blockchain-bitcoin-no-13-in-chinas-new-index-idUSKCN1II2R9",
-          "source": "Hacker News"
         }
       ],
       "is_new": false
     },
     {
       "name": "Fed",
-      "count": 7,
+      "count": 8,
       "sources": [
         "CNBC",
         "CoinTelegraph",
+        "MarketWatch",
         "The Block",
         "The Washington Post",
         "TheStreet",
@@ -174,6 +176,11 @@
           "title": "Trump orders review of fintech firms' access to Fed payment services",
           "url": "https://cointelegraph.com/news/trump-review-crypto-access-federal-reserve-payment-systems?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "CoinTelegraph"
+        },
+        {
+          "title": "Fed minutes show increased chances of interest-rate hike",
+          "url": "https://www.marketwatch.com/story/fed-minutes-show-increased-chances-of-interest-rate-hike-e808453b?mod=mw_rss_topstories",
+          "source": "MarketWatch"
         },
         {
           "title": "Fed to hike? When traders see a rate increase coming",
@@ -189,20 +196,16 @@
           "title": "Trump orders Fed to review giving crypto firms access to master accounts",
           "url": "https://www.theblock.co/post/401953/trump-orders-fed-master-account?utm_source=rss&utm_medium=rss",
           "source": "The Block"
-        },
-        {
-          "title": "Forget tariffs and the Iran oil shock\u2014a top economist says the Fed is blind to the real inflation threat - Yahoo Finance",
-          "url": "https://finance.yahoo.com/economy/policy/articles/forget-tariffs-iran-oil-shock-070000349.html",
-          "source": "Yahoo Entertainment"
         }
       ],
       "is_new": false
     },
     {
       "name": "Bitcoin",
-      "count": 5,
+      "count": 7,
       "sources": [
         "CoinTelegraph",
+        "Cointelegraph",
         "Hacker News"
       ],
       "articles": [
@@ -233,6 +236,119 @@
         }
       ],
       "is_new": false
+    },
+    {
+      "name": "CBDC",
+      "count": 5,
+      "sources": [
+        "CoinDesk",
+        "CoinOtag",
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Despite Trump\u2019s pledge, a CBDC is being explored behind closed doors, says former CTFC chair",
+          "url": "https://www.coindesk.com/business/2026/05/19/despite-trump-s-pledge-a-cbdc-is-being-explored-behind-closed-doors-says-former-ctfc-chair",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "South Carolina governor signs bill protecting Bitcoin miners, banning CBDC",
+          "url": "https://cointelegraph.com/news/south-carolina-governor-signs-bill-protecting-bitcoin-miners-banning-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "South Carolina governor signs bill protecting Bitcoin miners, banning CBDC",
+          "url": "https://cointelegraph.com/news/south-carolina-governor-signs-bill-protecting-bitcoin-miners-banning-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Despite Trump\u2019s pledge, a CBDC is being explored behind closed doors, says former CTFC chair",
+          "url": "https://www.coindesk.com/business/2026/05/19/despite-trump-s-pledge-a-cbdc-is-being-explored-behind-closed-doors-says-former-ctfc-chair",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Tether Buys SoftBank Out of XXI, South Carolina Bans CBDC as Bitcoin Holds $77K",
+          "url": "https://en.coinotag.com/tether-softbank-xxi-south-carolina-cbdc-bitcoin-77k-quantum",
+          "source": "CoinOtag"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Singapore",
+      "count": 5,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Singapore revokes crypto payment license of Bsquared over regulatory breaches",
+          "url": "https://cointelegraph.com/news/singapore-revokes-crypto-payment-licence-of-bsquared-over-regulatory-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "OpenAI launches overseas AI lab in Singapore with $234M commitment",
+          "url": "https://cointelegraph.com/news/openai-launches-overseas-ai-lab-singapore-234m-commitment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Meta begins 8K global job cuts, starting in Singapore",
+          "url": "https://cointelegraph.com/news/meta-begins-its-8000-job-cut-starting-in-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Singapore revokes crypto payment license of Bsquared over regulatory breaches",
+          "url": "https://cointelegraph.com/news/singapore-revokes-crypto-payment-licence-of-bsquared-over-regulatory-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "OpenAI launches overseas AI lab in Singapore with $234M commitment",
+          "url": "https://cointelegraph.com/news/openai-launches-overseas-ai-lab-singapore-234m-commitment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "South Carolina",
+      "count": 5,
+      "sources": [
+        "CoinOtag",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Decrypt",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "South Carolina governor signs bill protecting Bitcoin miners, banning CBDC",
+          "url": "https://cointelegraph.com/news/south-carolina-governor-signs-bill-protecting-bitcoin-miners-banning-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "South Carolina Governor signs pro-crypto, anti-CBDC bill into law",
+          "url": "https://www.theblock.co/post/401965/south-carolina-governor-signs-pro-crypto-bill?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "South Carolina Passes Law Banning CBDCs While Protecting Crypto Users, Bitcoin Miners",
+          "url": "https://decrypt.co/368455/south-carolina-law-banning-cbdc-protecting-crypto-users-bitcoin-miners",
+          "source": "Decrypt"
+        },
+        {
+          "title": "South Carolina governor signs bill protecting Bitcoin miners, banning CBDC",
+          "url": "https://cointelegraph.com/news/south-carolina-governor-signs-bill-protecting-bitcoin-miners-banning-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Tether Buys SoftBank Out of XXI, South Carolina Bans CBDC as Bitcoin Holds $77K",
+          "url": "https://en.coinotag.com/tether-softbank-xxi-south-carolina-cbdc-bitcoin-77k-quantum",
+          "source": "CoinOtag"
+        }
+      ],
+      "is_new": true
     },
     {
       "name": "Crypto",
@@ -266,74 +382,8 @@
       "is_new": true
     },
     {
-      "name": "South Carolina",
-      "count": 4,
-      "sources": [
-        "CoinOtag",
-        "CoinTelegraph",
-        "Decrypt",
-        "The Block"
-      ],
-      "articles": [
-        {
-          "title": "South Carolina governor signs bill protecting Bitcoin miners, banning CBDC",
-          "url": "https://cointelegraph.com/news/south-carolina-governor-signs-bill-protecting-bitcoin-miners-banning-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "South Carolina Governor signs pro-crypto, anti-CBDC bill into law",
-          "url": "https://www.theblock.co/post/401965/south-carolina-governor-signs-pro-crypto-bill?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
-        },
-        {
-          "title": "South Carolina Passes Law Banning CBDCs While Protecting Crypto Users, Bitcoin Miners",
-          "url": "https://decrypt.co/368455/south-carolina-law-banning-cbdc-protecting-crypto-users-bitcoin-miners",
-          "source": "Decrypt"
-        },
-        {
-          "title": "Tether Buys SoftBank Out of XXI, South Carolina Bans CBDC as Bitcoin Holds $77K",
-          "url": "https://en.coinotag.com/tether-softbank-xxi-south-carolina-cbdc-bitcoin-77k-quantum",
-          "source": "CoinOtag"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "HYPE",
-      "count": 4,
-      "sources": [
-        "CoinTelegraph",
-        "Crypto Briefing",
-        "Decrypt",
-        "The Block"
-      ],
-      "articles": [
-        {
-          "title": "Bitwise calls HYPE \u2018most mispriced\u2019 crypto despite 77% rise this year",
-          "url": "https://cointelegraph.com/news/bitwise-says-hyperliquid-most-mispriced-crypto-despite-77-rise-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Bitwise calls HYPE a \u2018Gen 2\u2019 crypto token, says its undervalued",
-          "url": "https://www.theblock.co/post/401934/bitwise-calls-hype-a-gen-2-crypto-token-says-its-undervalued?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
-        },
-        {
-          "title": "HYPE Surges 101% This Year: What\u2019s Driving Hyperliquid\u2019s Growth?",
-          "url": "https://decrypt.co/368443/hype-surges-101-this-year-whats-driving-hyperliquids-growth",
-          "source": "Decrypt"
-        },
-        {
-          "title": "HYPE hits highest level since October near $48 as Bitwise CIO calls Hyperliquid a super app",
-          "url": "https://cryptobriefing.com/hyperliquid-super-app-rise/",
-          "source": "Crypto Briefing"
-        }
-      ],
-      "is_new": true
-    },
-    {
       "name": "ETF",
-      "count": 3,
+      "count": 4,
       "sources": [
         "CoinDesk",
         "The Block"
@@ -353,18 +403,28 @@
           "title": "Why Trump's bitcoin ETF plans likely collapsed before getting off the ground",
           "url": "https://www.coindesk.com/markets/2026/05/20/why-trump-s-bitcoin-etf-plans-likely-collapsed-before-even-getting-off-the-ground",
           "source": "CoinDesk"
+        },
+        {
+          "title": "Why Trump's bitcoin ETF plans likely collapsed before getting off the ground",
+          "url": "https://www.coindesk.com/markets/2026/05/20/why-trump-s-bitcoin-etf-plans-likely-collapsed-before-even-getting-off-the-ground",
+          "source": "CoinDesk"
         }
       ],
       "is_new": true
     },
     {
       "name": "ETH",
-      "count": 3,
+      "count": 4,
       "sources": [
         "CoinDesk",
         "CoinTurk News"
       ],
       "articles": [
+        {
+          "title": "Vitalik Buterin outlines Ethereum's privacy measures. Here is what it means for the network and ETH",
+          "url": "https://www.coindesk.com/tech/2026/05/20/vitalik-buterin-outlines-ethereum-s-privacy-measures-here-is-what-it-means-for-the-network-and-eth",
+          "source": "CoinDesk"
+        },
         {
           "title": "Vitalik Buterin outlines Ethereum's privacy measures. Here is what it means for the network and ETH",
           "url": "https://www.coindesk.com/tech/2026/05/20/vitalik-buterin-outlines-ethereum-s-privacy-measures-here-is-what-it-means-for-the-network-and-eth",
@@ -384,53 +444,190 @@
       "is_new": false
     },
     {
-      "name": "CBDC",
-      "count": 3,
+      "name": "Nvidia",
+      "count": 4,
       "sources": [
+        "CNBC",
         "CoinDesk",
-        "CoinOtag",
-        "CoinTelegraph"
+        "CoinTelegraph",
+        "Cointelegraph"
       ],
       "articles": [
         {
-          "title": "Despite Trump\u2019s pledge, a CBDC is being explored behind closed doors, says former CTFC chair",
-          "url": "https://www.coindesk.com/business/2026/05/19/despite-trump-s-pledge-a-cbdc-is-being-explored-behind-closed-doors-says-former-ctfc-chair",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "South Carolina governor signs bill protecting Bitcoin miners, banning CBDC",
-          "url": "https://cointelegraph.com/news/south-carolina-governor-signs-bill-protecting-bitcoin-miners-banning-cbdc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Bitcoin sees fresh US sell-off as markets await Nvidia 'biggest earnings event'",
+          "url": "https://cointelegraph.com/markets/bitcoin-sees-fresh-us-sell-off-as-markets-await-nvidia-biggest-earnings-event?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "CoinTelegraph"
         },
         {
-          "title": "Tether Buys SoftBank Out of XXI, South Carolina Bans CBDC as Bitcoin Holds $77K",
-          "url": "https://en.coinotag.com/tether-softbank-xxi-south-carolina-cbdc-bitcoin-77k-quantum",
-          "source": "CoinOtag"
+          "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit?",
+          "url": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Bitcoin sees fresh US sell-off as markets await Nvidia 'biggest earnings event'",
+          "url": "https://cointelegraph.com/markets/bitcoin-sees-fresh-us-sell-off-as-markets-await-nvidia-biggest-earnings-event?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Live markets: Crypto prices remain flat ahead of FOMC minutes, Nvidia earnings",
+          "url": "https://www.coindesk.com/markets/2026/05/20/live-markets-crypto-prices-remain-flat-ahead-of-fomc-minutes-nvidia-earnings",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "The Protocol: Ethereum Foundation's",
+      "count": 3,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "The Protocol: Ethereum Foundation's high-profile departures spark fresh debate",
+          "url": "https://www.coindesk.com/tech/2026/05/20/the-protocol-ethereum-foundation-s-high-profile-departures-spark-fresh-debate",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "The Protocol: Ethereum Foundation's high-profile departures spark fresh debate",
+          "url": "https://www.coindesk.com/tech/2026/05/20/the-protocol-ethereum-foundation-s-high-profile-departures-spark-fresh-debate",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "The Protocol: Ethereum Foundation's high-profile departures spark fresh debate",
+          "url": "https://www.coindesk.com/tech/2026/05/20/the-protocol-ethereum-foundation-s-high-profile-departures-spark-fresh-debate",
+          "source": "CoinDesk"
         }
       ],
       "is_new": true
     },
     {
-      "name": "Singapore",
+      "name": "Vitalik Buterin",
       "count": 3,
       "sources": [
-        "CoinTelegraph"
+        "CoinDesk",
+        "Cointelegraph"
       ],
       "articles": [
         {
-          "title": "Singapore revokes crypto payment license of Bsquared over regulatory breaches",
-          "url": "https://cointelegraph.com/news/singapore-revokes-crypto-payment-licence-of-bsquared-over-regulatory-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Vitalik Buterin outlines Ethereum's privacy measures. Here is what it means for the network and ETH",
+          "url": "https://www.coindesk.com/tech/2026/05/20/vitalik-buterin-outlines-ethereum-s-privacy-measures-here-is-what-it-means-for-the-network-and-eth",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "A viral hedgehog, Vitalik Buterin, and a bow: the GraphDex launch that crypto won't forget",
+          "url": "https://cointelegraph.com/press-releases/a-viral-hedgehog-vitalik-buterin-and-a-bow-the-graphdex-launch-that-crypto-wont-forget",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Vitalik Buterin outlines Ethereum's privacy measures. Here is what it means for the network and ETH",
+          "url": "https://www.coindesk.com/tech/2026/05/20/vitalik-buterin-outlines-ethereum-s-privacy-measures-here-is-what-it-means-for-the-network-and-eth",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Ethereum",
+      "count": 3,
+      "sources": [
+        "Bitcoin World",
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Vitalik Buterin outlines Ethereum's privacy measures. Here is what it means for the network and ETH",
+          "url": "https://www.coindesk.com/tech/2026/05/20/vitalik-buterin-outlines-ethereum-s-privacy-measures-here-is-what-it-means-for-the-network-and-eth",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Vitalik Buterin outlines Ethereum's privacy measures. Here is what it means for the network and ETH",
+          "url": "https://www.coindesk.com/tech/2026/05/20/vitalik-buterin-outlines-ethereum-s-privacy-measures-here-is-what-it-means-for-the-network-and-eth",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Circle Mints 250 Million USDC on Ethereum, Adding to Stablecoin Supply",
+          "url": "https://bitcoinworld.co.in/circle-mints-250-million-usdc-ethereum/",
+          "source": "Bitcoin World"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Germany",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Germany's AllUnity plans Swedish krona stablecoin, pushes into AI agentic payments",
+          "url": "https://www.coindesk.com/business/2026/05/20/germany-s-allunity-plans-swedish-krona-stablecoin-pushes-into-ai-agentic-payments",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Germany will deploy Patriot air defence system to southeast Turkey, Ankara says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaUxaRzBNMkptc2lkM0V2LUN0WUpCVWtXMllPTDJrUHVyX2Z4S2hqOHd3c1ZsUzJfTzJaZnNRVDdpdkt3SGtfSThpT05xWkNieXFLR1B3eHdROGlsNE1HSGVhY3hjem5sYkFYRjhqVWdfMnFDWm9yazhzcnVuT0wtS0k0YldxSjNWLWhicjg2OUxNZ2tuMDF0UEY4U3RQUVMxRFRKSktqYkpKTW44M3Ryb0JkeTdaT2p5WmdMOHdaS3ZDM25rRFgyMw?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Germany's AllUnity plans Swedish krona stablecoin, pushes into AI agentic payments",
+          "url": "https://www.coindesk.com/business/2026/05/20/germany-s-allunity-plans-swedish-krona-stablecoin-pushes-into-ai-agentic-payments",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "AllUnity",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Germany's AllUnity plans Swedish krona stablecoin, pushes into AI agentic payments",
+          "url": "https://www.coindesk.com/business/2026/05/20/germany-s-allunity-plans-swedish-krona-stablecoin-pushes-into-ai-agentic-payments",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "AllUnity plans Swedish krona stablecoin, launches agentic payments infrastructure",
+          "url": "https://www.theblock.co/post/402027/allunity-plans-swedish-krona-stablecoin-launches-agentic-payments-infrastructure?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Germany's AllUnity plans Swedish krona stablecoin, pushes into AI agentic payments",
+          "url": "https://www.coindesk.com/business/2026/05/20/germany-s-allunity-plans-swedish-krona-stablecoin-pushes-into-ai-agentic-payments",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "HYPE",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Crypto Briefing",
+        "Decrypt"
+      ],
+      "articles": [
+        {
+          "title": "Bitwise calls HYPE \u2018most mispriced\u2019 crypto despite 77% rise this year",
+          "url": "https://cointelegraph.com/news/bitwise-says-hyperliquid-most-mispriced-crypto-despite-77-rise-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "CoinTelegraph"
         },
         {
-          "title": "OpenAI launches overseas AI lab in Singapore with $234M commitment",
-          "url": "https://cointelegraph.com/news/openai-launches-overseas-ai-lab-singapore-234m-commitment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
+          "title": "HYPE Surges 101% This Year: What\u2019s Driving Hyperliquid\u2019s Growth?",
+          "url": "https://decrypt.co/368443/hype-surges-101-this-year-whats-driving-hyperliquids-growth",
+          "source": "Decrypt"
         },
         {
-          "title": "Meta begins 8K global job cuts, starting in Singapore",
-          "url": "https://cointelegraph.com/news/meta-begins-its-8000-job-cut-starting-in-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
+          "title": "HYPE hits highest level since October near $48 as Bitwise CIO calls Hyperliquid a super app",
+          "url": "https://cryptobriefing.com/hyperliquid-super-app-rise/",
+          "source": "Crypto Briefing"
         }
       ],
       "is_new": true
@@ -459,6 +656,33 @@
         }
       ],
       "is_new": false
+    },
+    {
+      "name": "Coinbase",
+      "count": 3,
+      "sources": [
+        "CoinTurk News",
+        "Decrypt",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Kik founder\u2019s latest app Flipcash first to tap Coinbase\u2019s stablecoin-as-a-service platform",
+          "url": "https://www.theblock.co/post/402078/kik-founders-latest-app-flipcash-first-tap-coinbase-stablecoin-as-a-service-platform?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Elizabeth Warren Calls Crypto Bank Charter Approvals for Firms Like Coinbase, Ripple Illegal",
+          "url": "https://decrypt.co/368385/elizabeth-warren-crypto-bank-charter-approvals-coinbase-ripple-illegal",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Kraken and Coinbase hacks cost user $6.7 million in ETH, BTC",
+          "url": "https://en.coin-turk.com/kraken-and-coinbase-hacks-cost-user-6-7-million-in-eth-btc/",
+          "source": "CoinTurk News"
+        }
+      ],
+      "is_new": true
     },
     {
       "name": "J.P. Morgan 54th Annual Global Technology",
@@ -661,168 +885,21 @@
       "is_new": true
     },
     {
-      "name": "The Protocol: Ethereum Foundation's",
+      "name": "Fairshake",
       "count": 2,
       "sources": [
         "CoinDesk"
       ],
       "articles": [
         {
-          "title": "The Protocol: Ethereum Foundation's high-profile departures spark fresh debate",
-          "url": "https://www.coindesk.com/tech/2026/05/20/the-protocol-ethereum-foundation-s-high-profile-departures-spark-fresh-debate",
+          "title": "Crypto campaign cash from Fairshake flooded Southern primaries, picked winners",
+          "url": "https://www.coindesk.com/policy/2026/05/20/crypto-campaign-cash-from-fairshake-flooded-southern-primaries-picked-winners",
           "source": "CoinDesk"
         },
         {
-          "title": "The Protocol: Ethereum Foundation's high-profile departures spark fresh debate",
-          "url": "https://www.coindesk.com/tech/2026/05/20/the-protocol-ethereum-foundation-s-high-profile-departures-spark-fresh-debate",
+          "title": "Crypto campaign cash from Fairshake flooded Southern primaries, picked winners",
+          "url": "https://www.coindesk.com/policy/2026/05/20/crypto-campaign-cash-from-fairshake-flooded-southern-primaries-picked-winners",
           "source": "CoinDesk"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Vitalik Buterin",
-      "count": 2,
-      "sources": [
-        "CoinDesk",
-        "Cointelegraph"
-      ],
-      "articles": [
-        {
-          "title": "Vitalik Buterin outlines Ethereum's privacy measures. Here is what it means for the network and ETH",
-          "url": "https://www.coindesk.com/tech/2026/05/20/vitalik-buterin-outlines-ethereum-s-privacy-measures-here-is-what-it-means-for-the-network-and-eth",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "A viral hedgehog, Vitalik Buterin, and a bow: the GraphDex launch that crypto won't forget",
-          "url": "https://cointelegraph.com/press-releases/a-viral-hedgehog-vitalik-buterin-and-a-bow-the-graphdex-launch-that-crypto-wont-forget",
-          "source": "Cointelegraph"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "Ethereum",
-      "count": 2,
-      "sources": [
-        "Bitcoin World",
-        "CoinDesk"
-      ],
-      "articles": [
-        {
-          "title": "Vitalik Buterin outlines Ethereum's privacy measures. Here is what it means for the network and ETH",
-          "url": "https://www.coindesk.com/tech/2026/05/20/vitalik-buterin-outlines-ethereum-s-privacy-measures-here-is-what-it-means-for-the-network-and-eth",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Circle Mints 250 Million USDC on Ethereum, Adding to Stablecoin Supply",
-          "url": "https://bitcoinworld.co.in/circle-mints-250-million-usdc-ethereum/",
-          "source": "Bitcoin World"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Germany",
-      "count": 2,
-      "sources": [
-        "CoinDesk",
-        "Reuters"
-      ],
-      "articles": [
-        {
-          "title": "Germany's AllUnity plans Swedish krona stablecoin, pushes into AI agentic payments",
-          "url": "https://www.coindesk.com/business/2026/05/20/germany-s-allunity-plans-swedish-krona-stablecoin-pushes-into-ai-agentic-payments",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Germany will deploy Patriot air defence system to southeast Turkey, Ankara says - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaUxaRzBNMkptc2lkM0V2LUN0WUpCVWtXMllPTDJrUHVyX2Z4S2hqOHd3c1ZsUzJfTzJaZnNRVDdpdkt3SGtfSThpT05xWkNieXFLR1B3eHdROGlsNE1HSGVhY3hjem5sYkFYRjhqVWdfMnFDWm9yazhzcnVuT0wtS0k0YldxSjNWLWhicjg2OUxNZ2tuMDF0UEY4U3RQUVMxRFRKSktqYkpKTW44M3Ryb0JkeTdaT2p5WmdMOHdaS3ZDM25rRFgyMw?oc=5",
-          "source": "Reuters"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "AllUnity",
-      "count": 2,
-      "sources": [
-        "CoinDesk",
-        "The Block"
-      ],
-      "articles": [
-        {
-          "title": "Germany's AllUnity plans Swedish krona stablecoin, pushes into AI agentic payments",
-          "url": "https://www.coindesk.com/business/2026/05/20/germany-s-allunity-plans-swedish-krona-stablecoin-pushes-into-ai-agentic-payments",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "AllUnity plans Swedish krona stablecoin, launches agentic payments infrastructure",
-          "url": "https://www.theblock.co/post/402027/allunity-plans-swedish-krona-stablecoin-launches-agentic-payments-infrastructure?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Nvidia",
-      "count": 2,
-      "sources": [
-        "CNBC",
-        "CoinTelegraph"
-      ],
-      "articles": [
-        {
-          "title": "Bitcoin sees fresh US sell-off as markets await Nvidia 'biggest earnings event'",
-          "url": "https://cointelegraph.com/markets/bitcoin-sees-fresh-us-sell-off-as-markets-await-nvidia-biggest-earnings-event?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Nvidia earnings call drama: Will Jensen Huang talk 'Trump' and China chips after Xi summit?",
-          "url": "https://www.cnbc.com/2026/05/18/nvidia-earnings-call-drama-will-jensen-huang-talk-trump-and-china-chips-after-xi-summit.html",
-          "source": "CNBC"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "GitHub",
-      "count": 2,
-      "sources": [
-        "CoinTelegraph",
-        "Crypto Briefing"
-      ],
-      "articles": [
-        {
-          "title": "GitHub investigates unauthorized access to internal repositories",
-          "url": "https://cointelegraph.com/news/github-warns-of-unauthorized-access-to-internal-repositories?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "CISA exposed plaintext passwords and cloud keys on GitHub for six months",
-          "url": "https://cryptobriefing.com/cisa-exposed-passwords-github/",
-          "source": "Crypto Briefing"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "MoneyGram",
-      "count": 2,
-      "sources": [
-        "CoinTelegraph",
-        "The Block"
-      ],
-      "articles": [
-        {
-          "title": "MoneyGram deepens blockchain payments push via Tempo partnership",
-          "url": "https://cointelegraph.com/news/moneygram-joins-tempo-validator-network-as-stablecoin-settlement-push-expands?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "MoneyGram named \u2018anchor remittance validator\u2019 for Stripe-backed Tempo blockchain",
-          "url": "https://www.theblock.co/post/402043/moneygram-remittance-validator-stripe-tempo-blockchain?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
         }
       ],
       "is_new": true
@@ -832,7 +909,7 @@
     {
       "name": "Nexus",
       "symbol": "NEX",
-      "market_cap_rank": 138,
+      "market_cap_rank": 139,
       "thumb": "https://coin-images.coingecko.com/coins/images/102173233/standard/nexus.jpg?1778490588"
     },
     {
@@ -848,16 +925,16 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
     },
     {
-      "name": "Manifesting",
-      "symbol": "MANIFEST",
-      "market_cap_rank": 910,
-      "thumb": "https://coin-images.coingecko.com/coins/images/102173340/standard/2rmo9sk0d8lqtf03ebvup8uika6g.?1779090208"
-    },
-    {
       "name": "Zcash",
       "symbol": "ZEC",
       "market_cap_rank": 13,
       "thumb": "https://coin-images.coingecko.com/coins/images/486/standard/circle-zcash-color.png?1696501740"
+    },
+    {
+      "name": "Manifesting",
+      "symbol": "MANIFEST",
+      "market_cap_rank": 928,
+      "thumb": "https://coin-images.coingecko.com/coins/images/102173340/standard/2rmo9sk0d8lqtf03ebvup8uika6g.?1779090208"
     },
     {
       "name": "Venice Token",
@@ -866,90 +943,90 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/54023/standard/VVV_Token_Transparent.png?1741856877"
     },
     {
+      "name": "Lighter",
+      "symbol": "LIT",
+      "market_cap_rank": 149,
+      "thumb": "https://coin-images.coingecko.com/coins/images/71121/standard/lighter.png?1765888098"
+    },
+    {
       "name": "Bitcoin",
       "symbol": "BTC",
       "market_cap_rank": 1,
       "thumb": "https://coin-images.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400"
     },
     {
-      "name": "Lighter",
-      "symbol": "LIT",
-      "market_cap_rank": 150,
-      "thumb": "https://coin-images.coingecko.com/coins/images/71121/standard/lighter.png?1765888098"
+      "name": "MetaDAO",
+      "symbol": "META",
+      "market_cap_rank": 394,
+      "thumb": "https://coin-images.coingecko.com/coins/images/68320/standard/META.png?1755335883"
     },
     {
-      "name": "MegaETH",
-      "symbol": "MEGA",
-      "market_cap_rank": 305,
-      "thumb": "https://coin-images.coingecko.com/coins/images/69995/standard/9fcb2fa4-b240-46e2-9016-c4f6101a139d.jpeg?1778485816"
-    },
-    {
-      "name": "Zest Protocol",
-      "symbol": "ZEST",
-      "market_cap_rank": 1008,
-      "thumb": "https://coin-images.coingecko.com/coins/images/102173294/standard/zest.jpg?1778837125"
+      "name": "Aerodrome Finance",
+      "symbol": "AERO",
+      "market_cap_rank": 122,
+      "thumb": "https://coin-images.coingecko.com/coins/images/31745/standard/token.png?1696530564"
     }
   ],
   "stock_trending": [
     {
       "symbol": "ARM",
       "name": "Arm Holdings plc",
-      "price": 254.56,
-      "change_pct": 14.08
+      "price": 253.52,
+      "change_pct": 13.61
     },
     {
       "symbol": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 77504.5,
-      "change_pct": 0.97
+      "price": 77451.21,
+      "change_pct": 0.9
     },
     {
       "symbol": "TE",
       "name": "T1 Energy Inc.",
-      "price": 8.75,
-      "change_pct": 27.18
+      "price": 8.81,
+      "change_pct": 28.05
     },
     {
       "symbol": "HCWB",
       "name": "HCW Biologics Inc.",
-      "price": 2.45,
-      "change_pct": 131.13
+      "price": 2.4,
+      "change_pct": 126.42
     },
     {
       "symbol": "RDDT",
       "name": "Reddit, Inc.",
-      "price": 145.96,
-      "change_pct": -5.76
+      "price": 145.11,
+      "change_pct": -6.31
     },
     {
       "symbol": "TGT",
       "name": "Target Corporation",
-      "price": 121.09,
+      "price": 121.1,
       "change_pct": -4.83
     },
     {
       "symbol": "ENPH",
       "name": "Enphase Energy, Inc.",
-      "price": 53.53,
-      "change_pct": 14.48
+      "price": 53.36,
+      "change_pct": 14.11
     },
     {
       "symbol": "ADI",
       "name": "Analog Devices, Inc.",
-      "price": 389.83,
-      "change_pct": -5.91
+      "price": 391.89,
+      "change_pct": -5.41
     },
     {
       "symbol": "SMCI",
       "name": "Super Micro Computer, Inc.",
-      "price": 33.87,
-      "change_pct": 10.83
+      "price": 33.81,
+      "change_pct": 10.63
     },
     {
       "symbol": "IMVT",
       "name": "Immunovant, Inc.",
-      "price": 35.15,
-      "change_pct": 33.7
+      "price": 35.1,
+      "change_pct": 33.53
     }
   ],
   "fear_greed": {
@@ -986,5 +1063,5 @@
       }
     ]
   },
-  "total_articles": 361
+  "total_articles": 391
 }
