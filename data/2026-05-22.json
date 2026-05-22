@@ -3,22 +3,22 @@
   "topics": [
     {
       "name": "IPO",
-      "count": 16,
+      "count": 15,
       "sources": [
+        "Bitcoinist",
         "CNBC",
         "CoinDesk",
         "CoinTelegraph",
-        "Cointelegraph",
+        "Crypto Briefing",
         "Decrypt",
         "TechCrunch",
         "The Block",
-        "The Verge",
-        "Yahoo Finance"
+        "The Times of India"
       ],
       "articles": [
         {
-          "title": "Blockchain.com files with SEC for U.S. IPO",
-          "url": "https://www.coindesk.com/business/2026/05/21/blockchain-com-files-confidential-paperwork-with-sec-for-u-s-ipo",
+          "title": "Tom Lee says trillions in tech IPO supply won't crash the S&P 500",
+          "url": "https://www.coindesk.com/markets/2026/05/22/tom-lee-says-trillions-in-tech-ipo-supply-won-t-crash-the-s-and-p-500",
           "source": "CoinDesk"
         },
         {
@@ -27,19 +27,19 @@
           "source": "CoinTelegraph"
         },
         {
-          "title": "Blockchain.com confidentially submits IPO filing with SEC",
-          "url": "https://cointelegraph.com/news/blockchaincom-confidentially-submits-ipo-filing-with-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
+          "title": "Retail investors get direct access to SpaceX IPO through major brokerage platforms",
+          "url": "https://www.cnbc.com/2026/05/21/retail-investors-get-direct-access-to-spacex-ipo-through-major-brokerage-platforms.html",
+          "source": "CNBC"
         },
         {
-          "title": "Elon Musk\u2019s proposed pay package in SpaceX\u2019s IPO filing reveals what the company actually is: a $1 trillion monster built to colonize Mars",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-proposed-pay-package-235643054.html",
-          "source": "Yahoo Finance"
+          "title": "OpenAI takes the lead in AI IPO horse race: 'Getting to public markets first is very important'",
+          "url": "https://www.cnbc.com/2026/05/20/openai-takes-the-lead-in-ai-ipo-horse-race-getting-to-public-markets-first-is-very-important.html",
+          "source": "CNBC"
         },
         {
-          "title": "'Financials look reckless': Lifting the xAI hood in the SpaceX IPO",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/financials-look-reckless-lifting-xai-000608351.html",
-          "source": "Yahoo Finance"
+          "title": "Blockchain.com confidentially files for US IPO as crypto firms continue public market push",
+          "url": "https://www.theblock.co/post/402182/blockchain-com-confidentially-files-for-us-ipo-as-crypto-firms-continue-public-market-push?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
         }
       ],
       "is_new": false
@@ -48,15 +48,12 @@
       "name": "Bitcoin",
       "count": 12,
       "sources": [
-        "Activistpost.com",
         "CoinDesk",
         "CoinTelegraph",
-        "Cointelegraph",
-        "Crypto Briefing",
+        "CoinTurk News",
+        "CryptoSlate",
         "Decrypt",
-        "Finbold",
-        "Hacker News",
-        "Investing.Com Crypto Opinion and Analysis"
+        "Hacker News"
       ],
       "articles": [
         {
@@ -75,77 +72,37 @@
           "source": "CoinTelegraph"
         },
         {
-          "title": "Mark Cuban Says He Sold Most of His Bitcoin",
-          "url": "https://decrypt.co/368678/mark-cuban-sold-most-his-bitcoin",
+          "title": "Morning Minute: Mark Cuban Sells His Bitcoin",
+          "url": "https://decrypt.co/368742/morning-minute-mark-cuban-sells-his-bitcoin",
           "source": "Decrypt"
         },
         {
-          "title": "As Russia invaded Ukraine, Bitcoin plunged \u2013 here's what crypto experts said",
-          "url": "https://markets.businessinsider.com/news/currencies/bitcoin-ethereum-blockchain-ukraine-russia-war-conflict-europe-america-china-2022-2",
-          "source": "Hacker News"
+          "title": "Mark Cuban Says He Sold Most of His Bitcoin",
+          "url": "https://decrypt.co/368678/mark-cuban-sold-most-his-bitcoin",
+          "source": "Decrypt"
         }
       ],
       "is_new": false
     },
     {
-      "name": "Japan",
-      "count": 8,
-      "sources": [
-        "CNBC",
-        "CoinDesk",
-        "CoinTelegraph",
-        "Cointelegraph",
-        "Seeking Alpha",
-        "The Block"
-      ],
-      "articles": [
-        {
-          "title": "Polymarket aims for prediction market approval in Japan by 2030",
-          "url": "https://www.coindesk.com/policy/2026/05/22/polymarket-aims-for-prediction-market-approval-in-japan-by-2030",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Polymarket seeks Japan entry despite gambling law hurdles: Report",
-          "url": "https://cointelegraph.com/news/polymarket-seeks-japan-entry-global-regulatory-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Japan\u2019s megabanks post record profits, but analysts warn growth may slow as risks mount",
-          "url": "https://www.cnbc.com/2026/05/21/japan-megabanks-profits-growth-risks-sumitomo-mitsui-mizuho-mitsubishi-ufj.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Polymarket eyes Japan market entry, appoints regional representative: Bloomberg",
-          "url": "https://www.theblock.co/post/402309/polymarket-japan-market-entry?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
-        },
-        {
-          "title": "Japan Flash PMI Signals Cooling Economy As Price Index Hits Record High",
-          "url": "https://seekingalpha.com/article/4907956-japan-flash-pmi-signals-cooling-economy-as-price-index-hits-record-high?source=feed_all_articles",
-          "source": "Seeking Alpha"
-        }
-      ],
-      "is_new": true
-    },
-    {
       "name": "Iran",
-      "count": 8,
+      "count": 9,
       "sources": [
-        "Bitcoin World",
-        "CoinDesk",
-        "Investing.com",
-        "Reuters"
+        "Crypto Briefing",
+        "Investing.com Crypto News",
+        "Reuters",
+        "Seeking Alpha"
       ],
       "articles": [
         {
-          "title": "Live markets: Yet another Iran peace deal and Mark Cuban sells his bitcoin",
-          "url": "https://www.coindesk.com/markets/2026/05/21/live-markets-bitcoin-s-flat-action-continues-as-spacex-ipo-nvidia-earnings-capture-news-cycle",
-          "source": "CoinDesk"
+          "title": "Oil prices fall over 6% as Trump says Iran deal negotiations near completion",
+          "url": "https://cryptobriefing.com/oil-prices-fall-trump-iran-deal/",
+          "source": "Crypto Briefing"
         },
         {
-          "title": "Pakistan seeks breakthrough in US-Iran peace talks",
-          "url": "https://www.investing.com/news/world-news/pakistan-seeks-breakthrough-in-usiran-peace-talks-4705825",
-          "source": "Investing.com"
+          "title": "Iran\u2019s Supreme Leader orders enriched uranium to stay in country, complicating US nuclear talks",
+          "url": "https://cryptobriefing.com/iran-uranium-directive-nuclear-talks/",
+          "source": "Crypto Briefing"
         },
         {
           "title": "Iran is consolidating control of Hormuz with island checkpoints, diplomatic deals \u2013 and sometimes \u2018fees\u2019 - Reuters",
@@ -166,11 +123,51 @@
       "is_new": false
     },
     {
+      "name": "U.S.",
+      "count": 8,
+      "sources": [
+        "CNBC",
+        "CoinDesk",
+        "Cryptopolitan",
+        "MarketWatch",
+        "NBC News",
+        "The Wall Street Journal"
+      ],
+      "articles": [
+        {
+          "title": "U.S. CFTC secures deal with National Hockey League on prediction market safeguards",
+          "url": "https://www.coindesk.com/policy/2026/05/21/u-s-cftc-secures-deal-with-national-hockey-league-on-prediction-market-safeguards",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Canada and India now have generic Wegovy. Here\u2019s why the U.S. doesn\u2019t.",
+          "url": "https://www.marketwatch.com/story/canada-and-india-now-have-generic-wegovy-heres-why-the-u-s-doesnt-db18b6b7?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
+          "url": "https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Miner Perpetua Resources secures $2.9 billion U.S. loan for Idaho gold, antimony project",
+          "url": "https://www.cnbc.com/2026/05/21/miner-perpetua-resources-secures-2point9-billion-us-loan-for-idaho-gold-antimony-project.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "China confirms order for 200 Boeing planes, calls aviation key area for U.S. cooperation",
+          "url": "https://www.cnbc.com/2026/05/20/china-confirms-200-boeing-aircraft-order.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
       "name": "China",
       "count": 8,
       "sources": [
         "CNBC",
-        "Crypto Briefing",
+        "Cryptopolitan",
         "Decrypt",
         "Hacker News",
         "The Block"
@@ -205,48 +202,267 @@
       "is_new": false
     },
     {
-      "name": "U.S.",
-      "count": 5,
+      "name": "Japan",
+      "count": 7,
       "sources": [
         "CNBC",
-        "CoinDesk"
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block",
+        "Yahoo Finance"
       ],
       "articles": [
         {
-          "title": "U.S. CFTC secures deal with National Hockey League on prediction market safeguards",
-          "url": "https://www.coindesk.com/policy/2026/05/21/u-s-cftc-secures-deal-with-national-hockey-league-on-prediction-market-safeguards",
+          "title": "Polymarket aims for prediction market approval in Japan by 2030",
+          "url": "https://www.coindesk.com/policy/2026/05/22/polymarket-aims-for-prediction-market-approval-in-japan-by-2030",
           "source": "CoinDesk"
         },
         {
-          "title": "Blockchain.com files with SEC for U.S. IPO",
-          "url": "https://www.coindesk.com/business/2026/05/21/blockchain-com-files-confidential-paperwork-with-sec-for-u-s-ipo",
+          "title": "Polymarket seeks Japan entry despite gambling law hurdles: Report",
+          "url": "https://cointelegraph.com/news/polymarket-seeks-japan-entry-global-regulatory-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Japan exports rise for eighth month despite supply disruptions",
+          "url": "https://finance.yahoo.com/economy/articles/japan-april-exports-rise-14-003058688.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Japan\u2019s megabanks post record profits, but analysts warn growth may slow as risks mount",
+          "url": "https://www.cnbc.com/2026/05/21/japan-megabanks-profits-growth-risks-sumitomo-mitsui-mizuho-mitsubishi-ufj.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Polymarket eyes Japan market entry, appoints regional representative: Bloomberg",
+          "url": "https://www.theblock.co/post/402309/polymarket-japan-market-entry?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Trump",
+      "count": 6,
+      "sources": [
+        "CNBC",
+        "CoinOtag",
+        "Crypto Briefing",
+        "Fox News",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "Tehran issues threats as Trump pushes for deal - Fox News",
+          "url": "https://www.foxnews.com/live-news/trump-iran-war-israel-may-21",
+          "source": "Fox News"
+        },
+        {
+          "title": "Oil prices fall over 6% as Trump says Iran deal negotiations near completion",
+          "url": "https://cryptobriefing.com/oil-prices-fall-trump-iran-deal/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Trump administration reportedly buys into quantum stocks, triggering rally",
+          "url": "https://cryptobriefing.com/trump-administration-quantum-stocks-rally/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Trump administration says new EPA rules will save you money at the supermarket. It's not clear they will",
+          "url": "https://www.cnbc.com/2026/05/21/trump-changes-epa-refrigeration-rules-in-grocery-price-push.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Trump blinks as big, bad bond market bares its teeth - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRnZtN1lXbHppUkRDczZZLUhfaDdCQmRlTTNRN2VYekhzWWhuV19mSloyY2M5bGVNeUc1eEVUSnVVRHhVY3pDbl9Pa0MtQ2JTNXhnZ1BRdTdrc2h3ZmRnVV9QZS1kTzNtTXgxdVZVcVJqY3JHWHRLYkRrNHRodEhDVHJyLVhIV0N0cGVhRWRLOHBNRDBPUVhnbjFwVDBVdHczWFdLdEVRdkxHRnhKcFl1LW1kb3VJZDd0?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "ETH",
+      "count": 5,
+      "sources": [
+        "CoinTelegraph",
+        "CoinTurk News",
+        "Coinpaper",
+        "Crypto Briefing",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Harvard dumps entire ETH position after just one quarter",
+          "url": "https://cointelegraph.com/news/harvard-dumps-entire-eth-position-one-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Verus bridge exploiter returns 4,052 ETH, retains $2.8 million bounty: onchain analyst",
+          "url": "https://www.theblock.co/post/402319/verus-bridge-exploiter-returns-4052-eth?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Bankless co-founder sells last of his ETH as media outlet enters second era",
+          "url": "https://cryptobriefing.com/bankless-co-founder-sells-last-of-his-eth-as-media-outlet-enters-second-era/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Verus Hacker Returns $8.5M in ETH After Accepting Bounty Deal",
+          "url": "https://coinpaper.com/17220/verus-hacker-returns-8-5-m-in-eth-after-accepting-bounty-deal",
+          "source": "Coinpaper"
+        },
+        {
+          "title": "Verus recovers 4,052 ETH after $11.5 million bridge hack",
+          "url": "https://en.coin-turk.com/verus-recovers-4052-eth-after-11-5-million-bridge-hack/",
+          "source": "CoinTurk News"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Nvidia",
+      "count": 5,
+      "sources": [
+        "CNBC",
+        "Crypto Briefing",
+        "MarketWatch"
+      ],
+      "articles": [
+        {
+          "title": "Nvidia spent $18.6 billion on venture investments in 3 months. Where does the cash trail go?",
+          "url": "https://www.marketwatch.com/story/nvidia-spent-18-6-billion-on-venture-investments-in-3-months-where-does-the-cash-trail-go-9b8e53e9?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Nvidia made one of the biggest buyback announcements ever. It may not be enough.",
+          "url": "https://www.marketwatch.com/story/nvidia-made-one-of-the-biggest-buyback-announcements-ever-it-may-not-be-enough-f9a5990c?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "S&P 500 futures edge lower as traders analyze Nvidia earnings: Live updates - CNBC",
+          "url": "https://www.cnbc.com/2026/05/20/stock-market-today-live-updates.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Nvidia posts record revenue of $81.6B, shares fall 1.6% in after-hours trading",
+          "url": "https://cryptobriefing.com/nvidia-record-revenue-shares-fall/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Nvidia tells investors AI is ready for mainstream adoption",
+          "url": "https://cryptobriefing.com/nvidia-ai-mainstream-adoption-investors/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Fed",
+      "count": 5,
+      "sources": [
+        "Axios",
+        "CNBC",
+        "Crypto Potato",
+        "MarketWatch"
+      ],
+      "articles": [
+        {
+          "title": "Kevin Warsh takes over as Fed chair today \u2014 after first swearing-in at White House in nearly 40 years",
+          "url": "https://www.marketwatch.com/story/kevin-warsh-will-be-the-first-fed-chair-sworn-in-at-the-white-house-in-almost-40-years-55254337?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Fed officials see rate hike ahead if inflation stays elevated, minutes show",
+          "url": "https://www.cnbc.com/2026/05/20/fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Fed to hike? When traders see a rate increase coming",
+          "url": "https://www.cnbc.com/2026/05/19/fed-to-hike-when-traders-see-a-rate-increase-coming.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Most Fed officials see rate hikes if inflation stays high, minutes show - Axios",
+          "url": "https://www.axios.com/2026/05/20/fed-rates-minutes-warsh",
+          "source": "Axios"
+        },
+        {
+          "title": "Warsh Era Begins at Fed: Two On-Chain Signals Bitcoin Traders Must Watch",
+          "url": "https://cryptopotato.com/warsh-era-begins-at-fed-two-on-chain-signals-bitcoin-traders-must-watch/",
+          "source": "Crypto Potato"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "ICE",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "Seeking Alpha"
+      ],
+      "articles": [
+        {
+          "title": "OKX and ICE are bringing 'never-expiring' oil futures to 120 million crypto users",
+          "url": "https://www.coindesk.com/business/2026/05/22/okx-and-ice-are-bringing-never-expiring-oil-futures-to-120-million-crypto-users",
           "source": "CoinDesk"
         },
         {
-          "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
-          "url": "https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html",
-          "source": "CNBC"
+          "title": "OKX and ICE are bringing 'never-expiring' oil futures to 120 million crypto users",
+          "url": "https://www.coindesk.com/business/2026/05/22/okx-and-ice-are-bringing-never-expiring-oil-futures-to-120-million-crypto-users",
+          "source": "CoinDesk"
         },
         {
-          "title": "Miner Perpetua Resources secures $2.9 billion U.S. loan for Idaho gold, antimony project",
-          "url": "https://www.cnbc.com/2026/05/21/miner-perpetua-resources-secures-2point9-billion-us-loan-for-idaho-gold-antimony-project.html",
-          "source": "CNBC"
+          "title": "OKX and ICE are bringing 'never-expiring' oil futures to 120 million crypto users",
+          "url": "https://www.coindesk.com/business/2026/05/22/okx-and-ice-are-bringing-never-expiring-oil-futures-to-120-million-crypto-users",
+          "source": "CoinDesk"
         },
         {
-          "title": "China confirms order for 200 Boeing planes, calls aviation key area for U.S. cooperation",
-          "url": "https://www.cnbc.com/2026/05/20/china-confirms-200-boeing-aircraft-order.html",
-          "source": "CNBC"
+          "title": "ICE, crypto exchange OKX working on launch of perpetual oil futures - report",
+          "url": "https://seekingalpha.com/news/4596226-ice-crypto-exchange-okx-working-on-launch-of-perpetual-oil-futures---report?utm_source=cryptocompare.com&utm_medium=referral&feed_item_type=news",
+          "source": "Seeking Alpha"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "XRP",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "XRP ETFs attract inflows amid wallet surge. bitcoin, ether funds struggle.",
+          "url": "https://www.coindesk.com/markets/2026/05/22/xrp-funds-sees-fresh-inflows-and-wallet-spike-as-bitcoin-ether-funds-bleed",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "XRP adds 4,300 new wallets in 24 hours, but why is price stuck?",
+          "url": "https://cointelegraph.com/markets/xrp-adds-4300-new-wallets-in-24-hours-but-why-is-price-stuck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "XRP adds 4,300 new wallets in 24 hours, but why is price stuck?",
+          "url": "https://cointelegraph.com/markets/xrp-adds-4300-new-wallets-in-24-hours-but-why-is-price-stuck?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "XRP ETFs attract inflows amid wallet surge. bitcoin, ether funds struggle.",
+          "url": "https://www.coindesk.com/markets/2026/05/22/xrp-funds-sees-fresh-inflows-and-wallet-spike-as-bitcoin-ether-funds-bleed",
+          "source": "CoinDesk"
         }
       ],
       "is_new": false
     },
     {
       "name": "CFTC",
-      "count": 5,
+      "count": 4,
       "sources": [
         "CoinDesk",
         "CoinTelegraph",
-        "Cointelegraph",
         "Decrypt",
         "The Block"
       ],
@@ -270,108 +486,39 @@
           "title": "NHL Agrees to Share Data With the CFTC for Prediction Market Integrity",
           "url": "https://decrypt.co/368687/nhl-agrees-share-data-cftc-prediction-market-integrity",
           "source": "Decrypt"
-        },
-        {
-          "title": "CFTC signs MOU with National Hockey League over prediction markets",
-          "url": "https://cointelegraph.com/news/cftc-national-hockey-league-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
         }
       ],
       "is_new": false
     },
     {
-      "name": "XRP",
+      "name": "Coinbase",
       "count": 4,
       "sources": [
-        "CoinDesk",
-        "Crypto Potato",
-        "Investing.Com Crypto Opinion and Analysis"
-      ],
-      "articles": [
-        {
-          "title": "XRP ETFs attract inflows amid wallet surge. bitcoin, ether funds struggle.",
-          "url": "https://www.coindesk.com/markets/2026/05/22/xrp-funds-sees-fresh-inflows-and-wallet-spike-as-bitcoin-ether-funds-bleed",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "XRP ETFs attract inflows amid wallet surge. bitcoin, ether funds struggle.",
-          "url": "https://www.coindesk.com/markets/2026/05/22/xrp-funds-sees-fresh-inflows-and-wallet-spike-as-bitcoin-ether-funds-bleed",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Crypto Price Analysis May-22: ETH, XRP, ADA, BNB, and HYPE",
-          "url": "https://cryptopotato.com/crypto-price-analysis-may-22-eth-xrp-ada-bnb-and-hype/",
-          "source": "Crypto Potato"
-        },
-        {
-          "title": "XRP\u2019s Failed Breakout Puts the $1.35 Support Zone Under Pressure",
-          "url": "https://www.investing.com/analysis/xrps-failed-breakout-puts-the-135-support-zone-under-pressure-200680665",
-          "source": "Investing.Com Crypto Opinion and Analysis"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "SEC",
-      "count": 4,
-      "sources": [
-        "CoinDesk",
-        "CoinTelegraph",
-        "Cointelegraph"
-      ],
-      "articles": [
-        {
-          "title": "Blockchain.com files with SEC for U.S. IPO",
-          "url": "https://www.coindesk.com/business/2026/05/21/blockchain-com-files-confidential-paperwork-with-sec-for-u-s-ipo",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "SEC's Peirce tempers expectations over tokenized stocks exemption",
-          "url": "https://cointelegraph.com/news/secs-peirce-tempers-expectations-over-innovation-exemption-for-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Blockchain.com confidentially submits IPO filing with SEC",
-          "url": "https://cointelegraph.com/news/blockchaincom-confidentially-submits-ipo-filing-with-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "SEC's Peirce tempers expectations over tokenized stocks exemption",
-          "url": "https://cointelegraph.com/news/secs-peirce-tempers-expectations-over-innovation-exemption-for-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "ETH",
-      "count": 4,
-      "sources": [
+        "Bitcoin World",
         "CoinTelegraph",
         "Cointelegraph",
-        "Crypto Potato",
         "The Block"
       ],
       "articles": [
         {
-          "title": "Harvard dumps entire ETH position after just one quarter",
-          "url": "https://cointelegraph.com/news/harvard-dumps-entire-eth-position-one-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Coinbase premium hits monthly low as institutional selling pressure mounts",
+          "url": "https://cointelegraph.com/news/coinbase-premium-hits-monthly-low-as-institutional-selling-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "CoinTelegraph"
         },
         {
-          "title": "Verus bridge exploiter returns 4,052 ETH, retains $2.8 million bounty: onchain analyst",
-          "url": "https://www.theblock.co/post/402319/verus-bridge-exploiter-returns-4052-eth?utm_source=rss&utm_medium=rss",
+          "title": "Coinbase introduces thematic perps tracking China, AI and US national security equity indexes",
+          "url": "https://www.theblock.co/post/402286/coinbase-thematic-perps-tracking-china-ai-us-national-security-equity-indexes?utm_source=rss&utm_medium=rss",
           "source": "The Block"
         },
         {
-          "title": "Harvard dumps entire ETH position after just one quarter",
-          "url": "https://cointelegraph.com/news/harvard-dumps-entire-eth-position-one-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Coinbase premium hits monthly low as institutional selling pressure mounts",
+          "url": "https://cointelegraph.com/news/coinbase-premium-hits-monthly-low-as-institutional-selling-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "Cointelegraph"
         },
         {
-          "title": "Crypto Price Analysis May-22: ETH, XRP, ADA, BNB, and HYPE",
-          "url": "https://cryptopotato.com/crypto-price-analysis-may-22-eth-xrp-ada-bnb-and-hype/",
-          "source": "Crypto Potato"
+          "title": "BlackRock Transfers $122.6 Million in Bitcoin to Coinbase, Raising Market Questions",
+          "url": "https://bitcoinworld.co.in/blackrock-bitcoin-coinbase-deposit-122-million/",
+          "source": "Bitcoin World"
         }
       ],
       "is_new": true
@@ -395,8 +542,8 @@
           "source": "CNBC"
         },
         {
-          "title": "SpaceX, OpenAI, Anthropic move closer to trillion-dollar valuations",
-          "url": "https://cryptobriefing.com/spacex-openai-anthropic-trillion-dollar-valuations/",
+          "title": "Anthropic\u2019s enterprise joint venture acquires Fractional AI, pulling it away from OpenAI",
+          "url": "https://cryptobriefing.com/anthropic-acquires-fractional-ai-openai/",
           "source": "Crypto Briefing"
         },
         {
@@ -406,71 +553,6 @@
         }
       ],
       "is_new": true
-    },
-    {
-      "name": "Fed",
-      "count": 4,
-      "sources": [
-        "Axios",
-        "CNBC",
-        "Cointelegraph"
-      ],
-      "articles": [
-        {
-          "title": "Fed officials see rate hike ahead if inflation stays elevated, minutes show",
-          "url": "https://www.cnbc.com/2026/05/20/fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Fed to hike? When traders see a rate increase coming",
-          "url": "https://www.cnbc.com/2026/05/19/fed-to-hike-when-traders-see-a-rate-increase-coming.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Most Fed officials see rate hikes if inflation stays high, minutes show - Axios",
-          "url": "https://www.axios.com/2026/05/20/fed-rates-minutes-warsh",
-          "source": "Axios"
-        },
-        {
-          "title": "Fed seeks input on limited payment accounts after Trump order",
-          "url": "https://cointelegraph.com/news/fed-skinny-payment-account-proposal-trump-crypto-order",
-          "source": "Cointelegraph"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "Trump",
-      "count": 4,
-      "sources": [
-        "CNBC",
-        "Cointelegraph",
-        "Crypto Briefing",
-        "Reuters"
-      ],
-      "articles": [
-        {
-          "title": "Fed seeks input on limited payment accounts after Trump order",
-          "url": "https://cointelegraph.com/news/fed-skinny-payment-account-proposal-trump-crypto-order",
-          "source": "Cointelegraph"
-        },
-        {
-          "title": "Trump plans to speak with Taiwan\u2019s President Lai Ching-te in unprecedented diplomatic shift",
-          "url": "https://cryptobriefing.com/trump-taiwan-call-diplomatic-shift-crypto/",
-          "source": "Crypto Briefing"
-        },
-        {
-          "title": "Trump administration says new EPA rules will save you money at the supermarket. It's not clear they will",
-          "url": "https://www.cnbc.com/2026/05/21/trump-changes-epa-refrigeration-rules-in-grocery-price-push.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Trump blinks as big, bad bond market bares its teeth - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRnZtN1lXbHppUkRDczZZLUhfaDdCQmRlTTNRN2VYekhzWWhuV19mSloyY2M5bGVNeUc1eEVUSnVVRHhVY3pDbl9Pa0MtQ2JTNXhnZ1BRdTdrc2h3ZmRnVV9QZS1kTzNtTXgxdVZVcVJqY3JHWHRLYkRrNHRodEhDVHJyLVhIV0N0cGVhRWRLOHBNRDBPUVhnbjFwVDBVdHczWFdLdEVRdkxHRnhKcFl1LW1kb3VJZDd0?oc=5",
-          "source": "Reuters"
-        }
-      ],
-      "is_new": false
     },
     {
       "name": "Reuters",
@@ -501,6 +583,106 @@
         }
       ],
       "is_new": false
+    },
+    {
+      "name": "CoinDesk 20",
+      "count": 3,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "CoinDesk 20 performance update: NEAR surges 19.4% as index trades flat",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/05/22/coindesk-20-performance-update-near-surges-19-4-as-index-trades-flat",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "CoinDesk 20 performance update: NEAR surges 19.4% as index trades flat",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/05/22/coindesk-20-performance-update-near-surges-19-4-as-index-trades-flat",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "CoinDesk 20 performance update: NEAR surges 19.4% as index trades flat",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/05/22/coindesk-20-performance-update-near-surges-19-4-as-index-trades-flat",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "NEAR",
+      "count": 3,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "CoinDesk 20 performance update: NEAR surges 19.4% as index trades flat",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/05/22/coindesk-20-performance-update-near-surges-19-4-as-index-trades-flat",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "CoinDesk 20 performance update: NEAR surges 19.4% as index trades flat",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/05/22/coindesk-20-performance-update-near-surges-19-4-as-index-trades-flat",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "CoinDesk 20 performance update: NEAR surges 19.4% as index trades flat",
+          "url": "https://www.coindesk.com/coindesk-indices/2026/05/22/coindesk-20-performance-update-near-surges-19-4-as-index-trades-flat",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Trump Media",
+      "count": 3,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Trump Media moves another $205 million in bitcoin as losses on crypto bet swell to $455 million",
+          "url": "https://www.coindesk.com/markets/2026/05/22/trump-media-moves-another-usd205m-in-bitcoin-as-losses-on-crypto-bet-swell-to-usd455m",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Trump Media moves another $205 million in bitcoin as losses on crypto bet swell to $455 million",
+          "url": "https://www.coindesk.com/markets/2026/05/22/trump-media-moves-another-usd205m-in-bitcoin-as-losses-on-crypto-bet-swell-to-usd455m",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Trump Media moves another $205 million in bitcoin as losses on crypto bet swell to $455 million",
+          "url": "https://www.coindesk.com/markets/2026/05/22/trump-media-moves-another-usd205m-in-bitcoin-as-losses-on-crypto-bet-swell-to-usd455m",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Tom Lee",
+      "count": 3,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Tom Lee says trillions in tech IPO supply won't crash the S&P 500",
+          "url": "https://www.coindesk.com/markets/2026/05/22/tom-lee-says-trillions-in-tech-ipo-supply-won-t-crash-the-s-and-p-500",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Tom Lee says trillions in tech IPO supply won't crash the S&P 500",
+          "url": "https://www.coindesk.com/markets/2026/05/22/tom-lee-says-trillions-in-tech-ipo-supply-won-t-crash-the-s-and-p-500",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Tom Lee says trillions in tech IPO supply won't crash the S&P 500",
+          "url": "https://www.coindesk.com/markets/2026/05/22/tom-lee-says-trillions-in-tech-ipo-supply-won-t-crash-the-s-and-p-500",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
     },
     {
       "name": "Ark Invest",
@@ -558,8 +740,8 @@
       "name": "India",
       "count": 3,
       "sources": [
-        "Bloomberg",
-        "CoinDesk"
+        "CoinDesk",
+        "MarketWatch"
       ],
       "articles": [
         {
@@ -568,9 +750,9 @@
           "source": "CoinDesk"
         },
         {
-          "title": "India\u2019s treasury-bill yields surge on rate-hike expectation",
-          "url": "https://www.bloomberg.com/news/articles/2026-05-20/india-s-treasury-bill-yields-surge-on-rate-hike-expectation",
-          "source": "Bloomberg"
+          "title": "Canada and India now have generic Wegovy. Here\u2019s why the U.S. doesn\u2019t.",
+          "url": "https://www.marketwatch.com/story/canada-and-india-now-have-generic-wegovy-heres-why-the-u-s-doesnt-db18b6b7?mod=mw_rss_topstories",
+          "source": "MarketWatch"
         },
         {
           "title": "India cracks down on prediction markets: Polymarket goes dark, Kalshi could be next",
@@ -581,84 +763,30 @@
       "is_new": true
     },
     {
-      "name": "Mark Cuban",
+      "name": "Kalshi",
       "count": 3,
       "sources": [
         "CoinDesk",
-        "Decrypt"
-      ],
-      "articles": [
-        {
-          "title": "Mark Cuban says he sold most of his Bitcoin after failed hedge narrative 'disappointed' the billionaire",
-          "url": "https://www.coindesk.com/markets/2026/05/21/mark-cuban-says-he-sold-most-of-his-bitcoin-after-failed-hedge-narrative-disappointed-the-billionaire",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Live markets: Yet another Iran peace deal and Mark Cuban sells his bitcoin",
-          "url": "https://www.coindesk.com/markets/2026/05/21/live-markets-bitcoin-s-flat-action-continues-as-spacex-ipo-nvidia-earnings-capture-news-cycle",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Mark Cuban Says He Sold Most of His Bitcoin",
-          "url": "https://decrypt.co/368678/mark-cuban-sold-most-his-bitcoin",
-          "source": "Decrypt"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "National Hockey League",
-      "count": 3,
-      "sources": [
-        "CoinDesk",
-        "CoinTelegraph",
-        "Cointelegraph"
-      ],
-      "articles": [
-        {
-          "title": "U.S. CFTC secures deal with National Hockey League on prediction market safeguards",
-          "url": "https://www.coindesk.com/policy/2026/05/21/u-s-cftc-secures-deal-with-national-hockey-league-on-prediction-market-safeguards",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "CFTC signs MOU with National Hockey League over prediction markets",
-          "url": "https://cointelegraph.com/news/cftc-national-hockey-league-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "CFTC signs MOU with National Hockey League over prediction markets",
-          "url": "https://cointelegraph.com/news/cftc-national-hockey-league-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Blockchain.com",
-      "count": 3,
-      "sources": [
-        "CoinDesk",
-        "CoinTelegraph",
         "The Block"
       ],
       "articles": [
         {
-          "title": "Blockchain.com files with SEC for U.S. IPO",
-          "url": "https://www.coindesk.com/business/2026/05/21/blockchain-com-files-confidential-paperwork-with-sec-for-u-s-ipo",
+          "title": "India cracks down on prediction markets: Polymarket goes dark, Kalshi could be next",
+          "url": "https://www.coindesk.com/markets/2026/05/22/india-cracks-down-on-prediction-markets-polymarket-goes-dark-kalshi-could-be-next",
           "source": "CoinDesk"
         },
         {
-          "title": "Blockchain.com confidentially submits IPO filing with SEC",
-          "url": "https://cointelegraph.com/news/blockchaincom-confidentially-submits-ipo-filing-with-sec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
+          "title": "House Oversight chair launches probe into insider trading on Kalshi and Polymarket",
+          "url": "https://www.theblock.co/post/402348/house-oversight-chair-launches-probe-into-insider-trading-on-kalshi-and-polymarket?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
         },
         {
-          "title": "Blockchain.com confidentially files for US IPO as crypto firms continue public market push",
-          "url": "https://www.theblock.co/post/402182/blockchain-com-confidentially-files-for-us-ipo-as-crypto-firms-continue-public-market-push?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
+          "title": "India cracks down on prediction markets: Polymarket goes dark, Kalshi could be next",
+          "url": "https://www.coindesk.com/markets/2026/05/22/india-cracks-down-on-prediction-markets-polymarket-goes-dark-kalshi-could-be-next",
+          "source": "CoinDesk"
         }
       ],
-      "is_new": false
+      "is_new": true
     },
     {
       "name": "Novogratz",
@@ -682,33 +810,6 @@
         {
           "title": "Galaxy\u2019s Novogratz speaks in court over failed $1.2B BitGo deal: Report",
           "url": "https://cointelegraph.com/news/galaxys-novogratz-speaks-in-court-on-12b-bitgo-deal-gone-wrong-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Coinbase",
-      "count": 3,
-      "sources": [
-        "CoinTelegraph",
-        "Cointelegraph",
-        "The Block"
-      ],
-      "articles": [
-        {
-          "title": "Coinbase premium hits monthly low as institutional selling pressure mounts",
-          "url": "https://cointelegraph.com/news/coinbase-premium-hits-monthly-low-as-institutional-selling-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Coinbase introduces thematic perps tracking China, AI and US national security equity indexes",
-          "url": "https://www.theblock.co/post/402286/coinbase-thematic-perps-tracking-china-ai-us-national-security-equity-indexes?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
-        },
-        {
-          "title": "Coinbase premium hits monthly low as institutional selling pressure mounts",
-          "url": "https://cointelegraph.com/news/coinbase-premium-hits-monthly-low-as-institutional-selling-pressure-mounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "Cointelegraph"
         }
       ],
@@ -742,54 +843,54 @@
       "is_new": true
     },
     {
-      "name": "Chainlink",
+      "name": "Walmart",
       "count": 3,
       "sources": [
-        "CoinTelegraph",
-        "Cointelegraph",
-        "The Block"
+        "CNBC",
+        "NBC News"
       ],
       "articles": [
         {
-          "title": "Crypto PAC backed by Anchorage and Chainlink announces endorsements for 2026 midterms",
-          "url": "https://cointelegraph.com/news/crypto-pac-anchorage-chainlink-2026-candidates-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
+          "title": "Stocks making the biggest moves premarket: IBM, Walmart, Rocket Lab, Nvidia & more",
+          "url": "https://www.cnbc.com/2026/05/21/stocks-making-the-biggest-moves-premarket-ibm-wmt-rklb-nvda.html",
+          "source": "CNBC"
         },
         {
-          "title": "Chainlink, Anchorage-backed PAC names first bipartisan endorsements in 2026 midterm cycle",
-          "url": "https://www.theblock.co/post/402231/chainlink-anchorage-backed-pac-first-bipartisan-endorsements-2026-midterm?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
+          "title": "Walmart says U.S. consumers are under pressure from rising costs - NBC News",
+          "url": "https://www.nbcnews.com/business/consumer/walmart-quarterly-earnings-fuel-costs-rcna345914",
+          "source": "NBC News"
         },
         {
-          "title": "Crypto PAC backed by Anchorage and Chainlink announces endorsements for 2026 midterms",
-          "url": "https://cointelegraph.com/news/crypto-pac-anchorage-chainlink-2026-candidates-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
+          "title": "How Walmart's gas price warning shapes our retail outlook \u2014 plus, Honeywell's quantum connection",
+          "url": "https://www.cnbc.com/2026/05/21/how-walmarts-gas-price-warning-shapes-our-retail-outlook-plus-honeywells-quantum-connection.html",
+          "source": "CNBC"
         }
       ],
       "is_new": true
     },
     {
-      "name": "Crypto",
+      "name": "Blockchain.com",
       "count": 3,
       "sources": [
-        "Crypto Daily",
-        "Hacker News"
+        "Crypto Briefing",
+        "The Block",
+        "The Times of India"
       ],
       "articles": [
         {
-          "title": "Ask HN: ELI5 \u2013 Crypto, Blockchain and Web3.0",
-          "url": "https://news.ycombinator.com/item?id=29629868",
-          "source": "Hacker News"
+          "title": "Blockchain.com confidentially files for US IPO as crypto firms continue public market push",
+          "url": "https://www.theblock.co/post/402182/blockchain-com-confidentially-files-for-us-ipo-as-crypto-firms-continue-public-market-push?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
         },
         {
-          "title": "Crypto Doesn't Need Blockchain",
-          "url": "https://news.ycombinator.com/item?id=44660422",
-          "source": "Hacker News"
+          "title": "Crypto exchange Blockchain.com confidentially files for IPO",
+          "url": "https://economictimes.indiatimes.com/tech/startups/crypto-exchange-blockchain-com-confidentially-files-for-ipo/articleshow/131247570.cms",
+          "source": "The Times of India"
         },
         {
-          "title": "Quantum Computing and Crypto: Is Blockchain Security Ready for the Next Threat?",
-          "url": "https://cryptodaily.co.uk/2026/05/quantum-computing-blockchain-security",
-          "source": "Crypto Daily"
+          "title": "Blockchain.com confidentially files for US IPO",
+          "url": "https://cryptobriefing.com/blockchain-com-confidentially-files-for-us-ipo/",
+          "source": "Crypto Briefing"
         }
       ],
       "is_new": false
@@ -820,95 +921,33 @@
       "is_new": true
     },
     {
-      "name": "Kalshi",
-      "count": 2,
-      "sources": [
-        "CoinDesk"
-      ],
-      "articles": [
-        {
-          "title": "India cracks down on prediction markets: Polymarket goes dark, Kalshi could be next",
-          "url": "https://www.coindesk.com/markets/2026/05/22/india-cracks-down-on-prediction-markets-polymarket-goes-dark-kalshi-could-be-next",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "India cracks down on prediction markets: Polymarket goes dark, Kalshi could be next",
-          "url": "https://www.coindesk.com/markets/2026/05/22/india-cracks-down-on-prediction-markets-polymarket-goes-dark-kalshi-could-be-next",
-          "source": "CoinDesk"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "MoonPay",
+      "name": "Mark Cuban",
       "count": 2,
       "sources": [
         "CoinDesk",
-        "The Block"
+        "Decrypt"
       ],
       "articles": [
         {
-          "title": "MoonPay expands into tokenized assets and DeFi markets with new platform for banks",
-          "url": "https://www.coindesk.com/business/2026/05/21/moonpay-expands-into-tokenized-assets-and-defi-markets-with-new-platform-for-banks",
+          "title": "Mark Cuban says he sold most of his Bitcoin after failed hedge narrative 'disappointed' the billionaire",
+          "url": "https://www.coindesk.com/markets/2026/05/21/mark-cuban-says-he-sold-most-of-his-bitcoin-after-failed-hedge-narrative-disappointed-the-billionaire",
           "source": "CoinDesk"
         },
         {
-          "title": "MoonPay announces fourth acquisition of the year with Decent, as it launches MoonPay Trade",
-          "url": "https://www.theblock.co/post/402206/moonpay-announces-fourth-acquisition-of-the-year-with-decent-as-it-launches-moonpay-trade?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
+          "title": "Mark Cuban Says He Sold Most of His Bitcoin",
+          "url": "https://decrypt.co/368678/mark-cuban-sold-most-his-bitcoin",
+          "source": "Decrypt"
         }
       ],
       "is_new": false
-    },
-    {
-      "name": "Peirce",
-      "count": 2,
-      "sources": [
-        "CoinTelegraph",
-        "Cointelegraph"
-      ],
-      "articles": [
-        {
-          "title": "SEC's Peirce tempers expectations over tokenized stocks exemption",
-          "url": "https://cointelegraph.com/news/secs-peirce-tempers-expectations-over-innovation-exemption-for-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "SEC's Peirce tempers expectations over tokenized stocks exemption",
-          "url": "https://cointelegraph.com/news/secs-peirce-tempers-expectations-over-innovation-exemption-for-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Sandbox",
-      "count": 2,
-      "sources": [
-        "CoinTelegraph",
-        "Cointelegraph"
-      ],
-      "articles": [
-        {
-          "title": "Accused attackers of Sandbox exec\u2019s wife tried to flee via Uber",
-          "url": "https://cointelegraph.com/news/uber-getaway-wrench-attack-sandbox-cofounder-wife-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Accused attackers of Sandbox exec\u2019s wife tried to flee via Uber",
-          "url": "https://cointelegraph.com/news/uber-getaway-wrench-attack-sandbox-cofounder-wife-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        }
-      ],
-      "is_new": true
     }
   ],
   "crypto_trending": [
     {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "market_cap_rank": 36,
-      "thumb": "https://coin-images.coingecko.com/coins/images/10365/standard/near.jpg?1696510367"
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "market_cap_rank": 78,
+      "thumb": "https://coin-images.coingecko.com/coins/images/54023/standard/VVV_Token_Transparent.png?1741856877"
     },
     {
       "name": "Hyperliquid",
@@ -917,10 +956,10 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
     },
     {
-      "name": "OpenGradient",
-      "symbol": "OPG",
-      "market_cap_rank": 486,
-      "thumb": "https://coin-images.coingecko.com/coins/images/102172863/standard/coingecko_logo.png?1776349115"
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "market_cap_rank": 35,
+      "thumb": "https://coin-images.coingecko.com/coins/images/10365/standard/near.jpg?1696510367"
     },
     {
       "name": "Pudgy Penguins",
@@ -929,9 +968,27 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
     },
     {
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "market_cap_rank": 43,
+      "thumb": "https://coin-images.coingecko.com/coins/images/26580/standard/ONDO.png?1696525656"
+    },
+    {
+      "name": "Grass",
+      "symbol": "GRASS",
+      "market_cap_rank": 168,
+      "thumb": "https://coin-images.coingecko.com/coins/images/40094/standard/Grass.jpg?1725697048"
+    },
+    {
+      "name": "Virtuals Protocol",
+      "symbol": "VIRTUAL",
+      "market_cap_rank": 102,
+      "thumb": "https://coin-images.coingecko.com/coins/images/34057/standard/LOGOMARK.png?1708356054"
+    },
+    {
       "name": "Genius",
       "symbol": "GENIUS",
-      "market_cap_rank": 194,
+      "market_cap_rank": 195,
       "thumb": "https://coin-images.coingecko.com/coins/images/71660/standard/genius.png?1768804210"
     },
     {
@@ -941,90 +998,72 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/486/standard/circle-zcash-color.png?1696501740"
     },
     {
-      "name": "OpenEden",
-      "symbol": "EDEN",
-      "market_cap_rank": 750,
-      "thumb": "https://coin-images.coingecko.com/coins/images/68283/standard/eden.png?1755242478"
-    },
-    {
-      "name": "Venice Token",
-      "symbol": "VVV",
-      "market_cap_rank": 79,
-      "thumb": "https://coin-images.coingecko.com/coins/images/54023/standard/VVV_Token_Transparent.png?1741856877"
-    },
-    {
-      "name": "Nexus",
-      "symbol": "NEX",
-      "market_cap_rank": 165,
-      "thumb": "https://coin-images.coingecko.com/coins/images/102173233/standard/nexus.jpg?1778490588"
-    },
-    {
-      "name": "Sui",
-      "symbol": "SUI",
-      "market_cap_rank": 25,
-      "thumb": "https://coin-images.coingecko.com/coins/images/26375/standard/sui-ocean-square.png?1727791290"
+      "name": "peaq",
+      "symbol": "PEAQ",
+      "market_cap_rank": 403,
+      "thumb": "https://coin-images.coingecko.com/coins/images/51415/standard/peaq-token-brand-icon_%281%29.png?1731122664"
     }
   ],
   "stock_trending": [
     {
-      "symbol": "BTC-USD",
-      "name": "Bitcoin USD",
-      "price": 77357.04,
-      "change_pct": -0.24
-    },
-    {
       "symbol": "FUTU",
       "name": "Futu Holdings Limited",
-      "price": 123.86,
-      "change_pct": -0.69
+      "price": 88.85,
+      "change_pct": -28.27
     },
     {
-      "symbol": "IBM",
-      "name": "International Business Machines Corporation",
-      "price": 252.97,
-      "change_pct": 12.43
+      "symbol": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 77202.94,
+      "change_pct": -0.44
     },
     {
-      "symbol": "WMT",
-      "name": "Walmart Inc.",
-      "price": 121.34,
-      "change_pct": -7.27
-    },
-    {
-      "symbol": "QBTS",
-      "name": "D-Wave Quantum Inc.",
-      "price": 25.74,
-      "change_pct": 33.37
-    },
-    {
-      "symbol": "ASST",
-      "name": "Strive Asset Management, LLC",
-      "price": 18.53,
-      "change_pct": 9.13
-    },
-    {
-      "symbol": "TIGR",
-      "name": "UP Fintech Holding Limited",
-      "price": 5.84,
-      "change_pct": -0.85
+      "symbol": "AKTX",
+      "name": "Akari Therapeutics, Plc",
+      "price": 9.77,
+      "change_pct": 90.08
     },
     {
       "symbol": "WDAY",
       "name": "Workday, Inc.",
-      "price": 121.85,
-      "change_pct": -3.76
+      "price": 132.37,
+      "change_pct": 8.63
     },
     {
-      "symbol": "V",
-      "name": "Visa Inc.",
-      "price": 331.12,
-      "change_pct": 0.11
+      "symbol": "TIGR",
+      "name": "UP Fintech Holding Limited",
+      "price": 4.34,
+      "change_pct": -25.68
+    },
+    {
+      "symbol": "DELL",
+      "name": "Dell Technologies Inc.",
+      "price": 279.89,
+      "change_pct": 10.69
+    },
+    {
+      "symbol": "ASST",
+      "name": "Strive Asset Management, LLC",
+      "price": 19.55,
+      "change_pct": 5.5
     },
     {
       "symbol": "SPOT",
       "name": "Spotify Technology S.A.",
-      "price": 489.93,
-      "change_pct": 13.06
+      "price": 522.69,
+      "change_pct": 6.67
+    },
+    {
+      "symbol": "PCLA",
+      "name": "PicoCELA Inc.",
+      "price": 6.36,
+      "change_pct": 182.67
+    },
+    {
+      "symbol": "TTWO",
+      "name": "Take-Two Interactive Software, Inc.",
+      "price": 233.99,
+      "change_pct": -1.72
     }
   ],
   "fear_greed": {
@@ -1061,5 +1100,5 @@
       }
     ]
   },
-  "total_articles": 373
+  "total_articles": 377
 }
