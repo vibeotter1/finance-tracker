@@ -41,40 +41,40 @@
       "is_new": false
     },
     {
-      "name": "Kalshi",
-      "count": 9,
+      "name": "IPO",
+      "count": 10,
       "sources": [
+        "CNBC",
         "CoinDesk",
-        "CoinTelegraph",
-        "Cointelegraph",
-        "Decrypt",
-        "The Block"
+        "Crypto Briefing",
+        "TechCrunch",
+        "The Verge"
       ],
       "articles": [
         {
-          "title": "Congress hits Polymarket and Kalshi with a massive insider trading probe",
-          "url": "https://www.coindesk.com/policy/2026/05/22/congress-probes-polymarket-and-kalshi-over-fears-government-employees-are-trading-on-secret-info",
+          "title": "Tom Lee says trillions in tech IPO supply won't crash the S&P 500",
+          "url": "https://www.coindesk.com/markets/2026/05/22/tom-lee-says-trillions-in-tech-ipo-supply-won-t-crash-the-s-and-p-500",
           "source": "CoinDesk"
         },
         {
-          "title": "US House lawmakers launch probe into Kalshi, Polymarket insider trading",
-          "url": "https://cointelegraph.com/news/us-house-probe-kalshi-polymarket-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
+          "title": "Retail investors get direct access to SpaceX IPO through major brokerage platforms",
+          "url": "https://www.cnbc.com/2026/05/21/retail-investors-get-direct-access-to-spacex-ipo-through-major-brokerage-platforms.html",
+          "source": "CNBC"
         },
         {
-          "title": "Kalshi, Polymarket lose bids to halt Nevada and Washington gambling cases",
-          "url": "https://www.theblock.co/post/402397/kalshi-polymarket-lose-bids-to-halt-nevada-and-washington-gambling-cases?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
+          "title": "OpenAI takes the lead in AI IPO horse race: 'Getting to public markets first is very important'",
+          "url": "https://www.cnbc.com/2026/05/20/openai-takes-the-lead-in-ai-ipo-horse-race-getting-to-public-markets-first-is-very-important.html",
+          "source": "CNBC"
         },
         {
-          "title": "Kalshi-backed prediction market advocacy group debuts with support from former Trump aide",
-          "url": "https://www.theblock.co/post/402374/kalshi-prediction-market-advocacy-group-debuts-support-former-trump-aide?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
+          "title": "Who will benefit most from SpaceX IPO? Mostly Elon \u2014 and a few from his inner circle - TechCrunch",
+          "url": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
+          "source": "TechCrunch"
         },
         {
-          "title": "House Oversight chair launches probe into insider trading on Kalshi and Polymarket",
-          "url": "https://www.theblock.co/post/402348/house-oversight-chair-launches-probe-into-insider-trading-on-kalshi-and-polymarket?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
+          "title": "In SpaceX\u2019s IPO, Elon Musk is the risk factor - theverge.com",
+          "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
+          "source": "The Verge"
         }
       ],
       "is_new": false
@@ -119,39 +119,80 @@
       "is_new": false
     },
     {
-      "name": "IPO",
+      "name": "China",
       "count": 9,
       "sources": [
         "CNBC",
-        "CoinDesk",
-        "TechCrunch",
-        "The Verge"
+        "Crypto Briefing",
+        "Hacker News",
+        "Investing.com",
+        "The Block",
+        "Yahoo Finance"
       ],
       "articles": [
         {
-          "title": "Tom Lee says trillions in tech IPO supply won't crash the S&P 500",
-          "url": "https://www.coindesk.com/markets/2026/05/22/tom-lee-says-trillions-in-tech-ipo-supply-won-t-crash-the-s-and-p-500",
+          "title": "At least 90 dead in China\u2019s worst coal mine disaster in over 16 years",
+          "url": "https://www.investing.com/news/commodities-news/four-dead-90-trapped-in-north-china-coal-mine-accident-xinhua-reports-4707736",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Hengli, China's silk-to-petrochemicals empire, faces the chill of US sanctions",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/hengli-chinas-silk-petrochemicals-empire-030354893.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
+          "url": "https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "China calls for APEC cooperation as commerce minister skips opening over \u2018urgent official business\u2019",
+          "url": "https://www.cnbc.com/2026/05/22/china-apec-trade-meeting-li-chenggang-cooperation-us-china-deals.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Coinbase introduces thematic perps tracking China, AI and US national security equity indexes",
+          "url": "https://www.theblock.co/post/402286/coinbase-thematic-perps-tracking-china-ai-us-national-security-equity-indexes?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Kalshi",
+      "count": 8,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Decrypt",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Congress hits Polymarket and Kalshi with a massive insider trading probe",
+          "url": "https://www.coindesk.com/policy/2026/05/22/congress-probes-polymarket-and-kalshi-over-fears-government-employees-are-trading-on-secret-info",
           "source": "CoinDesk"
         },
         {
-          "title": "Retail investors get direct access to SpaceX IPO through major brokerage platforms",
-          "url": "https://www.cnbc.com/2026/05/21/retail-investors-get-direct-access-to-spacex-ipo-through-major-brokerage-platforms.html",
-          "source": "CNBC"
+          "title": "US House lawmakers launch probe into Kalshi, Polymarket insider trading",
+          "url": "https://cointelegraph.com/news/us-house-probe-kalshi-polymarket-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
         },
         {
-          "title": "OpenAI takes the lead in AI IPO horse race: 'Getting to public markets first is very important'",
-          "url": "https://www.cnbc.com/2026/05/20/openai-takes-the-lead-in-ai-ipo-horse-race-getting-to-public-markets-first-is-very-important.html",
-          "source": "CNBC"
+          "title": "Kalshi, Polymarket lose bids to halt Nevada and Washington gambling cases",
+          "url": "https://www.theblock.co/post/402397/kalshi-polymarket-lose-bids-to-halt-nevada-and-washington-gambling-cases?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
         },
         {
-          "title": "Who will benefit most from SpaceX IPO? Mostly Elon \u2014 and a few from his inner circle - TechCrunch",
-          "url": "https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/",
-          "source": "TechCrunch"
+          "title": "Kalshi-backed prediction market advocacy group debuts with support from former Trump aide",
+          "url": "https://www.theblock.co/post/402374/kalshi-prediction-market-advocacy-group-debuts-support-former-trump-aide?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
         },
         {
-          "title": "In SpaceX\u2019s IPO, Elon Musk is the risk factor - theverge.com",
-          "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
-          "source": "The Verge"
+          "title": "House Oversight chair launches probe into insider trading on Kalshi and Polymarket",
+          "url": "https://www.theblock.co/post/402348/house-oversight-chair-launches-probe-into-insider-trading-on-kalshi-and-polymarket?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
         }
       ],
       "is_new": false
@@ -197,92 +238,128 @@
       "is_new": false
     },
     {
-      "name": "China",
-      "count": 8,
+      "name": "Kevin Warsh",
+      "count": 7,
       "sources": [
         "CNBC",
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
         "Crypto Briefing",
-        "Hacker News",
-        "Investing.com",
-        "The Block",
-        "Yahoo Finance"
+        "MarketWatch"
       ],
       "articles": [
         {
-          "title": "Death toll jumps to 90 in China coal mine blast",
-          "url": "https://www.investing.com/news/commodities-news/four-dead-90-trapped-in-north-china-coal-mine-accident-xinhua-reports-4707736",
-          "source": "Investing.com"
+          "title": "Kevin Warsh sworn in as Fed chair, as traders forecast rate hikes in 2026",
+          "url": "https://cointelegraph.com/news/kevin-warsh-sworn-fed-chair-traders-rate-hikes-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
         },
         {
-          "title": "Hengli, China's silk-to-petrochemicals empire, faces the chill of US sanctions",
-          "url": "https://finance.yahoo.com/sectors/energy/articles/hengli-chinas-silk-petrochemicals-empire-030354893.html",
-          "source": "Yahoo Finance"
+          "title": "The oil shock meets the Fed \u2018curse\u2019: What Kevin Warsh means for your portfolio",
+          "url": "https://www.marketwatch.com/story/the-new-fed-chair-curse-and-100-plus-oil-are-already-testing-kevin-warsh-and-the-stock-market-718b919d?mod=mw_rss_topstories",
+          "source": "MarketWatch"
         },
         {
-          "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
-          "url": "https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html",
+          "title": "Kevin Warsh walks into a trap where the Fed can\u2019t cut rates even if it wants to",
+          "url": "https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Kevin Warsh's real Fed 'regime change' may happen deep inside Wall Street's plumbing",
+          "url": "https://www.cnbc.com/2026/05/22/kevin-warshs-real-fed-regime-change-may-happen-deep-inside-wall-streets-plumbing.html",
           "source": "CNBC"
         },
         {
-          "title": "China calls for APEC cooperation as commerce minister skips opening over \u2018urgent official business\u2019",
-          "url": "https://www.cnbc.com/2026/05/22/china-apec-trade-meeting-li-chenggang-cooperation-us-china-deals.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Coinbase introduces thematic perps tracking China, AI and US national security equity indexes",
-          "url": "https://www.theblock.co/post/402286/coinbase-thematic-perps-tracking-china-ai-us-national-security-equity-indexes?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
+          "title": "Trump to swear in Kevin Warsh as Federal Reserve chair on May 22",
+          "url": "https://cryptobriefing.com/trump-swear-in-kevin-warsh-fed-chair/",
+          "source": "Crypto Briefing"
         }
       ],
       "is_new": false
     },
     {
-      "name": "Iran",
+      "name": "U.S.",
       "count": 7,
       "sources": [
-        "CoinOtag",
-        "Crypto Briefing",
+        "CNBC",
+        "Hollywood Reporter",
         "Investing.com",
-        "Naturalnews.com",
-        "Reuters",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "U.S. Secretary of State Rubio lands in India to repair strained strategic ties",
+          "url": "https://www.investing.com/news/economy-news/us-secretary-of-state-rubio-lands-in-india-to-repair-strained-strategic-ties-4708016",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Is FX carry trade becoming a more important driver after U.S. rates repricing?",
+          "url": "https://www.investing.com/news/economy-news/is-fx-carry-trade-becoming-a-more-important-driver-after-us-rates-repricing-4708012",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Wall Street keeps rising, even as U.S. households keep getting more discouraged",
+          "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-track-wall-street-051857368.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Which company will the U.S. government take a stake in next? Here\u2019s what traders think",
+          "url": "https://www.cnbc.com/2026/05/22/which-company-will-the-us-government-take-a-stake-in-next.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
+          "url": "https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Japan",
+      "count": 6,
+      "sources": [
+        "CNBC",
+        "CoinDesk",
+        "CoinTelegraph",
+        "Crypto Briefing",
         "The Block"
       ],
       "articles": [
         {
-          "title": "U.S. denies Taiwan arms sale pause due to Iran munition needs \u2013 Reuters",
-          "url": "https://www.investing.com/news/economy-news/us-denies-taiwan-arms-sale-pause-due-to-iran-munition-needs--reuters-4708009",
-          "source": "Investing.com"
+          "title": "Polymarket aims for prediction market approval in Japan by 2030",
+          "url": "https://www.coindesk.com/policy/2026/05/22/polymarket-aims-for-prediction-market-approval-in-japan-by-2030",
+          "source": "CoinDesk"
         },
         {
-          "title": "Binance disputes latest WSJ report on alleged Iran-linked transactions",
-          "url": "https://www.theblock.co/post/402353/binance-disputes-latest-wsj-report-on-alleged-iran-linked-transactions?utm_source=rss&utm_medium=rss",
+          "title": "Polymarket seeks Japan entry despite gambling law hurdles: Report",
+          "url": "https://cointelegraph.com/news/polymarket-seeks-japan-entry-global-regulatory-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Japan\u2019s megabanks post record profits, but analysts warn growth may slow as risks mount",
+          "url": "https://www.cnbc.com/2026/05/21/japan-megabanks-profits-growth-risks-sumitomo-mitsui-mizuho-mitsubishi-ufj.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Polymarket eyes Japan market entry, appoints regional representative: Bloomberg",
+          "url": "https://www.theblock.co/post/402309/polymarket-japan-market-entry?utm_source=rss&utm_medium=rss",
           "source": "The Block"
         },
         {
-          "title": "US sanctions nine individuals including Iran\u2019s ambassador to Lebanon over Hezbollah ties",
-          "url": "https://cryptobriefing.com/us-sanctions-iran-ambassador-lebanon-hezbollah/",
-          "source": "Crypto Briefing"
-        },
-        {
-          "title": "Strait of Hormuz remains effectively blocked as NATO, Iran tangle over shipping security",
-          "url": "https://www.naturalnews.com/2026-05-22-strait-of-hormuz-remains-effectively-blocked.html",
-          "source": "Naturalnews.com"
-        },
-        {
-          "title": "Asia-Pacific markets set to open higher as US-Iran peace deal talks lift risk appetite",
-          "url": "https://cryptobriefing.com/asia-pacific-markets-us-iran-peace-talks/",
-          "source": "Crypto Briefing"
+          "title": "Polymarket aims for prediction market approval in Japan by 2030",
+          "url": "https://www.coindesk.com/policy/2026/05/22/polymarket-aims-for-prediction-market-approval-in-japan-by-2030",
+          "source": "CoinDesk"
         }
       ],
       "is_new": false
     },
     {
       "name": "SEC",
-      "count": 6,
+      "count": 5,
       "sources": [
         "CoinDesk",
         "Cointelegraph",
-        "Crypto Briefing",
         "Decrypt",
         "The Block"
       ],
@@ -308,51 +385,12 @@
           "source": "Cointelegraph"
         },
         {
-          "title": "SEC\u2019s Hester Peirce expects innovation exemption to apply narrowly to onchain equity products",
-          "url": "https://cryptobriefing.com/sec-peirce-innovation-exemption-onchain-equity/",
-          "source": "Crypto Briefing"
+          "title": "SEC Commissioner Peirce counters views that crypto rule will foster synthetic tokens",
+          "url": "https://www.coindesk.com/news-analysis/2026/05/22/sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-tokens",
+          "source": "CoinDesk"
         }
       ],
       "is_new": true
-    },
-    {
-      "name": "Kevin Warsh",
-      "count": 6,
-      "sources": [
-        "CNBC",
-        "CoinDesk",
-        "CoinTelegraph",
-        "Cointelegraph",
-        "MarketWatch"
-      ],
-      "articles": [
-        {
-          "title": "Kevin Warsh sworn in as Fed chair, as traders forecast rate hikes in 2026",
-          "url": "https://cointelegraph.com/news/kevin-warsh-sworn-fed-chair-traders-rate-hikes-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "The oil shock meets the Fed \u2018curse\u2019: What Kevin Warsh means for your portfolio",
-          "url": "https://www.marketwatch.com/story/the-new-fed-chair-curse-and-100-plus-oil-are-already-testing-kevin-warsh-and-the-stock-market-718b919d?mod=mw_rss_topstories",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "Kevin Warsh walks into a trap where the Fed can\u2019t cut rates even if it wants to",
-          "url": "https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "Kevin Warsh's real Fed 'regime change' may happen deep inside Wall Street's plumbing",
-          "url": "https://www.cnbc.com/2026/05/22/kevin-warshs-real-fed-regime-change-may-happen-deep-inside-wall-streets-plumbing.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Kevin Warsh sworn in as Fed chair, as traders forecast rate hikes in 2026",
-          "url": "https://cointelegraph.com/news/kevin-warsh-sworn-fed-chair-traders-rate-hikes-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        }
-      ],
-      "is_new": false
     },
     {
       "name": "ICE",
@@ -432,112 +470,43 @@
       "is_new": false
     },
     {
-      "name": "U.S.",
+      "name": "Iran",
       "count": 5,
       "sources": [
-        "CNBC",
-        "Hollywood Reporter",
-        "Investing.com"
+        "CoinOtag",
+        "Crypto Briefing",
+        "Reuters",
+        "The Block",
+        "Yahoo Finance"
       ],
       "articles": [
         {
-          "title": "U.S. denies Taiwan arms sale pause due to Iran munition needs \u2013 Reuters",
-          "url": "https://www.investing.com/news/economy-news/us-denies-taiwan-arms-sale-pause-due-to-iran-munition-needs--reuters-4708009",
-          "source": "Investing.com"
+          "title": "Europe's AI stocks shine through gloom of Iran war",
+          "url": "https://finance.yahoo.com/sectors/technology/articles/europes-ai-stocks-shine-gloom-050604820.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Which company will the U.S. government take a stake in next? Here\u2019s what traders think",
-          "url": "https://www.cnbc.com/2026/05/22/which-company-will-the-us-government-take-a-stake-in-next.html",
-          "source": "CNBC"
+          "title": "Binance disputes latest WSJ report on alleged Iran-linked transactions",
+          "url": "https://www.theblock.co/post/402353/binance-disputes-latest-wsj-report-on-alleged-iran-linked-transactions?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
         },
         {
-          "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
-          "url": "https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Miner Perpetua Resources secures $2.9 billion U.S. loan for Idaho gold, antimony project",
-          "url": "https://www.cnbc.com/2026/05/21/miner-perpetua-resources-secures-2point9-billion-us-loan-for-idaho-gold-antimony-project.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Major Studios Slam Canada For Slapping \u201cDiscriminatory Investment Obligations\u201d on U.S. Streamers - The Hollywood Reporter",
-          "url": "http://www.hollywoodreporter.com/business/business-news/major-studios-canada-us-streamers-discriminatory-investment-1236603995/",
-          "source": "Hollywood Reporter"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "OpenAI",
-      "count": 5,
-      "sources": [
-        "CNBC",
-        "Crypto Briefing"
-      ],
-      "articles": [
-        {
-          "title": "SpaceX, OpenAI valuations could mean they leapfrog Berkshire Hathaway on first day of trading",
-          "url": "https://www.cnbc.com/2026/05/21/spacex-openai-valuations-to-leapfrog-berkshire-hathaway-traders-say.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "OpenAI takes the lead in AI IPO horse race: 'Getting to public markets first is very important'",
-          "url": "https://www.cnbc.com/2026/05/20/openai-takes-the-lead-in-ai-ipo-horse-race-getting-to-public-markets-first-is-very-important.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "SpaceX, OpenAI valuations could mean they leapfrog Berkshire Hathaway on first day of trading - CNBC",
-          "url": "https://www.cnbc.com/2026/05/21/spacex-openai-valuations-to-leapfrog-berkshire-hathaway-traders-say.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "OpenAI\u2019s Chris Lehane seeks to address AI\u2019s reputation crisis",
-          "url": "https://cryptobriefing.com/openai-lehane-ai-reputation-crisis/",
+          "title": "US sanctions nine individuals including Iran\u2019s ambassador to Lebanon over Hezbollah ties",
+          "url": "https://cryptobriefing.com/us-sanctions-iran-ambassador-lebanon-hezbollah/",
           "source": "Crypto Briefing"
         },
         {
-          "title": "Mega-IPOs could signal market top, say analysts as SpaceX and OpenAI prep record floats",
-          "url": "https://www.cnbc.com/2026/05/22/ipo-flurry-top-market-analysts-ai-spacex-musk-altman.html",
-          "source": "CNBC"
+          "title": "Iran is consolidating control of Hormuz with island checkpoints, diplomatic deals \u2013 and sometimes \u2018fees\u2019 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzNJZTNOVW9ScHNEZjlhenY5VFdwa3ZmVXhCVk9MYWgxY0hnRlVmVUFUNERHS0ZsVlBJZXNBSEw5c3BHYTJxUFA2cDdlZjBBMXRsTDFFN2dXMEJybG9ycU44d1c5WDdwZ09EdDNCWm5kRE8yTW04clJnY05URDdadVZzanZTSFA0bkxFVF90Ym10a1RUYUdmYWNmN2dlNXc1SGdOelpZLU1UQm9aV0RXZkJZeEdRamlmbEl4SlFveEs4RVA0LVlN?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Saylor Eyes 2026 Bitcoin Sale as Strategy Slips Underwater, Iran Opens Hormuz Tolls",
+          "url": "https://en.coinotag.com/saylor-2026-bitcoin-sale-strategy-underwater-iran-hormuz-tolls",
+          "source": "CoinOtag"
         }
       ],
       "is_new": false
-    },
-    {
-      "name": "CNBC",
-      "count": 5,
-      "sources": [
-        "CNBC"
-      ],
-      "articles": [
-        {
-          "title": "Asia-Pacific markets trade higher as investors assess U.S.-Iran peace deal diplomacy - CNBC",
-          "url": "https://www.cnbc.com/2026/05/22/asia-markets-today-brent-nikkei-225-kospi-hang-seng-index.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "SpaceX, OpenAI valuations could mean they leapfrog Berkshire Hathaway on first day of trading - CNBC",
-          "url": "https://www.cnbc.com/2026/05/21/spacex-openai-valuations-to-leapfrog-berkshire-hathaway-traders-say.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "How Walmart's gas price warning shapes our retail outlook \u2014 plus, Honeywell's quantum connection - CNBC",
-          "url": "https://www.cnbc.com/2026/05/21/how-walmarts-gas-price-warning-shapes-our-retail-outlook-plus-honeywells-quantum-connection.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Fed officials see rate hike ahead if inflation stays elevated, minutes show - CNBC",
-          "url": "https://www.cnbc.com/2026/05/20/fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "CNBC Daily Open: Wall Street set for a winning week",
-          "url": "https://www.cnbc.com/2026/05/22/cnbc-daily-open-wall-street-set-for-a-winning-week.html",
-          "source": "CNBC"
-        }
-      ],
-      "is_new": true
     },
     {
       "name": "Polymarket",
@@ -571,37 +540,69 @@
       "is_new": false
     },
     {
-      "name": "Japan",
+      "name": "Polygon",
       "count": 4,
       "sources": [
-        "CNBC",
+        "Bitcoin World",
         "CoinDesk",
-        "CoinTelegraph",
+        "Cryptopolitan",
         "The Block"
       ],
       "articles": [
         {
-          "title": "Polymarket aims for prediction market approval in Japan by 2030",
-          "url": "https://www.coindesk.com/policy/2026/05/22/polymarket-aims-for-prediction-market-approval-in-japan-by-2030",
+          "title": "ZachXBT flags $520K Polymarket exploit on Polygon, team says funds are safe",
+          "url": "https://www.coindesk.com/markets/2026/05/22/zachxbt-flags-usd520k-polymarket-exploit-on-polygon-team-says-funds-are-safe",
           "source": "CoinDesk"
         },
         {
-          "title": "Polymarket seeks Japan entry despite gambling law hurdles: Report",
-          "url": "https://cointelegraph.com/news/polymarket-seeks-japan-entry-global-regulatory-scrutiny?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Japan\u2019s megabanks post record profits, but analysts warn growth may slow as risks mount",
-          "url": "https://www.cnbc.com/2026/05/21/japan-megabanks-profits-growth-risks-sumitomo-mitsui-mizuho-mitsubishi-ufj.html",
-          "source": "CNBC"
-        },
-        {
-          "title": "Polymarket eyes Japan market entry, appoints regional representative: Bloomberg",
-          "url": "https://www.theblock.co/post/402309/polymarket-japan-market-entry?utm_source=rss&utm_medium=rss",
+          "title": "Polymarket probes suspected private key compromise of internal top-up wallet on Polygon",
+          "url": "https://www.theblock.co/post/402327/zachxbt-flags-suspected-exploit-involving-polymarkets-uma-adapter-contract-on-polygon?utm_source=rss&utm_medium=rss",
           "source": "The Block"
+        },
+        {
+          "title": "Polygon price prediction 2026-2032: Will POL recover its ATH soon?",
+          "url": "https://www.cryptopolitan.com/polygon-price-prediction/",
+          "source": "Cryptopolitan"
+        },
+        {
+          "title": "Uniswap Proposes Expanding UNI Buyback and Burn to BNB Chain, Polygon, and Celo",
+          "url": "https://bitcoinworld.co.in/uniswap-proposes-expanding-uni-buyback-burn/",
+          "source": "Bitcoin World"
         }
       ],
       "is_new": false
+    },
+    {
+      "name": "Michael Saylor",
+      "count": 4,
+      "sources": [
+        "Bitcoinfoundation.org",
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "\u2018Not unlikely\u2019 Strategy will sell Bitcoin in 2026: Michael Saylor",
+          "url": "https://cointelegraph.com/news/michael-saylor-strategy-mstr-bitcoin-sell-speculation-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Strategy Could Buy All Bitcoin Mined Until 2140 \u2014 Michael Saylor Says",
+          "url": "https://bitcoinfoundation.org/news/bitcoin/saylor-buys-all-btc/",
+          "source": "Bitcoinfoundation.org"
+        },
+        {
+          "title": "\u2018Not unlikely\u2019 Strategy will sell Bitcoin in 2026: Michael Saylor",
+          "url": "https://cointelegraph.com/news/michael-saylor-strategy-mstr-bitcoin-sell-speculation-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "\u2018Not unlikely\u2019 Strategy will sell Bitcoin in 2026: Michael Saylor",
+          "url": "https://cointelegraph.com/news/michael-saylor-strategy-mstr-bitcoin-sell-speculation-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
     },
     {
       "name": "ETH",
@@ -632,39 +633,6 @@
           "title": "Harvard dumps entire ETH ETF holdings in Q1 \u2013 What\u2019s next for the altcoin?",
           "url": "https://ambcrypto.com/harvard-dumps-entire-eth-etf-holdings-in-q1-whats-next-for-the-altcoin/",
           "source": "AMB Crypto"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "HYPE",
-      "count": 4,
-      "sources": [
-        "Bitcoin World",
-        "CoinTelegraph",
-        "CoinTurk News",
-        "Cointelegraph"
-      ],
-      "articles": [
-        {
-          "title": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
-          "url": "https://cointelegraph.com/markets/price-predictions-522-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
-          "url": "https://cointelegraph.com/markets/price-predictions-522-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        },
-        {
-          "title": "HYPE surges to $62.50 as XRP stalls at $1.35",
-          "url": "https://en.coin-turk.com/hype-surges-to-62-50-as-xrp-stalls-at-1-35/",
-          "source": "CoinTurk News"
-        },
-        {
-          "title": "a16z Crypto-linked Wallet Adds $6.45M in HYPE, Now Holds $240M Accumulation",
-          "url": "https://bitcoinworld.co.in/a16z-crypto-hype-accumulation-240-million/",
-          "source": "Bitcoin World"
         }
       ],
       "is_new": true
@@ -703,66 +671,94 @@
       "is_new": true
     },
     {
-      "name": "Hormuz",
-      "count": 4,
-      "sources": [
-        "CoinOtag",
-        "MarketWatch",
-        "Naturalnews.com",
-        "Reuters"
-      ],
-      "articles": [
-        {
-          "title": "This 2008 \u2018train wreck\u2019 oil scenario could unfold if Hormuz isn\u2019t opened by end of August",
-          "url": "https://www.marketwatch.com/story/this-2008-train-wreck-oil-scenario-could-unfold-if-hormuz-isnt-opened-by-end-of-august-75b74bb1?mod=mw_rss_topstories",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "Strait of Hormuz remains effectively blocked as NATO, Iran tangle over shipping security",
-          "url": "https://www.naturalnews.com/2026-05-22-strait-of-hormuz-remains-effectively-blocked.html",
-          "source": "Naturalnews.com"
-        },
-        {
-          "title": "Iran is consolidating control of Hormuz with island checkpoints, diplomatic deals \u2013 and sometimes \u2018fees\u2019 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzNJZTNOVW9ScHNEZjlhenY5VFdwa3ZmVXhCVk9MYWgxY0hnRlVmVUFUNERHS0ZsVlBJZXNBSEw5c3BHYTJxUFA2cDdlZjBBMXRsTDFFN2dXMEJybG9ycU44d1c5WDdwZ09EdDNCWm5kRE8yTW04clJnY05URDdadVZzanZTSFA0bkxFVF90Ym10a1RUYUdmYWNmN2dlNXc1SGdOelpZLU1UQm9aV0RXZkJZeEdRamlmbEl4SlFveEs4RVA0LVlN?oc=5",
-          "source": "Reuters"
-        },
-        {
-          "title": "Saylor Eyes 2026 Bitcoin Sale as Strategy Slips Underwater, Iran Opens Hormuz Tolls",
-          "url": "https://en.coinotag.com/saylor-2026-bitcoin-sale-strategy-underwater-iran-hormuz-tolls",
-          "source": "CoinOtag"
-        }
-      ],
-      "is_new": false
-    },
-    {
       "name": "India",
       "count": 4,
       "sources": [
         "Bloomberg",
-        "CoinDesk",
-        "Seeking Alpha"
+        "Investing.com",
+        "Seeking Alpha",
+        "Yahoo Finance"
       ],
       "articles": [
+        {
+          "title": "U.S. Secretary of State Rubio lands in India to repair strained strategic ties",
+          "url": "https://www.investing.com/news/economy-news/us-secretary-of-state-rubio-lands-in-india-to-repair-strained-strategic-ties-4708016",
+          "source": "Investing.com"
+        },
+        {
+          "title": "India central bank not in favour of rate hikes to defend rupee, prioritises inflation, sources say",
+          "url": "https://finance.yahoo.com/economy/policy/articles/india-central-bank-not-favour-042305780.html",
+          "source": "Yahoo Finance"
+        },
         {
           "title": "India Gold Market Update: Import Tightening",
           "url": "https://seekingalpha.com/article/4908254-india-gold-market-update-import-tightening?source=feed_all_articles",
           "source": "Seeking Alpha"
         },
         {
-          "title": "India: The Long-Duration Case",
-          "url": "https://seekingalpha.com/article/4908244-india-long-duration-case?source=feed_all_articles",
-          "source": "Seeking Alpha"
-        },
-        {
-          "title": "India cracks down on prediction markets: Polymarket goes dark, Kalshi could be next",
-          "url": "https://www.coindesk.com/markets/2026/05/22/india-cracks-down-on-prediction-markets-polymarket-goes-dark-kalshi-could-be-next",
-          "source": "CoinDesk"
-        },
-        {
           "title": "Rupee plunge sees India turn to 2013 taper tantrum playbook",
           "url": "https://www.bloomberg.com/news/articles/2026-05-22/rupee-plunge-sees-india-turn-to-2013-taper-tantrum-playbook",
           "source": "Bloomberg"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "OpenAI",
+      "count": 4,
+      "sources": [
+        "CNBC"
+      ],
+      "articles": [
+        {
+          "title": "SpaceX, OpenAI valuations could mean they leapfrog Berkshire Hathaway on first day of trading",
+          "url": "https://www.cnbc.com/2026/05/21/spacex-openai-valuations-to-leapfrog-berkshire-hathaway-traders-say.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "OpenAI takes the lead in AI IPO horse race: 'Getting to public markets first is very important'",
+          "url": "https://www.cnbc.com/2026/05/20/openai-takes-the-lead-in-ai-ipo-horse-race-getting-to-public-markets-first-is-very-important.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "SpaceX, OpenAI valuations could mean they leapfrog Berkshire Hathaway on first day of trading - CNBC",
+          "url": "https://www.cnbc.com/2026/05/21/spacex-openai-valuations-to-leapfrog-berkshire-hathaway-traders-say.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Mega-IPOs could signal market top, say analysts as SpaceX and OpenAI prep record floats",
+          "url": "https://www.cnbc.com/2026/05/22/ipo-flurry-top-market-analysts-ai-spacex-musk-altman.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "CNBC",
+      "count": 4,
+      "sources": [
+        "CNBC"
+      ],
+      "articles": [
+        {
+          "title": "Asia-Pacific markets trade higher as investors assess U.S.-Iran peace deal diplomacy - CNBC",
+          "url": "https://www.cnbc.com/2026/05/22/asia-markets-today-brent-nikkei-225-kospi-hang-seng-index.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "SpaceX, OpenAI valuations could mean they leapfrog Berkshire Hathaway on first day of trading - CNBC",
+          "url": "https://www.cnbc.com/2026/05/21/spacex-openai-valuations-to-leapfrog-berkshire-hathaway-traders-say.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "How Walmart's gas price warning shapes our retail outlook \u2014 plus, Honeywell's quantum connection - CNBC",
+          "url": "https://www.cnbc.com/2026/05/21/how-walmarts-gas-price-warning-shapes-our-retail-outlook-plus-honeywells-quantum-connection.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Fed officials see rate hike ahead if inflation stays elevated, minutes show - CNBC",
+          "url": "https://www.cnbc.com/2026/05/20/fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show.html",
+          "source": "CNBC"
         }
       ],
       "is_new": true
@@ -820,65 +816,38 @@
       "is_new": false
     },
     {
-      "name": "Polygon",
+      "name": "Tom Lee",
       "count": 3,
       "sources": [
-        "Bitcoin World",
         "CoinDesk",
-        "The Block"
+        "Crypto Briefing"
       ],
       "articles": [
         {
-          "title": "ZachXBT flags $520K Polymarket exploit on Polygon, team says funds are safe",
-          "url": "https://www.coindesk.com/markets/2026/05/22/zachxbt-flags-usd520k-polymarket-exploit-on-polygon-team-says-funds-are-safe",
+          "title": "Tom Lee says trillions in tech IPO supply won't crash the S&P 500",
+          "url": "https://www.coindesk.com/markets/2026/05/22/tom-lee-says-trillions-in-tech-ipo-supply-won-t-crash-the-s-and-p-500",
           "source": "CoinDesk"
         },
         {
-          "title": "Polymarket probes suspected private key compromise of internal top-up wallet on Polygon",
-          "url": "https://www.theblock.co/post/402327/zachxbt-flags-suspected-exploit-involving-polymarkets-uma-adapter-contract-on-polygon?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
+          "title": "Tom Lee warns SpaceX IPO could flood markets with $2T in new liquidity",
+          "url": "https://cryptobriefing.com/tom-lee-spacex-ipo-liquidity-warning/",
+          "source": "Crypto Briefing"
         },
         {
-          "title": "Uniswap Proposes Expanding UNI Buyback and Burn to BNB Chain, Polygon, and Celo",
-          "url": "https://bitcoinworld.co.in/uniswap-proposes-expanding-uni-buyback-burn/",
-          "source": "Bitcoin World"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "Michael Saylor",
-      "count": 3,
-      "sources": [
-        "CoinTelegraph",
-        "Cointelegraph"
-      ],
-      "articles": [
-        {
-          "title": "\u2018Not unlikely\u2019 Strategy will sell Bitcoin in 2026: Michael Saylor",
-          "url": "https://cointelegraph.com/news/michael-saylor-strategy-mstr-bitcoin-sell-speculation-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "\u2018Not unlikely\u2019 Strategy will sell Bitcoin in 2026: Michael Saylor",
-          "url": "https://cointelegraph.com/news/michael-saylor-strategy-mstr-bitcoin-sell-speculation-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        },
-        {
-          "title": "\u2018Not unlikely\u2019 Strategy will sell Bitcoin in 2026: Michael Saylor",
-          "url": "https://cointelegraph.com/news/michael-saylor-strategy-mstr-bitcoin-sell-speculation-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
+          "title": "Tom Lee says trillions in tech IPO supply won't crash the S&P 500",
+          "url": "https://www.coindesk.com/markets/2026/05/22/tom-lee-says-trillions-in-tech-ipo-supply-won-t-crash-the-s-and-p-500",
+          "source": "CoinDesk"
         }
       ],
       "is_new": true
     },
     {
-      "name": "ZEC",
+      "name": "HYPE",
       "count": 3,
       "sources": [
         "CoinTelegraph",
-        "Cointelegraph",
-        "newsBTC"
+        "CoinTurk News",
+        "Cointelegraph"
       ],
       "articles": [
         {
@@ -887,14 +856,14 @@
           "source": "CoinTelegraph"
         },
         {
-          "title": "Zcash (ZEC) Soars To Six-Month Highs After 110% Rally \u2013 Can It Break The $700 Barrier?",
-          "url": "http://www.newsbtc.com/news/zcash-zec-six-month-highs-110-rally-700-barrier/",
-          "source": "newsBTC"
-        },
-        {
           "title": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
           "url": "https://cointelegraph.com/markets/price-predictions-522-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "Cointelegraph"
+        },
+        {
+          "title": "HYPE surges to $62.50 as XRP stalls at $1.35",
+          "url": "https://en.coin-turk.com/hype-surges-to-62-50-as-xrp-stalls-at-1-35/",
+          "source": "CoinTurk News"
         }
       ],
       "is_new": true
@@ -922,6 +891,33 @@
           "title": "Trump administration says new EPA rules will save you money at the supermarket. It's not clear they will",
           "url": "https://www.cnbc.com/2026/05/21/trump-changes-epa-refrigeration-rules-in-grocery-price-push.html",
           "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Hormuz",
+      "count": 3,
+      "sources": [
+        "CoinOtag",
+        "MarketWatch",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "This 2008 \u2018train wreck\u2019 oil scenario could unfold if Hormuz isn\u2019t opened by end of August",
+          "url": "https://www.marketwatch.com/story/this-2008-train-wreck-oil-scenario-could-unfold-if-hormuz-isnt-opened-by-end-of-august-75b74bb1?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Iran is consolidating control of Hormuz with island checkpoints, diplomatic deals \u2013 and sometimes \u2018fees\u2019 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMzNJZTNOVW9ScHNEZjlhenY5VFdwa3ZmVXhCVk9MYWgxY0hnRlVmVUFUNERHS0ZsVlBJZXNBSEw5c3BHYTJxUFA2cDdlZjBBMXRsTDFFN2dXMEJybG9ycU44d1c5WDdwZ09EdDNCWm5kRE8yTW04clJnY05URDdadVZzanZTSFA0bkxFVF90Ym10a1RUYUdmYWNmN2dlNXc1SGdOelpZLU1UQm9aV0RXZkJZeEdRamlmbEl4SlFveEs4RVA0LVlN?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Saylor Eyes 2026 Bitcoin Sale as Strategy Slips Underwater, Iran Opens Hormuz Tolls",
+          "url": "https://en.coinotag.com/saylor-2026-bitcoin-sale-strategy-underwater-iran-hormuz-tolls",
+          "source": "CoinOtag"
         }
       ],
       "is_new": false
@@ -978,39 +974,44 @@
       "is_new": true
     },
     {
-      "name": "Coinbase",
+      "name": "Crypto",
       "count": 3,
       "sources": [
-        "Bitcoinist",
-        "Cointelegraph",
-        "The Block"
+        "Decrypt",
+        "Hacker News"
       ],
       "articles": [
         {
-          "title": "Coinbase introduces thematic perps tracking China, AI and US national security equity indexes",
-          "url": "https://www.theblock.co/post/402286/coinbase-thematic-perps-tracking-china-ai-us-national-security-equity-indexes?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
+          "title": "Crypto, Banks, Policy Experts Press Congress to Modernize Bank Secrecy Act",
+          "url": "https://decrypt.co/368763/crypto-banks-policy-experts-press-congress-to-modernize-bank-secrecy-act",
+          "source": "Decrypt"
         },
         {
-          "title": "Coinbase premium hits monthly low as institutional selling pressure mounts",
-          "url": "https://cointelegraph.com/news/coinbase-premium-hits-monthly-low-as-institutional-selling-pressure-mounts",
-          "source": "Cointelegraph"
+          "title": "Ask HN: ELI5 \u2013 Crypto, Blockchain and Web3.0",
+          "url": "https://news.ycombinator.com/item?id=29629868",
+          "source": "Hacker News"
         },
         {
-          "title": "Coinbase CEO Says AI Made Compliance Workflows Up To 90% Faster",
-          "url": "https://bitcoinist.com/coinbase-ceo-says-ai-made-workflows-90-upto-faster/",
-          "source": "Bitcoinist"
+          "title": "Crypto Doesn't Need Blockchain",
+          "url": "https://news.ycombinator.com/item?id=44660422",
+          "source": "Hacker News"
         }
       ],
-      "is_new": false
+      "is_new": true
     }
   ],
   "crypto_trending": [
     {
       "name": "Undeads Games",
       "symbol": "UDS",
-      "market_cap_rank": 197,
+      "market_cap_rank": 196,
       "thumb": "https://coin-images.coingecko.com/coins/images/36308/standard/01_avatar.jpg?1711090303"
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "market_cap_rank": 11,
+      "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
     },
     {
       "name": "Bitcoin",
@@ -1025,54 +1026,48 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/10365/standard/near.jpg?1696510367"
     },
     {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "market_cap_rank": 13,
+      "thumb": "https://coin-images.coingecko.com/coins/images/486/standard/circle-zcash-color.png?1696501740"
+    },
+    {
       "name": "Venice Token",
       "symbol": "VVV",
       "market_cap_rank": 79,
       "thumb": "https://coin-images.coingecko.com/coins/images/54023/standard/VVV_Token_Transparent.png?1741856877"
     },
     {
-      "name": "Hyperliquid",
-      "symbol": "HYPE",
-      "market_cap_rank": 11,
-      "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
+      "name": "Grass",
+      "symbol": "GRASS",
+      "market_cap_rank": 175,
+      "thumb": "https://coin-images.coingecko.com/coins/images/40094/standard/Grass.jpg?1725697048"
     },
     {
-      "name": "Ethereum",
-      "symbol": "ETH",
-      "market_cap_rank": 2,
-      "thumb": "https://coin-images.coingecko.com/coins/images/279/standard/ethereum.png?1696501628"
+      "name": "Solana",
+      "symbol": "SOL",
+      "market_cap_rank": 7,
+      "thumb": "https://coin-images.coingecko.com/coins/images/4128/standard/solana.png?1718769756"
     },
     {
-      "name": "Sui",
-      "symbol": "SUI",
-      "market_cap_rank": 26,
-      "thumb": "https://coin-images.coingecko.com/coins/images/26375/standard/sui-ocean-square.png?1727791290"
+      "name": "Nexus",
+      "symbol": "NEX",
+      "market_cap_rank": 158,
+      "thumb": "https://coin-images.coingecko.com/coins/images/102173233/standard/nexus.jpg?1778490588"
     },
     {
-      "name": "Render",
-      "symbol": "RENDER",
-      "market_cap_rank": 73,
-      "thumb": "https://coin-images.coingecko.com/coins/images/11636/standard/rndr.png?1696511529"
-    },
-    {
-      "name": "Pi Network",
-      "symbol": "PI",
-      "market_cap_rank": 54,
-      "thumb": "https://coin-images.coingecko.com/coins/images/54342/standard/pi_network.jpg?1739347576"
-    },
-    {
-      "name": "Terra Luna Classic",
-      "symbol": "LUNC",
-      "market_cap_rank": 109,
-      "thumb": "https://coin-images.coingecko.com/coins/images/8284/standard/01_LunaClassic_color.png?1696508486"
+      "name": "GMT",
+      "symbol": "GMT",
+      "market_cap_rank": 576,
+      "thumb": "https://coin-images.coingecko.com/coins/images/23597/standard/token-gmt-200x200.png?1703153841"
     }
   ],
   "stock_trending": [
     {
       "symbol": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 75114.05,
-      "change_pct": -0.44
+      "price": 74580.0,
+      "change_pct": -1.15
     },
     {
       "symbol": "DELL",
@@ -1081,16 +1076,16 @@
       "change_pct": 16.77
     },
     {
+      "symbol": "ETH-USD",
+      "name": "Ethereum USD",
+      "price": 2027.69,
+      "change_pct": -1.74
+    },
+    {
       "symbol": "QTEX",
       "name": "QTREX Quantum Ltd.",
       "price": 0.73,
       "change_pct": 140.01
-    },
-    {
-      "symbol": "FUTU",
-      "name": "Futu Holdings Limited",
-      "price": 89.76,
-      "change_pct": -27.53
     },
     {
       "symbol": "^GSPC",
@@ -1099,16 +1094,10 @@
       "change_pct": 0.37
     },
     {
-      "symbol": "ETH-USD",
-      "name": "Ethereum USD",
-      "price": 2053.91,
-      "change_pct": -0.47
-    },
-    {
-      "symbol": "BB",
-      "name": "BlackBerry Limited",
-      "price": 7.91,
-      "change_pct": 18.95
+      "symbol": "FUTU",
+      "name": "Futu Holdings Limited",
+      "price": 89.76,
+      "change_pct": -27.53
     },
     {
       "symbol": "^IXIC",
@@ -1117,16 +1106,22 @@
       "change_pct": 0.19
     },
     {
-      "symbol": "XRP-USD",
-      "name": "XRP USD",
-      "price": 1.33,
-      "change_pct": -0.46
-    },
-    {
       "symbol": "^DJI",
       "name": "Dow Jones Industrial Average",
       "price": 50579.7,
       "change_pct": 0.58
+    },
+    {
+      "symbol": "XRP-USD",
+      "name": "XRP USD",
+      "price": 1.31,
+      "change_pct": -1.84
+    },
+    {
+      "symbol": "BB",
+      "name": "BlackBerry Limited",
+      "price": 7.91,
+      "change_pct": 18.95
     }
   ],
   "fear_greed": {
