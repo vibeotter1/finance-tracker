@@ -1,0 +1,1151 @@
+{
+  "date": "2026-05-24",
+  "topics": [
+    {
+      "name": "Iran",
+      "count": 16,
+      "sources": [
+        "Bloomberg",
+        "CoinDesk",
+        "CoinOtag",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Crypto Briefing",
+        "Cryptopolitan",
+        "Investing.com",
+        "The Block",
+        "Yahoo Entertainment",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin heads higher as President Trump announces Iran peace agreement",
+          "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Binance denies new WSJ report alleging $850M in Iran-linked transactions",
+          "url": "https://cointelegraph.com/news/binance-denies-new-wsj-report-alleging-850m-in-iran-linked-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "US, Iran near deal to reopen Strait of Hormuz during ceasefire extension - Axios",
+          "url": "https://www.investing.com/news/economy-news/us-iran-near-deal-to-reopen-strait-of-hormuz-during-ceasefire-extension--axios-4708140",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Trump says Iran deal \u2019largely negotiated\u2019, dispute over strait reopening",
+          "url": "https://www.investing.com/news/commodities-news/trump-says-iran-deal-largely-negotiated-dispute-over-strait-reopening-4708125",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Stocks climb, yields dip as investors focus on some progress in US-Iran talks",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-rise-dollar-six-week-014105963.html",
+          "source": "Yahoo Finance"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Bitcoin",
+      "count": 16,
+      "sources": [
+        "AMB Crypto",
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Crypto Briefing",
+        "Cryptopolitan",
+        "Decrypt",
+        "Hacker News"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin is ready to beat stocks and bonds again after underperformance against Wall Street",
+          "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-is-ready-to-beat-stocks-and-bonds-again-after-underperformance-against-wall-street",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Live markets: Bitcoin heads lower late Friday as Warsh takes over at Fed",
+          "url": "https://www.coindesk.com/tech/2026/05/22/live-markets-bitcoin-continues-holding-pattern-near-usd77-000-ahead-of-holiday-weekend",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin left behind in the geopolitical melee",
+          "url": "https://www.coindesk.com/daybook-us/2026/05/22/bitcoin-left-behind-in-the-geopolitical-melee",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "SEC approves Nasdaq to list Bitcoin index options on the exchange",
+          "url": "https://cointelegraph.com/news/sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "$1.26B Bitcoin ETF outflows spark \u2018contrarian\u2019 buy signal: Santiment",
+          "url": "https://cointelegraph.com/news/bitcoin-etf-outflows-are-a-contrarian-buy-signal-santiment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Trump",
+      "count": 13,
+      "sources": [
+        "Axios",
+        "Bitcoin.com",
+        "CNBC",
+        "CoinDesk",
+        "CoinOtag",
+        "Crypto Briefing",
+        "Cryptopolitan",
+        "Investing.com",
+        "The Block",
+        "Yahoo Entertainment"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin heads higher as President Trump announces Iran peace agreement",
+          "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-heads-higher-as-president-trump-announces-iran-peace-agreement",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Trump says Iran deal \u2019largely negotiated\u2019, dispute over strait reopening",
+          "url": "https://www.investing.com/news/commodities-news/trump-says-iran-deal-largely-negotiated-dispute-over-strait-reopening-4708125",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Kalshi-backed prediction market advocacy group debuts with support from former Trump aide",
+          "url": "https://www.theblock.co/post/402374/kalshi-prediction-market-advocacy-group-debuts-support-former-trump-aide?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Trump to Fed chair Warsh: \"Don't look at me, don't look at anybody\" - Axios",
+          "url": "https://www.axios.com/2026/05/22/warsh-trump-federal-reserve",
+          "source": "Axios"
+        },
+        {
+          "title": "Jim Cramer froze on live TV after seeing Trump's 3,700 stock trades \u2014 here's what's in the president's portfolio - Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-froze-on-live-tv-after-seeing-trump39s-3700-stock-trades--here39s-what39s-in-the-president39s-portfolio-140000901.html",
+          "source": "Yahoo Entertainment"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Kalshi",
+      "count": 9,
+      "sources": [
+        "AMB Crypto",
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Decrypt",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Congress hits Polymarket and Kalshi with a massive insider trading probe",
+          "url": "https://www.coindesk.com/policy/2026/05/22/congress-probes-polymarket-and-kalshi-over-fears-government-employees-are-trading-on-secret-info",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "US House lawmakers launch probe into Kalshi, Polymarket insider trading",
+          "url": "https://cointelegraph.com/news/us-house-probe-kalshi-polymarket-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Kalshi, Polymarket lose bids to halt Nevada and Washington gambling cases",
+          "url": "https://www.theblock.co/post/402397/kalshi-polymarket-lose-bids-to-halt-nevada-and-washington-gambling-cases?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Kalshi-backed prediction market advocacy group debuts with support from former Trump aide",
+          "url": "https://www.theblock.co/post/402374/kalshi-prediction-market-advocacy-group-debuts-support-former-trump-aide?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "House Oversight chair launches probe into insider trading on Kalshi and Polymarket",
+          "url": "https://www.theblock.co/post/402348/house-oversight-chair-launches-probe-into-insider-trading-on-kalshi-and-polymarket?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "SEC",
+      "count": 8,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Crypto Briefing",
+        "Decrypt",
+        "The Block",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "SEC Commissioner Peirce counters views that crypto rule will foster synthetic tokens",
+          "url": "https://www.coindesk.com/news-analysis/2026/05/22/sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-tokens",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "SEC approves Nasdaq to list Bitcoin index options on the exchange",
+          "url": "https://cointelegraph.com/news/sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "SEC Delays Tokenized Stock Trading Proposal Amid Pushback; Crypto Exchanges Slide",
+          "url": "https://www.investors.com/news/crypto-tokenized-stock-trading-sec-plan-bitcoin/?src=A00220&yptr=yahoo",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "SEC delays tokenized asset exemption amid concerns over third-party tokens: Bloomberg Law",
+          "url": "https://www.theblock.co/post/402409/sec-delays-tokenized-asset-exemption-third-party-tokens-bloomberg-law?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "SEC Delays Tokenized Stocks Innovation Exemption Amid Concerns: Bloomberg",
+          "url": "https://decrypt.co/368855/sec-delays-tokenized-stocks-innovation-exemption-amid-concerns-bloomberg",
+          "source": "Decrypt"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Fed",
+      "count": 7,
+      "sources": [
+        "Axios",
+        "CNBC",
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "MarketWatch"
+      ],
+      "articles": [
+        {
+          "title": "Live markets: Bitcoin heads lower late Friday as Warsh takes over at Fed",
+          "url": "https://www.coindesk.com/tech/2026/05/22/live-markets-bitcoin-continues-holding-pattern-near-usd77-000-ahead-of-holiday-weekend",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kevin Warsh sworn in as Fed chair, as traders forecast rate hikes in 2026",
+          "url": "https://cointelegraph.com/news/kevin-warsh-sworn-fed-chair-traders-rate-hikes-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Kevin Warsh walks into a trap where the Fed can\u2019t cut rates even if it wants to",
+          "url": "https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Kevin Warsh's real Fed 'regime change' may happen deep inside Wall Street's plumbing",
+          "url": "https://www.cnbc.com/2026/05/22/kevin-warshs-real-fed-regime-change-may-happen-deep-inside-wall-streets-plumbing.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Fed officials see rate hike ahead if inflation stays elevated, minutes show",
+          "url": "https://www.cnbc.com/2026/05/20/fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Kevin Warsh",
+      "count": 7,
+      "sources": [
+        "CNBC",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Crypto Briefing",
+        "Crypto Potato",
+        "MarketWatch"
+      ],
+      "articles": [
+        {
+          "title": "Kevin Warsh sworn in as Fed chair, as traders forecast rate hikes in 2026",
+          "url": "https://cointelegraph.com/news/kevin-warsh-sworn-fed-chair-traders-rate-hikes-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Kevin Warsh walks into a trap where the Fed can\u2019t cut rates even if it wants to",
+          "url": "https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Kevin Warsh's real Fed 'regime change' may happen deep inside Wall Street's plumbing",
+          "url": "https://www.cnbc.com/2026/05/22/kevin-warshs-real-fed-regime-change-may-happen-deep-inside-wall-streets-plumbing.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Kevin Warsh faces scrutiny as he prepares to lead Federal Reserve",
+          "url": "https://cryptobriefing.com/kevin-warsh-federal-reserve-chair-scrutiny/",
+          "source": "Crypto Briefing"
+        },
+        {
+          "title": "Kevin Warsh appointed 17th Chair of the Federal Reserve, bringing crypto-friendly stance to the top",
+          "url": "https://cryptobriefing.com/kevin-warsh-federal-reserve-chair-crypto/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "China",
+      "count": 7,
+      "sources": [
+        "CNBC",
+        "Hacker News",
+        "Investing.com"
+      ],
+      "articles": [
+        {
+          "title": "China revises Shanxi coal mine death toll to 82 after initial count error",
+          "url": "https://www.investing.com/news/economy-news/china-revises-shanxi-coal-mine-death-toll-to-82-after-initial-count-error-4708138",
+          "source": "Investing.com"
+        },
+        {
+          "title": "China lowers death toll in Shanxi coal mine disaster to 82",
+          "url": "https://www.investing.com/news/commodities-news/china-lowers-death-toll-in-shanxi-coal-mine-disaster-to-82-4708136",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
+          "url": "https://www.cnbc.com/2026/05/23/three-signs-from-apec-that-the-us-china-remain-far-apart-on-trade.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
+          "url": "https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "China calls for APEC cooperation as commerce minister skips opening over \u2018urgent official business\u2019",
+          "url": "https://www.cnbc.com/2026/05/22/china-apec-trade-meeting-li-chenggang-cooperation-us-china-deals.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "IPO",
+      "count": 6,
+      "sources": [
+        "CNBC",
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Tom Lee says trillions in tech IPO supply won't crash the S&P 500",
+          "url": "https://www.coindesk.com/markets/2026/05/22/tom-lee-says-trillions-in-tech-ipo-supply-won-t-crash-the-s-and-p-500",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Retail investors get direct access to SpaceX IPO through major brokerage platforms",
+          "url": "https://www.cnbc.com/2026/05/21/retail-investors-get-direct-access-to-spacex-ipo-through-major-brokerage-platforms.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "OpenAI takes the lead in AI IPO horse race: 'Getting to public markets first is very important'",
+          "url": "https://www.cnbc.com/2026/05/20/openai-takes-the-lead-in-ai-ipo-horse-race-getting-to-public-markets-first-is-very-important.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Oura, smart ring maker, confidentially files for IPO",
+          "url": "https://www.cnbc.com/2026/05/21/oura-smart-ring-ipo-filing.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Retail investors will get access to SpaceX's IPO\u2014here's what to know before buying",
+          "url": "https://www.cnbc.com/2026/05/21/spacex-ipo-what-retail-investors-need-to-know-before-buying-shares.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Polymarket",
+      "count": 5,
+      "sources": [
+        "AMB Crypto",
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Congress hits Polymarket and Kalshi with a massive insider trading probe",
+          "url": "https://www.coindesk.com/policy/2026/05/22/congress-probes-polymarket-and-kalshi-over-fears-government-employees-are-trading-on-secret-info",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kalshi, Polymarket lose bids to halt Nevada and Washington gambling cases",
+          "url": "https://www.theblock.co/post/402397/kalshi-polymarket-lose-bids-to-halt-nevada-and-washington-gambling-cases?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "House Oversight chair launches probe into insider trading on Kalshi and Polymarket",
+          "url": "https://www.theblock.co/post/402348/house-oversight-chair-launches-probe-into-insider-trading-on-kalshi-and-polymarket?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Congress hits Polymarket and Kalshi with a massive insider trading probe",
+          "url": "https://www.coindesk.com/policy/2026/05/22/congress-probes-polymarket-and-kalshi-over-fears-government-employees-are-trading-on-secret-info",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "U.S. Congress launches insider trading probe into Polymarket, Kalshi",
+          "url": "https://ambcrypto.com/u-s-congress-launches-insider-trading-probe-into-polymarket-kalshi/",
+          "source": "AMB Crypto"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "France",
+      "count": 5,
+      "sources": [
+        "CoinOtag",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "GlobeNewswire"
+      ],
+      "articles": [
+        {
+          "title": "70% of all crypto wrench attacks happen in France: Report",
+          "url": "https://cointelegraph.com/news/70-crypto-wrench-attacks-happen-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "CZR Exchange Announces Exclusive CZR VIP South of France Gala",
+          "url": "https://www.globenewswire.com/news-release/2026/05/23/3300415/0/en/CZR-Exchange-Announces-Exclusive-CZR-VIP-South-of-France-Gala.html",
+          "source": "GlobeNewswire"
+        },
+        {
+          "title": "70% of all crypto wrench attacks happen in France: Report",
+          "url": "https://cointelegraph.com/news/70-crypto-wrench-attacks-happen-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "White House Shooting Halts Iran Talks as France Logs 41 Crypto Kidnappings in 2026",
+          "url": "https://en.coinotag.com/white-house-shooting-iran-deal-france-crypto-wrench-attacks-2026",
+          "source": "CoinOtag"
+        },
+        {
+          "title": "70% of all crypto wrench attacks happen in France: Report",
+          "url": "https://cointelegraph.com/news/70-crypto-wrench-attacks-happen-france?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Hyperliquid",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "Invezz",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Crypto trader sees Hyperliquid, AI tokens leading next altcoin rally",
+          "url": "https://www.coindesk.com/markets/2026/05/23/crypto-trader-sees-hyperliquid-ai-tokens-leading-next-altcoin-rally",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "OKX, ICE partner on oil perps as NYSE-parent pressures US regulators to rein in Hyperliquid",
+          "url": "https://www.theblock.co/post/402382/okx-ice-partner-oil-commodity-perps?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Crypto trader sees Hyperliquid, AI tokens leading next altcoin rally",
+          "url": "https://www.coindesk.com/markets/2026/05/23/crypto-trader-sees-hyperliquid-ai-tokens-leading-next-altcoin-rally",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Here\u2019s why Near Protocol, Ondo, and Hyperliquid crypto tokens are rising",
+          "url": "https://invezz.com/news/2026/05/24/heres-why-near-protocol-ondo-and-hyperliquid-crypto-tokens-are-rising/",
+          "source": "Invezz"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Michael Saylor",
+      "count": 4,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Cryptopolitan"
+      ],
+      "articles": [
+        {
+          "title": "\u2018Not unlikely\u2019 Strategy will sell Bitcoin in 2026: Michael Saylor",
+          "url": "https://cointelegraph.com/news/michael-saylor-strategy-mstr-bitcoin-sell-speculation-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "\u2018Not unlikely\u2019 Strategy will sell Bitcoin in 2026: Michael Saylor",
+          "url": "https://cointelegraph.com/news/michael-saylor-strategy-mstr-bitcoin-sell-speculation-btc",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "\u2018Not unlikely\u2019 Strategy will sell Bitcoin in 2026: Michael Saylor",
+          "url": "https://cointelegraph.com/news/michael-saylor-strategy-mstr-bitcoin-sell-speculation-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Arthur Hayes warns Bitcoin holders not to count on Michael Saylor to save them",
+          "url": "https://www.cryptopolitan.com/hayes-bitcoin-holders-dont-trust-saylor/",
+          "source": "Cryptopolitan"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "ETH",
+      "count": 4,
+      "sources": [
+        "AMB Crypto",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-522-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Verus bridge exploiter returns 4,052 ETH, retains $2.8 million bounty: onchain analyst",
+          "url": "https://www.theblock.co/post/402319/verus-bridge-exploiter-returns-4052-eth?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-522-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Corporations now own 6% of all Ethereum: Is ETH an institutional favorite?",
+          "url": "https://ambcrypto.com/corporations-now-own-6-of-all-ethereum-is-eth-an-institutional-favorite/",
+          "source": "AMB Crypto"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "XRP",
+      "count": 4,
+      "sources": [
+        "CoinTelegraph",
+        "CoinTurk News",
+        "Cointelegraph",
+        "TimesTabloid"
+      ],
+      "articles": [
+        {
+          "title": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-522-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-522-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Market Strategist Says XRP Is About To Shock Everyone. Here\u2019s why",
+          "url": "https://timestabloid.com/market-strategist-says-xrp-is-about-to-shock-everyone-heres-why/",
+          "source": "TimesTabloid"
+        },
+        {
+          "title": "XRP reserves on exchanges drop by 35 million in 24 hours",
+          "url": "https://en.coin-turk.com/xrp-reserves-on-exchanges-drop-by-35-million-in-24-hours/",
+          "source": "CoinTurk News"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "HYPE",
+      "count": 4,
+      "sources": [
+        "Bitcoin.com",
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-522-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-522-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Arthur Hayes-Linked Wallet Deposits $6.33M in HYPE to Bybit After Calling $150 Target",
+          "url": "https://news.bitcoin.com/arthur-hayes-deposits-6-33m-hype-bybit-after-150-price-call/",
+          "source": "Bitcoin.com"
+        },
+        {
+          "title": "Trader Books $4.6M Profit on HYPE, ZEC, and ETH Longs Then Opens a $74.84M Bitcoin Short",
+          "url": "https://news.bitcoin.com/trader-evaded-closes-4-6m-hype-zec-eth-longs-opens-74m-bitcoin-short/",
+          "source": "Bitcoin.com"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "House",
+      "count": 4,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Decrypt",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "US House lawmakers launch probe into Kalshi, Polymarket insider trading",
+          "url": "https://cointelegraph.com/news/us-house-probe-kalshi-polymarket-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "House Oversight chair launches probe into insider trading on Kalshi and Polymarket",
+          "url": "https://www.theblock.co/post/402348/house-oversight-chair-launches-probe-into-insider-trading-on-kalshi-and-polymarket?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "House Republicans Open Investigation Into Kalshi, Polymarket Over Insider Trading",
+          "url": "https://decrypt.co/368748/house-republicans-open-investigation-kalshi-polymarket-insider-trades",
+          "source": "Decrypt"
+        },
+        {
+          "title": "US House lawmakers launch probe into Kalshi, Polymarket insider trading",
+          "url": "https://cointelegraph.com/news/us-house-probe-kalshi-polymarket-insider-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Microsoft",
+      "count": 4,
+      "sources": [
+        "Business Insider",
+        "Crypto Briefing",
+        "Decrypt",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Microsoft vs. Apple Stock: The Numbers Reveal a Clear Winner Heading Into H2 2026",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-vs-apple-stock-numbers-230002595.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Microsoft's Free AI Just Beat OpenAI and Google at Browsing the Web",
+          "url": "https://decrypt.co/368807/microsoft-fara15-open-source-ai-beats-openai-gemini",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Satya Nadella is reorganizing Microsoft around AI \u2014 and changing who holds power - Business Insider",
+          "url": "https://www.businessinsider.com/satya-nadella-microsoft-ai-leadership-reset-2026-5",
+          "source": "Business Insider"
+        },
+        {
+          "title": "Microsoft cancels Claude Code licenses as AI costs surge across the industry",
+          "url": "https://cryptobriefing.com/microsoft-cancels-claude-code-ai-costs/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "U.S.",
+      "count": 4,
+      "sources": [
+        "CNBC"
+      ],
+      "articles": [
+        {
+          "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
+          "url": "https://www.cnbc.com/2026/05/23/three-signs-from-apec-that-the-us-china-remain-far-apart-on-trade.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Which company will the U.S. government take a stake in next? Here\u2019s what traders think",
+          "url": "https://www.cnbc.com/2026/05/22/which-company-will-the-us-government-take-a-stake-in-next.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
+          "url": "https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Miner Perpetua Resources secures $2.9 billion U.S. loan for Idaho gold, antimony project",
+          "url": "https://www.cnbc.com/2026/05/21/miner-perpetua-resources-secures-2point9-billion-us-loan-for-idaho-gold-antimony-project.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "OpenAI",
+      "count": 4,
+      "sources": [
+        "CNBC"
+      ],
+      "articles": [
+        {
+          "title": "SpaceX, OpenAI valuations could mean they leapfrog Berkshire Hathaway on first day of trading",
+          "url": "https://www.cnbc.com/2026/05/21/spacex-openai-valuations-to-leapfrog-berkshire-hathaway-traders-say.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "OpenAI takes the lead in AI IPO horse race: 'Getting to public markets first is very important'",
+          "url": "https://www.cnbc.com/2026/05/20/openai-takes-the-lead-in-ai-ipo-horse-race-getting-to-public-markets-first-is-very-important.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "SpaceX, OpenAI valuations could mean they leapfrog Berkshire Hathaway on first day of trading - CNBC",
+          "url": "https://www.cnbc.com/2026/05/21/spacex-openai-valuations-to-leapfrog-berkshire-hathaway-traders-say.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Mega-IPOs could signal market top, say analysts as SpaceX and OpenAI prep record floats",
+          "url": "https://www.cnbc.com/2026/05/22/ipo-flurry-top-market-analysts-ai-spacex-musk-altman.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Congress",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "Decrypt"
+      ],
+      "articles": [
+        {
+          "title": "Congress hits Polymarket and Kalshi with a massive insider trading probe",
+          "url": "https://www.coindesk.com/policy/2026/05/22/congress-probes-polymarket-and-kalshi-over-fears-government-employees-are-trading-on-secret-info",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kalshi Debuts 'Fair Markets' Lobby Group as Congress Opens Insider Trading Probe",
+          "url": "https://decrypt.co/368803/kalshi-fair-markets-lobby-group-congress-opens-insider-trading-probe",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Congress hits Polymarket and Kalshi with a massive insider trading probe",
+          "url": "https://www.coindesk.com/policy/2026/05/22/congress-probes-polymarket-and-kalshi-over-fears-government-employees-are-trading-on-secret-info",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "ICE",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "OKX and ICE are bringing 'never-expiring' oil futures to 120 million crypto users",
+          "url": "https://www.coindesk.com/business/2026/05/22/okx-and-ice-are-bringing-never-expiring-oil-futures-to-120-million-crypto-users",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "NYSE owner ICE to launch oil-linked futures with OKX",
+          "url": "https://cointelegraph.com/news/nyse-owner-ice-oil-perpetual-futures-okx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "OKX, ICE partner on oil perps as NYSE-parent pressures US regulators to rein in Hyperliquid",
+          "url": "https://www.theblock.co/post/402382/okx-ice-partner-oil-commodity-perps?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "USD",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit",
+          "url": "https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit",
+          "url": "https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Euro and USD stablecoins depeg amid ongoing $2.8M StablR exploit",
+          "url": "https://cointelegraph.com/news/euro-and-usd-stablecoins-depeg-amid-ongoing-28m-stablr-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "WSJ",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Binance denies new WSJ report alleging $850M in Iran-linked transactions",
+          "url": "https://cointelegraph.com/news/binance-denies-new-wsj-report-alleging-850m-in-iran-linked-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Binance disputes latest WSJ report on alleged Iran-linked transactions",
+          "url": "https://www.theblock.co/post/402353/binance-disputes-latest-wsj-report-on-alleged-iran-linked-transactions?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Binance denies new WSJ report alleging $850M in Iran-linked transactions",
+          "url": "https://cointelegraph.com/news/binance-denies-new-wsj-report-alleging-850m-in-iran-linked-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "DOGE",
+      "count": 3,
+      "sources": [
+        "AMB Crypto",
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-522-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-522-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Dogecoin traders panic sell \u2013 DOGE dips below $0.1, liquidations reach $16 mln",
+          "url": "https://ambcrypto.com/dogecoin-traders-panic-sell-doge-dips-below-0-1-liquidations-reach-16-mln/",
+          "source": "AMB Crypto"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "ZEC",
+      "count": 3,
+      "sources": [
+        "Bitcoin.com",
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-522-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Price predictions 5/22: BTC, ETH, BNB, XRP, SOL, DOGE, HYPE, ADA, ZEC, BCH",
+          "url": "https://cointelegraph.com/markets/price-predictions-522-btc-eth-bnb-xrp-sol-doge-hype-ada-zec-bch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Trader Books $4.6M Profit on HYPE, ZEC, and ETH Longs Then Opens a $74.84M Bitcoin Short",
+          "url": "https://news.bitcoin.com/trader-evaded-closes-4-6m-hype-zec-eth-longs-opens-74m-bitcoin-short/",
+          "source": "Bitcoin.com"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "NYSE",
+      "count": 3,
+      "sources": [
+        "Bitcoinist",
+        "CoinTelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "NYSE owner ICE to launch oil-linked futures with OKX",
+          "url": "https://cointelegraph.com/news/nyse-owner-ice-oil-perpetual-futures-okx?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "OKX, ICE partner on oil perps as NYSE-parent pressures US regulators to rein in Hyperliquid",
+          "url": "https://www.theblock.co/post/402382/okx-ice-partner-oil-commodity-perps?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Hyperliquid Faces Perpetual Futures Test From OKX And NYSE\u2019s Parent Company",
+          "url": "https://bitcoinist.com/hyperliquid-faces-perpetual-futures-test-from-okx/",
+          "source": "Bitcoinist"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Bloomberg",
+      "count": 3,
+      "sources": [
+        "Decrypt",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Polymarket eyes Japan market entry, appoints regional representative: Bloomberg",
+          "url": "https://www.theblock.co/post/402309/polymarket-japan-market-entry?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Galaxy\u2019s Novogratz and BitGo face off in court over $100 million claim: Bloomberg",
+          "url": "https://www.theblock.co/post/402290/galaxys-bitgo-court?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "SEC Delays Tokenized Stocks Innovation Exemption Amid Concerns: Bloomberg",
+          "url": "https://decrypt.co/368855/sec-delays-tokenized-stocks-innovation-exemption-amid-concerns-bloomberg",
+          "source": "Decrypt"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Crypto",
+      "count": 3,
+      "sources": [
+        "Decrypt",
+        "Hacker News"
+      ],
+      "articles": [
+        {
+          "title": "Crypto, Banks, Policy Experts Press Congress to Modernize Bank Secrecy Act",
+          "url": "https://decrypt.co/368763/crypto-banks-policy-experts-press-congress-to-modernize-bank-secrecy-act",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Ask HN: ELI5 \u2013 Crypto, Blockchain and Web3.0",
+          "url": "https://news.ycombinator.com/item?id=29629868",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Crypto Doesn't Need Blockchain",
+          "url": "https://news.ycombinator.com/item?id=44660422",
+          "source": "Hacker News"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Tanya Denisova",
+      "count": 2,
+      "sources": [
+        "CoinDesk"
+      ],
+      "articles": [
+        {
+          "title": "Robinhood Crypto COO Tanya Denisova is leaving company amid revenue slowdown",
+          "url": "https://www.coindesk.com/business/2026/05/22/robinhood-crypto-coo-tanya-denisova-is-leaving-company-amid-revenue-slowdown",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Robinhood Crypto COO Tanya Denisova is leaving company amid revenue slowdown",
+          "url": "https://www.coindesk.com/business/2026/05/22/robinhood-crypto-coo-tanya-denisova-is-leaving-company-amid-revenue-slowdown",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    }
+  ],
+  "crypto_trending": [
+    {
+      "name": "Pudgy Penguins",
+      "symbol": "PENGU",
+      "market_cap_rank": 95,
+      "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+    },
+    {
+      "name": "Railgun",
+      "symbol": "RAIL",
+      "market_cap_rank": 194,
+      "thumb": "https://coin-images.coingecko.com/coins/images/16840/standard/railgun.jpeg?1696516407"
+    },
+    {
+      "name": "Grass",
+      "symbol": "GRASS",
+      "market_cap_rank": 145,
+      "thumb": "https://coin-images.coingecko.com/coins/images/40094/standard/Grass.jpg?1725697048"
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "market_cap_rank": 35,
+      "thumb": "https://coin-images.coingecko.com/coins/images/10365/standard/near.jpg?1696510367"
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "market_cap_rank": 11,
+      "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
+    },
+    {
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "market_cap_rank": 13,
+      "thumb": "https://coin-images.coingecko.com/coins/images/486/standard/circle-zcash-color.png?1696501740"
+    },
+    {
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "market_cap_rank": 79,
+      "thumb": "https://coin-images.coingecko.com/coins/images/54023/standard/VVV_Token_Transparent.png?1741856877"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "market_cap_rank": 1,
+      "thumb": "https://coin-images.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400"
+    },
+    {
+      "name": "Litecoin",
+      "symbol": "LTC",
+      "market_cap_rank": 27,
+      "thumb": "https://coin-images.coingecko.com/coins/images/2/standard/litecoin.png?1696501400"
+    },
+    {
+      "name": "OpenServ",
+      "symbol": "SERV",
+      "market_cap_rank": 439,
+      "thumb": "https://coin-images.coingecko.com/coins/images/51430/standard/X_Logo_Blue_%282%29.png?1747853206"
+    }
+  ],
+  "stock_trending": [
+    {
+      "symbol": "BTC-USD",
+      "name": "Bitcoin USD",
+      "price": 76625.51,
+      "change_pct": -0.04
+    },
+    {
+      "symbol": "ETH-USD",
+      "name": "Ethereum USD",
+      "price": 2116.0,
+      "change_pct": 0.04
+    },
+    {
+      "symbol": "XRP-USD",
+      "name": "XRP USD",
+      "price": 1.36,
+      "change_pct": -0.02
+    },
+    {
+      "symbol": "CL=F",
+      "name": "Crude Oil Jul 26",
+      "price": 96.6,
+      "change_pct": 0.26
+    },
+    {
+      "symbol": "BTC-CAD",
+      "name": "Bitcoin CAD",
+      "price": 106031.17,
+      "change_pct": 0.02
+    },
+    {
+      "symbol": "SOL-USD",
+      "name": "Solana USD",
+      "price": 85.86,
+      "change_pct": 0.23
+    },
+    {
+      "symbol": "HYPE32196-USD",
+      "name": "Hyperliquid USD",
+      "price": 60.98,
+      "change_pct": 3.94
+    },
+    {
+      "symbol": "DOGE-USD",
+      "name": "Dogecoin USD",
+      "price": 0.1,
+      "change_pct": -0.33
+    },
+    {
+      "symbol": "VELO",
+      "name": "Velo3D, Inc.",
+      "price": 23.06,
+      "change_pct": 13.43
+    },
+    {
+      "symbol": "SIVE.ST",
+      "name": "Sivers Semiconductors AB (publ)",
+      "price": 72.9,
+      "change_pct": 23.45
+    }
+  ],
+  "fear_greed": {
+    "value": 25,
+    "classification": "Extreme Fear",
+    "history": [
+      {
+        "value": 25,
+        "classification": "Extreme Fear"
+      },
+      {
+        "value": 28,
+        "classification": "Fear"
+      },
+      {
+        "value": 28,
+        "classification": "Fear"
+      },
+      {
+        "value": 29,
+        "classification": "Fear"
+      },
+      {
+        "value": 27,
+        "classification": "Fear"
+      },
+      {
+        "value": 25,
+        "classification": "Extreme Fear"
+      },
+      {
+        "value": 28,
+        "classification": "Fear"
+      }
+    ]
+  },
+  "total_articles": 394
+}
