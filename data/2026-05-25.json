@@ -3,7 +3,7 @@
   "topics": [
     {
       "name": "Iran",
-      "count": 24,
+      "count": 26,
       "sources": [
         "Bitcoin World",
         "Bloomberg",
@@ -11,6 +11,8 @@
         "CoinTelegraph",
         "Cointelegraph",
         "Crypto Briefing",
+        "Investing.com",
+        "Investing.com Crypto News",
         "MarketWatch",
         "The Block"
       ],
@@ -36,16 +38,16 @@
           "source": "MarketWatch"
         },
         {
-          "title": "Binance disputes latest WSJ report on alleged Iran-linked transactions",
-          "url": "https://www.theblock.co/post/402353/binance-disputes-latest-wsj-report-on-alleged-iran-linked-transactions?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
+          "title": "Iran says possible memorandum does not include Hormuz specifics, deal not imminent",
+          "url": "https://www.investing.com/news/economy-news/usiran-latest-rubio-flags-pretty-solid-framework-deal-to-reopen-hormuz-4708295",
+          "source": "Investing.com"
         }
       ],
       "is_new": false
     },
     {
       "name": "Trump",
-      "count": 18,
+      "count": 16,
       "sources": [
         "Axios",
         "Bloomberg",
@@ -88,13 +90,14 @@
     },
     {
       "name": "Bitcoin",
-      "count": 13,
+      "count": 14,
       "sources": [
         "CoinDesk",
         "CoinTelegraph",
         "Cointelegraph",
         "Decrypt",
-        "Hacker News"
+        "Hacker News",
+        "Investing.com Crypto News"
       ],
       "articles": [
         {
@@ -103,9 +106,9 @@
           "source": "CoinDesk"
         },
         {
-          "title": "Live markets: Bitcoin heads lower late Friday as Warsh takes over at Fed",
-          "url": "https://www.coindesk.com/tech/2026/05/22/live-markets-bitcoin-continues-holding-pattern-near-usd77-000-ahead-of-holiday-weekend",
-          "source": "CoinDesk"
+          "title": "Bitcoin ETFs' 6 day loss streak pushes market closer to net outflows for 2026",
+          "url": "https://cointelegraph.com/news/bitcoin-etf-outflow-streak-pushes-market-closer-to-net-negative-flows-for-2026?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
         },
         {
           "title": "Soaring bond prices signal 'structural' shift and Bitcoin 'supercycle': Analyst",
@@ -118,49 +121,8 @@
           "source": "CoinTelegraph"
         },
         {
-          "title": "SEC approves Nasdaq to list Bitcoin index options on the exchange",
-          "url": "https://cointelegraph.com/news/sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "SEC",
-      "count": 9,
-      "sources": [
-        "CoinDesk",
-        "CoinTelegraph",
-        "CoinTurk News",
-        "Cointelegraph",
-        "Decrypt",
-        "Seeking Alpha",
-        "The Block"
-      ],
-      "articles": [
-        {
-          "title": "SEC Commissioner Peirce counters views that crypto rule will foster synthetic tokens",
-          "url": "https://www.coindesk.com/news-analysis/2026/05/22/sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-tokens",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "SEC postpones plan allowing 'innovation exemption' for tokenized stocks: Report",
-          "url": "https://cointelegraph.com/news/sec-postpones-plan-allowing-innovation-exemption-for-tokenized-stocks-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "SEC approves Nasdaq to list Bitcoin index options on the exchange",
-          "url": "https://cointelegraph.com/news/sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "SEC delays tokenized asset exemption amid concerns over third-party tokens: Bloomberg Law",
-          "url": "https://www.theblock.co/post/402409/sec-delays-tokenized-asset-exemption-third-party-tokens-bloomberg-law?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
-        },
-        {
-          "title": "SEC Delays Tokenized Stocks Innovation Exemption Amid Concerns: Bloomberg",
-          "url": "https://decrypt.co/368855/sec-delays-tokenized-stocks-innovation-exemption-amid-concerns-bloomberg",
+          "title": "Morning Minute: Mark Cuban Sells His Bitcoin",
+          "url": "https://decrypt.co/368742/morning-minute-mark-cuban-sells-his-bitcoin",
           "source": "Decrypt"
         }
       ],
@@ -168,7 +130,7 @@
     },
     {
       "name": "Kalshi",
-      "count": 8,
+      "count": 7,
       "sources": [
         "CoinDesk",
         "CoinTelegraph",
@@ -207,7 +169,7 @@
     },
     {
       "name": "China",
-      "count": 8,
+      "count": 7,
       "sources": [
         "CNBC",
         "Crypto Briefing",
@@ -244,7 +206,7 @@
     },
     {
       "name": "Fed",
-      "count": 7,
+      "count": 6,
       "sources": [
         "CNBC",
         "CoinDesk",
@@ -256,11 +218,6 @@
         {
           "title": "Crypto and the Fed: State of Crypto",
           "url": "https://www.coindesk.com/policy/2026/05/24/crypto-and-the-fed-state-of-crypto",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Live markets: Bitcoin heads lower late Friday as Warsh takes over at Fed",
-          "url": "https://www.coindesk.com/tech/2026/05/22/live-markets-bitcoin-continues-holding-pattern-near-usd77-000-ahead-of-holiday-weekend",
           "source": "CoinDesk"
         },
         {
@@ -277,6 +234,51 @@
           "title": "Kevin Warsh's real Fed 'regime change' may happen deep inside Wall Street's plumbing",
           "url": "https://www.cnbc.com/2026/05/22/kevin-warshs-real-fed-regime-change-may-happen-deep-inside-wall-streets-plumbing.html",
           "source": "CNBC"
+        },
+        {
+          "title": "Crypto and the Fed: State of Crypto",
+          "url": "https://www.coindesk.com/policy/2026/05/24/crypto-and-the-fed-state-of-crypto",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "SEC",
+      "count": 6,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "Decrypt",
+        "Seeking Alpha",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "SEC Commissioner Peirce counters views that crypto rule will foster synthetic tokens",
+          "url": "https://www.coindesk.com/news-analysis/2026/05/22/sec-commissioner-peirce-counters-views-that-crypto-rule-will-foster-synthetic-tokens",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "SEC postpones plan allowing 'innovation exemption' for tokenized stocks: Report",
+          "url": "https://cointelegraph.com/news/sec-postpones-plan-allowing-innovation-exemption-for-tokenized-stocks-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "SEC delays tokenized asset exemption amid concerns over third-party tokens: Bloomberg Law",
+          "url": "https://www.theblock.co/post/402409/sec-delays-tokenized-asset-exemption-third-party-tokens-bloomberg-law?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "SEC Delays Tokenized Stocks Innovation Exemption Amid Concerns: Bloomberg",
+          "url": "https://decrypt.co/368855/sec-delays-tokenized-stocks-innovation-exemption-amid-concerns-bloomberg",
+          "source": "Decrypt"
+        },
+        {
+          "title": "SEC postpones plan allowing 'innovation exemption' for tokenized stocks: Report",
+          "url": "https://cointelegraph.com/news/sec-postpones-plan-allowing-innovation-exemption-for-tokenized-stocks-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
         }
       ],
       "is_new": false
@@ -355,39 +357,74 @@
       "is_new": false
     },
     {
-      "name": "Nvidia",
+      "name": "ETH",
       "count": 5,
       "sources": [
-        "CNBC",
-        "Crypto Briefing",
-        "MarketWatch",
+        "AMB Crypto",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Tom Lee\u2019s Ethereum portfolio down $7.35B as ETH price outlook worsens",
+          "url": "https://cointelegraph.com/markets/tom-lees-ethereum-portfolio-sitting-on-73b-in-unrealized-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Vitalik Buterin says Ethereum Foundation will be a \u2018smaller ship,\u2019 sell less ETH amid researcher exodus",
+          "url": "https://www.theblock.co/post/402435/vitalik-buterin-says-ethereum-foundation-will-be-a-smaller-ship-sell-less-eth-amid-researcher-exodus?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Verus bridge exploiter returns 4,052 ETH, retains $2.8 million bounty: onchain analyst",
+          "url": "https://www.theblock.co/post/402319/verus-bridge-exploiter-returns-4052-eth?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Tom Lee\u2019s Ethereum portfolio down $7.35B as ETH price outlook worsens",
+          "url": "https://cointelegraph.com/markets/tom-lees-ethereum-portfolio-sitting-on-73b-in-unrealized-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Ethereum holds 55% of stablecoins, yet ETH trades below $2.4K \u2013 Justified?",
+          "url": "https://ambcrypto.com/ethereum-holds-55-of-stablecoins-yet-eth-trades-below-2-4k-justified/",
+          "source": "AMB Crypto"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Jim Cramer",
+      "count": 5,
+      "sources": [
         "Yahoo Finance"
       ],
       "articles": [
         {
-          "title": "Nvidia can deliver chips \u2014 but it can\u2019t buy Big Tech out of its credit and power-grid crisis",
-          "url": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories",
-          "source": "MarketWatch"
-        },
-        {
-          "title": "AMD just left Nvidia, Intel flat-footed",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/amd-just-beat-rival-chipmakers-193700677.html",
+          "title": "Here\u2019s What Jim Cramer Thinks About Atlassian\u2019s (TEAM) YouTube Controversy",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-thinks-atlassian-team-230901954.html",
           "source": "Yahoo Finance"
         },
         {
-          "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up",
-          "url": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html",
-          "source": "CNBC"
+          "title": "Jim Cramer Shares Key Insight For Intel\u2019s (INTC) Future",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-key-insight-231013681.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Nvidia CEO Jensen Huang highlights China as long-term opportunity despite US tech tensions",
-          "url": "https://cryptobriefing.com/nvidia-huang-china-long-term-opportunity/",
-          "source": "Crypto Briefing"
+          "title": "Jim Cramer Shares Key Insight For Home Depot\u2019s (HD) Shares",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-key-insight-231135456.html",
+          "source": "Yahoo Finance"
         },
         {
-          "title": "Nvidia CEO Jensen Huang highlights China as long-term opportunity despite US tech tensions",
-          "url": "https://cryptobriefing.com/nvidia-jensen-huang-china-opportunity/",
-          "source": "Crypto Briefing"
+          "title": "Here\u2019s What Jim Cramer Said About Intuit (INTU) Before The Stock\u2019s Crash",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-intuit-intu-231307351.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Jim Cramer Discusses ServiceNow\u2019s (NOW) Share Price Performance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discusses-servicenow-now-231350942.html",
+          "source": "Yahoo Finance"
         }
       ],
       "is_new": true
@@ -469,8 +506,8 @@
       "name": "Coinbase",
       "count": 4,
       "sources": [
-        "Bitcoin World",
         "CoinDesk",
+        "CoinTurk News",
         "Seeking Alpha"
       ],
       "articles": [
@@ -485,20 +522,20 @@
           "source": "CoinDesk"
         },
         {
+          "title": "Coinbase reports $1.49 per-share loss, plans to cut 14 percent",
+          "url": "https://en.coin-turk.com/coinbase-reports-1-49-per-share-loss-plans-to-cut-14-percent/",
+          "source": "CoinTurk News"
+        },
+        {
           "title": "Coinbase CEO flags these 8 gaps in finance as SEC delays tokenized plans",
           "url": "https://seekingalpha.com/news/4596554-coinbase-ceo-flags-these-8-gaps-in-finance-as-sec-delays-tokenized-plans?utm_source=cryptocompare.com&utm_medium=referral&feed_item_type=news",
           "source": "Seeking Alpha"
-        },
-        {
-          "title": "Coinbase CEO Brian Armstrong Details Key Upgrades Needed for Traditional Finance",
-          "url": "https://bitcoinworld.co.in/coinbase-ceo-traditional-finance-upgrades/",
-          "source": "Bitcoin World"
         }
       ],
       "is_new": true
     },
     {
-      "name": "ETH",
+      "name": "Chun Wang",
       "count": 4,
       "sources": [
         "CoinTelegraph",
@@ -507,27 +544,60 @@
       ],
       "articles": [
         {
-          "title": "Tom Lee\u2019s Ethereum portfolio down $7.35B as ETH price outlook worsens",
-          "url": "https://cointelegraph.com/markets/tom-lees-ethereum-portfolio-sitting-on-73b-in-unrealized-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Crypto entrepreneur Chun Wang joins SpaceX mission to Mars",
+          "url": "https://cointelegraph.com/news/chun-wang-spacex-mars-mission-crypto-entrepreneur?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "CoinTelegraph"
         },
         {
-          "title": "Vitalik Buterin says Ethereum Foundation will be a \u2018smaller ship,\u2019 sell less ETH amid researcher exodus",
-          "url": "https://www.theblock.co/post/402435/vitalik-buterin-says-ethereum-foundation-will-be-a-smaller-ship-sell-less-eth-amid-researcher-exodus?utm_source=rss&utm_medium=rss",
+          "title": "\u2018No longer a distant place\u2019: F2Pool Co-founder Chun Wang joins SpaceX\u2019s 2-year mission to Mars",
+          "url": "https://www.theblock.co/post/402332/f2pool-chun-wang-spacex-mars?utm_source=rss&utm_medium=rss",
           "source": "The Block"
         },
         {
-          "title": "Verus bridge exploiter returns 4,052 ETH, retains $2.8 million bounty: onchain analyst",
-          "url": "https://www.theblock.co/post/402319/verus-bridge-exploiter-returns-4052-eth?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
+          "title": "Crypto entrepreneur Chun Wang joins SpaceX mission to Mars",
+          "url": "https://cointelegraph.com/news/chun-wang-spacex-mars-mission-crypto-entrepreneur?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
         },
         {
-          "title": "Tom Lee\u2019s Ethereum portfolio down $7.35B as ETH price outlook worsens",
-          "url": "https://cointelegraph.com/markets/tom-lees-ethereum-portfolio-sitting-on-73b-in-unrealized-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "title": "Crypto entrepreneur Chun Wang joins SpaceX mission to Mars",
+          "url": "https://cointelegraph.com/news/chun-wang-spacex-mars-mission-crypto-entrepreneur?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "source": "Cointelegraph"
         }
       ],
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "name": "CFTC",
+      "count": 4,
+      "sources": [
+        "CoinTelegraph",
+        "Coinpaper",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "CFTC officials who questioned prediction markets were suspended: NYT",
+          "url": "https://cointelegraph.com/news/cftc-officials-who-questioned-prediction-markets-were-suspended-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "NYT investigation alleges CFTC purged staff who questioned Trump-tied crypto firms",
+          "url": "https://www.theblock.co/post/402442/nyt-investigation-alleges-cftc-purged-staff-who-questioned-trump-tied-crypto-firms?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "CFTC officials who questioned prediction markets were suspended: NYT",
+          "url": "https://cointelegraph.com/news/cftc-officials-who-questioned-prediction-markets-were-suspended-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "NYT Report Alleges CFTC Helped Trump-Connected Crypto Firms",
+          "url": "https://coinpaper.com/17247/nyt-report-alleges-cftc-helped-trump-connected-crypto-firms",
+          "source": "Coinpaper"
+        }
+      ],
+      "is_new": true
     },
     {
       "name": "Kevin Warsh",
@@ -561,31 +631,6 @@
         }
       ],
       "is_new": false
-    },
-    {
-      "name": "Nadaq",
-      "count": 3,
-      "sources": [
-        "CoinDesk"
-      ],
-      "articles": [
-        {
-          "title": "Bitcoin options are coming to Nadaq. Here's what it means for you.",
-          "url": "https://www.coindesk.com/markets/2026/05/25/bitcoin-options-are-coming-to-nadaq-here-s-what-it-means-for-you",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Bitcoin options are coming to Nadaq. Here's what it means for you.",
-          "url": "https://www.coindesk.com/markets/2026/05/25/bitcoin-options-are-coming-to-nadaq-here-s-what-it-means-for-you",
-          "source": "CoinDesk"
-        },
-        {
-          "title": "Bitcoin options are coming to Nadaq. Here's what it means for you.",
-          "url": "https://www.coindesk.com/markets/2026/05/25/bitcoin-options-are-coming-to-nadaq-here-s-what-it-means-for-you",
-          "source": "CoinDesk"
-        }
-      ],
-      "is_new": true
     },
     {
       "name": "Hyperliquid",
@@ -667,33 +712,6 @@
       "is_new": false
     },
     {
-      "name": "CFTC",
-      "count": 3,
-      "sources": [
-        "CoinTelegraph",
-        "Cointelegraph",
-        "The Block"
-      ],
-      "articles": [
-        {
-          "title": "CFTC officials who questioned prediction markets were suspended: NYT",
-          "url": "https://cointelegraph.com/news/cftc-officials-who-questioned-prediction-markets-were-suspended-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "NYT investigation alleges CFTC purged staff who questioned Trump-tied crypto firms",
-          "url": "https://www.theblock.co/post/402442/nyt-investigation-alleges-cftc-purged-staff-who-questioned-trump-tied-crypto-firms?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
-        },
-        {
-          "title": "CFTC officials who questioned prediction markets were suspended: NYT",
-          "url": "https://cointelegraph.com/news/cftc-officials-who-questioned-prediction-markets-were-suspended-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        }
-      ],
-      "is_new": true
-    },
-    {
       "name": "France",
       "count": 3,
       "sources": [
@@ -720,104 +738,28 @@
       "is_new": true
     },
     {
-      "name": "WSJ",
+      "name": "Nvidia",
       "count": 3,
       "sources": [
-        "CoinTelegraph",
-        "Cointelegraph",
-        "The Block"
-      ],
-      "articles": [
-        {
-          "title": "Binance denies new WSJ report alleging $850M in Iran-linked transactions",
-          "url": "https://cointelegraph.com/news/binance-denies-new-wsj-report-alleging-850m-in-iran-linked-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "CoinTelegraph"
-        },
-        {
-          "title": "Binance disputes latest WSJ report on alleged Iran-linked transactions",
-          "url": "https://www.theblock.co/post/402353/binance-disputes-latest-wsj-report-on-alleged-iran-linked-transactions?utm_source=rss&utm_medium=rss",
-          "source": "The Block"
-        },
-        {
-          "title": "Binance denies new WSJ report alleging $850M in Iran-linked transactions",
-          "url": "https://cointelegraph.com/news/binance-denies-new-wsj-report-alleging-850m-in-iran-linked-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "source": "Cointelegraph"
-        }
-      ],
-      "is_new": false
-    },
-    {
-      "name": "AMD",
-      "count": 3,
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "articles": [
-        {
-          "title": "Why Advanced Micro Devices (AMD) Remains One of the Most Traded Stocks",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/why-advanced-micro-devices-amd-201200295.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "AMD (AMD) Announces $10B Investment in Taiwan AI Infrastructure",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/amd-amd-announces-10b-investment-201026402.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "AMD just left Nvidia, Intel flat-footed",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/amd-just-beat-rival-chipmakers-193700677.html",
-          "source": "Yahoo Finance"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Intel",
-      "count": 3,
-      "sources": [
+        "CNBC",
         "Crypto Briefing",
-        "Yahoo Finance"
+        "MarketWatch"
       ],
       "articles": [
         {
-          "title": "AMD just left Nvidia, Intel flat-footed",
-          "url": "https://finance.yahoo.com/sectors/technology/articles/amd-just-beat-rival-chipmakers-193700677.html",
-          "source": "Yahoo Finance"
+          "title": "Nvidia can deliver chips \u2014 but it can\u2019t buy Big Tech out of its credit and power-grid crisis",
+          "url": "https://www.marketwatch.com/story/nvidia-can-deliver-chips-but-it-cant-buy-big-tech-out-of-its-credit-and-power-grid-crisis-9c114e62?mod=mw_rss_topstories",
+          "source": "MarketWatch"
         },
         {
-          "title": "Jim Cramer Shares Key Insight For Intel\u2019s (INTC) Future",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-key-insight-231013681.html",
-          "source": "Yahoo Finance"
+          "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up",
+          "url": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html",
+          "source": "CNBC"
         },
         {
-          "title": "Kimi K2.5 runs on RTX 3060 with 768GB Intel Optane memory at 4 tokens per second",
-          "url": "https://cryptobriefing.com/kimi-k2-5-rtx-3060-optane-memory-local-inference/",
+          "title": "Nvidia CEO Jensen Huang highlights China as long-term opportunity despite US tech tensions",
+          "url": "https://cryptobriefing.com/nvidia-huang-china-long-term-opportunity/",
           "source": "Crypto Briefing"
-        }
-      ],
-      "is_new": true
-    },
-    {
-      "name": "Jim Cramer",
-      "count": 3,
-      "sources": [
-        "Yahoo Finance"
-      ],
-      "articles": [
-        {
-          "title": "Here\u2019s What Jim Cramer Thinks About Atlassian\u2019s (TEAM) YouTube Controversy",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-thinks-atlassian-team-230901954.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Jim Cramer Shares Key Insight For Intel\u2019s (INTC) Future",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-key-insight-231013681.html",
-          "source": "Yahoo Finance"
-        },
-        {
-          "title": "Jim Cramer Shares Key Insight For Home Depot\u2019s (HD) Shares",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-shares-key-insight-231135456.html",
-          "source": "Yahoo Finance"
         }
       ],
       "is_new": true
@@ -925,6 +867,27 @@
       "is_new": true
     },
     {
+      "name": "Nasdaq",
+      "count": 2,
+      "sources": [
+        "CoinDesk",
+        "Investing.com Crypto News"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin options are coming to Nasdaq. Here's what it means for you.",
+          "url": "https://www.coindesk.com/markets/2026/05/25/bitcoin-options-are-coming-to-nadaq-here-s-what-it-means-for-you",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin rebounds above $77k on Iran deal hopes, Nasdaq crypto options plan",
+          "url": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-77k-on-iran-deal-hopes-nasdaq-crypto-options-plan-4708329",
+          "source": "Investing.com Crypto News"
+        }
+      ],
+      "is_new": false
+    },
+    {
       "name": "Congress",
       "count": 2,
       "sources": [
@@ -944,6 +907,48 @@
         }
       ],
       "is_new": true
+    },
+    {
+      "name": "Fenwick & West",
+      "count": 2,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "FTX law firm Fenwick & West to pay $54M to victims in settlement",
+          "url": "https://cointelegraph.com/news/law-firm-fenwick-west-54m-ftx-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "FTX law firm Fenwick & West to pay $54M to victims in settlement",
+          "url": "https://cointelegraph.com/news/law-firm-fenwick-west-54m-ftx-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Tom Lee\u2019s Ethereum",
+      "count": 2,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Tom Lee\u2019s Ethereum portfolio down $7.35B as ETH price outlook worsens",
+          "url": "https://cointelegraph.com/markets/tom-lees-ethereum-portfolio-sitting-on-73b-in-unrealized-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Tom Lee\u2019s Ethereum portfolio down $7.35B as ETH price outlook worsens",
+          "url": "https://cointelegraph.com/markets/tom-lees-ethereum-portfolio-sitting-on-73b-in-unrealized-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
     }
   ],
   "crypto_trending": [
@@ -954,21 +959,15 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
     },
     {
-      "name": "Anoma",
-      "symbol": "XAN",
-      "market_cap_rank": 663,
-      "thumb": "https://coin-images.coingecko.com/coins/images/69380/standard/Anoma_Logo_Roundel_RGB_Colour-01.png?1758356672"
-    },
-    {
-      "name": "Venice Token",
-      "symbol": "VVV",
-      "market_cap_rank": 79,
-      "thumb": "https://coin-images.coingecko.com/coins/images/54023/standard/VVV_Token_Transparent.png?1741856877"
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "market_cap_rank": 35,
+      "thumb": "https://coin-images.coingecko.com/coins/images/10365/standard/near.jpg?1696510367"
     },
     {
       "name": "Railgun",
       "symbol": "RAIL",
-      "market_cap_rank": 178,
+      "market_cap_rank": 177,
       "thumb": "https://coin-images.coingecko.com/coins/images/16840/standard/railgun.jpeg?1696516407"
     },
     {
@@ -978,42 +977,54 @@
       "thumb": "https://coin-images.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
     },
     {
-      "name": "NEAR Protocol",
-      "symbol": "NEAR",
-      "market_cap_rank": 35,
-      "thumb": "https://coin-images.coingecko.com/coins/images/10365/standard/near.jpg?1696510367"
-    },
-    {
-      "name": "Bitcoin",
-      "symbol": "BTC",
-      "market_cap_rank": 1,
-      "thumb": "https://coin-images.coingecko.com/coins/images/1/standard/bitcoin.png?1696501400"
-    },
-    {
-      "name": "Ondo",
-      "symbol": "ONDO",
-      "market_cap_rank": 45,
-      "thumb": "https://coin-images.coingecko.com/coins/images/26580/standard/ONDO.png?1696525656"
-    },
-    {
-      "name": "Zcash",
-      "symbol": "ZEC",
-      "market_cap_rank": 13,
-      "thumb": "https://coin-images.coingecko.com/coins/images/486/standard/circle-zcash-color.png?1696501740"
+      "name": "Anoma",
+      "symbol": "XAN",
+      "market_cap_rank": 654,
+      "thumb": "https://coin-images.coingecko.com/coins/images/69380/standard/Anoma_Logo_Roundel_RGB_Colour-01.png?1758356672"
     },
     {
       "name": "Solana",
       "symbol": "SOL",
       "market_cap_rank": 7,
       "thumb": "https://coin-images.coingecko.com/coins/images/4128/standard/solana.png?1718769756"
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "market_cap_rank": 2,
+      "thumb": "https://coin-images.coingecko.com/coins/images/279/standard/ethereum.png?1696501628"
+    },
+    {
+      "name": "PHALA",
+      "symbol": "PHA",
+      "market_cap_rank": 629,
+      "thumb": "https://coin-images.coingecko.com/coins/images/12451/standard/phala.png?1696512270"
+    },
+    {
+      "name": "Pi Network",
+      "symbol": "PI",
+      "market_cap_rank": 54,
+      "thumb": "https://coin-images.coingecko.com/coins/images/54342/standard/pi_network.jpg?1739347576"
+    },
+    {
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "market_cap_rank": 79,
+      "thumb": "https://coin-images.coingecko.com/coins/images/54023/standard/VVV_Token_Transparent.png?1741856877"
     }
   ],
   "stock_trending": [
     {
       "symbol": "BTC-USD",
       "name": "Bitcoin USD",
-      "price": 77431.49,
-      "change_pct": 0.6
+      "price": 77361.61,
+      "change_pct": 0.51
+    },
+    {
+      "symbol": "SIVE.ST",
+      "name": "Sivers Semiconductors AB (publ)",
+      "price": 87.15,
+      "change_pct": 19.55
     },
     {
       "symbol": "CL=F",
@@ -1022,16 +1033,16 @@
       "change_pct": 0.0
     },
     {
+      "symbol": "ETH-USD",
+      "name": "Ethereum USD",
+      "price": 2114.41,
+      "change_pct": 0.8
+    },
+    {
       "symbol": "^N225",
       "name": "Nikkei 225",
       "price": 65158.19,
       "change_pct": 2.87
-    },
-    {
-      "symbol": "ETH-USD",
-      "name": "Ethereum USD",
-      "price": 2114.46,
-      "change_pct": 0.81
     },
     {
       "symbol": "^IXIC",
@@ -1046,10 +1057,10 @@
       "change_pct": 0.37
     },
     {
-      "symbol": "XRP-USD",
-      "name": "XRP USD",
-      "price": 1.36,
-      "change_pct": 0.7
+      "symbol": "BZ=F",
+      "name": "Brent Crude Oil Last Day Financ",
+      "price": 100.21,
+      "change_pct": 0.0
     },
     {
       "symbol": "285A.T",
@@ -1058,51 +1069,12 @@
       "change_pct": 14.02
     },
     {
-      "symbol": "MNTS",
-      "name": "Momentus Inc.",
-      "price": 7.38,
-      "change_pct": -2.25
-    },
-    {
-      "symbol": "^NSEI",
-      "name": "NIFTY 50",
-      "price": 23958.5,
-      "change_pct": 1.01
+      "symbol": "XRP-USD",
+      "name": "XRP USD",
+      "price": 1.36,
+      "change_pct": 0.57
     }
   ],
-  "fear_greed": {
-    "value": 30,
-    "classification": "Fear",
-    "history": [
-      {
-        "value": 30,
-        "classification": "Fear"
-      },
-      {
-        "value": 25,
-        "classification": "Extreme Fear"
-      },
-      {
-        "value": 28,
-        "classification": "Fear"
-      },
-      {
-        "value": 28,
-        "classification": "Fear"
-      },
-      {
-        "value": 29,
-        "classification": "Fear"
-      },
-      {
-        "value": 27,
-        "classification": "Fear"
-      },
-      {
-        "value": 25,
-        "classification": "Extreme Fear"
-      }
-    ]
-  },
-  "total_articles": 400
+  "fear_greed": null,
+  "total_articles": 399
 }
