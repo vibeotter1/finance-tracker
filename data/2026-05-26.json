@@ -1,0 +1,1137 @@
+{
+  "date": "2026-05-26",
+  "topics": [
+    {
+      "name": "Reuters",
+      "count": 26,
+      "sources": [
+        "Reuters",
+        "The Block",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "Parker-Hannifin to Acquire Circor Aerospace from KKR, Reuters Says",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/parker-hannifin-acquire-circor-aerospace-213439486.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "ECB warns EU finance ministers that easing euro stablecoin rules would weaken banks: Reuters",
+          "url": "https://www.theblock.co/post/402427/ecb-warns-eu-finance-ministers-that-easing-euro-stablecoin-rules-would-weaken-banks-reuters?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "ECB should raise rates in June, even if Iran peace deal is struck, Schnabel says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdTNaYXFnMDhYbnY5WFZGN0RreVZOeEFCdm5QZFBHZDF6dW9BU3N3MjBsekxzSWF0VjlyNzJuOGozWTJuSTJiTDVvb0cxei0yU0VPTmIxUmp1ZTVaY3VlRHpRQ05EaTZEbkx6SW5NWlZXY2YtM2lqME15dldvLUVwdFRsR1Zxb0dseDdpMDhGLS1XWW1RWjlrcll6QmdKczNwMEpETl9jeElFb3hHbGt0a0pacUVPSXh2ekdnWg?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Morning Bid: Peace talks hit turbulence - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRU5JaXhEZG1lLURha0o4akh0Y2ZQVFgzYTdxMTFBbmVRcHVkMFpiOVVReXBtcS1iN1Qzd3pEZWhYYnlWMnl3NTVIT0V1cjY3cXRrNWlsQzFnRG9sQTVKTS1vV0ZpQkZkNktGcFUxSFBXVElyTU1QWjJOdFdCdlctSm1JWWhYTW8?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Rubio says Iran deal could take days as US launches fresh strikes - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY2M1OFpXcm8tVlBZczVzcFhhdF9PQmw4UkdFRVRxS3BydkZPVXNiNXhyVU5fTFZXOE1TY040LXAtTFhzNEhHOU12UTNoSjllTHpzM2JxMmJUazZyVkRqUmFlbUtzd1FhdkNma1lGeHVFdjZfOHNLYW80dlJrbjJ5VmRnMURtejlVRjdOdlAwdGwxbURIdU9RMUZ1YjZVd2Rhdm84QU5xY0lJVDdVTXUzUzZPZjY5V3c?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Iran",
+      "count": 24,
+      "sources": [
+        "Bitcoin World",
+        "CoinDesk",
+        "Crypto Briefing",
+        "Crypto Potato",
+        "MarketWatch",
+        "Reuters",
+        "The Times of India"
+      ],
+      "articles": [
+        {
+          "title": "HYPE briefly overtakes Dogecoin, privacy tokens slide as US strikes on Iran rattle markets",
+          "url": "https://www.coindesk.com/markets/2026/05/26/hype-briefly-overtakes-dogecoin-privacy-tokens-slide-as-us-strikes-on-iran-rattle-markets",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin, crypto prices tick up as US-Iran peace deal odds climb",
+          "url": "https://www.coindesk.com/markets/2026/05/25/bitcoin-crypto-prices-tick-up-as-us-iran-peace-deal-odds-climb",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Oil prices tumble as deal to end Iran war appears close, though Trump says there\u2019s no rush",
+          "url": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Bitcoin steadies around $77,000 after volatile three-week correction; easing US-Iran tensions lift sentiment",
+          "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-steadies-around-77000-after-volatile-three-week-correction-easing-us-iran-tensions-lift-sentiment/articleshow/131303472.cms",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Rubio says US-Iran deal could be signed as early as Monday",
+          "url": "https://cryptobriefing.com/rubio-says-us-iran-deal-could-be-signed-as-early-as-monday/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Bitcoin",
+      "count": 11,
+      "sources": [
+        "Bitcoin World",
+        "CoinDesk",
+        "CoinTelegraph",
+        "CoinTurk News",
+        "Cointelegraph",
+        "Hacker News"
+      ],
+      "articles": [
+        {
+          "title": "Bitcoin, crypto prices tick up as US-Iran peace deal odds climb",
+          "url": "https://www.coindesk.com/markets/2026/05/25/bitcoin-crypto-prices-tick-up-as-us-iran-peace-deal-odds-climb",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Bitcoin volatility falls to 8-month low: Is a BTC breakout imminent?",
+          "url": "https://cointelegraph.com/markets/bitcoin-volatility-falls-to-8-month-low-is-a-btc-breakout-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Satoshi-era Bitcoin miner transfers $203M in BTC to OTC desks",
+          "url": "https://cointelegraph.com/news/satoshi-era-bitcoin-miner-moves-203m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "As Russia invaded Ukraine, Bitcoin plunged \u2013 here's what crypto experts said",
+          "url": "https://markets.businessinsider.com/news/currencies/bitcoin-ethereum-blockchain-ukraine-russia-war-conflict-europe-america-china-2022-2",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Bitcoin is dead, but it was a good try",
+          "url": "https://news.ycombinator.com/item?id=39155402",
+          "source": "Hacker News"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Ondo Finance",
+      "count": 10,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "CoinTurk News",
+        "Coinpaper",
+        "Cointelegraph",
+        "Invezz",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Ondo Finance founder Nathan Allman passes away",
+          "url": "https://www.coindesk.com/markets/2026/05/26/ondo-finance-founder-nathan-allman-passes-away",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ondo Finance founder Nathan Allman dies aged 32",
+          "url": "https://cointelegraph.com/news/ondo-finance-founder-nathan-allman-passes-away-aged-32?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Nathan Allman, founder and CEO of Ondo Finance, dies unexpectedly",
+          "url": "https://www.theblock.co/post/402500/nathan-allman-ondo-finance?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Ondo Finance founder Nathan Allman passes away",
+          "url": "https://www.coindesk.com/markets/2026/05/26/ondo-finance-founder-nathan-allman-passes-away",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ondo Finance founder Nathan Allman dies aged 32",
+          "url": "https://cointelegraph.com/news/ondo-finance-founder-nathan-allman-passes-away-aged-32?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Nathan Allman",
+      "count": 9,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "CoinTurk News",
+        "Cointelegraph",
+        "Invezz",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Ondo Finance founder Nathan Allman passes away",
+          "url": "https://www.coindesk.com/markets/2026/05/26/ondo-finance-founder-nathan-allman-passes-away",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ondo Finance founder Nathan Allman dies aged 32",
+          "url": "https://cointelegraph.com/news/ondo-finance-founder-nathan-allman-passes-away-aged-32?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Nathan Allman, founder and CEO of Ondo Finance, dies unexpectedly",
+          "url": "https://www.theblock.co/post/402500/nathan-allman-ondo-finance?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Ondo Finance founder Nathan Allman passes away",
+          "url": "https://www.coindesk.com/markets/2026/05/26/ondo-finance-founder-nathan-allman-passes-away",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Ondo Finance founder Nathan Allman dies aged 32",
+          "url": "https://cointelegraph.com/news/ondo-finance-founder-nathan-allman-passes-away-aged-32?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "XRP",
+      "count": 8,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "CoinTurk News",
+        "Cointelegraph",
+        "Decrypt"
+      ],
+      "articles": [
+        {
+          "title": "XRP slips below $1.35 after triangle breakdown puts focus on $1.30 support",
+          "url": "https://www.coindesk.com/markets/2026/05/26/xrp-slips-below-usd1-35-after-triangle-breakdown-puts-focus-on-usd1-30-support",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Price predictions 5/25: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ZEC",
+          "url": "https://cointelegraph.com/markets/price-predictions-525-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Now You Can Buy Bitcoin, XRP and More in ChatGPT via MoonPay",
+          "url": "https://decrypt.co/368875/buy-bitcoin-xrp-chatgpt-moonpay",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Now You Can Buy Bitcoin, XRP and More in ChatGPT via MoonPay",
+          "url": "https://decrypt.co/368875/buy-bitcoin-xrp-chatgpt-moonpay",
+          "source": "Decrypt"
+        },
+        {
+          "title": "XRP slips below $1.35 after triangle breakdown puts focus on $1.30 support",
+          "url": "https://www.coindesk.com/markets/2026/05/26/xrp-slips-below-usd1-35-after-triangle-breakdown-puts-focus-on-usd1-30-support",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "China",
+      "count": 8,
+      "sources": [
+        "CNBC",
+        "Hacker News",
+        "Reuters",
+        "The Wall Street Journal"
+      ],
+      "articles": [
+        {
+          "title": "China tech plays to ride out macro volatility",
+          "url": "https://www.cnbc.com/2026/05/24/china-tech-plays-to-ride-out-macro-volatility.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
+          "url": "https://www.cnbc.com/2026/05/23/three-signs-from-apec-that-the-us-china-remain-far-apart-on-trade.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
+          "url": "https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "China calls for APEC cooperation as commerce minister skips opening over \u2018urgent official business\u2019",
+          "url": "https://www.cnbc.com/2026/05/22/china-apec-trade-meeting-li-chenggang-cooperation-us-china-deals.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Ethereum is top public blockchain, Bitcoin No. 13 in China's new index",
+          "url": "https://www.reuters.com/article/us-crypto-currency-index/ethereum-is-top-public-blockchain-bitcoin-no-13-in-chinas-new-index-idUSKCN1II2R9?il=0",
+          "source": "Hacker News"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "ETH",
+      "count": 7,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Buterin says Ethereum Foundation will shrink, sell less ETH, and focus on 'CROPS'",
+          "url": "https://www.coindesk.com/web3/2026/05/25/buterin-says-ethereum-foundation-will-shrink-sell-less-eth-and-focus-on-crops",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Price predictions 5/25: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ZEC",
+          "url": "https://cointelegraph.com/markets/price-predictions-525-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Ethereum whale opens $100M short as Vitalik Buterin vows to 'sell less ETH'",
+          "url": "https://cointelegraph.com/markets/ethereum-whale-opens-100m-short-as-vitalik-buterin-vows-to-sell-less-eth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Vitalik Buterin says Ethereum Foundation will be a \u2018smaller ship,\u2019 sell less ETH amid researcher exodus",
+          "url": "https://www.theblock.co/post/402435/vitalik-buterin-says-ethereum-foundation-will-be-a-smaller-ship-sell-less-eth-amid-researcher-exodus?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Price predictions 5/25: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ZEC",
+          "url": "https://cointelegraph.com/markets/price-predictions-525-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Fed",
+      "count": 6,
+      "sources": [
+        "CNBC",
+        "CoinDesk",
+        "TheStreet",
+        "Yahoo Entertainment"
+      ],
+      "articles": [
+        {
+          "title": "PCE, jobless claims and housing data test Fed cut hopes: Crypto Week Ahead",
+          "url": "https://www.coindesk.com/markets/2026/05/25/pce-jobless-claims-and-housing-data-test-fed-cut-hopes-crypto-week-ahead",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Crypto and the Fed: State of Crypto",
+          "url": "https://www.coindesk.com/policy/2026/05/24/crypto-and-the-fed-state-of-crypto",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kevin Warsh's real Fed 'regime change' may happen deep inside Wall Street's plumbing",
+          "url": "https://www.cnbc.com/2026/05/22/kevin-warshs-real-fed-regime-change-may-happen-deep-inside-wall-streets-plumbing.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Investors drop bold Fed rate-cut signal to Warsh - Yahoo Finance",
+          "url": "https://www.thestreet.com/fed/investors-drop-bold-fed-rate-cut-signal-to-new-fed-chair-kevin-warsh",
+          "source": "TheStreet"
+        },
+        {
+          "title": "More War-Driven Inflation Seen in Fed\u2019s Favored Gauge - Yahoo Finance",
+          "url": "https://finance.yahoo.com/economy/policy/articles/more-war-driven-inflation-seen-115519421.html",
+          "source": "Yahoo Entertainment"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Trump",
+      "count": 6,
+      "sources": [
+        "Crypto Briefing",
+        "Fortune",
+        "Investor's Business Daily",
+        "MarketWatch",
+        "Reuters",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Oil prices tumble as deal to end Iran war appears close, though Trump says there\u2019s no rush",
+          "url": "https://www.marketwatch.com/story/trump-says-theres-no-rush-as-deal-to-end-iran-war-reopen-strait-of-hormuz-appears-close-c60056c0?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "NYT investigation alleges CFTC purged staff who questioned Trump-tied crypto firms",
+          "url": "https://www.theblock.co/post/402442/nyt-investigation-alleges-cftc-purged-staff-who-questioned-trump-tied-crypto-firms?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Dow Jones Futures: Trump Says No 'Rush' For Iran Deal, Ignore 'Losers'; Tesla, AI Stocks Near Buy Points - Investor's Business Daily",
+          "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-iran-deal-hormuz-tesla-stocks/",
+          "source": "Investor's Business Daily"
+        },
+        {
+          "title": "Trump\u2019s 3,711 trades point to multiple stock-market strategies - Fortune",
+          "url": "https://fortune.com/2026/05/23/trump-stock-portfolio-trading-market-strategies-indexing-tax-loss-harvesting/",
+          "source": "Fortune"
+        },
+        {
+          "title": "Trump admin declares \u2018no dust, no dollars\u2019 as condition for Iran nuclear deal",
+          "url": "https://cryptobriefing.com/trump-admin-declares-no-dust-no-dollars-as-condition-for-iran-nuclear-deal/",
+          "source": "Crypto Briefing"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "HYPE",
+      "count": 5,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "HYPE briefly overtakes Dogecoin, privacy tokens slide as US strikes on Iran rattle markets",
+          "url": "https://www.coindesk.com/markets/2026/05/26/hype-briefly-overtakes-dogecoin-privacy-tokens-slide-as-us-strikes-on-iran-rattle-markets",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Price predictions 5/25: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ZEC",
+          "url": "https://cointelegraph.com/markets/price-predictions-525-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "HYPE briefly overtakes Dogecoin, privacy tokens slide as US strikes on Iran rattle markets",
+          "url": "https://www.coindesk.com/markets/2026/05/26/hype-briefly-overtakes-dogecoin-privacy-tokens-slide-as-us-strikes-on-iran-rattle-markets",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Price predictions 5/25: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ZEC",
+          "url": "https://cointelegraph.com/markets/price-predictions-525-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-zec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "HYPE briefly overtakes Dogecoin, privacy tokens slide as US strikes on Iran rattle markets",
+          "url": "https://www.coindesk.com/markets/2026/05/26/hype-briefly-overtakes-dogecoin-privacy-tokens-slide-as-us-strikes-on-iran-rattle-markets",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Ethereum Foundation",
+      "count": 5,
+      "sources": [
+        "CoinDesk",
+        "Cointelegraph",
+        "Decrypt",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Buterin says Ethereum Foundation will shrink, sell less ETH, and focus on 'CROPS'",
+          "url": "https://www.coindesk.com/web3/2026/05/25/buterin-says-ethereum-foundation-will-shrink-sell-less-eth-and-focus-on-crops",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Vitalik Buterin says Ethereum Foundation will be a \u2018smaller ship,\u2019 sell less ETH amid researcher exodus",
+          "url": "https://www.theblock.co/post/402435/vitalik-buterin-says-ethereum-foundation-will-be-a-smaller-ship-sell-less-eth-amid-researcher-exodus?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Vitalik Buterin Signals Shift to 'Smaller Ship' at Ethereum Foundation Amid Departures",
+          "url": "https://decrypt.co/368934/vitalik-buterin-smaller-ship-ethereum-foundation-departures",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Buterin fires back at Ethereum Foundation critics, recommits to neutrality",
+          "url": "https://cointelegraph.com/news/buterin-fires-back-ef-critics-neutrality",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Buterin says Ethereum Foundation will shrink, sell less ETH, and focus on 'CROPS'",
+          "url": "https://www.coindesk.com/web3/2026/05/25/buterin-says-ethereum-foundation-will-shrink-sell-less-eth-and-focus-on-crops",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "U.S.",
+      "count": 5,
+      "sources": [
+        "CNBC",
+        "Investing.com"
+      ],
+      "articles": [
+        {
+          "title": "\u00d8rsted Q1 profit plummets 46% to on U.S. Impairments",
+          "url": "https://www.investing.com/news/earnings/rsted-q1-profit-plummets-46-to-on-us-impairments-4708748",
+          "source": "Investing.com"
+        },
+        {
+          "title": "Three signs from APEC that the U.S. and China remain far apart on trade",
+          "url": "https://www.cnbc.com/2026/05/23/three-signs-from-apec-that-the-us-china-remain-far-apart-on-trade.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Which company will the U.S. government take a stake in next? Here\u2019s what traders think",
+          "url": "https://www.cnbc.com/2026/05/22/which-company-will-the-us-government-take-a-stake-in-next.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "U.S. pushes its AI in China and Asia after Trump-Xi meeting",
+          "url": "https://www.cnbc.com/2026/05/22/us-china-ai-apec-asia.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Miner Perpetua Resources secures $2.9 billion U.S. loan for Idaho gold, antimony project",
+          "url": "https://www.cnbc.com/2026/05/21/miner-perpetua-resources-secures-2point9-billion-us-loan-for-idaho-gold-antimony-project.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Dogecoin",
+      "count": 4,
+      "sources": [
+        "CoinDesk",
+        "newsBTC"
+      ],
+      "articles": [
+        {
+          "title": "HYPE briefly overtakes Dogecoin, privacy tokens slide as US strikes on Iran rattle markets",
+          "url": "https://www.coindesk.com/markets/2026/05/26/hype-briefly-overtakes-dogecoin-privacy-tokens-slide-as-us-strikes-on-iran-rattle-markets",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Dogecoin (DOGE) Bounce Under Threat As Resistance Caps Further Gains",
+          "url": "http://www.newsbtc.com/analysis/doge/dogecoin-doge-bounce-under-threat-0-1050/",
+          "source": "newsBTC"
+        },
+        {
+          "title": "HYPE briefly overtakes Dogecoin, privacy tokens slide as US strikes on Iran rattle markets",
+          "url": "https://www.coindesk.com/markets/2026/05/26/hype-briefly-overtakes-dogecoin-privacy-tokens-slide-as-us-strikes-on-iran-rattle-markets",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "HYPE briefly overtakes Dogecoin, privacy tokens slide as US strikes on Iran rattle markets",
+          "url": "https://www.coindesk.com/markets/2026/05/26/hype-briefly-overtakes-dogecoin-privacy-tokens-slide-as-us-strikes-on-iran-rattle-markets",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Indonesia",
+      "count": 4,
+      "sources": [
+        "Bloomberg",
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Indonesia blocks Polymarket, calling prediction market online gambling in disguise",
+          "url": "https://www.coindesk.com/policy/2026/05/25/indonesia-blocks-polymarket-calling-prediction-market-online-gambling-in-disguise",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Indonesia blocks Polymarket amid crackdown on online betting",
+          "url": "https://www.theblock.co/post/402481/indonesia-blocks-polymarket?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Indonesia to Lay Out Commodity Export Policy Soon, Official Says - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-24/indonesia-eyes-commodity-export-policy-detail-rollout-in-coming-weeks",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "Indonesia blocks Polymarket, calling prediction market online gambling in disguise",
+          "url": "https://www.coindesk.com/policy/2026/05/25/indonesia-blocks-polymarket-calling-prediction-market-online-gambling-in-disguise",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "SEC",
+      "count": 4,
+      "sources": [
+        "Cointelegraph",
+        "Decrypt",
+        "The Block",
+        "pymnts.com"
+      ],
+      "articles": [
+        {
+          "title": "SEC delays tokenized asset exemption amid concerns over third-party tokens: Bloomberg Law",
+          "url": "https://www.theblock.co/post/402409/sec-delays-tokenized-asset-exemption-third-party-tokens-bloomberg-law?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "SEC Delays Tokenized Stocks Innovation Exemption Amid Concerns: Bloomberg",
+          "url": "https://decrypt.co/368855/sec-delays-tokenized-stocks-innovation-exemption-amid-concerns-bloomberg",
+          "source": "Decrypt"
+        },
+        {
+          "title": "SEC postpones plan allowing 'innovation exemption' for tokenized stocks: Report",
+          "url": "https://cointelegraph.com/news/sec-postpones-plan-allowing-innovation-exemption-for-tokenized-stocks-report",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "SEC Puts Tokenized Asset-Linked Stocks Plan On Hold",
+          "url": "https://www.pymnts.com/blockchain/2026/sec-puts-tokenized-asset-linked-stocks-plan-on-hold/",
+          "source": "pymnts.com"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Hormuz",
+      "count": 4,
+      "sources": [
+        "CNBC",
+        "Reuters",
+        "The Times of India"
+      ],
+      "articles": [
+        {
+          "title": "Japan\u2019s Nikkei 225 tops 65,000 for first time as oil falls on Hormuz reopening hopes - CNBC",
+          "url": "https://www.cnbc.com/2026/05/25/asia-markets-today-live-updates-asx-nikkei-sensei-iran-us-trump-oil-hormuz.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Dollar slumps as signs of deal to reopen Hormuz spur risk appetite",
+          "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-slumps-as-signs-of-deal-to-reopen-hormuz-spur-risk-appetite/articleshow/131299329.cms",
+          "source": "The Times of India"
+        },
+        {
+          "title": "Rubio says Strait of Hormuz has to be open 'one way or the other' - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdHEyNmZERG9yTnhBNllKZmdhdnQ0UXRUZndrX3hGSUpaSXBvY3hBTTlfa0Q4NXVBQVZleUctamlXbmM1c2dheUJRMkdKTVhwWXBiMmM1YmJIOWdNanZUc2p2UUcxR281ckV1TVRwaTB2VWk5WkN6LVZQc0xYNFRJazBONzdLOVlxMmRCLVNhV19IY3VOYWRmaV9heEo0ZllkbGFOMWRtQ0twV3M?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "India turns to Latin American, African oil after Hormuz disruption - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYlZ2cU1UN0pBUXEwZzdyaG5wTDFiVXdJRUJ4UDBOVHJRRU01b1pCTXV6cHoxM1FUbXgzc0VvRHpMLW9WMjkwY2w2UTAyQllONkVxeEZPWkxyeGVMUHZsaUhrVkRJX1NCaE9jd1pJUW9PRjBNM1lNbXhILUd4N1B3dy1YYWZ5SmpNa2VPXzNhRzlySjNQX1dFanB1NGoyZnVrc0JqRENfNWdoX2FEYndlUVY3NkU?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Polymarket",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Indonesia blocks Polymarket, calling prediction market online gambling in disguise",
+          "url": "https://www.coindesk.com/policy/2026/05/25/indonesia-blocks-polymarket-calling-prediction-market-online-gambling-in-disguise",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Kalshi, Polymarket lose bids to halt Nevada and Washington gambling cases",
+          "url": "https://www.theblock.co/post/402397/kalshi-polymarket-lose-bids-to-halt-nevada-and-washington-gambling-cases?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Indonesia blocks Polymarket, calling prediction market online gambling in disguise",
+          "url": "https://www.coindesk.com/policy/2026/05/25/indonesia-blocks-polymarket-calling-prediction-market-online-gambling-in-disguise",
+          "source": "CoinDesk"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Coinbase",
+      "count": 3,
+      "sources": [
+        "CoinDesk",
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Coinbase does not fear competition from Wall Street, says exchange executive",
+          "url": "https://www.coindesk.com/business/2026/05/24/coinbase-does-not-fear-competition-from-wall-street-says-exchange-executive",
+          "source": "CoinDesk"
+        },
+        {
+          "title": "Coinbase CEO\u2019s finance wishlist mirrors company\u2019s product roadmap",
+          "url": "https://cointelegraph.com/news/coinbase-ceo-finance-wishlist-mirrors-companys-product-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Coinbase CEO\u2019s finance wishlist mirrors company\u2019s product roadmap",
+          "url": "https://cointelegraph.com/news/coinbase-ceo-finance-wishlist-mirrors-companys-product-roadmap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Bitmine",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Bitmine\u2019s Tom Lee hints at stock tailwinds after firm considered for Russell 3000",
+          "url": "https://cointelegraph.com/news/bitmine-russell-1000-inclusion-tom-lee-etf-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Bitmine\u2019s Tom Lee hints at stock tailwinds after firm considered for Russell 3000",
+          "url": "https://cointelegraph.com/news/bitmine-russell-1000-inclusion-tom-lee-etf-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitmine\u2019s Tom Lee hints at stock tailwinds after firm considered for Russell 3000",
+          "url": "https://cointelegraph.com/news/bitmine-russell-1000-inclusion-tom-lee-etf-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Tom Lee",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Bitmine\u2019s Tom Lee hints at stock tailwinds after firm considered for Russell 3000",
+          "url": "https://cointelegraph.com/news/bitmine-russell-1000-inclusion-tom-lee-etf-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Bitmine\u2019s Tom Lee hints at stock tailwinds after firm considered for Russell 3000",
+          "url": "https://cointelegraph.com/news/bitmine-russell-1000-inclusion-tom-lee-etf-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitmine\u2019s Tom Lee hints at stock tailwinds after firm considered for Russell 3000",
+          "url": "https://cointelegraph.com/news/bitmine-russell-1000-inclusion-tom-lee-etf-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Russell",
+      "count": 3,
+      "sources": [
+        "CoinTelegraph",
+        "Cointelegraph"
+      ],
+      "articles": [
+        {
+          "title": "Bitmine\u2019s Tom Lee hints at stock tailwinds after firm considered for Russell 3000",
+          "url": "https://cointelegraph.com/news/bitmine-russell-1000-inclusion-tom-lee-etf-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "CoinTelegraph"
+        },
+        {
+          "title": "Bitmine\u2019s Tom Lee hints at stock tailwinds after firm considered for Russell 3000",
+          "url": "https://cointelegraph.com/news/bitmine-russell-1000-inclusion-tom-lee-etf-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        },
+        {
+          "title": "Bitmine\u2019s Tom Lee hints at stock tailwinds after firm considered for Russell 3000",
+          "url": "https://cointelegraph.com/news/bitmine-russell-1000-inclusion-tom-lee-etf-demand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "source": "Cointelegraph"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "IPO",
+      "count": 3,
+      "sources": [
+        "CNBC",
+        "MarketWatch"
+      ],
+      "articles": [
+        {
+          "title": "Mastercard\u2019s stock is up 11,000% since its IPO 20 years ago. What comes next?",
+          "url": "https://www.marketwatch.com/story/mastercards-stock-is-up-11-000-since-its-ipo-20-years-ago-what-comes-next-deb949eb?mod=mw_rss_topstories",
+          "source": "MarketWatch"
+        },
+        {
+          "title": "Retail investors get direct access to SpaceX IPO through major brokerage platforms",
+          "url": "https://www.cnbc.com/2026/05/21/retail-investors-get-direct-access-to-spacex-ipo-through-major-brokerage-platforms.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "OpenAI takes the lead in AI IPO horse race: 'Getting to public markets first is very important'",
+          "url": "https://www.cnbc.com/2026/05/20/openai-takes-the-lead-in-ai-ipo-horse-race-getting-to-public-markets-first-is-very-important.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "CNBC",
+      "count": 3,
+      "sources": [
+        "CNBC",
+        "Yahoo Finance"
+      ],
+      "articles": [
+        {
+          "title": "CNBC Reports Strong Phase 3 Results for Eli Lilly\u2019s Retatrutide",
+          "url": "https://finance.yahoo.com/sectors/healthcare/articles/cnbc-reports-strong-phase-3-213656678.html",
+          "source": "Yahoo Finance"
+        },
+        {
+          "title": "Japan\u2019s Nikkei 225 tops 65,000 for first time as oil falls on Hormuz reopening hopes - CNBC",
+          "url": "https://www.cnbc.com/2026/05/25/asia-markets-today-live-updates-asx-nikkei-sensei-iran-us-trump-oil-hormuz.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Move over, seltzer. Non-carbonated drinks are taking the spotlight - CNBC",
+          "url": "https://www.cnbc.com/2026/05/24/move-over-seltzer-non-carbonated-drinks-are-taking-the-spotlight.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Nvidia",
+      "count": 3,
+      "sources": [
+        "Bloomberg",
+        "CNBC"
+      ],
+      "articles": [
+        {
+          "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up",
+          "url": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Nvidia CEO Urges Super Micro to Tighten Up Amid Taiwan Crackdown - Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-23/nvidia-ceo-urges-super-micro-to-tighten-up-amid-taiwan-crackdown",
+          "source": "Bloomberg"
+        },
+        {
+          "title": "It's time for Nvidia to take a page out of Apple's playbook and do more for investors",
+          "url": "https://www.cnbc.com/2026/05/25/jim-cramer-how-nvidia-can-take-a-page-out-of-apple-playbook.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Apple",
+      "count": 3,
+      "sources": [
+        "CNBC",
+        "Yahoo Entertainment"
+      ],
+      "articles": [
+        {
+          "title": "Huawei plans new smartphone chips this fall as rivalry with Nvidia and Apple heats up",
+          "url": "https://www.cnbc.com/2026/05/25/huawei-chip-logicfolding-semiconductor-nvidia-china.html",
+          "source": "CNBC"
+        },
+        {
+          "title": "Memorial Day sales are live: Shop the best deals from Apple, Kate Spade, Adidas, Patagonia and more up to 75% off - Yahoo",
+          "url": "https://shopping.yahoo.com/deals/breaking-news/live/memorial-day-sales-are-live-shop-the-best-deals-from-apple-kate-spade-adidas-patagonia-and-more-up-to-75-off-165432938.html",
+          "source": "Yahoo Entertainment"
+        },
+        {
+          "title": "It's time for Nvidia to take a page out of Apple's playbook and do more for investors",
+          "url": "https://www.cnbc.com/2026/05/25/jim-cramer-how-nvidia-can-take-a-page-out-of-apple-playbook.html",
+          "source": "CNBC"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Solana",
+      "count": 3,
+      "sources": [
+        "Hacker News",
+        "NewsBTC",
+        "The Block"
+      ],
+      "articles": [
+        {
+          "title": "Researchers flag TrapDoor malware campaign targeting crypto developer environments including Aptos, Sui and Solana",
+          "url": "https://www.theblock.co/post/402458/researchers-flag-trapdoor-malware-campaign-targeting-crypto-developer-environments-including-aptos-sui-and-solana?utm_source=rss&utm_medium=rss",
+          "source": "The Block"
+        },
+        {
+          "title": "Solana Developers Release Software Update to Alleviate Network Congestion",
+          "url": "https://news.ycombinator.com/item?id=40068258",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Solana (SOL) Trims Recent Gains, Market Sentiment Turns Fragile Again",
+          "url": "https://www.newsbtc.com/analysis/solana-sol-trims-recent-gains-85/",
+          "source": "NewsBTC"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "Google",
+      "count": 3,
+      "sources": [
+        "Business Insider",
+        "Decrypt",
+        "Theregister.com"
+      ],
+      "articles": [
+        {
+          "title": "Microsoft's Free AI Just Beat OpenAI and Google at Browsing the Web",
+          "url": "https://decrypt.co/368807/microsoft-fara15-open-source-ai-beats-openai-gemini",
+          "source": "Decrypt"
+        },
+        {
+          "title": "Google CEO Sundar Pichai says booing graduates will shape AI's future \u2014 and live with its consequences - Business Insider",
+          "url": "https://www.businessinsider.com/sundar-pichai-google-graduation-speech-stanford-ai-backlash-eric-schmidt",
+          "source": "Business Insider"
+        },
+        {
+          "title": "Google has seriously leaned into AI enshittification lately",
+          "url": "https://www.theregister.com/ai-ml/2026/05/25/google-has-seriously-leaned-into-ai-enshittification-lately/5245365",
+          "source": "Theregister.com"
+        }
+      ],
+      "is_new": true
+    },
+    {
+      "name": "Russia",
+      "count": 3,
+      "sources": [
+        "Hacker News",
+        "Reuters"
+      ],
+      "articles": [
+        {
+          "title": "As Russia invaded Ukraine, Bitcoin plunged \u2013 here's what crypto experts said",
+          "url": "https://markets.businessinsider.com/news/currencies/bitcoin-ethereum-blockchain-ukraine-russia-war-conflict-europe-america-china-2022-2",
+          "source": "Hacker News"
+        },
+        {
+          "title": "Russia's Putin provides debt relief to new Ukraine war recruits and their families - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeDdlcFJaRmRFU1ptOW4wNXZvTUdJYnFYR21fZjNROGthMDZRMDEwZFZ1SzJpb04zLUpManR1NFNkanZxcEtuRllwZnhJSXhYRTZtQmo1Yl9GUmlQTzVWa2pRSW9qWTMzVlk1ak1Pem1tUW1qaU9qVGRXdXJBeWZ4SXZXUmN6SVN4N0hheGJCaVhzd3h1QllGUnZmcjdZSGJlMHZMQnpVSjZ3Mk53SDlpbUktSWhnMXc?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Sri Lanka in talks to buy fuel from China and Russia, minister says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOczNRbFI2bmRScXpPZ2hpbm1JQkNJVkxOVC04djFESVFHR3hkZ0tWWl9ldE41TUhzM2pZdHd1Y2J3aFZzbENfUVkyaXJCYm5kdXBZZUtSZEdjc1NOMVRsSTNGTV9pTzhFTllTa0hkb3NVMXBtbU9QdnBQckZSYVo4SVgyeVNSTG9kbUFpeTlnQ2FQY1VLZUMyNG5uSUNPVmxPMHBaaVZB?oc=5",
+          "source": "Reuters"
+        }
+      ],
+      "is_new": false
+    },
+    {
+      "name": "India",
+      "count": 3,
+      "sources": [
+        "Bitcoin World",
+        "Reuters",
+        "The Times of India"
+      ],
+      "articles": [
+        {
+          "title": "Choosing a crypto exchange in India? Read this first",
+          "url": "https://economictimes.indiatimes.com/wealth/invest/choosing-a-crypto-exchange-in-india-read-this-first/articleshow/131303291.cms",
+          "source": "The Times of India"
+        },
+        {
+          "title": "India turns to Latin American, African oil after Hormuz disruption - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYlZ2cU1UN0pBUXEwZzdyaG5wTDFiVXdJRUJ4UDBOVHJRRU01b1pCTXV6cHoxM1FUbXgzc0VvRHpMLW9WMjkwY2w2UTAyQllONkVxeEZPWkxyeGVMUHZsaUhrVkRJX1NCaE9jd1pJUW9PRjBNM1lNbXhILUd4N1B3dy1YYWZ5SmpNa2VPXzNhRzlySjNQX1dFanB1NGoyZnVrc0JqRENfNWdoX2FEYndlUVY3NkU?oc=5",
+          "source": "Reuters"
+        },
+        {
+          "title": "Gold Price in India Today: Rates Dip, Market Watches Global Cues",
+          "url": "https://bitcoinworld.co.in/gold-price-india-today-falls-bitcoin-world-data/",
+          "source": "Bitcoin World"
+        }
+      ],
+      "is_new": true
+    }
+  ],
+  "crypto_trending": [
+    {
+      "name": "Bonk",
+      "symbol": "BONK",
+      "market_cap_rank": 102,
+      "thumb": "https://coin-images.coingecko.com/coins/images/28600/standard/bonk.jpg?1696527587"
+    },
+    {
+      "name": "NEAR Protocol",
+      "symbol": "NEAR",
+      "market_cap_rank": 33,
+      "thumb": "https://coin-images.coingecko.com/coins/images/10365/standard/near.jpg?1696510367"
+    },
+    {
+      "name": "Ondo",
+      "symbol": "ONDO",
+      "market_cap_rank": 46,
+      "thumb": "https://coin-images.coingecko.com/coins/images/26580/standard/ONDO.png?1696525656"
+    },
+    {
+      "name": "Marlin",
+      "symbol": "POND",
+      "market_cap_rank": 849,
+      "thumb": "https://coin-images.coingecko.com/coins/images/8903/standard/200x200.png?1706115827"
+    },
+    {
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "market_cap_rank": 493,
+      "thumb": "https://coin-images.coingecko.com/coins/images/68728/standard/cards-logo.jpeg?1756534539"
+    },
+    {
+      "name": "Hyperliquid",
+      "symbol": "HYPE",
+      "market_cap_rank": 11,
+      "thumb": "https://coin-images.coingecko.com/coins/images/50882/standard/hyperliquid.jpg?1729431300"
+    },
+    {
+      "name": "Worldcoin",
+      "symbol": "WLD",
+      "market_cap_rank": 64,
+      "thumb": "https://coin-images.coingecko.com/coins/images/31069/standard/worldcoin.jpeg?1696529903"
+    },
+    {
+      "name": "Solstice",
+      "symbol": "SLX",
+      "market_cap_rank": 561,
+      "thumb": "https://coin-images.coingecko.com/coins/images/71128/standard/slx.png?1779455873"
+    },
+    {
+      "name": "OKB",
+      "symbol": "OKB",
+      "market_cap_rank": 47,
+      "thumb": "https://coin-images.coingecko.com/coins/images/4463/standard/WeChat_Image_20220118095654.png?1696505053"
+    },
+    {
+      "name": "Venice Token",
+      "symbol": "VVV",
+      "market_cap_rank": 80,
+      "thumb": "https://coin-images.coingecko.com/coins/images/54023/standard/VVV_Token_Transparent.png?1741856877"
+    }
+  ],
+  "stock_trending": [
+    {
+      "symbol": "MU",
+      "name": "Micron Technology, Inc.",
+      "price": 751.0,
+      "change_pct": -1.46
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices, Inc.",
+      "price": 467.51,
+      "change_pct": 3.99
+    },
+    {
+      "symbol": "ASTS",
+      "name": "AST SpaceMobile, Inc.",
+      "price": 105.86,
+      "change_pct": 10.01
+    },
+    {
+      "symbol": "RKLB",
+      "name": "Rocket Lab Corporation",
+      "price": 135.76,
+      "change_pct": 8.22
+    },
+    {
+      "symbol": "SOXL",
+      "name": "Direxion Daily Semiconductor Bull 3X Shares",
+      "price": 190.56,
+      "change_pct": 6.82
+    },
+    {
+      "symbol": "NQ=F",
+      "name": "Nasdaq 100 Jun 26",
+      "price": 29815.75,
+      "change_pct": 0.87
+    },
+    {
+      "symbol": "MRVL",
+      "name": "Marvell Technology, Inc.",
+      "price": 196.33,
+      "change_pct": 2.96
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 215.33,
+      "change_pct": -1.9
+    },
+    {
+      "symbol": "YM=F",
+      "name": "Mini Dow Jones Indus.-$5 Jun 26",
+      "price": 50975.0,
+      "change_pct": 0.62
+    },
+    {
+      "symbol": "NVTS",
+      "name": "Navitas Semiconductor Corporation",
+      "price": 29.25,
+      "change_pct": 19.98
+    }
+  ],
+  "fear_greed": {
+    "value": 34,
+    "classification": "Fear",
+    "history": [
+      {
+        "value": 34,
+        "classification": "Fear"
+      },
+      {
+        "value": 30,
+        "classification": "Fear"
+      },
+      {
+        "value": 25,
+        "classification": "Extreme Fear"
+      },
+      {
+        "value": 28,
+        "classification": "Fear"
+      },
+      {
+        "value": 28,
+        "classification": "Fear"
+      },
+      {
+        "value": 29,
+        "classification": "Fear"
+      },
+      {
+        "value": 27,
+        "classification": "Fear"
+      }
+    ]
+  },
+  "total_articles": 398
+}
